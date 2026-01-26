@@ -1,34 +1,10 @@
 {
     "title": "MODULE 2: SỬ DỤNG MÁY TÍNH CƠ BẢN",
     "chapter": 2,
-    "total_questions": 40,
+    "total_questions": 20,
     "questions": [
         {
             "id": 1,
-            "question": "Hệ điều hành Windows được phát triển bởi công ty nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Apple"
-                },
-                {
-                    "id": "B",
-                    "content": "Microsoft"
-                },
-                {
-                    "id": "C",
-                    "content": "Google"
-                },
-                {
-                    "id": "D",
-                    "content": "IBM"
-                }
-            ],
-            "answer": "B",
-            "explain": "Hệ điều hành Windows được phát triển bởi Microsoft, phiên bản đầu tiên Windows 1.0 ra mắt năm 1985."
-        },
-        {
-            "id": 21,
             "question": "Hệ điều hành Windows được phát triển bởi công ty nào?",
             "options": [
                 {
@@ -76,55 +52,7 @@
             "explain": "Windows + D: Thu nhỏ tất cả cửa sổ và hiển thị Desktop. Nhấn lại lần nữa để khôi phục các cửa sổ."
         },
         {
-            "id": 22,
-            "question": "Phím tắt Windows + D có chức năng gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Thu nhỏ tất cả cửa sổ và hiển thị Desktop"
-                },
-                {
-                    "id": "B",
-                    "content": "Mở File Explorer"
-                },
-                {
-                    "id": "C",
-                    "content": "Mở Task Manager"
-                },
-                {
-                    "id": "D",
-                    "content": "Đóng tất cả cửa sổ"
-                }
-            ],
-            "answer": "A",
-            "explain": "Windows + D: Thu nhỏ tất cả cửa sổ và hiển thị Desktop. Nhấn lại lần nữa để khôi phục các cửa sổ."
-        },
-        {
             "id": 3,
-            "question": "Phím tắt Windows + E có chức năng gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Mở File Explorer"
-                },
-                {
-                    "id": "B",
-                    "content": "Mở Task Manager"
-                },
-                {
-                    "id": "C",
-                    "content": "Mở Settings"
-                },
-                {
-                    "id": "D",
-                    "content": "Mở Control Panel"
-                }
-            ],
-            "answer": "A",
-            "explain": "Windows + E: Mở File Explorer (Windows Explorer) để quản lý file và thư mục."
-        },
-        {
-            "id": 23,
             "question": "Phím tắt Windows + E có chức năng gì?",
             "options": [
                 {
@@ -172,55 +100,7 @@
             "explain": "Ctrl + Shift + Esc: Mở Task Manager trực tiếp, không cần qua màn hình Ctrl+Alt+Del."
         },
         {
-            "id": 24,
-            "question": "Phím tắt Ctrl + Shift + Esc có chức năng gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Mở Task Manager"
-                },
-                {
-                    "id": "B",
-                    "content": "Mở File Explorer"
-                },
-                {
-                    "id": "C",
-                    "content": "Đóng ứng dụng"
-                },
-                {
-                    "id": "D",
-                    "content": "Khởi động lại máy tính"
-                }
-            ],
-            "answer": "A",
-            "explain": "Ctrl + Shift + Esc: Mở Task Manager trực tiếp, không cần qua màn hình Ctrl+Alt+Del."
-        },
-        {
             "id": 5,
-            "question": "Trong Windows, thư mục nào chứa các file hệ thống quan trọng?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "C:\\Windows"
-                },
-                {
-                    "id": "B",
-                    "content": "C:\\Users"
-                },
-                {
-                    "id": "C",
-                    "content": "C:\\Program Files"
-                },
-                {
-                    "id": "D",
-                    "content": "C:\\Documents"
-                }
-            ],
-            "answer": "A",
-            "explain": "C:\\Windows là thư mục chứa các file hệ thống quan trọng của Windows. Không nên xóa hoặc sửa đổi các file trong thư mục này."
-        },
-        {
-            "id": 25,
             "question": "Trong Windows, thư mục nào chứa các file hệ thống quan trọng?",
             "options": [
                 {
@@ -268,55 +148,7 @@
             "explain": "File .txt là file văn bản thuần túy, có thể mở bằng Notepad hoặc bất kỳ trình soạn thảo văn bản nào."
         },
         {
-            "id": 26,
-            "question": "File có phần mở rộng .txt là loại file gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "File văn bản thuần túy (text file)"
-                },
-                {
-                    "id": "B",
-                    "content": "File hình ảnh"
-                },
-                {
-                    "id": "C",
-                    "content": "File âm thanh"
-                },
-                {
-                    "id": "D",
-                    "content": "File video"
-                }
-            ],
-            "answer": "A",
-            "explain": "File .txt là file văn bản thuần túy, có thể mở bằng Notepad hoặc bất kỳ trình soạn thảo văn bản nào."
-        },
-        {
             "id": 7,
-            "question": "Để đổi tên file hoặc thư mục trong Windows, ta làm thế nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Click chuột phải → Rename, hoặc chọn file và nhấn F2"
-                },
-                {
-                    "id": "B",
-                    "content": "Nhấn Delete"
-                },
-                {
-                    "id": "C",
-                    "content": "Nhấn Ctrl + X"
-                },
-                {
-                    "id": "D",
-                    "content": "Nhấn Ctrl + C"
-                }
-            ],
-            "answer": "A",
-            "explain": "Để đổi tên file/thư mục: Click chuột phải → Rename, hoặc chọn file và nhấn phím F2."
-        },
-        {
-            "id": 27,
             "question": "Để đổi tên file hoặc thư mục trong Windows, ta làm thế nào?",
             "options": [
                 {
@@ -364,55 +196,7 @@
             "explain": "Ctrl + C: Sao chép (Copy) đối tượng đã chọn vào clipboard."
         },
         {
-            "id": 28,
-            "question": "Phím tắt Ctrl + C có chức năng gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Sao chép (Copy)"
-                },
-                {
-                    "id": "B",
-                    "content": "Cắt (Cut)"
-                },
-                {
-                    "id": "C",
-                    "content": "Dán (Paste)"
-                },
-                {
-                    "id": "D",
-                    "content": "Hoàn tác (Undo)"
-                }
-            ],
-            "answer": "A",
-            "explain": "Ctrl + C: Sao chép (Copy) đối tượng đã chọn vào clipboard."
-        },
-        {
             "id": 9,
-            "question": "Phím tắt Ctrl + V có chức năng gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Dán (Paste) nội dung từ clipboard"
-                },
-                {
-                    "id": "B",
-                    "content": "Sao chép (Copy)"
-                },
-                {
-                    "id": "C",
-                    "content": "Cắt (Cut)"
-                },
-                {
-                    "id": "D",
-                    "content": "Xóa (Delete)"
-                }
-            ],
-            "answer": "A",
-            "explain": "Ctrl + V: Dán (Paste) nội dung đã sao chép hoặc cắt từ clipboard."
-        },
-        {
-            "id": 29,
             "question": "Phím tắt Ctrl + V có chức năng gì?",
             "options": [
                 {
@@ -460,55 +244,7 @@
             "explain": "Ctrl + X: Cắt (Cut) đối tượng đã chọn và lưu vào clipboard."
         },
         {
-            "id": 30,
-            "question": "Phím tắt Ctrl + X có chức năng gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Cắt (Cut) đối tượng đã chọn"
-                },
-                {
-                    "id": "B",
-                    "content": "Sao chép (Copy)"
-                },
-                {
-                    "id": "C",
-                    "content": "Dán (Paste)"
-                },
-                {
-                    "id": "D",
-                    "content": "Xóa (Delete)"
-                }
-            ],
-            "answer": "A",
-            "explain": "Ctrl + X: Cắt (Cut) đối tượng đã chọn và lưu vào clipboard."
-        },
-        {
             "id": 11,
-            "question": "Phím tắt Ctrl + Z có chức năng gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Hoàn tác (Undo) thao tác vừa thực hiện"
-                },
-                {
-                    "id": "B",
-                    "content": "Làm lại (Redo)"
-                },
-                {
-                    "id": "C",
-                    "content": "Sao chép"
-                },
-                {
-                    "id": "D",
-                    "content": "Dán"
-                }
-            ],
-            "answer": "A",
-            "explain": "Ctrl + Z: Hoàn tác (Undo) thao tác vừa thực hiện."
-        },
-        {
-            "id": 31,
             "question": "Phím tắt Ctrl + Z có chức năng gì?",
             "options": [
                 {
@@ -556,55 +292,7 @@
             "explain": "Windows + S: Mở tìm kiếm Windows. F3 trong File Explorer: Mở hộp tìm kiếm trong thư mục hiện tại."
         },
         {
-            "id": 32,
-            "question": "Trong Windows, để tìm kiếm file hoặc thư mục, ta sử dụng phím tắt nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Windows + S hoặc F3 trong File Explorer"
-                },
-                {
-                    "id": "B",
-                    "content": "Ctrl + F"
-                },
-                {
-                    "id": "C",
-                    "content": "Alt + F"
-                },
-                {
-                    "id": "D",
-                    "content": "Shift + F"
-                }
-            ],
-            "answer": "A",
-            "explain": "Windows + S: Mở tìm kiếm Windows. F3 trong File Explorer: Mở hộp tìm kiếm trong thư mục hiện tại."
-        },
-        {
             "id": 13,
-            "question": "Để chọn nhiều file không liên tiếp trong Windows, ta làm thế nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Giữ phím Ctrl và click vào từng file"
-                },
-                {
-                    "id": "B",
-                    "content": "Giữ phím Shift và click"
-                },
-                {
-                    "id": "C",
-                    "content": "Giữ phím Alt và click"
-                },
-                {
-                    "id": "D",
-                    "content": "Kéo thả chuột"
-                }
-            ],
-            "answer": "A",
-            "explain": "Để chọn nhiều file không liên tiếp: Giữ phím Ctrl và click vào từng file muốn chọn."
-        },
-        {
-            "id": 33,
             "question": "Để chọn nhiều file không liên tiếp trong Windows, ta làm thế nào?",
             "options": [
                 {
@@ -652,55 +340,7 @@
             "explain": "Để chọn nhiều file liên tiếp: Click file đầu tiên, giữ phím Shift và click file cuối cùng."
         },
         {
-            "id": 34,
-            "question": "Để chọn nhiều file liên tiếp trong Windows, ta làm thế nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Click file đầu, giữ Shift và click file cuối"
-                },
-                {
-                    "id": "B",
-                    "content": "Giữ Ctrl và click từng file"
-                },
-                {
-                    "id": "C",
-                    "content": "Giữ Alt và click"
-                },
-                {
-                    "id": "D",
-                    "content": "Kéo thả chuột"
-                }
-            ],
-            "answer": "A",
-            "explain": "Để chọn nhiều file liên tiếp: Click file đầu tiên, giữ phím Shift và click file cuối cùng."
-        },
-        {
             "id": 15,
-            "question": "Trong Windows, Recycle Bin (Thùng rác) dùng để làm gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Lưu trữ tạm thời các file đã xóa, có thể khôi phục lại"
-                },
-                {
-                    "id": "B",
-                    "content": "Xóa vĩnh viễn file"
-                },
-                {
-                    "id": "C",
-                    "content": "Lưu trữ file quan trọng"
-                },
-                {
-                    "id": "D",
-                    "content": "Nén file"
-                }
-            ],
-            "answer": "A",
-            "explain": "Recycle Bin (Thùng rác) lưu trữ tạm thời các file đã xóa. Bạn có thể khôi phục file từ Recycle Bin hoặc xóa vĩnh viễn bằng cách xóa trong Recycle Bin."
-        },
-        {
-            "id": 35,
             "question": "Trong Windows, Recycle Bin (Thùng rác) dùng để làm gì?",
             "options": [
                 {
@@ -748,55 +388,7 @@
             "explain": "Shift + Delete: Xóa vĩnh viễn file mà không đưa vào Recycle Bin. Thao tác này không thể hoàn tác."
         },
         {
-            "id": 36,
-            "question": "Để xóa vĩnh viễn file mà không đưa vào Recycle Bin, ta làm thế nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Nhấn Shift + Delete"
-                },
-                {
-                    "id": "B",
-                    "content": "Nhấn Delete"
-                },
-                {
-                    "id": "C",
-                    "content": "Nhấn Ctrl + Delete"
-                },
-                {
-                    "id": "D",
-                    "content": "Nhấn Alt + Delete"
-                }
-            ],
-            "answer": "A",
-            "explain": "Shift + Delete: Xóa vĩnh viễn file mà không đưa vào Recycle Bin. Thao tác này không thể hoàn tác."
-        },
-        {
             "id": 17,
-            "question": "Control Panel trong Windows dùng để làm gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Cấu hình và quản lý các thiết lập hệ thống"
-                },
-                {
-                    "id": "B",
-                    "content": "Quản lý file"
-                },
-                {
-                    "id": "C",
-                    "content": "Chạy chương trình"
-                },
-                {
-                    "id": "D",
-                    "content": "Kết nối Internet"
-                }
-            ],
-            "answer": "A",
-            "explain": "Control Panel là nơi để cấu hình và quản lý các thiết lập hệ thống như cài đặt mạng, phần cứng, người dùng, v.v."
-        },
-        {
-            "id": 37,
             "question": "Control Panel trong Windows dùng để làm gì?",
             "options": [
                 {
@@ -844,30 +436,6 @@
             "explain": "Task Manager cho phép xem và quản lý các tiến trình (processes) đang chạy, hiệu suất hệ thống, và có thể đóng các ứng dụng không phản hồi."
         },
         {
-            "id": 38,
-            "question": "Task Manager trong Windows dùng để làm gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Xem và quản lý các tiến trình đang chạy, hiệu suất hệ thống"
-                },
-                {
-                    "id": "B",
-                    "content": "Quản lý file"
-                },
-                {
-                    "id": "C",
-                    "content": "Cài đặt phần mềm"
-                },
-                {
-                    "id": "D",
-                    "content": "Kết nối mạng"
-                }
-            ],
-            "answer": "A",
-            "explain": "Task Manager cho phép xem và quản lý các tiến trình (processes) đang chạy, hiệu suất hệ thống, và có thể đóng các ứng dụng không phản hồi."
-        },
-        {
             "id": 19,
             "question": "Để tạo thư mục mới trong Windows, ta làm thế nào?",
             "options": [
@@ -892,55 +460,7 @@
             "explain": "Để tạo thư mục mới: Click chuột phải → New → Folder, hoặc nhấn Ctrl + Shift + N trong File Explorer."
         },
         {
-            "id": 39,
-            "question": "Để tạo thư mục mới trong Windows, ta làm thế nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Click chuột phải → New → Folder, hoặc nhấn Ctrl + Shift + N"
-                },
-                {
-                    "id": "B",
-                    "content": "Nhấn Ctrl + N"
-                },
-                {
-                    "id": "C",
-                    "content": "Nhấn Alt + N"
-                },
-                {
-                    "id": "D",
-                    "content": "Nhấn Shift + N"
-                }
-            ],
-            "answer": "A",
-            "explain": "Để tạo thư mục mới: Click chuột phải → New → Folder, hoặc nhấn Ctrl + Shift + N trong File Explorer."
-        },
-        {
             "id": 20,
-            "question": "File có phần mở rộng .exe là loại file gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "File thực thi (executable file) - chương trình có thể chạy được"
-                },
-                {
-                    "id": "B",
-                    "content": "File văn bản"
-                },
-                {
-                    "id": "C",
-                    "content": "File hình ảnh"
-                },
-                {
-                    "id": "D",
-                    "content": "File âm thanh"
-                }
-            ],
-            "answer": "A",
-            "explain": "File .exe là file thực thi (executable), là chương trình có thể chạy được trên Windows. Cần cẩn thận khi mở file .exe từ nguồn không tin cậy."
-        },
-        {
-            "id": 40,
             "question": "File có phần mở rộng .exe là loại file gì?",
             "options": [
                 {

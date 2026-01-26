@@ -1,34 +1,10 @@
 {
     "title": "MODULE 4: SỬ DỤNG BẢNG TÍNH CƠ BẢN",
     "chapter": 4,
-    "total_questions": 40,
+    "total_questions": 20,
     "questions": [
         {
             "id": 1,
-            "question": "Công thức nào sau đây tính tổng các ô từ A1 đến A10 trong Excel?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "=SUM(A1:A10)"
-                },
-                {
-                    "id": "B",
-                    "content": "=TOTAL(A1:A10)"
-                },
-                {
-                    "id": "C",
-                    "content": "=ADD(A1:A10)"
-                },
-                {
-                    "id": "D",
-                    "content": "=PLUS(A1:A10)"
-                }
-            ],
-            "answer": "A",
-            "explain": "Hàm SUM() trong Excel dùng để tính tổng các giá trị trong một phạm vi ô. Cú pháp: =SUM(A1:A10)"
-        },
-        {
-            "id": 21,
             "question": "Công thức nào sau đây tính tổng các ô từ A1 đến A10 trong Excel?",
             "options": [
                 {
@@ -76,55 +52,7 @@
             "explain": "Hàm AVERAGE() tính trung bình cộng các giá trị. Cú pháp: =AVERAGE(A1:A10). Đáp án D cũng đúng nhưng không phải cách tốt nhất."
         },
         {
-            "id": 22,
-            "question": "Công thức nào sau đây tính trung bình các ô từ A1 đến A10 trong Excel?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "=AVERAGE(A1:A10)"
-                },
-                {
-                    "id": "B",
-                    "content": "=MEAN(A1:A10)"
-                },
-                {
-                    "id": "C",
-                    "content": "=MEDIAN(A1:A10)"
-                },
-                {
-                    "id": "D",
-                    "content": "=SUM(A1:A10)/10"
-                }
-            ],
-            "answer": "A",
-            "explain": "Hàm AVERAGE() tính trung bình cộng các giá trị. Cú pháp: =AVERAGE(A1:A10). Đáp án D cũng đúng nhưng không phải cách tốt nhất."
-        },
-        {
             "id": 3,
-            "question": "Công thức nào sau đây tìm giá trị lớn nhất trong phạm vi A1:A10?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "=MAX(A1:A10)"
-                },
-                {
-                    "id": "B",
-                    "content": "=LARGE(A1:A10)"
-                },
-                {
-                    "id": "C",
-                    "content": "=BIGGEST(A1:A10)"
-                },
-                {
-                    "id": "D",
-                    "content": "=TOP(A1:A10)"
-                }
-            ],
-            "answer": "A",
-            "explain": "Hàm MAX() tìm giá trị lớn nhất trong một phạm vi. Cú pháp: =MAX(A1:A10)"
-        },
-        {
-            "id": 23,
             "question": "Công thức nào sau đây tìm giá trị lớn nhất trong phạm vi A1:A10?",
             "options": [
                 {
@@ -172,55 +100,7 @@
             "explain": "Hàm MIN() tìm giá trị nhỏ nhất trong một phạm vi. Cú pháp: =MIN(A1:A10)"
         },
         {
-            "id": 24,
-            "question": "Công thức nào sau đây tìm giá trị nhỏ nhất trong phạm vi A1:A10?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "=MIN(A1:A10)"
-                },
-                {
-                    "id": "B",
-                    "content": "=SMALL(A1:A10)"
-                },
-                {
-                    "id": "C",
-                    "content": "=LOWEST(A1:A10)"
-                },
-                {
-                    "id": "D",
-                    "content": "=BOTTOM(A1:A10)"
-                }
-            ],
-            "answer": "A",
-            "explain": "Hàm MIN() tìm giá trị nhỏ nhất trong một phạm vi. Cú pháp: =MIN(A1:A10)"
-        },
-        {
             "id": 5,
-            "question": "Công thức IF trong Excel có cú pháp như thế nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "=IF(điều_kiện, giá_trị_đúng, giá_trị_sai)"
-                },
-                {
-                    "id": "B",
-                    "content": "=IF(giá_trị_đúng, điều_kiện, giá_trị_sai)"
-                },
-                {
-                    "id": "C",
-                    "content": "=IF(giá_trị_sai, giá_trị_đúng, điều_kiện)"
-                },
-                {
-                    "id": "D",
-                    "content": "=IF(điều_kiện, giá_trị_sai, giá_trị_đúng)"
-                }
-            ],
-            "answer": "A",
-            "explain": "Hàm IF có cú pháp: =IF(điều_kiện, giá_trị_nếu_đúng, giá_trị_nếu_sai). Ví dụ: =IF(A1>10, \"Lớn\", \"Nhỏ\")"
-        },
-        {
-            "id": 25,
             "question": "Công thức IF trong Excel có cú pháp như thế nào?",
             "options": [
                 {
@@ -268,55 +148,7 @@
             "explain": "Hàm COUNT() đếm số ô chứa dữ liệu số. COUNTA() đếm tất cả ô không rỗng (cả số và chữ)."
         },
         {
-            "id": 26,
-            "question": "Trong Excel, để đếm số ô có chứa dữ liệu số trong phạm vi A1:A10, ta dùng hàm nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "=COUNT(A1:A10)"
-                },
-                {
-                    "id": "B",
-                    "content": "=COUNTA(A1:A10)"
-                },
-                {
-                    "id": "C",
-                    "content": "=COUNTIF(A1:A10)"
-                },
-                {
-                    "id": "D",
-                    "content": "=SUM(A1:A10)"
-                }
-            ],
-            "answer": "A",
-            "explain": "Hàm COUNT() đếm số ô chứa dữ liệu số. COUNTA() đếm tất cả ô không rỗng (cả số và chữ)."
-        },
-        {
             "id": 7,
-            "question": "Trong Excel, để đếm tất cả các ô không rỗng (cả số và chữ) trong phạm vi A1:A10, ta dùng hàm nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "=COUNTA(A1:A10)"
-                },
-                {
-                    "id": "B",
-                    "content": "=COUNT(A1:A10)"
-                },
-                {
-                    "id": "C",
-                    "content": "=COUNTIF(A1:A10)"
-                },
-                {
-                    "id": "D",
-                    "content": "=SUM(A1:A10)"
-                }
-            ],
-            "answer": "A",
-            "explain": "Hàm COUNTA() đếm tất cả các ô không rỗng, bao gồm cả số và chữ. COUNT() chỉ đếm số."
-        },
-        {
-            "id": 27,
             "question": "Trong Excel, để đếm tất cả các ô không rỗng (cả số và chữ) trong phạm vi A1:A10, ta dùng hàm nào?",
             "options": [
                 {
@@ -364,55 +196,7 @@
             "explain": "F2: Chỉnh sửa (Edit) ô đang chọn, đưa con trỏ vào trong ô để chỉnh sửa công thức hoặc nội dung."
         },
         {
-            "id": 28,
-            "question": "Phím tắt F2 trong Excel có chức năng gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Chỉnh sửa (Edit) ô đang chọn"
-                },
-                {
-                    "id": "B",
-                    "content": "Lưu file"
-                },
-                {
-                    "id": "C",
-                    "content": "Mở file"
-                },
-                {
-                    "id": "D",
-                    "content": "In file"
-                }
-            ],
-            "answer": "A",
-            "explain": "F2: Chỉnh sửa (Edit) ô đang chọn, đưa con trỏ vào trong ô để chỉnh sửa công thức hoặc nội dung."
-        },
-        {
             "id": 9,
-            "question": "Phím tắt Ctrl+Enter trong Excel có chức năng gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Nhập cùng giá trị hoặc công thức vào nhiều ô đã chọn"
-                },
-                {
-                    "id": "B",
-                    "content": "Xuống dòng trong ô"
-                },
-                {
-                    "id": "C",
-                    "content": "Lưu file"
-                },
-                {
-                    "id": "D",
-                    "content": "Mở file"
-                }
-            ],
-            "answer": "A",
-            "explain": "Ctrl+Enter: Nhập cùng giá trị hoặc công thức vào tất cả các ô đã chọn cùng lúc."
-        },
-        {
-            "id": 29,
             "question": "Phím tắt Ctrl+Enter trong Excel có chức năng gì?",
             "options": [
                 {
@@ -460,55 +244,7 @@
             "explain": "Alt+Enter: Xuống dòng trong cùng một ô (line break). Enter thông thường sẽ di chuyển xuống ô dưới."
         },
         {
-            "id": 30,
-            "question": "Trong Excel, để xuống dòng trong cùng một ô, ta nhấn phím nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Alt+Enter"
-                },
-                {
-                    "id": "B",
-                    "content": "Enter"
-                },
-                {
-                    "id": "C",
-                    "content": "Shift+Enter"
-                },
-                {
-                    "id": "D",
-                    "content": "Ctrl+Enter"
-                }
-            ],
-            "answer": "A",
-            "explain": "Alt+Enter: Xuống dòng trong cùng một ô (line break). Enter thông thường sẽ di chuyển xuống ô dưới."
-        },
-        {
             "id": 11,
-            "question": "Trong Excel, để chọn toàn bộ cột A, ta làm thế nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Click vào tiêu đề cột A (chữ A)"
-                },
-                {
-                    "id": "B",
-                    "content": "Click vào ô A1"
-                },
-                {
-                    "id": "C",
-                    "content": "Nhấn Ctrl+A"
-                },
-                {
-                    "id": "D",
-                    "content": "Kéo thả từ A1"
-                }
-            ],
-            "answer": "A",
-            "explain": "Click vào tiêu đề cột (chữ A, B, C...) để chọn toàn bộ cột đó."
-        },
-        {
-            "id": 31,
             "question": "Trong Excel, để chọn toàn bộ cột A, ta làm thế nào?",
             "options": [
                 {
@@ -556,55 +292,7 @@
             "explain": "Click vào số hàng (1, 2, 3...) bên trái để chọn toàn bộ hàng đó."
         },
         {
-            "id": 32,
-            "question": "Trong Excel, để chọn toàn bộ hàng 1, ta làm thế nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Click vào số hàng 1 (bên trái)"
-                },
-                {
-                    "id": "B",
-                    "content": "Click vào ô A1"
-                },
-                {
-                    "id": "C",
-                    "content": "Nhấn Ctrl+A"
-                },
-                {
-                    "id": "D",
-                    "content": "Kéo thả từ A1"
-                }
-            ],
-            "answer": "A",
-            "explain": "Click vào số hàng (1, 2, 3...) bên trái để chọn toàn bộ hàng đó."
-        },
-        {
             "id": 13,
-            "question": "Trong Excel, để tạo biểu đồ (chart), ta vào tab nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Insert → Charts"
-                },
-                {
-                    "id": "B",
-                    "content": "Home → Charts"
-                },
-                {
-                    "id": "C",
-                    "content": "View → Charts"
-                },
-                {
-                    "id": "D",
-                    "content": "Review → Charts"
-                }
-            ],
-            "answer": "A",
-            "explain": "Để tạo biểu đồ: Vào tab Insert → Charts, sau đó chọn loại biểu đồ phù hợp."
-        },
-        {
-            "id": 33,
             "question": "Trong Excel, để tạo biểu đồ (chart), ta vào tab nào?",
             "options": [
                 {
@@ -652,55 +340,7 @@
             "explain": "Để sắp xếp dữ liệu: Vào tab Data → Sort, sau đó chọn cột và thứ tự sắp xếp."
         },
         {
-            "id": 34,
-            "question": "Trong Excel, để sắp xếp dữ liệu, ta vào tab nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Data → Sort"
-                },
-                {
-                    "id": "B",
-                    "content": "Home → Sort"
-                },
-                {
-                    "id": "C",
-                    "content": "Insert → Sort"
-                },
-                {
-                    "id": "D",
-                    "content": "View → Sort"
-                }
-            ],
-            "answer": "A",
-            "explain": "Để sắp xếp dữ liệu: Vào tab Data → Sort, sau đó chọn cột và thứ tự sắp xếp."
-        },
-        {
             "id": 15,
-            "question": "Trong Excel, để lọc dữ liệu (filter), ta vào tab nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Data → Filter"
-                },
-                {
-                    "id": "B",
-                    "content": "Home → Filter"
-                },
-                {
-                    "id": "C",
-                    "content": "Insert → Filter"
-                },
-                {
-                    "id": "D",
-                    "content": "View → Filter"
-                }
-            ],
-            "answer": "A",
-            "explain": "Để lọc dữ liệu: Vào tab Data → Filter, hoặc nhấn Ctrl+Shift+L. Sau đó click vào mũi tên ở tiêu đề cột để lọc."
-        },
-        {
-            "id": 35,
             "question": "Trong Excel, để lọc dữ liệu (filter), ta vào tab nào?",
             "options": [
                 {
@@ -748,55 +388,7 @@
             "explain": "Tham chiếu tuyệt đối dùng dấu $: $A$1 (cố định cả cột và hàng), $A1 (cố định cột), A$1 (cố định hàng)."
         },
         {
-            "id": 36,
-            "question": "Trong Excel, tham chiếu tuyệt đối (absolute reference) được ký hiệu như thế nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Dùng dấu $ trước cột và/hoặc hàng, ví dụ: $A$1"
-                },
-                {
-                    "id": "B",
-                    "content": "Dùng dấu #, ví dụ: #A#1"
-                },
-                {
-                    "id": "C",
-                    "content": "Dùng dấu @, ví dụ: @A@1"
-                },
-                {
-                    "id": "D",
-                    "content": "Không cần dấu gì, ví dụ: A1"
-                }
-            ],
-            "answer": "A",
-            "explain": "Tham chiếu tuyệt đối dùng dấu $: $A$1 (cố định cả cột và hàng), $A1 (cố định cột), A$1 (cố định hàng)."
-        },
-        {
             "id": 17,
-            "question": "File Excel có phần mở rộng mặc định là gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": ".xlsx (Excel 2007 trở lên) hoặc .xls (Excel 2003 trở xuống)"
-                },
-                {
-                    "id": "B",
-                    "content": ".docx"
-                },
-                {
-                    "id": "C",
-                    "content": ".txt"
-                },
-                {
-                    "id": "D",
-                    "content": ".pdf"
-                }
-            ],
-            "answer": "A",
-            "explain": "File Excel có phần mở rộng .xlsx (Excel 2007 trở lên) hoặc .xls (Excel 2003 trở xuống)."
-        },
-        {
-            "id": 37,
             "question": "File Excel có phần mở rộng mặc định là gì?",
             "options": [
                 {
@@ -844,30 +436,6 @@
             "explain": "Alt + =: Tự động chèn hàm SUM() để tính tổng các ô phía trên trong cùng cột."
         },
         {
-            "id": 38,
-            "question": "Trong Excel, để tính tổng nhanh một cột, ta có thể dùng phím tắt nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Alt + = (dấu bằng)"
-                },
-                {
-                    "id": "B",
-                    "content": "Ctrl + ="
-                },
-                {
-                    "id": "C",
-                    "content": "Shift + ="
-                },
-                {
-                    "id": "D",
-                    "content": "Tab + ="
-                }
-            ],
-            "answer": "A",
-            "explain": "Alt + =: Tự động chèn hàm SUM() để tính tổng các ô phía trên trong cùng cột."
-        },
-        {
             "id": 19,
             "question": "Trong Excel, công thức =SUM(A1, B1, C1) sẽ tính gì?",
             "options": [
@@ -892,55 +460,7 @@
             "explain": "=SUM(A1, B1, C1) tính tổng của 3 ô riêng lẻ. =SUM(A1:C1) tính tổng của phạm vi từ A1 đến C1."
         },
         {
-            "id": 39,
-            "question": "Trong Excel, công thức =SUM(A1, B1, C1) sẽ tính gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Tổng của 3 ô A1, B1, C1"
-                },
-                {
-                    "id": "B",
-                    "content": "Tổng của phạm vi A1:C1"
-                },
-                {
-                    "id": "C",
-                    "content": "Trung bình của A1, B1, C1"
-                },
-                {
-                    "id": "D",
-                    "content": "Tích của A1, B1, C1"
-                }
-            ],
-            "answer": "A",
-            "explain": "=SUM(A1, B1, C1) tính tổng của 3 ô riêng lẻ. =SUM(A1:C1) tính tổng của phạm vi từ A1 đến C1."
-        },
-        {
             "id": 20,
-            "question": "Trong Excel, để chèn một hàng mới, ta làm thế nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Click chuột phải vào số hàng → Insert, hoặc Home → Insert → Insert Sheet Rows"
-                },
-                {
-                    "id": "B",
-                    "content": "Nhấn Enter"
-                },
-                {
-                    "id": "C",
-                    "content": "Nhấn Tab"
-                },
-                {
-                    "id": "D",
-                    "content": "Nhấn Ctrl+N"
-                }
-            ],
-            "answer": "A",
-            "explain": "Để chèn hàng: Click chuột phải vào số hàng → Insert, hoặc chọn hàng và vào Home → Insert → Insert Sheet Rows."
-        },
-        {
-            "id": 40,
             "question": "Trong Excel, để chèn một hàng mới, ta làm thế nào?",
             "options": [
                 {

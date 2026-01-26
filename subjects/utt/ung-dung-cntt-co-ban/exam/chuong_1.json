@@ -1,34 +1,10 @@
 {
     "title": "MODULE 1: HIỂU BIẾT CƠ BẢN VỀ CNTT",
     "chapter": 1,
-    "total_questions": 50,
+    "total_questions": 25,
     "questions": [
         {
             "id": 1,
-            "question": "Thông tin là gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Là sự hiểu biết của con người về một thực thể nào đó, có thể thu thập, lưu trữ, xử lý được"
-                },
-                {
-                    "id": "B",
-                    "content": "Là dữ liệu đã được đưa vào máy tính"
-                },
-                {
-                    "id": "C",
-                    "content": "Là các tín hiệu điện tử trong máy tính"
-                },
-                {
-                    "id": "D",
-                    "content": "Là các chương trình phần mềm"
-                }
-            ],
-            "answer": "A",
-            "explain": "Thông tin là sự hiểu biết của con người về một thực thể nào đó, có thể thu thập, lưu trữ, xử lý được và có thể được thể hiện dưới dạng các tín hiệu như chữ số, chữ viết, âm thanh, dòng điện..."
-        },
-        {
-            "id": 26,
             "question": "Thông tin là gì?",
             "options": [
                 {
@@ -76,55 +52,7 @@
             "explain": "Dữ liệu là thông tin đã được đưa vào máy tính. Dữ liệu sau khi tập hợp lại và xử lý sẽ lại cho ta thông tin."
         },
         {
-            "id": 27,
-            "question": "Dữ liệu là gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Là sự hiểu biết của con người"
-                },
-                {
-                    "id": "B",
-                    "content": "Là thông tin đã được đưa vào máy tính"
-                },
-                {
-                    "id": "C",
-                    "content": "Là các thiết bị phần cứng"
-                },
-                {
-                    "id": "D",
-                    "content": "Là các chương trình ứng dụng"
-                }
-            ],
-            "answer": "B",
-            "explain": "Dữ liệu là thông tin đã được đưa vào máy tính. Dữ liệu sau khi tập hợp lại và xử lý sẽ lại cho ta thông tin."
-        },
-        {
             "id": 3,
-            "question": "Đơn vị cơ sở dùng để đo thông tin trong máy tính được gọi là gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Byte"
-                },
-                {
-                    "id": "B",
-                    "content": "BIT (BInary digiT)"
-                },
-                {
-                    "id": "C",
-                    "content": "Kilobyte"
-                },
-                {
-                    "id": "D",
-                    "content": "Megabyte"
-                }
-            ],
-            "answer": "B",
-            "explain": "Đơn vị cơ sở dùng để đo thông tin được gọi là BIT (BInary digiT) với ký tự số 0 và 1."
-        },
-        {
-            "id": 28,
             "question": "Đơn vị cơ sở dùng để đo thông tin trong máy tính được gọi là gì?",
             "options": [
                 {
@@ -172,55 +100,7 @@
             "explain": "1 Byte = 8 bit. Byte là đơn vị cơ bản để lưu trữ dữ liệu trong máy tính."
         },
         {
-            "id": 29,
-            "question": "1 Byte bằng bao nhiêu bit?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "4 bit"
-                },
-                {
-                    "id": "B",
-                    "content": "8 bit"
-                },
-                {
-                    "id": "C",
-                    "content": "16 bit"
-                },
-                {
-                    "id": "D",
-                    "content": "32 bit"
-                }
-            ],
-            "answer": "B",
-            "explain": "1 Byte = 8 bit. Byte là đơn vị cơ bản để lưu trữ dữ liệu trong máy tính."
-        },
-        {
             "id": 5,
-            "question": "1 Kilobyte (KB) bằng bao nhiêu bytes?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "1000 bytes"
-                },
-                {
-                    "id": "B",
-                    "content": "1024 bytes"
-                },
-                {
-                    "id": "C",
-                    "content": "2048 bytes"
-                },
-                {
-                    "id": "D",
-                    "content": "512 bytes"
-                }
-            ],
-            "answer": "B",
-            "explain": "1 Kilobyte (KB) = 2^10 = 1024 bytes. Trong hệ nhị phân, các đơn vị đo được tính theo lũy thừa của 2."
-        },
-        {
-            "id": 30,
             "question": "1 Kilobyte (KB) bằng bao nhiêu bytes?",
             "options": [
                 {
@@ -268,55 +148,7 @@
             "explain": "Hệ đếm nhị phân (cơ số 2) được sử dụng để biểu diễn thông tin (bao gồm số, ký tự, hình ảnh, âm thanh,...) trong máy tính điện tử."
         },
         {
-            "id": 31,
-            "question": "Hệ đếm nào được sử dụng để biểu diễn thông tin trong máy tính điện tử?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Hệ đếm thập phân (cơ số 10)"
-                },
-                {
-                    "id": "B",
-                    "content": "Hệ đếm nhị phân (cơ số 2)"
-                },
-                {
-                    "id": "C",
-                    "content": "Hệ đếm bát phân (cơ số 8)"
-                },
-                {
-                    "id": "D",
-                    "content": "Hệ đếm hexa (cơ số 16)"
-                }
-            ],
-            "answer": "B",
-            "explain": "Hệ đếm nhị phân (cơ số 2) được sử dụng để biểu diễn thông tin (bao gồm số, ký tự, hình ảnh, âm thanh,...) trong máy tính điện tử."
-        },
-        {
             "id": 7,
-            "question": "Hệ đếm nhị phân sử dụng bao nhiêu ký tự?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "2 ký tự: 0 và 1"
-                },
-                {
-                    "id": "B",
-                    "content": "8 ký tự: 0-7"
-                },
-                {
-                    "id": "C",
-                    "content": "10 ký tự: 0-9"
-                },
-                {
-                    "id": "D",
-                    "content": "16 ký tự: 0-9, A-F"
-                }
-            ],
-            "answer": "A",
-            "explain": "Hệ đếm nhị phân (cơ số 2) dùng 2 ký tự: 0 và 1."
-        },
-        {
-            "id": 32,
             "question": "Hệ đếm nhị phân sử dụng bao nhiêu ký tự?",
             "options": [
                 {
@@ -364,55 +196,7 @@
             "explain": "CPU là viết tắt của Central Processing Unit - Bộ xử lý trung tâm, là bộ não của máy tính."
         },
         {
-            "id": 33,
-            "question": "CPU là viết tắt của cụm từ nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Central Processing Unit"
-                },
-                {
-                    "id": "B",
-                    "content": "Computer Processing Unit"
-                },
-                {
-                    "id": "C",
-                    "content": "Central Program Unit"
-                },
-                {
-                    "id": "D",
-                    "content": "Computer Program Unit"
-                }
-            ],
-            "answer": "A",
-            "explain": "CPU là viết tắt của Central Processing Unit - Bộ xử lý trung tâm, là bộ não của máy tính."
-        },
-        {
             "id": 9,
-            "question": "RAM là viết tắt của cụm từ nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Random Access Memory"
-                },
-                {
-                    "id": "B",
-                    "content": "Read Access Memory"
-                },
-                {
-                    "id": "C",
-                    "content": "Random Available Memory"
-                },
-                {
-                    "id": "D",
-                    "content": "Read Available Memory"
-                }
-            ],
-            "answer": "A",
-            "explain": "RAM là viết tắt của Random Access Memory - Bộ nhớ truy cập ngẫu nhiên, là bộ nhớ tạm thời của máy tính."
-        },
-        {
-            "id": 34,
             "question": "RAM là viết tắt của cụm từ nào?",
             "options": [
                 {
@@ -460,55 +244,7 @@
             "explain": "Phần cứng máy tính bao gồm các thiết bị vật lý như CPU, RAM, ổ cứng, mainboard, card màn hình, v.v."
         },
         {
-            "id": 35,
-            "question": "Phần cứng máy tính bao gồm những thành phần nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "CPU, RAM, ổ cứng, mainboard"
-                },
-                {
-                    "id": "B",
-                    "content": "Windows, Word, Excel, PowerPoint"
-                },
-                {
-                    "id": "C",
-                    "content": "Virus, malware, spyware"
-                },
-                {
-                    "id": "D",
-                    "content": "Internet, email, website"
-                }
-            ],
-            "answer": "A",
-            "explain": "Phần cứng máy tính bao gồm các thiết bị vật lý như CPU, RAM, ổ cứng, mainboard, card màn hình, v.v."
-        },
-        {
             "id": 11,
-            "question": "Phần mềm hệ thống là gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Là phần mềm quản lý và điều khiển hoạt động của máy tính, ví dụ: Windows, Linux"
-                },
-                {
-                    "id": "B",
-                    "content": "Là phần mềm ứng dụng như Word, Excel"
-                },
-                {
-                    "id": "C",
-                    "content": "Là các trò chơi điện tử"
-                },
-                {
-                    "id": "D",
-                    "content": "Là các chương trình diệt virus"
-                }
-            ],
-            "answer": "A",
-            "explain": "Phần mềm hệ thống (hệ điều hành) là phần mềm quản lý và điều khiển hoạt động của máy tính, ví dụ: Windows, Linux, macOS."
-        },
-        {
-            "id": 36,
             "question": "Phần mềm hệ thống là gì?",
             "options": [
                 {
@@ -556,55 +292,7 @@
             "explain": "Mạng máy tính là tập hợp các máy tính được kết nối với nhau thông qua các thiết bị mạng để chia sẻ tài nguyên và thông tin."
         },
         {
-            "id": 37,
-            "question": "Mạng máy tính (MMT) là gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Là tập hợp các máy tính được kết nối với nhau để chia sẻ tài nguyên và thông tin"
-                },
-                {
-                    "id": "B",
-                    "content": "Là một máy tính đơn lẻ"
-                },
-                {
-                    "id": "C",
-                    "content": "Là phần mềm ứng dụng"
-                },
-                {
-                    "id": "D",
-                    "content": "Là thiết bị lưu trữ dữ liệu"
-                }
-            ],
-            "answer": "A",
-            "explain": "Mạng máy tính là tập hợp các máy tính được kết nối với nhau thông qua các thiết bị mạng để chia sẻ tài nguyên và thông tin."
-        },
-        {
             "id": 13,
-            "question": "Virus máy tính là gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Là một loại chương trình độc hại có khả năng lây lan nhờ các tác động của người sử dụng"
-                },
-                {
-                    "id": "B",
-                    "content": "Là phần mềm diệt virus"
-                },
-                {
-                    "id": "C",
-                    "content": "Là hệ điều hành"
-                },
-                {
-                    "id": "D",
-                    "content": "Là phần mềm ứng dụng"
-                }
-            ],
-            "answer": "A",
-            "explain": "Virus là một loại chương trình độc hại (malware) có khả năng lây lan nhờ các tác động của người sử dụng."
-        },
-        {
-            "id": 38,
             "question": "Virus máy tính là gì?",
             "options": [
                 {
@@ -652,55 +340,7 @@
             "explain": "Worm giống virus nhưng có khả năng tự lây lan mà không cần tác động của người sử dụng."
         },
         {
-            "id": 39,
-            "question": "Worm khác với virus ở điểm nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Worm có khả năng tự lây lan mà không cần tác động của người dùng"
-                },
-                {
-                    "id": "B",
-                    "content": "Worm là phần mềm diệt virus"
-                },
-                {
-                    "id": "C",
-                    "content": "Worm là hệ điều hành"
-                },
-                {
-                    "id": "D",
-                    "content": "Worm không gây hại"
-                }
-            ],
-            "answer": "A",
-            "explain": "Worm giống virus nhưng có khả năng tự lây lan mà không cần tác động của người sử dụng."
-        },
-        {
             "id": 15,
-            "question": "Spyware là gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Là các phần mềm gián điệp, lén thu thập thông tin người dùng để phục vụ cho các mục đích xấu"
-                },
-                {
-                    "id": "B",
-                    "content": "Là phần mềm diệt virus"
-                },
-                {
-                    "id": "C",
-                    "content": "Là phần mềm quét mạng"
-                },
-                {
-                    "id": "D",
-                    "content": "Là hệ điều hành"
-                }
-            ],
-            "answer": "A",
-            "explain": "Spyware là các phần mềm gián điệp, lén thu thập thông tin người dùng để phục vụ cho các mục đích xấu sau này."
-        },
-        {
-            "id": 40,
             "question": "Spyware là gì?",
             "options": [
                 {
@@ -748,55 +388,7 @@
             "explain": "Ransomware là phần mềm tống tiền. Ví dụ: WannaCry. Nó mã hóa dữ liệu và yêu cầu trả tiền để khôi phục."
         },
         {
-            "id": 41,
-            "question": "Ransomware là gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Là phần mềm tống tiền, mã hóa dữ liệu và yêu cầu trả tiền để khôi phục"
-                },
-                {
-                    "id": "B",
-                    "content": "Là phần mềm diệt virus"
-                },
-                {
-                    "id": "C",
-                    "content": "Là phần mềm sao lưu dữ liệu"
-                },
-                {
-                    "id": "D",
-                    "content": "Là hệ điều hành"
-                }
-            ],
-            "answer": "A",
-            "explain": "Ransomware là phần mềm tống tiền. Ví dụ: WannaCry. Nó mã hóa dữ liệu và yêu cầu trả tiền để khôi phục."
-        },
-        {
             "id": 17,
-            "question": "Phương pháp nào sau đây KHÔNG phải là cách phòng chống virus?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Sử dụng phần mềm crack"
-                },
-                {
-                    "id": "B",
-                    "content": "Bật Windows Defender và Automatic update"
-                },
-                {
-                    "id": "C",
-                    "content": "Không mở các file lạ từ nguồn không tin cậy"
-                },
-                {
-                    "id": "D",
-                    "content": "Kiểm tra hệ thống khi thấy máy tính chậm hoặc có file lạ"
-                }
-            ],
-            "answer": "A",
-            "explain": "Sử dụng phần mềm crack là một trong những nguyên nhân chính khiến máy tính bị nhiễm virus. Không nên sử dụng phần mềm crack."
-        },
-        {
-            "id": 42,
             "question": "Phương pháp nào sau đây KHÔNG phải là cách phòng chống virus?",
             "options": [
                 {
@@ -844,55 +436,7 @@
             "explain": "Bản quyền (copyright) là quyền của một tác giả với sản phẩm để bảo vệ tài sản trí tuệ của họ."
         },
         {
-            "id": 43,
-            "question": "Bản quyền (copyright) là gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Là quyền của một tác giả với sản phẩm để bảo vệ tài sản trí tuệ của họ"
-                },
-                {
-                    "id": "B",
-                    "content": "Là phần mềm miễn phí"
-                },
-                {
-                    "id": "C",
-                    "content": "Là phần mềm mã nguồn mở"
-                },
-                {
-                    "id": "D",
-                    "content": "Là phần mềm chia sẻ"
-                }
-            ],
-            "answer": "A",
-            "explain": "Bản quyền (copyright) là quyền của một tác giả với sản phẩm để bảo vệ tài sản trí tuệ của họ."
-        },
-        {
             "id": 19,
-            "question": "Phần mềm mã nguồn mở (open source) là gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Là phần mềm có mã nguồn có thể sử dụng tự do cho công chúng"
-                },
-                {
-                    "id": "B",
-                    "content": "Là phần mềm phải trả phí"
-                },
-                {
-                    "id": "C",
-                    "content": "Là phần mềm chỉ dùng được một lần"
-                },
-                {
-                    "id": "D",
-                    "content": "Là phần mềm độc hại"
-                }
-            ],
-            "answer": "A",
-            "explain": "Khi một chương trình phần mềm là mã nguồn mở, nó có nghĩa là mã nguồn của nó có thể sử dụng tự do cho công chúng."
-        },
-        {
-            "id": 44,
             "question": "Phần mềm mã nguồn mở (open source) là gì?",
             "options": [
                 {
@@ -940,55 +484,7 @@
             "explain": "Các tác nhân có thể gây hại đến dữ liệu bao gồm: hỏa hoạn, thiên tai, sự cố về phần cứng, phần mềm, virus máy tính, sự phá hoại của gián điệp hoặc của các tin tặc, sự vô ý của người dùng."
         },
         {
-            "id": 45,
-            "question": "Các tác nhân có thể gây hại đến dữ liệu bao gồm:",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Hỏa hoạn, thiên tai, sự cố phần cứng/phần mềm, virus, tin tặc, sự vô ý của người dùng"
-                },
-                {
-                    "id": "B",
-                    "content": "Chỉ có virus"
-                },
-                {
-                    "id": "C",
-                    "content": "Chỉ có tin tặc"
-                },
-                {
-                    "id": "D",
-                    "content": "Chỉ có sự vô ý của người dùng"
-                }
-            ],
-            "answer": "A",
-            "explain": "Các tác nhân có thể gây hại đến dữ liệu bao gồm: hỏa hoạn, thiên tai, sự cố về phần cứng, phần mềm, virus máy tính, sự phá hoại của gián điệp hoặc của các tin tặc, sự vô ý của người dùng."
-        },
-        {
             "id": 21,
-            "question": "Phương pháp nào sau đây giúp bảo vệ dữ liệu?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Sao lưu dữ liệu quan trọng sang thiết bị/nơi lưu trữ khác"
-                },
-                {
-                    "id": "B",
-                    "content": "Chỉ lưu dữ liệu ở một nơi"
-                },
-                {
-                    "id": "C",
-                    "content": "Không cần sao lưu"
-                },
-                {
-                    "id": "D",
-                    "content": "Xóa dữ liệu cũ thường xuyên"
-                }
-            ],
-            "answer": "A",
-            "explain": "Thực hiện sao lưu dữ liệu quan trọng sang một thiết bị, nơi lưu trữ khác là một trong những phương pháp quan trọng để bảo vệ dữ liệu."
-        },
-        {
-            "id": 46,
             "question": "Phương pháp nào sau đây giúp bảo vệ dữ liệu?",
             "options": [
                 {
@@ -1036,55 +532,7 @@
             "explain": "Hệ thống thông tin (information system) là một hệ thống ghi nhận dữ liệu, xử lý chúng để tạo nên thông tin có ý nghĩa hoặc dữ liệu mới."
         },
         {
-            "id": 47,
-            "question": "Hệ thống thông tin (information system) là gì?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "Là một hệ thống ghi nhận dữ liệu, xử lý chúng để tạo nên thông tin có ý nghĩa hoặc dữ liệu mới"
-                },
-                {
-                    "id": "B",
-                    "content": "Là một máy tính đơn lẻ"
-                },
-                {
-                    "id": "C",
-                    "content": "Là phần mềm ứng dụng"
-                },
-                {
-                    "id": "D",
-                    "content": "Là mạng Internet"
-                }
-            ],
-            "answer": "A",
-            "explain": "Hệ thống thông tin (information system) là một hệ thống ghi nhận dữ liệu, xử lý chúng để tạo nên thông tin có ý nghĩa hoặc dữ liệu mới."
-        },
-        {
             "id": 23,
-            "question": "1 Gigabyte (GB) bằng bao nhiêu Megabytes (MB)?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "1000 MB"
-                },
-                {
-                    "id": "B",
-                    "content": "1024 MB"
-                },
-                {
-                    "id": "C",
-                    "content": "2048 MB"
-                },
-                {
-                    "id": "D",
-                    "content": "512 MB"
-                }
-            ],
-            "answer": "B",
-            "explain": "1 Gigabyte (GB) = 2^10 = 1024 Megabytes (MB)."
-        },
-        {
-            "id": 48,
             "question": "1 Gigabyte (GB) bằng bao nhiêu Megabytes (MB)?",
             "options": [
                 {
@@ -1132,55 +580,7 @@
             "explain": "Hệ đếm hexa (cơ số 16) dùng 16 ký tự: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F."
         },
         {
-            "id": 49,
-            "question": "Hệ đếm hexa (cơ số 16) sử dụng bao nhiêu ký tự?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "10 ký tự: 0-9"
-                },
-                {
-                    "id": "B",
-                    "content": "16 ký tự: 0-9, A-F"
-                },
-                {
-                    "id": "C",
-                    "content": "8 ký tự: 0-7"
-                },
-                {
-                    "id": "D",
-                    "content": "2 ký tự: 0-1"
-                }
-            ],
-            "answer": "B",
-            "explain": "Hệ đếm hexa (cơ số 16) dùng 16 ký tự: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F."
-        },
-        {
             "id": 25,
-            "question": "Luật Sở hữu trí tuệ ở Việt Nam có hiệu lực thi hành từ ngày nào?",
-            "options": [
-                {
-                    "id": "A",
-                    "content": "01/07/2006"
-                },
-                {
-                    "id": "B",
-                    "content": "01/01/2005"
-                },
-                {
-                    "id": "C",
-                    "content": "29/11/2005"
-                },
-                {
-                    "id": "D",
-                    "content": "01/01/2007"
-                }
-            ],
-            "answer": "A",
-            "explain": "Luật Sở hữu trí tuệ được Quốc hội (khoá XI) thông qua ngày 29/11/2005 và có hiệu lực thi hành từ ngày 01/07/2006."
-        },
-        {
-            "id": 50,
             "question": "Luật Sở hữu trí tuệ ở Việt Nam có hiệu lực thi hành từ ngày nào?",
             "options": [
                 {
