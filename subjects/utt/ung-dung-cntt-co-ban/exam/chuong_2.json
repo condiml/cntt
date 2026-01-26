@@ -1,7 +1,7 @@
 {
     "title": "MODULE 2: SỬ DỤNG MÁY TÍNH CƠ BẢN",
     "chapter": 2,
-    "total_questions": 20,
+    "total_questions": 26,
     "questions": [
         {
             "id": 1,
@@ -482,6 +482,150 @@
             ],
             "answer": "A",
             "explain": "File .exe là file thực thi (executable), là chương trình có thể chạy được trên Windows. Cần cẩn thận khi mở file .exe từ nguồn không tin cậy."
+        },
+        {
+            "id": 21,
+            "question": "Phím tắt Windows + L có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khóa màn hình (Lock screen)"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở File Explorer"
+                },
+                {
+                    "id": "C",
+                    "content": "Mở Settings"
+                },
+                {
+                    "id": "D",
+                    "content": "Đóng ứng dụng"
+                }
+            ],
+            "answer": "A",
+            "explain": "Windows + L: Khóa màn hình (Lock screen) để bảo vệ máy tính khi bạn rời khỏi."
+        },
+        {
+            "id": 22,
+            "question": "Phím tắt Windows + R có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở hộp thoại Run để chạy lệnh"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở File Explorer"
+                },
+                {
+                    "id": "C",
+                    "content": "Mở Task Manager"
+                },
+                {
+                    "id": "D",
+                    "content": "Khóa màn hình"
+                }
+            ],
+            "answer": "A",
+            "explain": "Windows + R: Mở hộp thoại Run để chạy các lệnh hoặc mở chương trình nhanh chóng."
+        },
+        {
+            "id": 23,
+            "question": "Phím tắt Windows + Tab có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở Task View để xem tất cả cửa sổ và desktop ảo"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở File Explorer"
+                },
+                {
+                    "id": "C",
+                    "content": "Đóng cửa sổ"
+                },
+                {
+                    "id": "D",
+                    "content": "Chuyển tab"
+                }
+            ],
+            "answer": "A",
+            "explain": "Windows + Tab: Mở Task View để xem tất cả cửa sổ đang mở và quản lý các desktop ảo (virtual desktops)."
+        },
+        {
+            "id": 24,
+            "question": "File có phần mở rộng .pdf là loại file gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File tài liệu PDF (Portable Document Format)"
+                },
+                {
+                    "id": "B",
+                    "content": "File hình ảnh"
+                },
+                {
+                    "id": "C",
+                    "content": "File văn bản"
+                },
+                {
+                    "id": "D",
+                    "content": "File âm thanh"
+                }
+            ],
+            "answer": "A",
+            "explain": "File .pdf là file tài liệu PDF (Portable Document Format), được tạo bởi Adobe, có thể mở bằng nhiều phần mềm như Adobe Reader, trình duyệt web..."
+        },
+        {
+            "id": 25,
+            "question": "File có phần mở rộng .zip là loại file gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File nén (compressed file)"
+                },
+                {
+                    "id": "B",
+                    "content": "File văn bản"
+                },
+                {
+                    "id": "C",
+                    "content": "File hình ảnh"
+                },
+                {
+                    "id": "D",
+                    "content": "File video"
+                }
+            ],
+            "answer": "A",
+            "explain": "File .zip là file nén (compressed file), dùng để giảm kích thước file và gom nhiều file/thư mục thành một file duy nhất."
+        },
+        {
+            "id": 26,
+            "question": "Để xem thuộc tính (Properties) của file/thư mục trong Windows, ta làm thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Click chuột phải → Properties"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhấn Delete"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhấn Ctrl + C"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhấn F5"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để xem thuộc tính của file/thư mục: Click chuột phải vào file/thư mục → Properties. Cửa sổ Properties hiển thị thông tin như kích thước, ngày tạo, quyền truy cập..."
         }
     ]
 }

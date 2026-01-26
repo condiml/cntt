@@ -1,7 +1,7 @@
 {
     "title": "MODULE 6: SỬ DỤNG INTERNET CƠ BẢN",
     "chapter": 6,
-    "total_questions": 20,
+    "total_questions": 26,
     "questions": [
         {
             "id": 1,
@@ -482,6 +482,150 @@
             ],
             "answer": "A",
             "explain": "SMTP là viết tắt của Simple Mail Transfer Protocol - Giao thức truyền thư đơn giản, dùng để gửi email."
+        },
+        {
+            "id": 21,
+            "question": "HTTPS khác với HTTP ở điểm nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "HTTPS có mã hóa SSL/TLS để bảo mật dữ liệu"
+                },
+                {
+                    "id": "B",
+                    "content": "HTTP nhanh hơn HTTPS"
+                },
+                {
+                    "id": "C",
+                    "content": "HTTPS không hỗ trợ cookie"
+                },
+                {
+                    "id": "D",
+                    "content": "HTTP an toàn hơn HTTPS"
+                }
+            ],
+            "answer": "A",
+            "explain": "HTTPS (HyperText Transfer Protocol Secure) có mã hóa SSL/TLS để bảo mật dữ liệu truyền tải giữa trình duyệt và server, trong khi HTTP không có mã hóa."
+        },
+        {
+            "id": 22,
+            "question": "DNS là viết tắt của cụm từ nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Domain Name System"
+                },
+                {
+                    "id": "B",
+                    "content": "Dynamic Network System"
+                },
+                {
+                    "id": "C",
+                    "content": "Data Network Service"
+                },
+                {
+                    "id": "D",
+                    "content": "Digital Network System"
+                }
+            ],
+            "answer": "A",
+            "explain": "DNS là viết tắt của Domain Name System - Hệ thống phân giải tên miền, chuyển đổi tên miền (như google.com) thành địa chỉ IP (như 172.217.164.110)."
+        },
+        {
+            "id": 23,
+            "question": "POP3 và IMAP là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là các giao thức để nhận email từ server"
+                },
+                {
+                    "id": "B",
+                    "content": "Là các giao thức để gửi email"
+                },
+                {
+                    "id": "C",
+                    "content": "Là các trình duyệt web"
+                },
+                {
+                    "id": "D",
+                    "content": "Là các công cụ tìm kiếm"
+                }
+            ],
+            "answer": "A",
+            "explain": "POP3 (Post Office Protocol 3) và IMAP (Internet Message Access Protocol) là các giao thức để nhận email từ mail server. IMAP đồng bộ email trên nhiều thiết bị, còn POP3 tải email về máy local."
+        },
+        {
+            "id": 24,
+            "question": "Phím tắt Ctrl+Shift+T trong trình duyệt có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở lại tab vừa đóng (Restore closed tab)"
+                },
+                {
+                    "id": "B",
+                    "content": "Đóng tab"
+                },
+                {
+                    "id": "C",
+                    "content": "Mở tab mới"
+                },
+                {
+                    "id": "D",
+                    "content": "Tải lại trang"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+Shift+T: Mở lại tab vừa đóng gần nhất. Có thể nhấn nhiều lần để mở lại nhiều tab đã đóng."
+        },
+        {
+            "id": 25,
+            "question": "Phím tắt Ctrl+Shift+Delete trong trình duyệt có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở cửa sổ xóa dữ liệu duyệt web (Clear browsing data)"
+                },
+                {
+                    "id": "B",
+                    "content": "Xóa tab"
+                },
+                {
+                    "id": "C",
+                    "content": "Đóng trình duyệt"
+                },
+                {
+                    "id": "D",
+                    "content": "Tải lại trang"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+Shift+Delete: Mở cửa sổ Clear browsing data để xóa lịch sử, cookie, cache, mật khẩu đã lưu..."
+        },
+        {
+            "id": 26,
+            "question": "Để bảo vệ thông tin cá nhân khi sử dụng Internet, ta nên làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sử dụng mật khẩu mạnh, không chia sẻ thông tin cá nhân, cẩn thận với email/link lạ, sử dụng HTTPS"
+                },
+                {
+                    "id": "B",
+                    "content": "Chia sẻ mật khẩu với bạn bè"
+                },
+                {
+                    "id": "C",
+                    "content": "Click vào mọi link nhận được"
+                },
+                {
+                    "id": "D",
+                    "content": "Không cần bảo vệ"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để bảo vệ thông tin cá nhân: Sử dụng mật khẩu mạnh và khác nhau cho mỗi tài khoản, không chia sẻ thông tin cá nhân, cẩn thận với email/link lạ (phishing), sử dụng HTTPS khi có thể, cập nhật phần mềm thường xuyên."
         }
     ]
 }
