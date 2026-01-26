@@ -1,10 +1,34 @@
 {
     "title": "MODULE 5: SỬ DỤNG TRÌNH CHIẾU CƠ BẢN",
     "chapter": 5,
-    "total_questions": 20,
+    "total_questions": 40,
     "questions": [
         {
             "id": 1,
+            "question": "Phím tắt F5 trong PowerPoint có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bắt đầu trình chiếu từ slide đầu tiên"
+                },
+                {
+                    "id": "B",
+                    "content": "Bắt đầu trình chiếu từ slide hiện tại"
+                },
+                {
+                    "id": "C",
+                    "content": "Lưu file"
+                },
+                {
+                    "id": "D",
+                    "content": "Mở file"
+                }
+            ],
+            "answer": "A",
+            "explain": "F5: Bắt đầu trình chiếu từ slide đầu tiên. Đây là phím tắt phổ biến nhất cho chức năng trình chiếu."
+        },
+        {
+            "id": 21,
             "question": "Phím tắt F5 trong PowerPoint có chức năng gì?",
             "options": [
                 {
@@ -52,7 +76,55 @@
             "explain": "Shift+F5: Bắt đầu trình chiếu từ slide hiện tại, không phải từ đầu."
         },
         {
+            "id": 22,
+            "question": "Phím tắt Shift+F5 trong PowerPoint có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bắt đầu trình chiếu từ slide hiện tại"
+                },
+                {
+                    "id": "B",
+                    "content": "Bắt đầu trình chiếu từ slide đầu tiên"
+                },
+                {
+                    "id": "C",
+                    "content": "Lưu file"
+                },
+                {
+                    "id": "D",
+                    "content": "Đóng file"
+                }
+            ],
+            "answer": "A",
+            "explain": "Shift+F5: Bắt đầu trình chiếu từ slide hiện tại, không phải từ đầu."
+        },
+        {
             "id": 3,
+            "question": "Phím tắt ESC trong PowerPoint khi đang trình chiếu có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thoát trình chiếu (Exit slideshow)"
+                },
+                {
+                    "id": "B",
+                    "content": "Chuyển sang slide tiếp theo"
+                },
+                {
+                    "id": "C",
+                    "content": "Quay lại slide trước"
+                },
+                {
+                    "id": "D",
+                    "content": "Tạm dừng trình chiếu"
+                }
+            ],
+            "answer": "A",
+            "explain": "ESC: Thoát trình chiếu và quay về chế độ chỉnh sửa."
+        },
+        {
+            "id": 23,
             "question": "Phím tắt ESC trong PowerPoint khi đang trình chiếu có chức năng gì?",
             "options": [
                 {
@@ -100,7 +172,55 @@
             "explain": "Ctrl+M: Tạo slide mới với layout mặc định."
         },
         {
+            "id": 24,
+            "question": "Phím tắt Ctrl+M trong PowerPoint có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tạo slide mới (New slide)"
+                },
+                {
+                    "id": "B",
+                    "content": "Xóa slide"
+                },
+                {
+                    "id": "C",
+                    "content": "Sao chép slide"
+                },
+                {
+                    "id": "D",
+                    "content": "Di chuyển slide"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+M: Tạo slide mới với layout mặc định."
+        },
+        {
             "id": 5,
+            "question": "Trong PowerPoint, để chèn hình ảnh vào slide, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert → Pictures"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Pictures"
+                },
+                {
+                    "id": "C",
+                    "content": "View → Pictures"
+                },
+                {
+                    "id": "D",
+                    "content": "Review → Pictures"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để chèn hình ảnh: Vào tab Insert → Pictures, sau đó chọn hình ảnh từ máy tính hoặc Online Pictures."
+        },
+        {
+            "id": 25,
             "question": "Trong PowerPoint, để chèn hình ảnh vào slide, ta vào tab nào?",
             "options": [
                 {
@@ -148,7 +268,55 @@
             "explain": "Để chèn video: Vào tab Insert → Video, sau đó chọn video từ máy tính hoặc Online Video."
         },
         {
+            "id": 26,
+            "question": "Trong PowerPoint, để chèn video vào slide, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert → Video"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Video"
+                },
+                {
+                    "id": "C",
+                    "content": "View → Video"
+                },
+                {
+                    "id": "D",
+                    "content": "Review → Video"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để chèn video: Vào tab Insert → Video, sau đó chọn video từ máy tính hoặc Online Video."
+        },
+        {
             "id": 7,
+            "question": "Trong PowerPoint, để chèn âm thanh vào slide, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert → Audio"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Audio"
+                },
+                {
+                    "id": "C",
+                    "content": "View → Audio"
+                },
+                {
+                    "id": "D",
+                    "content": "Review → Audio"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để chèn âm thanh: Vào tab Insert → Audio, sau đó chọn file âm thanh từ máy tính hoặc Record Audio."
+        },
+        {
+            "id": 27,
             "question": "Trong PowerPoint, để chèn âm thanh vào slide, ta vào tab nào?",
             "options": [
                 {
@@ -196,7 +364,55 @@
             "explain": "Để thay đổi layout: Vào tab Home → Layout, sau đó chọn layout phù hợp."
         },
         {
+            "id": 28,
+            "question": "Trong PowerPoint, để thay đổi layout (bố cục) của slide, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Home → Layout"
+                },
+                {
+                    "id": "B",
+                    "content": "Insert → Layout"
+                },
+                {
+                    "id": "C",
+                    "content": "View → Layout"
+                },
+                {
+                    "id": "D",
+                    "content": "Review → Layout"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để thay đổi layout: Vào tab Home → Layout, sau đó chọn layout phù hợp."
+        },
+        {
             "id": 9,
+            "question": "Trong PowerPoint, để áp dụng theme (giao diện) cho toàn bộ slide, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Design → Themes"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Themes"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert → Themes"
+                },
+                {
+                    "id": "D",
+                    "content": "View → Themes"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để áp dụng theme: Vào tab Design → Themes, sau đó chọn theme phù hợp."
+        },
+        {
+            "id": 29,
             "question": "Trong PowerPoint, để áp dụng theme (giao diện) cho toàn bộ slide, ta vào tab nào?",
             "options": [
                 {
@@ -244,7 +460,55 @@
             "explain": "Để thêm hiệu ứng chuyển slide: Vào tab Transitions → Transition to This Slide, sau đó chọn hiệu ứng."
         },
         {
+            "id": 30,
+            "question": "Trong PowerPoint, để thêm hiệu ứng chuyển slide (transition), ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Transitions → Transition to This Slide"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Transitions"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert → Transitions"
+                },
+                {
+                    "id": "D",
+                    "content": "View → Transitions"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để thêm hiệu ứng chuyển slide: Vào tab Transitions → Transition to This Slide, sau đó chọn hiệu ứng."
+        },
+        {
             "id": 11,
+            "question": "Trong PowerPoint, để thêm hiệu ứng cho đối tượng (animation), ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Animations → Animation"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Animations"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert → Animations"
+                },
+                {
+                    "id": "D",
+                    "content": "View → Animations"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để thêm hiệu ứng cho đối tượng: Vào tab Animations → Animation, sau đó chọn hiệu ứng phù hợp."
+        },
+        {
+            "id": 31,
             "question": "Trong PowerPoint, để thêm hiệu ứng cho đối tượng (animation), ta vào tab nào?",
             "options": [
                 {
@@ -292,7 +556,55 @@
             "explain": "Khi trình chiếu: Phím mũi tên phải (→), Space, hoặc Enter để chuyển sang slide tiếp theo."
         },
         {
+            "id": 32,
+            "question": "Trong PowerPoint, khi đang trình chiếu, phím nào để chuyển sang slide tiếp theo?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phím mũi tên phải (→), Space, hoặc Enter"
+                },
+                {
+                    "id": "B",
+                    "content": "Phím mũi tên trái (←)"
+                },
+                {
+                    "id": "C",
+                    "content": "Phím Home"
+                },
+                {
+                    "id": "D",
+                    "content": "Phím End"
+                }
+            ],
+            "answer": "A",
+            "explain": "Khi trình chiếu: Phím mũi tên phải (→), Space, hoặc Enter để chuyển sang slide tiếp theo."
+        },
+        {
             "id": 13,
+            "question": "Trong PowerPoint, khi đang trình chiếu, phím nào để quay lại slide trước?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phím mũi tên trái (←) hoặc Backspace"
+                },
+                {
+                    "id": "B",
+                    "content": "Phím mũi tên phải (→)"
+                },
+                {
+                    "id": "C",
+                    "content": "Phím Space"
+                },
+                {
+                    "id": "D",
+                    "content": "Phím Enter"
+                }
+            ],
+            "answer": "A",
+            "explain": "Khi trình chiếu: Phím mũi tên trái (←) hoặc Backspace để quay lại slide trước."
+        },
+        {
+            "id": 33,
             "question": "Trong PowerPoint, khi đang trình chiếu, phím nào để quay lại slide trước?",
             "options": [
                 {
@@ -340,7 +652,55 @@
             "explain": "Để chèn số trang: Vào tab Insert → Slide Number, sau đó chọn vị trí và định dạng."
         },
         {
+            "id": 34,
+            "question": "Trong PowerPoint, để chèn số trang vào slide, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert → Slide Number"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Slide Number"
+                },
+                {
+                    "id": "C",
+                    "content": "View → Slide Number"
+                },
+                {
+                    "id": "D",
+                    "content": "Review → Slide Number"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để chèn số trang: Vào tab Insert → Slide Number, sau đó chọn vị trí và định dạng."
+        },
+        {
             "id": 15,
+            "question": "File PowerPoint có phần mở rộng mặc định là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": ".pptx (PowerPoint 2007 trở lên) hoặc .ppt (PowerPoint 2003 trở xuống)"
+                },
+                {
+                    "id": "B",
+                    "content": ".docx"
+                },
+                {
+                    "id": "C",
+                    "content": ".xlsx"
+                },
+                {
+                    "id": "D",
+                    "content": ".pdf"
+                }
+            ],
+            "answer": "A",
+            "explain": "File PowerPoint có phần mở rộng .pptx (PowerPoint 2007 trở lên) hoặc .ppt (PowerPoint 2003 trở xuống)."
+        },
+        {
+            "id": 35,
             "question": "File PowerPoint có phần mở rộng mặc định là gì?",
             "options": [
                 {
@@ -388,7 +748,55 @@
             "explain": "Để xem tất cả slide ở dạng thu nhỏ: Vào tab View → Slide Sorter. Chế độ này giúp sắp xếp và quản lý slide dễ dàng."
         },
         {
+            "id": 36,
+            "question": "Trong PowerPoint, để xem tất cả slide ở dạng thu nhỏ (slide sorter), ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "View → Slide Sorter"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Slide Sorter"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert → Slide Sorter"
+                },
+                {
+                    "id": "D",
+                    "content": "Review → Slide Sorter"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để xem tất cả slide ở dạng thu nhỏ: Vào tab View → Slide Sorter. Chế độ này giúp sắp xếp và quản lý slide dễ dàng."
+        },
+        {
             "id": 17,
+            "question": "Trong PowerPoint, để chèn bảng vào slide, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert → Table"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Table"
+                },
+                {
+                    "id": "C",
+                    "content": "View → Table"
+                },
+                {
+                    "id": "D",
+                    "content": "Review → Table"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để chèn bảng: Vào tab Insert → Table, sau đó chọn số hàng và cột."
+        },
+        {
+            "id": 37,
             "question": "Trong PowerPoint, để chèn bảng vào slide, ta vào tab nào?",
             "options": [
                 {
@@ -436,6 +844,30 @@
             "explain": "Để chèn biểu đồ: Vào tab Insert → Chart, sau đó chọn loại biểu đồ phù hợp."
         },
         {
+            "id": 38,
+            "question": "Trong PowerPoint, để chèn biểu đồ (chart) vào slide, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert → Chart"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Chart"
+                },
+                {
+                    "id": "C",
+                    "content": "View → Chart"
+                },
+                {
+                    "id": "D",
+                    "content": "Review → Chart"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để chèn biểu đồ: Vào tab Insert → Chart, sau đó chọn loại biểu đồ phù hợp."
+        },
+        {
             "id": 19,
             "question": "Trong PowerPoint, để chèn hình dạng (shape) vào slide, ta vào tab nào?",
             "options": [
@@ -460,7 +892,55 @@
             "explain": "Để chèn hình dạng: Vào tab Insert → Shapes, sau đó chọn hình dạng phù hợp."
         },
         {
+            "id": 39,
+            "question": "Trong PowerPoint, để chèn hình dạng (shape) vào slide, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert → Shapes"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Shapes"
+                },
+                {
+                    "id": "C",
+                    "content": "View → Shapes"
+                },
+                {
+                    "id": "D",
+                    "content": "Review → Shapes"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để chèn hình dạng: Vào tab Insert → Shapes, sau đó chọn hình dạng phù hợp."
+        },
+        {
             "id": 20,
+            "question": "Trong PowerPoint, để xuất file sang PDF, ta làm thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "File → Export → Create PDF/XPS Document"
+                },
+                {
+                    "id": "B",
+                    "content": "File → Save As → chọn PDF"
+                },
+                {
+                    "id": "C",
+                    "content": "File → Print → Save as PDF"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các phương án trên đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Có nhiều cách xuất PowerPoint sang PDF: File → Export → Create PDF/XPS, File → Save As → chọn PDF, hoặc File → Print → Save as PDF."
+        },
+        {
+            "id": 40,
             "question": "Trong PowerPoint, để xuất file sang PDF, ta làm thế nào?",
             "options": [
                 {
