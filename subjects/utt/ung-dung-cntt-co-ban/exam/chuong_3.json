@@ -1,0 +1,487 @@
+{
+    "title": "MODULE 3: XỬ LÝ VĂN BẢN CƠ BẢN",
+    "chapter": 3,
+    "total_questions": 20,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Phím tắt Ctrl+S trong Microsoft Word có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lưu tài liệu (Save)"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở tài liệu (Open)"
+                },
+                {
+                    "id": "C",
+                    "content": "In tài liệu (Print)"
+                },
+                {
+                    "id": "D",
+                    "content": "Đóng tài liệu (Close)"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+S là phím tắt để lưu (Save) tài liệu trong Microsoft Word và các ứng dụng Office khác."
+        },
+        {
+            "id": 2,
+            "question": "Phím tắt Ctrl+B trong Word có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "In đậm (Bold) văn bản đã chọn"
+                },
+                {
+                    "id": "B",
+                    "content": "In nghiêng (Italic)"
+                },
+                {
+                    "id": "C",
+                    "content": "Gạch chân (Underline)"
+                },
+                {
+                    "id": "D",
+                    "content": "Sao chép"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+B: In đậm (Bold) văn bản đã chọn. B là viết tắt của Bold."
+        },
+        {
+            "id": 3,
+            "question": "Phím tắt Ctrl+I trong Word có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "In nghiêng (Italic) văn bản đã chọn"
+                },
+                {
+                    "id": "B",
+                    "content": "In đậm (Bold)"
+                },
+                {
+                    "id": "C",
+                    "content": "Gạch chân (Underline)"
+                },
+                {
+                    "id": "D",
+                    "content": "Căn giữa"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+I: In nghiêng (Italic) văn bản đã chọn. I là viết tắt của Italic."
+        },
+        {
+            "id": 4,
+            "question": "Phím tắt Ctrl+U trong Word có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Gạch chân (Underline) văn bản đã chọn"
+                },
+                {
+                    "id": "B",
+                    "content": "In đậm (Bold)"
+                },
+                {
+                    "id": "C",
+                    "content": "In nghiêng (Italic)"
+                },
+                {
+                    "id": "D",
+                    "content": "Căn trái"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+U: Gạch chân (Underline) văn bản đã chọn. U là viết tắt của Underline."
+        },
+        {
+            "id": 5,
+            "question": "Phím tắt Ctrl+Z trong Word có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hoàn tác (Undo) thao tác vừa thực hiện"
+                },
+                {
+                    "id": "B",
+                    "content": "Làm lại (Redo)"
+                },
+                {
+                    "id": "C",
+                    "content": "Sao chép"
+                },
+                {
+                    "id": "D",
+                    "content": "Dán"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+Z: Hoàn tác (Undo) thao tác vừa thực hiện. Có thể nhấn nhiều lần để hoàn tác nhiều thao tác."
+        },
+        {
+            "id": 6,
+            "question": "Phím tắt Ctrl+Y trong Word có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Làm lại (Redo) thao tác đã hoàn tác"
+                },
+                {
+                    "id": "B",
+                    "content": "Hoàn tác (Undo)"
+                },
+                {
+                    "id": "C",
+                    "content": "Sao chép"
+                },
+                {
+                    "id": "D",
+                    "content": "Cắt"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+Y: Làm lại (Redo) thao tác đã hoàn tác bằng Ctrl+Z."
+        },
+        {
+            "id": 7,
+            "question": "Phím tắt Ctrl+C trong Word có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sao chép (Copy) văn bản đã chọn"
+                },
+                {
+                    "id": "B",
+                    "content": "Cắt (Cut)"
+                },
+                {
+                    "id": "C",
+                    "content": "Dán (Paste)"
+                },
+                {
+                    "id": "D",
+                    "content": "Xóa"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+C: Sao chép (Copy) văn bản đã chọn vào clipboard."
+        },
+        {
+            "id": 8,
+            "question": "Phím tắt Ctrl+V trong Word có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dán (Paste) nội dung từ clipboard"
+                },
+                {
+                    "id": "B",
+                    "content": "Sao chép"
+                },
+                {
+                    "id": "C",
+                    "content": "Cắt"
+                },
+                {
+                    "id": "D",
+                    "content": "Xóa"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+V: Dán (Paste) nội dung đã sao chép hoặc cắt từ clipboard vào vị trí con trỏ."
+        },
+        {
+            "id": 9,
+            "question": "Phím tắt Ctrl+X trong Word có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cắt (Cut) văn bản đã chọn"
+                },
+                {
+                    "id": "B",
+                    "content": "Sao chép"
+                },
+                {
+                    "id": "C",
+                    "content": "Dán"
+                },
+                {
+                    "id": "D",
+                    "content": "Xóa"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+X: Cắt (Cut) văn bản đã chọn và lưu vào clipboard."
+        },
+        {
+            "id": 10,
+            "question": "Phím tắt Ctrl+A trong Word có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn tất cả (Select All) nội dung trong tài liệu"
+                },
+                {
+                    "id": "B",
+                    "content": "Căn giữa"
+                },
+                {
+                    "id": "C",
+                    "content": "In đậm"
+                },
+                {
+                    "id": "D",
+                    "content": "Lưu tài liệu"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+A: Chọn tất cả (Select All) nội dung trong tài liệu."
+        },
+        {
+            "id": 11,
+            "question": "Phím tắt Ctrl+F trong Word có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tìm kiếm (Find) văn bản trong tài liệu"
+                },
+                {
+                    "id": "B",
+                    "content": "Thay thế (Replace)"
+                },
+                {
+                    "id": "C",
+                    "content": "Lưu tài liệu"
+                },
+                {
+                    "id": "D",
+                    "content": "Mở tài liệu"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+F: Mở hộp thoại Tìm kiếm (Find) để tìm văn bản trong tài liệu."
+        },
+        {
+            "id": 12,
+            "question": "Phím tắt Ctrl+H trong Word có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thay thế (Find and Replace) văn bản"
+                },
+                {
+                    "id": "B",
+                    "content": "Tìm kiếm"
+                },
+                {
+                    "id": "C",
+                    "content": "Lưu tài liệu"
+                },
+                {
+                    "id": "D",
+                    "content": "In tài liệu"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+H: Mở hộp thoại Tìm và Thay thế (Find and Replace) để tìm và thay thế văn bản."
+        },
+        {
+            "id": 13,
+            "question": "Phím tắt Ctrl+P trong Word có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "In tài liệu (Print)"
+                },
+                {
+                    "id": "B",
+                    "content": "Lưu tài liệu"
+                },
+                {
+                    "id": "C",
+                    "content": "Mở tài liệu"
+                },
+                {
+                    "id": "D",
+                    "content": "Đóng tài liệu"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+P: Mở hộp thoại In (Print) để in tài liệu."
+        },
+        {
+            "id": 14,
+            "question": "Để căn giữa văn bản trong Word, ta sử dụng phím tắt nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl+E"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl+L"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl+R"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl+J"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+E: Căn giữa (Center) văn bản. Ctrl+L: Căn trái, Ctrl+R: Căn phải, Ctrl+J: Căn đều hai bên."
+        },
+        {
+            "id": 15,
+            "question": "Để căn trái văn bản trong Word, ta sử dụng phím tắt nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl+L"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl+E"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl+R"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl+J"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+L: Căn trái (Left align) văn bản."
+        },
+        {
+            "id": 16,
+            "question": "Để căn phải văn bản trong Word, ta sử dụng phím tắt nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ctrl+R"
+                },
+                {
+                    "id": "B",
+                    "content": "Ctrl+L"
+                },
+                {
+                    "id": "C",
+                    "content": "Ctrl+E"
+                },
+                {
+                    "id": "D",
+                    "content": "Ctrl+J"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+R: Căn phải (Right align) văn bản."
+        },
+        {
+            "id": 17,
+            "question": "Trong Word, để chèn số trang tự động, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert → Page Number"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Page Number"
+                },
+                {
+                    "id": "C",
+                    "content": "View → Page Number"
+                },
+                {
+                    "id": "D",
+                    "content": "Review → Page Number"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để chèn số trang: Vào tab Insert → Page Number, sau đó chọn vị trí và kiểu số trang."
+        },
+        {
+            "id": 18,
+            "question": "Trong Word, để chèn bảng, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert → Table"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Table"
+                },
+                {
+                    "id": "C",
+                    "content": "View → Table"
+                },
+                {
+                    "id": "D",
+                    "content": "Review → Table"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để chèn bảng: Vào tab Insert → Table, sau đó chọn số hàng và cột."
+        },
+        {
+            "id": 19,
+            "question": "Trong Word, để chèn hình ảnh, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert → Pictures"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Pictures"
+                },
+                {
+                    "id": "C",
+                    "content": "View → Pictures"
+                },
+                {
+                    "id": "D",
+                    "content": "Review → Pictures"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để chèn hình ảnh: Vào tab Insert → Pictures, sau đó chọn hình ảnh từ máy tính hoặc Online Pictures."
+        },
+        {
+            "id": 20,
+            "question": "File Word có phần mở rộng mặc định là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": ".docx (Word 2007 trở lên) hoặc .doc (Word 2003 trở xuống)"
+                },
+                {
+                    "id": "B",
+                    "content": ".txt"
+                },
+                {
+                    "id": "C",
+                    "content": ".pdf"
+                },
+                {
+                    "id": "D",
+                    "content": ".xlsx"
+                }
+            ],
+            "answer": "A",
+            "explain": "File Word có phần mở rộng .docx (Word 2007 trở lên) hoặc .doc (Word 2003 trở xuống)."
+        }
+    ]
+}

@@ -34,5 +34,14 @@
         "school": "Đại học Công nghệ GTVT",
         "shortSchool": "UTT",
         "path": "subjects/utt/log"
+    },
+    {
+        "id": "ung-dung-cntt-co-ban",
+        "name": "Ứng dụng công nghệ thông tin cơ bản",
+        "shortName": "CNTT cơ bản",
+        "icon": "💻",
+        "school": "Đại học Công nghệ GTVT",
+        "shortSchool": "UTT",
+        "path": "subjects/utt/ung-dung-cntt-co-ban"
     }
 ]
