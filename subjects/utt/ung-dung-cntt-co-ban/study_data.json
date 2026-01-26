@@ -1,0 +1,151 @@
+[
+    {
+        "title": "Module 1: Hiểu biết cơ bản về CNTT",
+        "icon": "💻",
+        "chapters": [1],
+        "videos": [],
+        "content": "<h3>1. Thông tin và dữ liệu</h3><p><strong>Thông tin</strong> là sự hiểu biết của con người về một thực thể nào đó, có thể thu thập, lưu trữ, xử lý được và có thể được thể hiện dưới dạng các tín hiệu như chữ số, chữ viết, âm thanh, dòng điện...</p><p><strong>Dữ liệu</strong> là thông tin đã được đưa vào máy tính. Dữ liệu sau khi tập hợp lại và xử lý sẽ lại cho ta thông tin.</p><h3>2. Đơn vị đo thông tin</h3><ul><li><strong>BIT (BInary digiT)</strong>: Đơn vị cơ sở, dùng 2 ký tự 0 và 1</li><li><strong>1 Byte = 8 bit</strong></li><li><strong>1 KB (Kilobyte) = 1024 bytes</strong></li><li><strong>1 MB (Megabyte) = 1024 KB</strong></li><li><strong>1 GB (Gigabyte) = 1024 MB</strong></li></ul><h3>3. Hệ đếm</h3><ul><li><strong>Hệ nhị phân (cơ số 2)</strong>: Dùng 2 ký tự 0 và 1 - được sử dụng trong máy tính</li><li><strong>Hệ hexa (cơ số 16)</strong>: Dùng 16 ký tự 0-9, A-F</li></ul><h3>4. Phần cứng và phần mềm</h3><p><strong>Phần cứng</strong>: CPU, RAM, ổ cứng, mainboard...</p><p><strong>Phần mềm hệ thống</strong>: Windows, Linux (hệ điều hành)</p><p><strong>Phần mềm ứng dụng</strong>: Word, Excel, PowerPoint...</p><h3>5. Mạng máy tính</h3><p>Là tập hợp các máy tính được kết nối với nhau để chia sẻ tài nguyên và thông tin.</p><h3>6. Bảo mật và an toàn thông tin</h3><ul><li><strong>Virus</strong>: Chương trình độc hại có khả năng lây lan</li><li><strong>Worm</strong>: Tự lây lan mà không cần tác động người dùng</li><li><strong>Spyware</strong>: Phần mềm gián điệp</li><li><strong>Ransomware</strong>: Phần mềm tống tiền</li></ul><h3>7. Bản quyền</h3><p>Bản quyền (copyright) là quyền của tác giả với sản phẩm để bảo vệ tài sản trí tuệ. Luật Sở hữu trí tuệ Việt Nam có hiệu lực từ 01/07/2006.</p>",
+        "goals": [
+            "Hiểu được khái niệm thông tin, dữ liệu và đơn vị đo",
+            "Nắm được hệ đếm nhị phân và hexa",
+            "Hiểu về phần cứng, phần mềm và mạng máy tính",
+            "Biết cách phòng chống virus và bảo vệ dữ liệu",
+            "Hiểu về bản quyền và sở hữu trí tuệ"
+        ],
+        "tips": [
+            "1 Byte = 8 bit, 1 KB = 1024 bytes (không phải 1000)",
+            "Hệ nhị phân dùng 2 ký tự: 0 và 1",
+            "CPU là bộ não của máy tính",
+            "RAM càng lớn, máy tính chạy càng mượt",
+            "Không nên sử dụng phần mềm crack vì dễ bị nhiễm virus",
+            "Luôn sao lưu dữ liệu quan trọng"
+        ],
+        "questionIds": {
+            "1": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]
+        }
+    },
+    {
+        "title": "Module 2: Sử dụng máy tính cơ bản",
+        "icon": "🖥️",
+        "chapters": [2],
+        "videos": [],
+        "content": "<h3>1. Hệ điều hành Windows</h3><p>Windows là hệ điều hành phổ biến nhất, được phát triển bởi Microsoft.</p><h3>2. Phím tắt quan trọng</h3><ul><li><strong>Windows + D</strong>: Thu nhỏ tất cả cửa sổ, hiển thị Desktop</li><li><strong>Windows + E</strong>: Mở File Explorer</li><li><strong>Ctrl + Shift + Esc</strong>: Mở Task Manager</li><li><strong>Ctrl + C</strong>: Sao chép</li><li><strong>Ctrl + V</strong>: Dán</li><li><strong>Ctrl + X</strong>: Cắt</li><li><strong>Ctrl + Z</strong>: Hoàn tác</li><li><strong>Ctrl + A</strong>: Chọn tất cả</li></ul><h3>3. Quản lý file và thư mục</h3><ul><li><strong>F2</strong>: Đổi tên file/thư mục</li><li><strong>Ctrl + Shift + N</strong>: Tạo thư mục mới</li><li><strong>Shift + Delete</strong>: Xóa vĩnh viễn (không vào Recycle Bin)</li><li><strong>Ctrl + Click</strong>: Chọn nhiều file không liên tiếp</li><li><strong>Shift + Click</strong>: Chọn nhiều file liên tiếp</li></ul><h3>4. Các thư mục quan trọng</h3><ul><li><strong>C:\\Windows</strong>: File hệ thống (không nên xóa)</li><li><strong>C:\\Users</strong>: Thư mục người dùng</li><li><strong>C:\\Program Files</strong>: Chương trình đã cài đặt</li></ul><h3>5. Recycle Bin (Thùng rác)</h3><p>Lưu trữ tạm thời các file đã xóa. Có thể khôi phục hoặc xóa vĩnh viễn.</p><h3>6. Control Panel và Task Manager</h3><p><strong>Control Panel</strong>: Cấu hình hệ thống</p><p><strong>Task Manager</strong>: Quản lý tiến trình và hiệu suất</p>",
+        "goals": [
+            "Sử dụng thành thạo các phím tắt Windows",
+            "Quản lý file và thư mục hiệu quả",
+            "Sử dụng được File Explorer",
+            "Biết cách quản lý tiến trình với Task Manager"
+        ],
+        "tips": [
+            "Windows + D: Thu nhỏ tất cả cửa sổ nhanh nhất",
+            "Ctrl + Shift + Esc: Mở Task Manager trực tiếp",
+            "F2: Đổi tên file nhanh nhất",
+            "Shift + Delete: Xóa vĩnh viễn, không thể hoàn tác",
+            "Ctrl + Click: Chọn nhiều file rời rạc",
+            "Không xóa file trong thư mục C:\\Windows"
+        ],
+        "questionIds": {
+            "2": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+        }
+    },
+    {
+        "title": "Module 3: Xử lý văn bản cơ bản",
+        "icon": "📝",
+        "chapters": [3],
+        "videos": [],
+        "content": "<h3>1. Microsoft Word</h3><p>Phần mềm soạn thảo văn bản phổ biến nhất hiện nay.</p><h3>2. Phím tắt định dạng</h3><ul><li><strong>Ctrl + B</strong>: In đậm (Bold)</li><li><strong>Ctrl + I</strong>: In nghiêng (Italic)</li><li><strong>Ctrl + U</strong>: Gạch chân (Underline)</li><li><strong>Ctrl + E</strong>: Căn giữa (Center)</li><li><strong>Ctrl + L</strong>: Căn trái (Left)</li><li><strong>Ctrl + R</strong>: Căn phải (Right)</li><li><strong>Ctrl + J</strong>: Căn đều hai bên (Justify)</li></ul><h3>3. Phím tắt thao tác</h3><ul><li><strong>Ctrl + S</strong>: Lưu tài liệu</li><li><strong>Ctrl + Z</strong>: Hoàn tác</li><li><strong>Ctrl + Y</strong>: Làm lại</li><li><strong>Ctrl + C</strong>: Sao chép</li><li><strong>Ctrl + V</strong>: Dán</li><li><strong>Ctrl + X</strong>: Cắt</li><li><strong>Ctrl + A</strong>: Chọn tất cả</li><li><strong>Ctrl + F</strong>: Tìm kiếm</li><li><strong>Ctrl + H</strong>: Tìm và thay thế</li><li><strong>Ctrl + P</strong>: In tài liệu</li></ul><h3>4. Chèn đối tượng</h3><ul><li><strong>Insert → Page Number</strong>: Chèn số trang</li><li><strong>Insert → Table</strong>: Chèn bảng</li><li><strong>Insert → Pictures</strong>: Chèn hình ảnh</li></ul><h3>5. Định dạng file</h3><p>File Word có phần mở rộng <strong>.docx</strong> (Word 2007+) hoặc <strong>.doc</strong> (Word 2003 trở xuống).</p>",
+        "goals": [
+            "Sử dụng thành thạo các phím tắt Word",
+            "Định dạng văn bản chuyên nghiệp",
+            "Chèn và chỉnh sửa bảng, hình ảnh",
+            "Tạo mục lục tự động",
+            "Sử dụng tìm kiếm và thay thế"
+        ],
+        "tips": [
+            "Ctrl + S: Lưu thường xuyên để tránh mất dữ liệu",
+            "Ctrl + Z: Hoàn tác nhiều lần được",
+            "Ctrl + F: Tìm kiếm nhanh trong tài liệu dài",
+            "Ctrl + H: Thay thế hàng loạt rất tiện",
+            "Insert → Page Number: Chèn số trang tự động",
+            "Sử dụng Styles để định dạng nhất quán"
+        ],
+        "questionIds": {
+            "3": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+        }
+    },
+    {
+        "title": "Module 4: Sử dụng bảng tính cơ bản",
+        "icon": "📊",
+        "chapters": [4],
+        "videos": [],
+        "content": "<h3>1. Microsoft Excel</h3><p>Phần mềm bảng tính mạnh mẽ, dùng để tính toán và phân tích dữ liệu.</p><h3>2. Các hàm cơ bản</h3><ul><li><strong>=SUM(A1:A10)</strong>: Tính tổng</li><li><strong>=AVERAGE(A1:A10)</strong>: Tính trung bình</li><li><strong>=MAX(A1:A10)</strong>: Tìm giá trị lớn nhất</li><li><strong>=MIN(A1:A10)</strong>: Tìm giá trị nhỏ nhất</li><li><strong>=COUNT(A1:A10)</strong>: Đếm số ô chứa số</li><li><strong>=COUNTA(A1:A10)</strong>: Đếm tất cả ô không rỗng</li><li><strong>=IF(điều_kiện, giá_trị_đúng, giá_trị_sai)</strong>: Hàm điều kiện</li></ul><h3>3. Phím tắt quan trọng</h3><ul><li><strong>F2</strong>: Chỉnh sửa ô</li><li><strong>Ctrl + Enter</strong>: Nhập cùng giá trị vào nhiều ô</li><li><strong>Alt + Enter</strong>: Xuống dòng trong ô</li><li><strong>Alt + =</strong>: Tự động tính tổng</li></ul><h3>4. Tham chiếu</h3><ul><li><strong>A1</strong>: Tham chiếu tương đối</li><li><strong>$A$1</strong>: Tham chiếu tuyệt đối (cố định cả cột và hàng)</li><li><strong>$A1</strong>: Cố định cột</li><li><strong>A$1</strong>: Cố định hàng</li></ul><h3>5. Chức năng khác</h3><ul><li><strong>Insert → Chart</strong>: Tạo biểu đồ</li><li><strong>Data → Sort</strong>: Sắp xếp dữ liệu</li><li><strong>Data → Filter</strong>: Lọc dữ liệu</li></ul><h3>6. Định dạng file</h3><p>File Excel có phần mở rộng <strong>.xlsx</strong> (Excel 2007+) hoặc <strong>.xls</strong> (Excel 2003 trở xuống).</p>",
+        "goals": [
+            "Sử dụng thành thạo các hàm cơ bản (SUM, AVERAGE, IF...)",
+            "Hiểu về tham chiếu tương đối và tuyệt đối",
+            "Tạo và chỉnh sửa biểu đồ",
+            "Sắp xếp và lọc dữ liệu",
+            "Sử dụng công thức phức tạp"
+        ],
+        "tips": [
+            "=SUM(A1:A10): Tính tổng phạm vi",
+            "=IF(điều_kiện, đúng, sai): Hàm điều kiện rất hữu ích",
+            "$A$1: Cố định cả cột và hàng khi copy công thức",
+            "Alt + =: Tự động tính tổng nhanh",
+            "F2: Chỉnh sửa công thức trong ô",
+            "Data → Filter: Lọc dữ liệu rất mạnh"
+        ],
+        "questionIds": {
+            "4": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+        }
+    },
+    {
+        "title": "Module 5: Sử dụng trình chiếu cơ bản",
+        "icon": "📽️",
+        "chapters": [5],
+        "videos": [],
+        "content": "<h3>1. Microsoft PowerPoint</h3><p>Phần mềm tạo bài thuyết trình chuyên nghiệp.</p><h3>2. Phím tắt trình chiếu</h3><ul><li><strong>F5</strong>: Bắt đầu trình chiếu từ slide đầu tiên</li><li><strong>Shift + F5</strong>: Bắt đầu từ slide hiện tại</li><li><strong>ESC</strong>: Thoát trình chiếu</li><li><strong>→, Space, Enter</strong>: Slide tiếp theo</li><li><strong>←, Backspace</strong>: Slide trước</li></ul><h3>3. Phím tắt chỉnh sửa</h3><ul><li><strong>Ctrl + M</strong>: Tạo slide mới</li><li><strong>Ctrl + S</strong>: Lưu file</li></ul><h3>4. Chèn đối tượng</h3><ul><li><strong>Insert → Pictures</strong>: Chèn hình ảnh</li><li><strong>Insert → Video</strong>: Chèn video</li><li><strong>Insert → Audio</strong>: Chèn âm thanh</li><li><strong>Insert → Table</strong>: Chèn bảng</li><li><strong>Insert → Chart</strong>: Chèn biểu đồ</li><li><strong>Insert → Shapes</strong>: Chèn hình dạng</li><li><strong>Insert → Slide Number</strong>: Chèn số trang</li></ul><h3>5. Thiết kế</h3><ul><li><strong>Home → Layout</strong>: Thay đổi bố cục slide</li><li><strong>Design → Themes</strong>: Áp dụng theme</li><li><strong>Transitions</strong>: Hiệu ứng chuyển slide</li><li><strong>Animations</strong>: Hiệu ứng cho đối tượng</li></ul><h3>6. Xem và quản lý</h3><ul><li><strong>View → Slide Sorter</strong>: Xem tất cả slide thu nhỏ</li></ul><h3>7. Định dạng file</h3><p>File PowerPoint có phần mở rộng <strong>.pptx</strong> (PowerPoint 2007+) hoặc <strong>.ppt</strong> (PowerPoint 2003 trở xuống).</p>",
+        "goals": [
+            "Tạo slide trình chiếu chuyên nghiệp",
+            "Sử dụng theme và layout hiệu quả",
+            "Thêm hiệu ứng transition và animation phù hợp",
+            "Chèn và chỉnh sửa hình ảnh, video, biểu đồ",
+            "Trình chiếu tự tin và mượt mà"
+        ],
+        "tips": [
+            "F5: Bắt đầu trình chiếu từ đầu",
+            "Shift + F5: Bắt đầu từ slide hiện tại (rất tiện khi chỉnh sửa)",
+            "ESC: Thoát trình chiếu bất cứ lúc nào",
+            "Ctrl + M: Tạo slide mới nhanh",
+            "Sử dụng template để tiết kiệm thời gian",
+            "Không nên dùng quá nhiều hiệu ứng, sẽ gây mất tập trung"
+        ],
+        "questionIds": {
+            "5": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+        }
+    },
+    {
+        "title": "Module 6: Sử dụng Internet cơ bản",
+        "icon": "🌐",
+        "chapters": [6],
+        "videos": [],
+        "content": "<h3>1. Internet và World Wide Web</h3><p>Internet là mạng máy tính toàn cầu, kết nối hàng tỷ thiết bị trên thế giới.</p><h3>2. URL và HTTP/HTTPS</h3><ul><li><strong>URL (Uniform Resource Locator)</strong>: Địa chỉ trang web</li><li><strong>HTTP (HyperText Transfer Protocol)</strong>: Giao thức truyền siêu văn bản</li><li><strong>HTTPS</strong>: HTTP có mã hóa SSL/TLS, an toàn hơn</li></ul><h3>3. Trình duyệt web</h3><p>Các trình duyệt phổ biến: Google Chrome, Mozilla Firefox, Microsoft Edge, Safari.</p><h3>4. Phím tắt trình duyệt</h3><ul><li><strong>Ctrl + T</strong>: Mở tab mới</li><li><strong>Ctrl + W</strong>: Đóng tab hiện tại</li><li><strong>Ctrl + R hoặc F5</strong>: Tải lại trang</li><li><strong>Ctrl + D</strong>: Thêm bookmark</li><li><strong>Ctrl + J</strong>: Mở cửa sổ Downloads</li><li><strong>Ctrl + H</strong>: Mở lịch sử duyệt web</li><li><strong>Ctrl + Shift + Delete</strong>: Xóa dữ liệu duyệt web</li></ul><h3>5. Email</h3><ul><li><strong>Email (Electronic Mail)</strong>: Thư điện tử</li><li><strong>Định dạng</strong>: tên@tên_miền (ví dụ: user@gmail.com)</li><li><strong>SMTP (Simple Mail Transfer Protocol)</strong>: Giao thức gửi email</li></ul><h3>6. Công cụ tìm kiếm</h3><p>Google, Bing, Yahoo... giúp tìm kiếm thông tin trên Internet.</p><h3>7. Bảo mật Internet</h3><ul><li><strong>Cookie</strong>: File nhỏ lưu thông tin người dùng</li><li><strong>Phishing</strong>: Lừa đảo trực tuyến qua email/website giả mạo</li><li><strong>Mật khẩu mạnh</strong>: Dùng ký tự đặc biệt, số, chữ hoa/thường</li><li><strong>HTTPS</strong>: Luôn sử dụng khi có thể</li></ul>",
+        "goals": [
+            "Sử dụng thành thạo trình duyệt web",
+            "Hiểu về URL, HTTP, HTTPS",
+            "Sử dụng email hiệu quả",
+            "Tìm kiếm thông tin trên Internet",
+            "Bảo vệ thông tin cá nhân khi online"
+        ],
+        "tips": [
+            "Ctrl + T: Mở tab mới nhanh nhất",
+            "Ctrl + Shift + Delete: Xóa dữ liệu duyệt web định kỳ",
+            "HTTPS an toàn hơn HTTP - luôn kiểm tra khi nhập thông tin nhạy cảm",
+            "Không click vào link trong email lạ",
+            "Sử dụng mật khẩu mạnh và khác nhau cho mỗi tài khoản",
+            "Bookmark các trang web quan trọng để truy cập nhanh"
+        ],
+        "questionIds": {
+            "6": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+        }
+    }
+]

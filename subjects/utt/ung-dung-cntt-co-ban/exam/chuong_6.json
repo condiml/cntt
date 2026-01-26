@@ -1,0 +1,487 @@
+{
+    "title": "MODULE 6: SỬ DỤNG INTERNET CƠ BẢN",
+    "chapter": 6,
+    "total_questions": 20,
+    "questions": [
+        {
+            "id": 1,
+            "question": "URL là viết tắt của cụm từ nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Uniform Resource Locator"
+                },
+                {
+                    "id": "B",
+                    "content": "Universal Resource Locator"
+                },
+                {
+                    "id": "C",
+                    "content": "Uniform Resource Link"
+                },
+                {
+                    "id": "D",
+                    "content": "Universal Resource Link"
+                }
+            ],
+            "answer": "A",
+            "explain": "URL là viết tắt của Uniform Resource Locator - Định vị tài nguyên thống nhất, là địa chỉ của một trang web trên Internet."
+        },
+        {
+            "id": 2,
+            "question": "HTTP là viết tắt của cụm từ nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "HyperText Transfer Protocol"
+                },
+                {
+                    "id": "B",
+                    "content": "HyperText Transport Protocol"
+                },
+                {
+                    "id": "C",
+                    "content": "HyperText Transmission Protocol"
+                },
+                {
+                    "id": "D",
+                    "content": "HyperText Transfer Process"
+                }
+            ],
+            "answer": "A",
+            "explain": "HTTP là viết tắt của HyperText Transfer Protocol - Giao thức truyền siêu văn bản, dùng để truyền tải dữ liệu trên web."
+        },
+        {
+            "id": 3,
+            "question": "HTTPS khác HTTP ở điểm nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "HTTPS có mã hóa bảo mật (SSL/TLS), an toàn hơn HTTP"
+                },
+                {
+                    "id": "B",
+                    "content": "HTTPS nhanh hơn HTTP"
+                },
+                {
+                    "id": "C",
+                    "content": "HTTPS chỉ dùng cho email"
+                },
+                {
+                    "id": "D",
+                    "content": "HTTPS không có gì khác"
+                }
+            ],
+            "answer": "A",
+            "explain": "HTTPS (HyperText Transfer Protocol Secure) có mã hóa SSL/TLS, bảo mật hơn HTTP. Nên sử dụng HTTPS khi truy cập các trang web quan trọng."
+        },
+        {
+            "id": 4,
+            "question": "Trình duyệt web (web browser) là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là phần mềm dùng để truy cập và xem các trang web trên Internet"
+                },
+                {
+                    "id": "B",
+                    "content": "Là phần mềm soạn thảo văn bản"
+                },
+                {
+                    "id": "C",
+                    "content": "Là phần mềm bảng tính"
+                },
+                {
+                    "id": "D",
+                    "content": "Là hệ điều hành"
+                }
+            ],
+            "answer": "A",
+            "explain": "Trình duyệt web là phần mềm dùng để truy cập và xem các trang web. Ví dụ: Chrome, Firefox, Edge, Safari."
+        },
+        {
+            "id": 5,
+            "question": "Email là viết tắt của cụm từ nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Electronic Mail"
+                },
+                {
+                    "id": "B",
+                    "content": "Electric Mail"
+                },
+                {
+                    "id": "C",
+                    "content": "Electronic Message"
+                },
+                {
+                    "id": "D",
+                    "content": "Electric Message"
+                }
+            ],
+            "answer": "A",
+            "explain": "Email là viết tắt của Electronic Mail - Thư điện tử, là phương thức gửi và nhận thư qua Internet."
+        },
+        {
+            "id": 6,
+            "question": "Địa chỉ email hợp lệ phải có định dạng như thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "tên@tên_miền, ví dụ: user@example.com"
+                },
+                {
+                    "id": "B",
+                    "content": "tên.tên_miền, ví dụ: user.example.com"
+                },
+                {
+                    "id": "C",
+                    "content": "tên/tên_miền, ví dụ: user/example.com"
+                },
+                {
+                    "id": "D",
+                    "content": "tên-tên_miền, ví dụ: user-example.com"
+                }
+            ],
+            "answer": "A",
+            "explain": "Địa chỉ email hợp lệ có định dạng: tên@tên_miền. Ví dụ: nguyenvana@gmail.com, student@utt.edu.vn"
+        },
+        {
+            "id": 7,
+            "question": "Phần mềm nào sau đây KHÔNG phải là trình duyệt web?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Microsoft Word"
+                },
+                {
+                    "id": "B",
+                    "content": "Google Chrome"
+                },
+                {
+                    "id": "C",
+                    "content": "Mozilla Firefox"
+                },
+                {
+                    "id": "D",
+                    "content": "Microsoft Edge"
+                }
+            ],
+            "answer": "A",
+            "explain": "Microsoft Word là phần mềm soạn thảo văn bản, không phải trình duyệt web. Chrome, Firefox, Edge là các trình duyệt web."
+        },
+        {
+            "id": 8,
+            "question": "Để tìm kiếm thông tin trên Internet, ta sử dụng công cụ gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Công cụ tìm kiếm (search engine) như Google, Bing"
+                },
+                {
+                    "id": "B",
+                    "content": "Microsoft Word"
+                },
+                {
+                    "id": "C",
+                    "content": "Microsoft Excel"
+                },
+                {
+                    "id": "D",
+                    "content": "Notepad"
+                }
+            ],
+            "answer": "A",
+            "explain": "Công cụ tìm kiếm (search engine) như Google, Bing, Yahoo giúp tìm kiếm thông tin trên Internet."
+        },
+        {
+            "id": 9,
+            "question": "Bookmark (dấu trang) trong trình duyệt dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lưu địa chỉ trang web yêu thích để truy cập nhanh sau này"
+                },
+                {
+                    "id": "B",
+                    "content": "Tải file từ Internet"
+                },
+                {
+                    "id": "C",
+                    "content": "Gửi email"
+                },
+                {
+                    "id": "D",
+                    "content": "In trang web"
+                }
+            ],
+            "answer": "A",
+            "explain": "Bookmark (dấu trang) dùng để lưu địa chỉ trang web yêu thích, giúp truy cập nhanh mà không cần nhớ URL."
+        },
+        {
+            "id": 10,
+            "question": "Phím tắt Ctrl+T trong trình duyệt có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở tab mới (New tab)"
+                },
+                {
+                    "id": "B",
+                    "content": "Đóng tab"
+                },
+                {
+                    "id": "C",
+                    "content": "Lưu trang web"
+                },
+                {
+                    "id": "D",
+                    "content": "In trang web"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+T: Mở tab mới trong trình duyệt để truy cập trang web khác."
+        },
+        {
+            "id": 11,
+            "question": "Phím tắt Ctrl+W trong trình duyệt có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đóng tab hiện tại"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở tab mới"
+                },
+                {
+                    "id": "C",
+                    "content": "Lưu trang web"
+                },
+                {
+                    "id": "D",
+                    "content": "Tải lại trang"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+W: Đóng tab hiện tại trong trình duyệt."
+        },
+        {
+            "id": 12,
+            "question": "Phím tắt Ctrl+R hoặc F5 trong trình duyệt có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tải lại (Refresh) trang web"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở tab mới"
+                },
+                {
+                    "id": "C",
+                    "content": "Đóng tab"
+                },
+                {
+                    "id": "D",
+                    "content": "Lưu trang web"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+R hoặc F5: Tải lại (Refresh) trang web hiện tại để cập nhật nội dung mới nhất."
+        },
+        {
+            "id": 13,
+            "question": "Phím tắt Ctrl+D trong trình duyệt có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thêm bookmark (dấu trang) cho trang hiện tại"
+                },
+                {
+                    "id": "B",
+                    "content": "Tải file"
+                },
+                {
+                    "id": "C",
+                    "content": "In trang"
+                },
+                {
+                    "id": "D",
+                    "content": "Đóng tab"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+D: Thêm bookmark (dấu trang) cho trang web hiện tại."
+        },
+        {
+            "id": 14,
+            "question": "Phím tắt Ctrl+J trong trình duyệt có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở cửa sổ quản lý file đã tải (Downloads)"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở tab mới"
+                },
+                {
+                    "id": "C",
+                    "content": "Đóng tab"
+                },
+                {
+                    "id": "D",
+                    "content": "Lưu trang"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+J: Mở cửa sổ quản lý các file đã tải xuống (Downloads) trong trình duyệt."
+        },
+        {
+            "id": 15,
+            "question": "Phím tắt Ctrl+H trong trình duyệt có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở lịch sử duyệt web (History)"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở bookmark"
+                },
+                {
+                    "id": "C",
+                    "content": "Tải lại trang"
+                },
+                {
+                    "id": "D",
+                    "content": "Đóng tab"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+H: Mở lịch sử duyệt web (History) để xem các trang đã truy cập trước đó."
+        },
+        {
+            "id": 16,
+            "question": "Phím tắt Ctrl+Shift+Delete trong trình duyệt có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở cửa sổ xóa dữ liệu duyệt web (Clear browsing data)"
+                },
+                {
+                    "id": "B",
+                    "content": "Xóa bookmark"
+                },
+                {
+                    "id": "C",
+                    "content": "Đóng tất cả tab"
+                },
+                {
+                    "id": "D",
+                    "content": "Tải lại trang"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+Shift+Delete: Mở cửa sổ xóa dữ liệu duyệt web như lịch sử, cookie, cache."
+        },
+        {
+            "id": 17,
+            "question": "Cookie trong trình duyệt là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là các file nhỏ lưu trữ thông tin về người dùng trên máy tính"
+                },
+                {
+                    "id": "B",
+                    "content": "Là virus máy tính"
+                },
+                {
+                    "id": "C",
+                    "content": "Là phần mềm độc hại"
+                },
+                {
+                    "id": "D",
+                    "content": "Là file tải xuống"
+                }
+            ],
+            "answer": "A",
+            "explain": "Cookie là các file nhỏ lưu trữ thông tin về người dùng (như đăng nhập, sở thích) để trang web nhớ bạn khi quay lại."
+        },
+        {
+            "id": 18,
+            "question": "Phishing (lừa đảo trực tuyến) là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là hình thức lừa đảo qua email hoặc website giả mạo để đánh cắp thông tin cá nhân"
+                },
+                {
+                    "id": "B",
+                    "content": "Là phần mềm diệt virus"
+                },
+                {
+                    "id": "C",
+                    "content": "Là công cụ tìm kiếm"
+                },
+                {
+                    "id": "D",
+                    "content": "Là trình duyệt web"
+                }
+            ],
+            "answer": "A",
+            "explain": "Phishing là hình thức lừa đảo trực tuyến, thường qua email hoặc website giả mạo, nhằm đánh cắp thông tin cá nhân như mật khẩu, số thẻ tín dụng."
+        },
+        {
+            "id": 19,
+            "question": "Để bảo vệ thông tin khi sử dụng Internet, ta nên làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sử dụng mật khẩu mạnh, không chia sẻ thông tin cá nhân, cẩn thận với email lạ, sử dụng HTTPS"
+                },
+                {
+                    "id": "B",
+                    "content": "Chia sẻ mật khẩu với bạn bè"
+                },
+                {
+                    "id": "C",
+                    "content": "Click vào mọi link trong email"
+                },
+                {
+                    "id": "D",
+                    "content": "Sử dụng mật khẩu yếu"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để bảo vệ thông tin: Sử dụng mật khẩu mạnh và khác nhau cho mỗi tài khoản, không chia sẻ thông tin cá nhân, cẩn thận với email/link lạ, sử dụng HTTPS khi có thể."
+        },
+        {
+            "id": 20,
+            "question": "SMTP là viết tắt của cụm từ nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Simple Mail Transfer Protocol"
+                },
+                {
+                    "id": "B",
+                    "content": "Simple Message Transfer Protocol"
+                },
+                {
+                    "id": "C",
+                    "content": "Secure Mail Transfer Protocol"
+                },
+                {
+                    "id": "D",
+                    "content": "Simple Mail Transport Protocol"
+                }
+            ],
+            "answer": "A",
+            "explain": "SMTP là viết tắt của Simple Mail Transfer Protocol - Giao thức truyền thư đơn giản, dùng để gửi email."
+        }
+    ]
+}

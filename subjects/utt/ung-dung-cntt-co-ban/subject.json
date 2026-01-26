@@ -1,0 +1,75 @@
+{
+    "id": "ung-dung-cntt-co-ban",
+    "name": "Ứng dụng công nghệ thông tin cơ bản",
+    "shortName": "CNTT cơ bản",
+    "icon": "💻",
+    "school": "Đại học Công nghệ GTVT",
+    "shortSchool": "UTT",
+    "examPath": "exam",
+    "chapters": [
+        {
+            "id": 1,
+            "name": "Module 1: Hiểu biết cơ bản về CNTT",
+            "file": "chuong_1.json"
+        },
+        {
+            "id": 2,
+            "name": "Module 2: Sử dụng máy tính cơ bản",
+            "file": "chuong_2.json"
+        },
+        {
+            "id": 3,
+            "name": "Module 3: Xử lý văn bản cơ bản",
+            "file": "chuong_3.json"
+        },
+        {
+            "id": 4,
+            "name": "Module 4: Sử dụng bảng tính cơ bản",
+            "file": "chuong_4.json"
+        },
+        {
+            "id": 5,
+            "name": "Module 5: Sử dụng trình chiếu cơ bản",
+            "file": "chuong_5.json"
+        },
+        {
+            "id": 6,
+            "name": "Module 6: Sử dụng Internet cơ bản",
+            "file": "chuong_6.json"
+        }
+    ],
+    "simulationConfig": {
+        "totalQuestions": 60,
+        "timeLimit": 60,
+        "shuffleQuestions": true,
+        "shuffleAnswers": true,
+        "showAnswerImmediately": false,
+        "showAIExplanation": true,
+        "distribution": [
+            {
+                "chapter": 1,
+                "percent": 20
+            },
+            {
+                "chapter": 2,
+                "percent": 17
+            },
+            {
+                "chapter": 3,
+                "percent": 17
+            },
+            {
+                "chapter": 4,
+                "percent": 17
+            },
+            {
+                "chapter": 5,
+                "percent": 15
+            },
+            {
+                "chapter": 6,
+                "percent": 14
+            }
+        ]
+    }
+}
