@@ -1,7 +1,7 @@
 {
     "title": "MODULE 3: XỬ LÝ VĂN BẢN CƠ BẢN",
     "chapter": 3,
-    "total_questions": 20,
+    "total_questions": 26,
     "questions": [
         {
             "id": 1,
@@ -482,6 +482,150 @@
             ],
             "answer": "A",
             "explain": "File Word có phần mở rộng .docx (Word 2007 trở lên) hoặc .doc (Word 2003 trở xuống)."
+        },
+        {
+            "id": 21,
+            "question": "Phím tắt Ctrl+Shift+N trong Word có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tạo tài liệu mới (New document)"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở tài liệu"
+                },
+                {
+                    "id": "C",
+                    "content": "Lưu tài liệu"
+                },
+                {
+                    "id": "D",
+                    "content": "In tài liệu"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+Shift+N: Tạo tài liệu mới trong Word. (Lưu ý: Ctrl+N cũng tạo tài liệu mới, nhưng Ctrl+Shift+N có thể có chức năng khác tùy phiên bản)."
+        },
+        {
+            "id": 22,
+            "question": "Phím tắt Ctrl+O trong Word có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở tài liệu (Open)"
+                },
+                {
+                    "id": "B",
+                    "content": "Lưu tài liệu"
+                },
+                {
+                    "id": "C",
+                    "content": "Tạo tài liệu mới"
+                },
+                {
+                    "id": "D",
+                    "content": "Đóng tài liệu"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+O: Mở hộp thoại Open để mở tài liệu đã lưu trước đó."
+        },
+        {
+            "id": 23,
+            "question": "Phím tắt Ctrl+W trong Word có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đóng tài liệu hiện tại (Close)"
+                },
+                {
+                    "id": "B",
+                    "content": "Lưu tài liệu"
+                },
+                {
+                    "id": "C",
+                    "content": "Mở tài liệu"
+                },
+                {
+                    "id": "D",
+                    "content": "In tài liệu"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+W: Đóng tài liệu hiện tại. Nếu có thay đổi chưa lưu, Word sẽ hỏi bạn có muốn lưu không."
+        },
+        {
+            "id": 24,
+            "question": "Phím tắt Ctrl+K trong Word có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chèn siêu liên kết (Hyperlink)"
+                },
+                {
+                    "id": "B",
+                    "content": "Sao chép"
+                },
+                {
+                    "id": "C",
+                    "content": "Dán"
+                },
+                {
+                    "id": "D",
+                    "content": "Cắt"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+K: Mở hộp thoại Insert Hyperlink để chèn siêu liên kết vào văn bản đã chọn."
+        },
+        {
+            "id": 25,
+            "question": "Để chèn ký tự đặc biệt trong Word, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert → Symbol"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Symbol"
+                },
+                {
+                    "id": "C",
+                    "content": "View → Symbol"
+                },
+                {
+                    "id": "D",
+                    "content": "Review → Symbol"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để chèn ký tự đặc biệt: Vào tab Insert → Symbol, sau đó chọn ký tự cần chèn hoặc chọn More Symbols để xem thêm."
+        },
+        {
+            "id": 26,
+            "question": "Để tạo header và footer trong Word, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert → Header & Footer"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Header & Footer"
+                },
+                {
+                    "id": "C",
+                    "content": "View → Header & Footer"
+                },
+                {
+                    "id": "D",
+                    "content": "Review → Header & Footer"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để tạo header và footer: Vào tab Insert → Header (hoặc Footer), sau đó chọn kiểu header/footer hoặc Edit Header/Footer để tùy chỉnh."
         }
     ]
 }

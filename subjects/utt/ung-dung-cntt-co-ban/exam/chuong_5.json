@@ -1,7 +1,7 @@
 {
     "title": "MODULE 5: SỬ DỤNG TRÌNH CHIẾU CƠ BẢN",
     "chapter": 5,
-    "total_questions": 20,
+    "total_questions": 26,
     "questions": [
         {
             "id": 1,
@@ -482,6 +482,150 @@
             ],
             "answer": "D",
             "explain": "Có nhiều cách xuất PowerPoint sang PDF: File → Export → Create PDF/XPS, File → Save As → chọn PDF, hoặc File → Print → Save as PDF."
+        },
+        {
+            "id": 21,
+            "question": "Phím tắt Ctrl+M trong PowerPoint có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tạo slide mới với layout mặc định"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở slide"
+                },
+                {
+                    "id": "C",
+                    "content": "Lưu slide"
+                },
+                {
+                    "id": "D",
+                    "content": "In slide"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+M: Tạo slide mới với layout mặc định (Title and Content)."
+        },
+        {
+            "id": 22,
+            "question": "Phím tắt Ctrl+D trong PowerPoint có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhân đôi (Duplicate) slide hoặc đối tượng đã chọn"
+                },
+                {
+                    "id": "B",
+                    "content": "Xóa slide"
+                },
+                {
+                    "id": "C",
+                    "content": "Sao chép slide"
+                },
+                {
+                    "id": "D",
+                    "content": "Dán slide"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+D: Nhân đôi (Duplicate) slide hiện tại hoặc đối tượng đã chọn, tạo bản sao ngay bên dưới."
+        },
+        {
+            "id": 23,
+            "question": "Để xem slide ở chế độ Normal View trong PowerPoint, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "View → Normal"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Normal"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert → Normal"
+                },
+                {
+                    "id": "D",
+                    "content": "Design → Normal"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để xem ở chế độ Normal View: Vào tab View → Normal. Đây là chế độ mặc định để chỉnh sửa slide."
+        },
+        {
+            "id": 24,
+            "question": "Để xem slide ở chế độ Slide Sorter trong PowerPoint, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "View → Slide Sorter"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Slide Sorter"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert → Slide Sorter"
+                },
+                {
+                    "id": "D",
+                    "content": "Design → Slide Sorter"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để xem ở chế độ Slide Sorter: Vào tab View → Slide Sorter. Chế độ này hiển thị tất cả slide dạng thu nhỏ, giúp sắp xếp và quản lý slide dễ dàng."
+        },
+        {
+            "id": 25,
+            "question": "Để thêm slide master trong PowerPoint, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "View → Slide Master"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Slide Master"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert → Slide Master"
+                },
+                {
+                    "id": "D",
+                    "content": "Design → Slide Master"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để chỉnh sửa Slide Master: Vào tab View → Slide Master. Slide Master cho phép tùy chỉnh giao diện và layout cho tất cả slide."
+        },
+        {
+            "id": 26,
+            "question": "File PowerPoint có thể xuất sang định dạng nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "PDF, Video, Hình ảnh (JPG, PNG)"
+                },
+                {
+                    "id": "B",
+                    "content": "Chỉ PDF"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ Video"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ hình ảnh"
+                }
+            ],
+            "answer": "A",
+            "explain": "PowerPoint có thể xuất sang nhiều định dạng: PDF (File → Export → Create PDF/XPS), Video (File → Export → Create a Video), Hình ảnh (File → Export → Change File Type → PNG/JPEG)."
         }
     ]
 }

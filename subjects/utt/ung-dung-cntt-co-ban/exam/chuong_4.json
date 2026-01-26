@@ -1,7 +1,7 @@
 {
     "title": "MODULE 4: SỬ DỤNG BẢNG TÍNH CƠ BẢN",
     "chapter": 4,
-    "total_questions": 20,
+    "total_questions": 26,
     "questions": [
         {
             "id": 1,
@@ -482,6 +482,150 @@
             ],
             "answer": "A",
             "explain": "Để chèn hàng: Click chuột phải vào số hàng → Insert, hoặc chọn hàng và vào Home → Insert → Insert Sheet Rows."
+        },
+        {
+            "id": 21,
+            "question": "Hàm COUNTIF() trong Excel dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đếm số ô thỏa mãn một điều kiện cụ thể"
+                },
+                {
+                    "id": "B",
+                    "content": "Tính tổng các giá trị"
+                },
+                {
+                    "id": "C",
+                    "content": "Tìm giá trị lớn nhất"
+                },
+                {
+                    "id": "D",
+                    "content": "Tìm giá trị nhỏ nhất"
+                }
+            ],
+            "answer": "A",
+            "explain": "Hàm COUNTIF() đếm số ô trong một phạm vi thỏa mãn một điều kiện cụ thể. Cú pháp: =COUNTIF(range, criteria)."
+        },
+        {
+            "id": 22,
+            "question": "Hàm SUMIF() trong Excel dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tính tổng các giá trị thỏa mãn một điều kiện"
+                },
+                {
+                    "id": "B",
+                    "content": "Đếm số ô"
+                },
+                {
+                    "id": "C",
+                    "content": "Tìm giá trị trung bình"
+                },
+                {
+                    "id": "D",
+                    "content": "Tìm giá trị lớn nhất"
+                }
+            ],
+            "answer": "A",
+            "explain": "Hàm SUMIF() tính tổng các giá trị trong một phạm vi thỏa mãn một điều kiện. Cú pháp: =SUMIF(range, criteria, sum_range)."
+        },
+        {
+            "id": 23,
+            "question": "Phím tắt Ctrl+; trong Excel có chức năng gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chèn ngày hiện tại vào ô"
+                },
+                {
+                    "id": "B",
+                    "content": "Chèn giờ hiện tại"
+                },
+                {
+                    "id": "C",
+                    "content": "Sao chép"
+                },
+                {
+                    "id": "D",
+                    "content": "Dán"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ctrl+;: Chèn ngày hiện tại vào ô đang chọn. Ctrl+Shift+;: Chèn giờ hiện tại."
+        },
+        {
+            "id": 24,
+            "question": "Để đóng băng (Freeze) hàng/cột trong Excel, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "View → Freeze Panes"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Freeze Panes"
+                },
+                {
+                    "id": "C",
+                    "content": "Insert → Freeze Panes"
+                },
+                {
+                    "id": "D",
+                    "content": "Data → Freeze Panes"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để đóng băng hàng/cột: Vào tab View → Freeze Panes, sau đó chọn Freeze Top Row, Freeze First Column, hoặc Freeze Panes để đóng băng nhiều hàng/cột."
+        },
+        {
+            "id": 25,
+            "question": "Hàm VLOOKUP() trong Excel dùng để làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tìm kiếm giá trị trong cột đầu tiên của bảng và trả về giá trị tương ứng ở cột khác"
+                },
+                {
+                    "id": "B",
+                    "content": "Tính tổng"
+                },
+                {
+                    "id": "C",
+                    "content": "Đếm số ô"
+                },
+                {
+                    "id": "D",
+                    "content": "Tìm giá trị trung bình"
+                }
+            ],
+            "answer": "A",
+            "explain": "Hàm VLOOKUP() tìm kiếm giá trị trong cột đầu tiên của bảng và trả về giá trị tương ứng ở cột được chỉ định. Cú pháp: =VLOOKUP(lookup_value, table_array, col_index_num, range_lookup)."
+        },
+        {
+            "id": 26,
+            "question": "Để tạo bảng (Table) trong Excel, ta vào tab nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Insert → Table"
+                },
+                {
+                    "id": "B",
+                    "content": "Home → Table"
+                },
+                {
+                    "id": "C",
+                    "content": "View → Table"
+                },
+                {
+                    "id": "D",
+                    "content": "Data → Table"
+                }
+            ],
+            "answer": "A",
+            "explain": "Để tạo bảng: Chọn dữ liệu, sau đó vào tab Insert → Table, hoặc nhấn Ctrl+T. Bảng Excel giúp quản lý và phân tích dữ liệu dễ dàng hơn."
         }
     ]
 }

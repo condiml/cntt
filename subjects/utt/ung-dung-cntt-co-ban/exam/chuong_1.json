@@ -1,7 +1,7 @@
 {
     "title": "MODULE 1: HIỂU BIẾT CƠ BẢN VỀ CNTT",
     "chapter": 1,
-    "total_questions": 25,
+    "total_questions": 32,
     "questions": [
         {
             "id": 1,
@@ -602,6 +602,174 @@
             ],
             "answer": "A",
             "explain": "Luật Sở hữu trí tuệ được Quốc hội (khoá XI) thông qua ngày 29/11/2005 và có hiệu lực thi hành từ ngày 01/07/2006."
+        },
+        {
+            "id": 26,
+            "question": "1 Megabyte (MB) bằng bao nhiêu Kilobytes (KB)?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1000 KB"
+                },
+                {
+                    "id": "B",
+                    "content": "1024 KB"
+                },
+                {
+                    "id": "C",
+                    "content": "2048 KB"
+                },
+                {
+                    "id": "D",
+                    "content": "512 KB"
+                }
+            ],
+            "answer": "B",
+            "explain": "1 Megabyte (MB) = 2^10 = 1024 Kilobytes (KB)."
+        },
+        {
+            "id": 27,
+            "question": "1 Terabyte (TB) bằng bao nhiêu Gigabytes (GB)?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1000 GB"
+                },
+                {
+                    "id": "B",
+                    "content": "1024 GB"
+                },
+                {
+                    "id": "C",
+                    "content": "2048 GB"
+                },
+                {
+                    "id": "D",
+                    "content": "512 GB"
+                }
+            ],
+            "answer": "B",
+            "explain": "1 Terabyte (TB) = 2^10 = 1024 Gigabytes (GB)."
+        },
+        {
+            "id": 28,
+            "question": "ROM là viết tắt của cụm từ nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Read Only Memory"
+                },
+                {
+                    "id": "B",
+                    "content": "Random Only Memory"
+                },
+                {
+                    "id": "C",
+                    "content": "Read Open Memory"
+                },
+                {
+                    "id": "D",
+                    "content": "Random Open Memory"
+                }
+            ],
+            "answer": "A",
+            "explain": "ROM là viết tắt của Read Only Memory - Bộ nhớ chỉ đọc, lưu trữ dữ liệu cố định không thể thay đổi."
+        },
+        {
+            "id": 29,
+            "question": "Ổ cứng HDD khác với SSD ở điểm nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "HDD dùng đĩa quay cơ học, SSD dùng chip nhớ flash"
+                },
+                {
+                    "id": "B",
+                    "content": "HDD nhanh hơn SSD"
+                },
+                {
+                    "id": "C",
+                    "content": "SSD có tiếng ồn lớn hơn HDD"
+                },
+                {
+                    "id": "D",
+                    "content": "HDD không có bộ phận chuyển động"
+                }
+            ],
+            "answer": "A",
+            "explain": "HDD (Hard Disk Drive) sử dụng đĩa quay cơ học và đầu đọc/ghi, còn SSD (Solid State Drive) sử dụng chip nhớ flash, không có bộ phận chuyển động nên nhanh hơn và bền hơn."
+        },
+        {
+            "id": 30,
+            "question": "Phần mềm ứng dụng (application software) là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là phần mềm được thiết kế để thực hiện các tác vụ cụ thể cho người dùng, ví dụ: Word, Excel, PowerPoint"
+                },
+                {
+                    "id": "B",
+                    "content": "Là hệ điều hành"
+                },
+                {
+                    "id": "C",
+                    "content": "Là phần mềm diệt virus"
+                },
+                {
+                    "id": "D",
+                    "content": "Là phần mềm quản lý mạng"
+                }
+            ],
+            "answer": "A",
+            "explain": "Phần mềm ứng dụng là phần mềm được thiết kế để thực hiện các tác vụ cụ thể cho người dùng cuối, ví dụ: Microsoft Word, Excel, PowerPoint, trình duyệt web, email client..."
+        },
+        {
+            "id": 31,
+            "question": "Trojan là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là phần mềm độc hại ngụy trang dưới dạng phần mềm hợp pháp để đánh lừa người dùng"
+                },
+                {
+                    "id": "B",
+                    "content": "Là phần mềm diệt virus"
+                },
+                {
+                    "id": "C",
+                    "content": "Là hệ điều hành"
+                },
+                {
+                    "id": "D",
+                    "content": "Là phần mềm sao lưu"
+                }
+            ],
+            "answer": "A",
+            "explain": "Trojan (Trojan Horse) là phần mềm độc hại ngụy trang dưới dạng phần mềm hợp pháp để đánh lừa người dùng cài đặt, sau đó thực hiện các hành động độc hại."
+        },
+        {
+            "id": 32,
+            "question": "Adware là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là phần mềm hiển thị quảng cáo không mong muốn trên máy tính"
+                },
+                {
+                    "id": "B",
+                    "content": "Là phần mềm diệt virus"
+                },
+                {
+                    "id": "C",
+                    "content": "Là trình duyệt web"
+                },
+                {
+                    "id": "D",
+                    "content": "Là hệ điều hành"
+                }
+            ],
+            "answer": "A",
+            "explain": "Adware là phần mềm tự động hiển thị quảng cáo không mong muốn trên máy tính, thường được cài đặt kèm với phần mềm khác."
         }
     ]
 }
