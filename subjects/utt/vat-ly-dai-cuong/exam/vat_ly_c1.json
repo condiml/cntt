@@ -584,15 +584,15 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2 2 2 2 2 2 d x d y d za dt dt dt      = + +          "
+                    "content": "\\(a = \\sqrt{(\\frac{d^2x}{dt^2})^2 + (\\frac{d^2y}{dt^2})^2 + (\\frac{d^2z}{dt^2})^2}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "n ta a a= +"
+                    "content": "\\(a = \\sqrt{a_t^2 + a_n^2}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "R va 2 ="
+                    "content": "\\(a = \\frac{v^2}{R}\\)"
                 },
                 {
                     "id": "D",

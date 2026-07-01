@@ -84,19 +84,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2 2 1 1 4 o o M N qq r r\\(\\pi\\)\\(\\varepsilon\\)\\(\\varepsilon\\)   -  "
+                    "content": "\\(A_{MN} = \\frac{q q_0}{4 \\pi \\varepsilon_0 \\varepsilon} \\left( \\frac{1}{r_M^2} - \\frac{1}{r_N^2} \\right)\\)"
                 },
                 {
                     "id": "B",
-                    "content": "2 2 1 1 4 o o M N qq r r\\(\\pi\\)\\(\\varepsilon\\)\\(\\varepsilon\\)   +  "
+                    "content": "\\(A_{MN} = \\frac{q q_0}{4 \\pi \\varepsilon_0 \\varepsilon} \\left( \\frac{1}{r_M^2} + \\frac{1}{r_N^2} \\right)\\)"
                 },
                 {
                     "id": "C",
-                    "content": "1 1 4 o o M N qq r r\\(\\pi\\)\\(\\varepsilon\\)\\(\\varepsilon\\)   +  "
+                    "content": "\\(A_{MN} = \\frac{q q_0}{4 \\pi \\varepsilon_0 \\varepsilon} \\left( \\frac{1}{r_M} + \\frac{1}{r_N} \\right)\\)"
                 },
                 {
                     "id": "D",
-                    "content": "1 1 4 o o M N qq r r\\(\\pi\\)\\(\\varepsilon\\)\\(\\varepsilon\\)   -  "
+                    "content": "\\(A_{MN} = \\frac{q q_0}{4 \\pi \\varepsilon_0 \\varepsilon} \\left( \\frac{1}{r_M} - \\frac{1}{r_N} \\right)\\)"
                 }
             ],
             "answer": "D",
