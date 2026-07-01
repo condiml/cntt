@@ -634,15 +634,15 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "\\(\\beta\\)\\(\\theta\\)\\(\\omega\\)\\(\\omega\\) 22 0 2 =-"
+                    "content": "\\(\\omega = \\omega_0 + \\beta t\\)"
                 },
                 {
                     "id": "B",
-                    "content": "2 2 0 2\\(\\omega\\) \\(\\omega\\) \\(\\beta\\)\\(\\theta\\)- ="
+                    "content": "\\(\\omega^2 - \\omega_0^2 = 2 \\beta \\theta\\)"
                 },
                 {
                     "id": "C",
-                    "content": "2 0 2 1 tt \\(\\beta\\)\\(\\omega\\)\\(\\theta\\) +="
+                    "content": "\\(\\theta = \\omega_0 t + \\frac{1}{2} \\beta t^2\\)"
                 },
                 {
                     "id": "D",
