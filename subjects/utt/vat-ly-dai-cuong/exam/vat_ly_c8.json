@@ -9,19 +9,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "0 4 IB R \\(\\mu\\)\\(\\mu\\) \\(\\pi\\)="
+                    "content": "\\(B = \\frac{\\mu_0 \\mu I}{4 \\pi R}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "0 2 IB R \\(\\mu\\)\\(\\mu\\)="
+                    "content": "\\(B = \\frac{\\mu_0 \\mu I}{2 R}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "0 2 IB R \\(\\mu\\)\\(\\mu\\) \\(\\pi\\)="
+                    "content": "\\(B = \\frac{\\mu_0 \\mu I}{2 \\pi R}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "0 4 IB R \\(\\mu\\)\\(\\mu\\)="
+                    "content": "\\(B = \\frac{\\mu_0 \\mu I}{4 R}\\)"
                 }
             ],
             "answer": "C",
@@ -34,19 +34,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2.2 . R SIB \\(\\pi\\) \\(\\mu\\)\\(\\mu\\)="
+                    "content": "\\(B = \\frac{\\mu_0 \\mu I S}{2 \\pi R^2}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "0 2 ISB R \\(\\mu\\)\\(\\mu\\)="
+                    "content": "\\(B = \\frac{\\mu_0 \\mu I}{2 R}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "3.2 . R SIB \\(\\pi\\) \\(\\mu\\)\\(\\mu\\)="
+                    "content": "\\(B = \\frac{\\mu_0 \\mu I S}{2 \\pi R^3}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "0 4 ISB R \\(\\mu\\)\\(\\mu\\)="
+                    "content": "\\(B = \\frac{\\mu_0 \\mu I S}{4 R}\\)"
                 }
             ],
             "answer": "B",
@@ -59,19 +59,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2 nIH R\\(\\pi\\)="
+                    "content": "\\(H = \\frac{n I}{2 \\pi R}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "H nI="
+                    "content": "\\(H = n I\\)"
                 },
                 {
                     "id": "C",
-                    "content": ""
+                    "content": "\\(H = N I\\)"
                 },
                 {
                     "id": "D",
-                    "content": "2 IH R\\(\\pi\\)="
+                    "content": "\\(H = \\frac{I}{2 \\pi R}\\)"
                 }
             ],
             "answer": "C",

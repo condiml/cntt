@@ -134,19 +134,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2 21. r mmGFhd = ."
+                    "content": "\\(F_{hd} = G \\frac{m_1 m_2}{r^2}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "2 21 r mmFhd = ."
+                    "content": "\\(F_{hd} = \\frac{m_1 m_2}{r^2}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "r mmGFhd 21.= ."
+                    "content": "\\(F_{hd} = G \\frac{m_1 m_2}{r}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "r mmFhd 21="
+                    "content": "\\(F_{hd} = \\frac{m_1 m_2}{r}\\)"
                 }
             ],
             "answer": "A",
@@ -159,19 +159,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "maF = ."
+                    "content": "\\(F = m a\\)"
                 },
                 {
                     "id": "B",
-                    "content": "2 21 r mmGF = ."
+                    "content": "\\(F = G \\frac{m_1 m_2}{r^2}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "lkF \\(\\Delta\\)= ."
+                    "content": "\\(F = k \\Delta l\\)"
                 },
                 {
                     "id": "D",
-                    "content": "NF \\(\\mu\\)= ."
+                    "content": "\\(F = \\mu N\\)"
                 }
             ],
             "answer": "C",
@@ -234,19 +234,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "NF tmst \\(\\mu\\)= ."
+                    "content": "\\(F_{mst} = \\mu_t N\\)"
                 },
                 {
                     "id": "B",
-                    "content": "NF tmst \\(\\mu\\)= ."
+                    "content": "\\(F_{mst} \\leq \\mu_t N\\)"
                 },
                 {
                     "id": "C",
-                    "content": "NF tmst \\(\\mu\\)= ."
+                    "content": "\\(F_{mst} > \\mu_t N\\)"
                 },
                 {
                     "id": "D",
-                    "content": "NF tmst \\(\\mu\\)="
+                    "content": "\\(F_{mst} = \\mu_t N\\)"
                 }
             ],
             "answer": "D",

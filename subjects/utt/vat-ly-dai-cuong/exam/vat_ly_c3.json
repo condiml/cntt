@@ -84,11 +84,11 @@
             "options": [
                 {
                     "id": "A",
-                    "content": ".F m a="
+                    "content": "\\(F = m a\\)"
                 },
                 {
                     "id": "B",
-                    "content": ".M I \\(\\beta\\)="
+                    "content": "\\(M = I \\beta\\)"
                 },
                 {
                     "id": "C",

@@ -809,19 +809,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "RCC vp =+"
+                    "content": "\\(C_p + C_v = R\\)"
                 },
                 {
                     "id": "B",
-                    "content": "RCC pv =-"
+                    "content": "\\(C_p - C_v = R\\)"
                 },
                 {
                     "id": "C",
-                    "content": "\\(\\gamma\\)= v p C C"
+                    "content": "\\(\\gamma = \\frac{C_p}{C_v}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "RC C p v ="
+                    "content": "\\(\\frac{C_p}{C_v} = R\\)"
                 }
             ],
             "answer": "B",
@@ -896,7 +896,7 @@
                 },
                 {
                     "id": "D",
-                    "content": "t=125°C ==============================="
+                    "content": "t = 125°C"
                 }
             ],
             "answer": "D",

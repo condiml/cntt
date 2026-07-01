@@ -659,19 +659,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "UQ.2 1W="
+                    "content": "\\(W = \\frac{1}{2} Q U\\)"
                 },
                 {
                     "id": "B",
-                    "content": "CQ.2 1W="
+                    "content": "\\(W = \\frac{Q^2}{2C}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "2.2 1W UC="
+                    "content": "\\(W = \\frac{1}{2} C U^2\\)"
                 },
                 {
                     "id": "D",
-                    "content": "C Q2 2 1W="
+                    "content": "\\(W = \\frac{C Q^2}{2}\\)"
                 }
             ],
             "answer": "B",

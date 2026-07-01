@@ -296,7 +296,7 @@
                 },
                 {
                     "id": "D",
-                    "content": "Độ lớn 2va r= ."
+                    "content": "Độ lớn \\(a = \\frac{v^2}{r}\\)"
                 }
             ],
             "answer": "B",
@@ -755,23 +755,23 @@
         },
         {
             "id": 31,
-            "question": "Một đồng hồ có kim giờ dài 4cm, kim phút dài 5cm. Gọi p\\(\\omega\\) , g\\(\\omega\\) là vận tốc góc và vp, vg là vận tốc dài của đầu kim phút, kim giờ. Quan hệ nào sau đây là đúng?",
+            "question": "Một đồng hồ có kim phút dài 5 cm và kim giờ dài 4 cm. Gọi \\(\\omega_p\\) và \\(\\omega_g\\), \\(v_p\\) và \\(v_g\\) lần lượt là vận tốc góc và vận tốc dài đầu mút kim phút và kim giờ. Chọn hệ thức đúng:",
             "options": [
                 {
                     "id": "A",
-                    "content": "p\\(\\omega\\) = 12 g\\(\\omega\\) ; vg = 16 vp"
+                    "content": "\\(\\omega_p = 12 \\omega_g\\) ; \\(v_p = 12 v_g\\)"
                 },
                 {
                     "id": "B",
-                    "content": "p\\(\\omega\\) = 12 g\\(\\omega\\) ; vp = 15 vg"
+                    "content": "\\(\\omega_p = 12 \\omega_g\\) ; \\(v_p = 15 v_g\\)"
                 },
                 {
                     "id": "C",
-                    "content": "g\\(\\omega\\) = 12 p\\(\\omega\\) ; vp = 25 vg"
+                    "content": "\\(\\omega_g = 12 \\omega_p\\) ; \\(v_p = 25 v_g\\)"
                 },
                 {
                     "id": "D",
-                    "content": "g\\(\\omega\\) = 12 p\\(\\omega\\) ; vg = 9 vp"
+                    "content": "\\(\\omega_g = 12 \\omega_p\\) ; \\(v_g = 9 v_p\\)"
                 }
             ],
             "answer": "B",
@@ -780,23 +780,23 @@
         },
         {
             "id": 32,
-            "question": "Một đồng hồ có kim giờ, kim phút và kim giây. Gọi 1\\(\\omega\\), 2\\(\\omega\\) và 3\\(\\omega\\) là vận tốc góc của kim giờ, kim phút và kim giây. Quan hệ nào sau đây là đúng:",
+            "question": "Một đồng hồ có kim giờ, kim phút và kim giây. Gọi \\(\\omega_1\\), \\(\\omega_2\\) và \\(\\omega_3\\) là vận tốc góc của kim giờ, kim phút và kim giây. Quan hệ nào sau đây là đúng:",
             "options": [
                 {
                     "id": "A",
-                    "content": "1\\(\\omega\\) = 602\\(\\omega\\) = 7203\\(\\omega\\)"
+                    "content": "\\(\\omega_1 = 60 \\omega_2 = 720 \\omega_3\\)"
                 },
                 {
                     "id": "B",
-                    "content": "720 1\\(\\omega\\) = 602\\(\\omega\\) = 3\\(\\omega\\)"
+                    "content": "\\(720 \\omega_1 = 60 \\omega_2 = \\omega_3\\)"
                 },
                 {
                     "id": "C",
-                    "content": "1\\(\\omega\\) = 122\\(\\omega\\) = 1443\\(\\omega\\)"
+                    "content": "\\(\\omega_1 = 12 \\omega_2 = 144 \\omega_3\\)"
                 },
                 {
                     "id": "D",
-                    "content": "12 1\\(\\omega\\) = 1442\\(\\omega\\) = 3\\(\\omega\\)"
+                    "content": "\\(12 \\omega_1 = 144 \\omega_2 = \\omega_3\\)"
                 }
             ],
             "answer": "B",
@@ -809,19 +809,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "0=na"
+                    "content": "\\(a_n = 0\\)"
                 },
                 {
                     "id": "B",
-                    "content": "gan ="
+                    "content": "\\(a_n = g\\)"
                 },
                 {
                     "id": "C",
-                    "content": "2 0 22 0 2 vtg vgan +="
+                    "content": "\\(a_n = \\frac{g v_0^2}{v_0^2 + g^2 t^2}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "2 0 22 0 vtg gvan +="
+                    "content": "\\(a_n = \\frac{g v_0}{\\sqrt{v_0^2 + g^2 t^2}}\\)"
                 }
             ],
             "answer": "D",
@@ -830,23 +830,23 @@
         },
         {
             "id": 34,
-            "question": "Từ một đỉnh tháp ném một vật theo phương ngang với vận tốc ban đầu là \\(v_0\\). Bỏ qua sức cản không khí. Tìm biểu thức tính gia tốc pháp tuyến \\(a_t\\) của vật trên quỹ đạo ỏ thời điểm t (gia tốc rơi tự do là gì)?",
+            "question": "Từ một đỉnh tháp ném một vật theo phương ngang với vận tốc ban đầu là \\(v_0\\). Bỏ qua sức cản không khí. Tìm biểu thức tính gia tốc tiếp tuyến \\(a_t\\) của vật trên quỹ đạo ở thời điểm t (gia tốc rơi tự do là g)?",
             "options": [
                 {
                     "id": "A",
-                    "content": "0=ta"
+                    "content": "\\(a_t = 0\\)"
                 },
                 {
                     "id": "B",
-                    "content": "2 0 22 0 vtg vgtat + +="
+                    "content": "\\(a_t = \\frac{g(v_0 + g t)}{\\sqrt{v_0^2 + g^2 t^2}}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "2 0 22 2 vtg tgat +="
+                    "content": "\\(a_t = \\frac{g^2 t}{\\sqrt{v_0^2 + g^2 t^2}}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "2 0 22 0 vtg gvat +="
+                    "content": "\\(a_t = \\frac{g v_0}{\\sqrt{v_0^2 + g^2 t^2}}\\)"
                 }
             ],
             "answer": "C",

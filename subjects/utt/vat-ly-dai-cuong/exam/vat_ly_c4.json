@@ -309,19 +309,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "mvWd 2 1="
+                    "content": "\\(W_đ = \\frac{1}{2} m v\\)"
                 },
                 {
                     "id": "B",
-                    "content": "2mvWd = ."
+                    "content": "\\(W_đ = m v^2\\)"
                 },
                 {
                     "id": "C",
-                    "content": "22mvWd = ."
+                    "content": "\\(W_đ = 2 m v^2\\)"
                 },
                 {
                     "id": "D",
-                    "content": "2 2 1mvWd = ."
+                    "content": "\\(W_đ = \\frac{1}{2} m v^2\\)"
                 }
             ],
             "answer": "D",
@@ -634,19 +634,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": ""
+                    "content": "\\(W_đ = \\frac{1}{2} m v^2\\)"
                 },
                 {
                     "id": "B",
-                    "content": ""
+                    "content": "\\(W_đ = m v^2\\)"
                 },
                 {
                     "id": "C",
-                    "content": ""
+                    "content": "\\(W_đ = \\frac{1}{4} m v^2\\)"
                 },
                 {
                     "id": "D",
-                    "content": "2 4 3mvEd ="
+                    "content": "\\(W_đ = \\frac{3}{4} m v^2\\)"
                 }
             ],
             "answer": "D",
