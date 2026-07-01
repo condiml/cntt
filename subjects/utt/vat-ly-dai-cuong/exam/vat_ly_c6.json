@@ -284,19 +284,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "1 2 1 2 2 2 . . .1 .4 o q q k q qF r r\\(\\pi\\)\\(\\varepsilon\\)= ="
+                    "content": "\\(F_{12} = \\frac{q_1 q_2}{4\\pi\\varepsilon_0 r^2}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "1 2 1 2 2 2 . . .1 4 o q q k q qr rF r r r r\\(\\pi\\)\\(\\varepsilon\\)= = "
+                    "content": "\\(\\vec{F}_{12} = \\frac{q_1 q_2}{4\\pi\\varepsilon_0 r^3} \\vec{r}_{12}\\)"
                 },
                 {
                     "id": "C",
-                    "content": ".F q E= "
+                    "content": "\\(\\vec{F} = q \\vec{E}\\)"
                 },
                 {
                     "id": "D",
-                    "content": ".F q E= ± "
+                    "content": "\\(\\vec{F} = \\pm q \\vec{E}\\)"
                 }
             ],
             "answer": "B",
@@ -359,19 +359,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "AB ABA qU="
+                    "content": "\\(A_{AB} = q U_{AB}\\)"
                 },
                 {
                     "id": "B",
-                    "content": ". .ABA q E d="
+                    "content": "\\(A_{AB} = q E d\\)"
                 },
                 {
                     "id": "C",
-                    "content": ". B AB A A q E dl= ∫   "
+                    "content": "\\(A_{AB} = \\int_A^B q \\vec{E} \\cdot d\\vec{s}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "AB A BA q V V= -"
+                    "content": "\\(A_{AB} = q (V_A - V_B)\\)"
                 }
             ],
             "answer": "B",
@@ -384,19 +384,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "B trong điện trường đều E xác định bởi biểu thức A. AB A BU V V= -"
+                    "content": "\\(U_{AB} = V_A - V_B\\)"
                 },
                 {
                     "id": "B",
-                    "content": ".ABU q E="
+                    "content": "\\(U_{AB} = q E\\)"
                 },
                 {
                     "id": "C",
-                    "content": ". AB AB AB AU E d q= ="
+                    "content": "\\(U_{AB} = E d = \\frac{A_{AB}}{q}\\)"
                 },
                 {
                     "id": "D",
-                    "content": ". B AB A U E dl=∫   "
+                    "content": "\\(U_{AB} = \\int_A^B \\vec{E} \\cdot d\\vec{l}\\)"
                 }
             ],
             "answer": "B",
@@ -509,19 +509,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": ". B A E dl∫   "
+                    "content": "\\(L_E = \\int_A^B \\vec{E} \\cdot d\\vec{l}\\)"
                 },
                 {
                     "id": "B",
-                    "content": ". B A D dl∫   "
+                    "content": "\\(L_D = \\int_A^B \\vec{D} \\cdot d\\vec{l}\\)"
                 },
                 {
                     "id": "C",
-                    "content": ". B A H dl∫   "
+                    "content": "\\(L_H = \\int_A^B \\vec{H} \\cdot d\\vec{l}\\)"
                 },
                 {
                     "id": "D",
-                    "content": ". B A B dl∫   "
+                    "content": "\\(L_B = \\int_A^B \\vec{B} \\cdot d\\vec{l}\\)"
                 }
             ],
             "answer": "A",
@@ -534,19 +534,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": ". kin i iS D d S q\\(\\Phi\\) = = Σ∫  "
+                    "content": "\\(\\oint_S \\vec{D} \\cdot d\\vec{S} = \\sum q_i\\)"
                 },
                 {
                     "id": "B",
-                    "content": "divD ="
+                    "content": "\\(\\text{div}\\vec{D} = \\rho\\)"
                 },
                 {
                     "id": "C",
-                    "content": ". kin i iS E d S q\\(\\Phi\\) = = Σ∫  "
+                    "content": "\\(\\oint_S \\vec{E} \\cdot d\\vec{S} = \\frac{\\sum q_i}{\\varepsilon_0\\varepsilon}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "i i q\\(\\Phi\\) =Σ"
+                    "content": "\\(\\Phi_E = \\sum q_i\\)"
                 }
             ],
             "answer": "A",
@@ -559,19 +559,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "V . O A A E dl=∫   "
+                    "content": "\\(V_A = \\int_A^O \\vec{E} \\cdot d\\vec{l}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "V . O A A q E dl= ∫   "
+                    "content": "\\(V_A = \\int_A^O q \\vec{E} \\cdot d\\vec{l}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "V . B A A E dl=∫   "
+                    "content": "\\(V_A = \\int_A^B \\vec{E} \\cdot d\\vec{l}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "V .A E d="
+                    "content": "\\(V_A = E d\\)"
                 }
             ],
             "answer": "A",
@@ -859,19 +859,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2 1 4 oV dV rE r r \\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
+                    "content": "\\(\\vec{E} = \\frac{1}{4\\pi\\varepsilon_0\\varepsilon} \\int_V \\frac{\\rho dV}{r^3} \\vec{r}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "2 . . k q rE r r\\(\\varepsilon\\)= "
+                    "content": "\\(\\vec{E} = \\frac{k q \\vec{r}}{\\varepsilon r^3}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "2 1 4 oL dl rE r r \\(\\lambda\\) \\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
+                    "content": "\\(\\vec{E} = \\frac{1}{4\\pi\\varepsilon_0\\varepsilon} \\int_L \\frac{\\lambda dl}{r^3} \\vec{r}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "2 1 4 oS dS rE r r \\(\\sigma\\) \\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
+                    "content": "\\(\\vec{E} = \\frac{1}{4\\pi\\varepsilon_0\\varepsilon} \\int_S \\frac{\\sigma dS}{r^3} \\vec{r}\\)"
                 }
             ],
             "answer": "B",
@@ -884,19 +884,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2 . . k q rE r r\\(\\varepsilon\\)= "
+                    "content": "\\(\\vec{E} = \\frac{k q \\vec{r}}{\\varepsilon r^3}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "2 1 4 oL dl rE r r \\(\\lambda\\) \\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
+                    "content": "\\(\\vec{E} = \\frac{1}{4\\pi\\varepsilon_0\\varepsilon} \\int_L \\frac{\\lambda dl}{r^3} \\vec{r}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "2 1 4 oV dV rE r r \\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
+                    "content": "\\(\\vec{E} = \\frac{1}{4\\pi\\varepsilon_0\\varepsilon} \\int_V \\frac{\\rho dV}{r^3} \\vec{r}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "2 1 4 oS dS rE r r \\(\\sigma\\) \\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
+                    "content": "\\(\\vec{E} = \\frac{1}{4\\pi\\varepsilon_0\\varepsilon} \\int_S \\frac{\\sigma dS}{r^3} \\vec{r}\\)"
                 }
             ],
             "answer": "B",
@@ -909,19 +909,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2 1 4 oL dl rE r r \\(\\lambda\\) \\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
+                    "content": "\\(\\vec{E} = \\frac{1}{4\\pi\\varepsilon_0\\varepsilon} \\int_L \\frac{\\lambda dl}{r^3} \\vec{r}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "2 1 4 oS dS rE r r \\(\\sigma\\) \\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
+                    "content": "\\(\\vec{E} = \\frac{1}{4\\pi\\varepsilon_0\\varepsilon} \\int_S \\frac{\\sigma dS}{r^3} \\vec{r}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "2 1 4 oV dV rE r r \\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
+                    "content": "\\(\\vec{E} = \\frac{1}{4\\pi\\varepsilon_0\\varepsilon} \\int_V \\frac{\\rho dV}{r^3} \\vec{r}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "2 . . k q rE r r\\(\\varepsilon\\)= "
+                    "content": "\\(\\vec{E} = \\frac{k q \\vec{r}}{\\varepsilon r^3}\\)"
                 }
             ],
             "answer": "B",
@@ -934,19 +934,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "1 2 1 2 2 2 . . .1 4 o q q k q qr rF r r r r\\(\\pi\\)\\(\\varepsilon\\)= = "
+                    "content": "\\(\\vec{F}_{12} = \\frac{q_1 q_2}{4\\pi\\varepsilon_0\\varepsilon r^3} \\vec{r}_{12}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "1 212 12 3 121, 2 1 4 oQ Q dq dqF r r\\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)= ∫∫ "
+                    "content": "\\(\\vec{F}_{12} = \\frac{1}{4\\pi\\varepsilon_0\\varepsilon} \\int_{V_1} \\int_{V_2} \\frac{dq_1 dq_2}{r_{12}^3} \\vec{r}_{12}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "1 1 2 3 1 4 oQ dq dqF r r\\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
+                    "content": "\\(\\vec{F} = \\frac{1}{4\\pi\\varepsilon_0\\varepsilon} \\int \\frac{Q dq}{r^3} \\vec{r}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "1 212 12 3 2 1 4 oQ dq dqF r r\\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)= ∫ "
+                    "content": "\\(\\vec{F} = \\frac{1}{4\\pi\\varepsilon_0\\varepsilon} \\int \\frac{Q_2 dq_1}{r_{12}^3} \\vec{r}_{12}\\)"
                 }
             ],
             "answer": "B",
