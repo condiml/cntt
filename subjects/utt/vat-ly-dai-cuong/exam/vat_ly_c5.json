@@ -5,7 +5,7 @@
     "questions": [
         {
             "id": 1,
-            "question": "Phương trình trạng thái của khí lí tưởng (Với R= 8,31 J/ mol K) có khối lượng bất kì là:",
+            "question": "Phương trình trạng thái của khí lý tưởng (Với R= 8,31 J/ mol K) có khối lượng bất kì là:",
             "options": [
                 {
                     "id": "A",
@@ -17,15 +17,15 @@
                 },
                 {
                     "id": "C",
-                    "content": "T Vp. =  Rm."
+                    "content": "T Vp. = μ Rm."
                 },
                 {
                     "id": "D",
-                    "content": "m Vp. =  tR."
+                    "content": "m Vp. = μ tR."
                 }
             ],
             "answer": "C",
-            "explain": "Phương trình Clapeyron - Mendeleev biểu diễn phương trình trạng thái khí lí tưởng dưới dạng pV = (m/M).RT, trong đó M (hoặc mu) là khối lượng mol.",
+            "explain": "Phương trình Clapeyron - Mendeleev biểu diễn phương trình trạng thái khí lý tưởng dưới dạng pV = (m/M).RT, trong đó M (hoặc mu) là khối lượng mol.",
             "topic": "Nhiệt động lực học"
         },
         {
@@ -96,16 +96,16 @@
                 },
                 {
                     "id": "D",
-                    "content": "8,31.103"
+                    "content": "8,31.10^3"
                 }
             ],
             "answer": "A",
-            "explain": "Hằng số khí lí tưởng R có giá trị bằng 8.31 J/(mol.K).",
+            "explain": "Hằng số khí lý tưởng R có giá trị bằng 8.31 J/(mol.K).",
             "topic": "Nhiệt động lực học"
         },
         {
             "id": 5,
-            "question": "Một khối khí lý tưởng biến đổi theo quá trình đẳng tích. Tăng nhiệt độ của bình từ 1000C lên 2000C thì áp suất tăng lên bao nhiêu lần:",
+            "question": "Một khối khí lý tưởng biến đổi theo quá trình đẳng tích. Tăng nhiệt độ của bình từ 100°C lên 200°C thì áp suất tăng lên bao nhiêu lần:",
             "options": [
                 {
                     "id": "A",
@@ -130,19 +130,19 @@
         },
         {
             "id": 6,
-            "question": "Nén đẳng nhiệt một khối khí lý tưởng ở áp suất 2.105 Pa, thể tích 12 lít xuống còn 3 lít. Tính áp suất của khí sau khi nén?",
+            "question": "Nén đẳng nhiệt một khối khí lý tưởng ở áp suất 2.10^5 Pa, thể tích 12 lít xuống còn 3 lít. Tính áp suất của khí sau khi nén?",
             "options": [
                 {
                     "id": "A",
-                    "content": "8.105 N/m2"
+                    "content": "8.10^5 N/m2"
                 },
                 {
                     "id": "B",
-                    "content": "8.105 bar"
+                    "content": "8.10^5 bar"
                 },
                 {
                     "id": "C",
-                    "content": "8.105 atm"
+                    "content": "8.10^5 atm"
                 },
                 {
                     "id": "D",
@@ -200,7 +200,7 @@
                 }
             ],
             "answer": "B",
-            "explain": "Khí lí tưởng đơn nguyên tử có 3 bậc tự do tịnh tiến (i = 3).",
+            "explain": "Khí lý tưởng đơn nguyên tử có 3 bậc tự do tịnh tiến (i = 3).",
             "topic": "Nhiệt động lực học"
         },
         {
@@ -230,7 +230,7 @@
         },
         {
             "id": 10,
-            "question": "Công của n mol khí lí tưởng nhận được trong quá trình nén từ trạng thái (1) đến trạng thái (2) được tính theo công thức nào sau đây:",
+            "question": "Công của n mol khí lý tưởng nhận được trong quá trình nén từ trạng thái (1) đến trạng thái (2) được tính theo công thức nào sau đây:",
             "options": [
                 {
                     "id": "A",
@@ -238,11 +238,11 @@
                 },
                 {
                     "id": "B",
-                    "content": "2 12 1 .A p dV "
+                    "content": "2 12 1 .A p dV= -∫"
                 },
                 {
                     "id": "C",
-                    "content": "1 12 2 .A p dV "
+                    "content": "1 12 2 .A p dV= -∫"
                 },
                 {
                     "id": "D",
@@ -259,23 +259,23 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "1 .2U nR T  "
+                    "content": "1 .2U nR TΔ = Δ"
                 },
                 {
                     "id": "B",
-                    "content": "3 .2U nR T  "
+                    "content": "3 .2U nR TΔ = Δ"
                 },
                 {
                     "id": "C",
-                    "content": "5 .2U nR T  "
+                    "content": "5 .2U nR TΔ = Δ"
                 },
                 {
                     "id": "D",
-                    "content": ".2 iU nR T  "
+                    "content": ".2 iU nR TΔ = Δ"
                 }
             ],
             "answer": "B",
-            "explain": "Độ biến thiên nội năng của khí lí tưởng đơn nguyên tử (i=3): delta_U = 3/2 * n * R * delta_T.",
+            "explain": "Độ biến thiên nội năng của khí lý tưởng đơn nguyên tử (i=3): delta_U = 3/2 * n * R * delta_T.",
             "topic": "Nhiệt động lực học"
         },
         {
@@ -284,23 +284,23 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "1 .2U nR T  "
+                    "content": "1 .2U nR TΔ = Δ"
                 },
                 {
                     "id": "B",
-                    "content": "3 .2U nR T  "
+                    "content": "3 .2U nR TΔ = Δ"
                 },
                 {
                     "id": "C",
-                    "content": "5 .2U nR T  "
+                    "content": "5 .2U nR TΔ = Δ"
                 },
                 {
                     "id": "D",
-                    "content": ".2 iU nR T  "
+                    "content": ".2 iU nR TΔ = Δ"
                 }
             ],
             "answer": "C",
-            "explain": "Độ biến thiên nội năng của khí lí tưởng lưỡng nguyên tử (i=5): delta_U = 5/2 * n * R * delta_T.",
+            "explain": "Độ biến thiên nội năng của khí lý tưởng lưỡng nguyên tử (i=5): delta_U = 5/2 * n * R * delta_T.",
             "topic": "Nhiệt động lực học"
         },
         {
@@ -409,19 +409,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "U = 0."
+                    "content": "ΔU = 0."
                 },
                 {
                     "id": "B",
-                    "content": "U = Q, Q>0."
+                    "content": "ΔU = Q, Q>0."
                 },
                 {
                     "id": "C",
-                    "content": "U = Q, Q<0."
+                    "content": "ΔU = Q, Q<0."
                 },
                 {
                     "id": "D",
-                    "content": "U = A, A>0."
+                    "content": "ΔU = A, A>0."
                 }
             ],
             "answer": "B",
@@ -455,7 +455,7 @@
         },
         {
             "id": 19,
-            "question": "Trong một chu trình của động cơ nhiệt lí tưởng, chất khí thực hiện một công bằng 2.103 J và truyền cho nguồn lạnh một nhiệt lượng bằng 6.103 J. Hiệu suất của động cơ đó bằng",
+            "question": "Trong một chu trình của động cơ nhiệt lý tưởng, chất khí thực hiện một công bằng 2.10^3 J và truyền cho nguồn lạnh một nhiệt lượng bằng 6.10^3 J. Hiệu suất của động cơ đó bằng",
             "options": [
                 {
                     "id": "A",
@@ -580,7 +580,7 @@
         },
         {
             "id": 24,
-            "question": "Một khối khí lí tưởng nhất định thực hiện quá trình biến đổi mà kết quả là nhiệt độ tăng gấp đôi và áp suất tăng gấp đôi. Gọi V1 là thể tích ban đầu của khí, thể tích cuối là V2 thì:",
+            "question": "Một khối khí lý tưởng nhất định thực hiện quá trình biến đổi mà kết quả là nhiệt độ tăng gấp đôi và áp suất tăng gấp đôi. Gọi V1 là thể tích ban đầu của khí, thể tích cuối là V2 thì:",
             "options": [
                 {
                     "id": "A",
@@ -625,12 +625,12 @@
                 }
             ],
             "answer": "B",
-            "explain": "Công đẳng áp thực hiện bởi 1 kmol khí: A = p.delta_V = n.R.delta_T = 1000 * 8.31 * (75 - 17) = 8310 * 58 \u0007pprox 481.98 kJ.",
+            "explain": "Công đẳng áp thực hiện bởi 1 kmol khí: A = p.delta_V = n.R.delta_T = 1000 * 8.31 * (75 - 17) = 8310 * 58 ≈ 481.98 kJ.",
             "topic": "Nhiệt động lực học"
         },
         {
             "id": 26,
-            "question": "Một bình chứa khí oxi dung tích 10 lít ở áp suất 250kPa và nhiệt độ 270C. khối lượng khí oxi trong bình là:",
+            "question": "Một bình chứa khí oxi dung tích 10 lít ở áp suất 250kPa và nhiệt độ 27°C. khối lượng khí oxi trong bình là:",
             "options": [
                 {
                     "id": "A",
@@ -650,7 +650,7 @@
                 }
             ],
             "answer": "A",
-            "explain": "Áp dụng phương trình Mendeleev-Clapeyron: m = p.V.M / (R.T) = 250*10^3 * 0.01 * 32 / (8.31 * 300) = 80000 / 2493 \u0007pprox 32.1 g.",
+            "explain": "Áp dụng phương trình Mendeleev-Clapeyron: m = p.V.M / (R.T) = 250*10^3 * 0.01 * 32 / (8.31 * 300) = 80000 / 2493 ≈ 32.1 g.",
             "topic": "Nhiệt động lực học"
         },
         {
@@ -700,7 +700,7 @@
                 }
             ],
             "answer": "B",
-            "explain": "Nhiệt lượng tỏa ra bằng công nén đẳng nhiệt: Q = A = p1.V1.ln(V1/V2) = 9.81.10^4 * 3.10^-3 * ln(10) \u0007pprox 677.65 J (với 1 at \u0007pprox 9.81.10^4 Pa).",
+            "explain": "Nhiệt lượng tỏa ra bằng công nén đẳng nhiệt: Q = A = p1.V1.ln(V1/V2) = 9.81.10^4 * 3.10^-3 * ln(10) ≈ 677.65 J (với 1 at ≈ 9.81.10^4 Pa).",
             "topic": "Nhiệt động lực học"
         },
         {
@@ -725,7 +725,7 @@
                 }
             ],
             "answer": "C",
-            "explain": "T1 = 300 + 273 = 573 K, T2 = 60 + 273 = 333 K. Hiệu suất H = (T1 - T2) / T1 = (573 - 333) / 573 \u0007pprox 42%.",
+            "explain": "T1 = 300 + 273 = 573 K, T2 = 60 + 273 = 333 K. Hiệu suất H = (T1 - T2) / T1 = (573 - 333) / 573 ≈ 42%.",
             "topic": "Nhiệt động lực học"
         },
         {
@@ -809,23 +809,23 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "RCC vp "
+                    "content": "RCC vp =+"
                 },
                 {
                     "id": "B",
-                    "content": "RCC pv "
+                    "content": "RCC pv =-"
                 },
                 {
                     "id": "C",
-                    "content": " v p C C"
+                    "content": "γ= v p C C"
                 },
                 {
                     "id": "D",
-                    "content": "RC C p v "
+                    "content": "RC C p v ="
                 }
             ],
             "answer": "B",
-            "explain": "Nhiệt dung mol đẳng áp C_p và đẳng tích C_v của khí lí tưởng liên hệ qua hệ thức Mayer: C_p - C_v = R.",
+            "explain": "Nhiệt dung mol đẳng áp C_p và đẳng tích C_v của khí lý tưởng liên hệ qua hệ thức Mayer: C_p - C_v = R.",
             "topic": "Nhiệt động lực học"
         },
         {
@@ -834,28 +834,28 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "VpA "
+                    "content": "VpA Δ-="
                 },
                 {
                     "id": "B",
-                    "content": "TnRA  ."
+                    "content": "TnRA Δ= ."
                 },
                 {
                     "id": "C",
-                    "content": "UA "
+                    "content": "UA Δ="
                 },
                 {
                     "id": "D",
-                    "content": "12 /ln. VVnRTA"
+                    "content": "12 /ln. VVnRTA="
                 }
             ],
             "answer": "D",
-            "explain": "Công trong quá trình biến đổi đẳng nhiệt của n mol khí lí tưởng: A = n.R.T.ln(V1/V2).",
+            "explain": "Công trong quá trình biến đổi đẳng nhiệt của n mol khí lý tưởng: A = n.R.T.ln(V1/V2).",
             "topic": "Nhiệt động lực học"
         },
         {
             "id": 35,
-            "question": "Một động cơ nhiệt lí tưởng hoạt động giữa 2 nguồn nhiệt 100°C và 25,4°C, công mà động cơ thực hiện là 2kJ. Hiệu suất của động cơ này có giá trị là",
+            "question": "Một động cơ nhiệt lý tưởng hoạt động giữa 2 nguồn nhiệt 100°C và 25,4°C, công mà động cơ thực hiện là 2kJ. Hiệu suất của động cơ này có giá trị là",
             "options": [
                 {
                     "id": "A",
@@ -880,7 +880,7 @@
         },
         {
             "id": 36,
-            "question": "Một động cơ nhiệt lí tưởng hoạt động giữa 2 nguồn nhiệt 100°C và 25,4°C, công mà động cơ thực hiện là 2kJ. Để hiệu suất của động cơ đạt 25% thì phải tăng nhiệt độ nguồn nóng lên bao nhiêu",
+            "question": "Một động cơ nhiệt lý tưởng hoạt động giữa 2 nguồn nhiệt 100°C và 25,4°C, công mà động cơ thực hiện là 2kJ. Để hiệu suất của động cơ đạt 25% thì phải tăng nhiệt độ nguồn nóng lên bao nhiêu",
             "options": [
                 {
                     "id": "A",
@@ -900,7 +900,7 @@
                 }
             ],
             "answer": "D",
-            "explain": "Để H = 25%, nhiệt độ nguồn nóng T1' phải thỏa mãn: (T1' - 298.4)/T1' = 0.25 => T1' = 298.4 / 0.75 \u0007pprox 398 K = 125 độ C. Vậy nhiệt độ nguồn nóng cần tăng lên đến 125 độ C.",
+            "explain": "Để H = 25%, nhiệt độ nguồn nóng T1' phải thỏa mãn: (T1' - 298.4)/T1' = 0.25 => T1' = 298.4 / 0.75 ≈ 398 K = 125 độ C. Vậy nhiệt độ nguồn nóng cần tăng lên đến 125 độ C.",
             "topic": "Nhiệt động lực học"
         }
     ]

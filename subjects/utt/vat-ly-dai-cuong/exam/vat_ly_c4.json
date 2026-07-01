@@ -155,23 +155,23 @@
         },
         {
             "id": 7,
-            "question": "Vật chuyển động trên đường ngang với vận tốc v, biết lực F không đổi, luôn tạo với phương ngang một góc  như hình vẽ. Công của lực F trên đoạn đường s được tính bằng biểu thức nào sau đây?",
+            "question": "Vật chuyển động trên đường ngang với vận tốc v, biết lực F không đổi, luôn tạo với phương ngang một góc  như hình vẽ. Công của lực F trên đoạn đường s được tính bằng biểu thức nào sau đây?",
             "options": [
                 {
                     "id": "A",
-                    "content": "cos..sFA"
+                    "content": "cos..sFA="
                 },
                 {
                     "id": "B",
-                    "content": "cos..sFA  FS F M M’ S"
+                    "content": "cos..sFA -= FS F M M’ S"
                 },
                 {
                     "id": "C",
-                    "content": "sin..sFA"
+                    "content": "sin..sFA="
                 },
                 {
                     "id": "D",
-                    "content": "  s dsFA cos.."
+                    "content": " ∫-= s dsFA cos.."
                 }
             ],
             "answer": "A",
@@ -188,7 +188,7 @@
                 },
                 {
                     "id": "B",
-                    "content": "Luôn có biểu thức tính   s msms dsFA ."
+                    "content": "Luôn có biểu thức tính  ∫-= s msms dsFA ."
                 },
                 {
                     "id": "C",
@@ -309,19 +309,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "mvWd 2 1"
+                    "content": "mvWd 2 1="
                 },
                 {
                     "id": "B",
-                    "content": "2mvWd  ."
+                    "content": "2mvWd = ."
                 },
                 {
                     "id": "C",
-                    "content": "22mvWd  ."
+                    "content": "22mvWd = ."
                 },
                 {
                     "id": "D",
-                    "content": "2 2 1mvWd  ."
+                    "content": "2 2 1mvWd = ."
                 }
             ],
             "answer": "D",
@@ -380,7 +380,7 @@
         },
         {
             "id": 16,
-            "question": "Một vật chuyển động với vận tốc v dưới tác dụng của lực F không đổi. Công suất của lực F là:",
+            "question": "Một vật chuyển động với vận tốc v dưới tác dụng của lực F không đổi. Công suất của lực F là:",
             "options": [
                 {
                     "id": "A",
@@ -430,19 +430,19 @@
         },
         {
             "id": 18,
-            "question": "Biểu thức nào sau đây tính công của lực F trong chuyển động quay của vật rắn quanh trục  cố định?",
+            "question": "Biểu thức nào sau đây tính công của lực F trong chuyển động quay của vật rắn quanh trục Δ cố định?",
             "options": [
                 {
                     "id": "A",
-                    "content": "    0 dMA"
+                    "content": "∫ Δ= θ  0 dMA"
                 },
                 {
                     "id": "B",
-                    "content": "  2 1 .. t t dMA "
+                    "content": "∫ Δ= 2 1 .. t t dMA ω"
                 },
                 {
                     "id": "C",
-                    "content": "122 1   IA"
+                    "content": "122 1 ωω -= ΔIA"
                 },
                 {
                     "id": "D",
@@ -509,19 +509,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": " 232 1 vmMEd "
+                    "content": " 232 1 vmMEd +="
                 },
                 {
                     "id": "B",
-                    "content": " 222 1 vmMEd "
+                    "content": " 222 1 vmMEd +="
                 },
                 {
                     "id": "C",
-                    "content": " 242 1 vmMEd "
+                    "content": " 242 1 vmMEd +="
                 },
                 {
                     "id": "D",
-                    "content": " 262 1 vmMEd "
+                    "content": " 262 1 vmMEd +="
                 }
             ],
             "answer": "D",
@@ -580,7 +580,7 @@
         },
         {
             "id": 24,
-            "question": "Một vô lăng hình trụ đồng chất, bán kính R = 20cm, khối lượng m = 20kg, đang quay với vận tốc  = 4 rad/s thì bị hãm đều và dừng lại. Tính công của lực hãm trong quá trình đó.",
+            "question": "Một vô lăng hình trụ đồng chất, bán kính R = 20cm, khối lượng m = 20kg, đang quay với vận tốc ω = 4π rad/s thì bị hãm đều và dừng lại. Tính công của lực hãm trong quá trình đó.",
             "options": [
                 {
                     "id": "A",
@@ -646,7 +646,7 @@
                 },
                 {
                     "id": "D",
-                    "content": "2 4 3mvEd "
+                    "content": "2 4 3mvEd ="
                 }
             ],
             "answer": "D",
@@ -750,7 +750,7 @@
                 }
             ],
             "answer": "D",
-            "explain": "Công thực hiện A = F.s.cos(alpha) = 150 * 20 * cos(30) = 3000 * 0.866 = 2598 J \u0007pprox 2600 J (hoặc 150*20 = 3000 J nếu kéo song song mặt dốc nghiêng 30 độ).",
+            "explain": "Công thực hiện A = F.s.cos(alpha) = 150 * 20 * cos(30) = 3000 * 0.866 = 2598 J ≈ 2600 J (hoặc 150*20 = 3000 J nếu kéo song song mặt dốc nghiêng 30 độ).",
             "topic": "Công và năng lượng"
         },
         {
@@ -855,23 +855,23 @@
         },
         {
             "id": 35,
-            "question": "Tính công cần thiết để một đoàn tàu khối lượng m = 8.105 kg tăng tốc từ vận tốc v1 = 36km/giờ đến vận tốc v2 = 54km/giờ. 2 2 1mvEd  2mvEd  2 2 3mvEd ",
+            "question": "Tính công cần thiết để một đoàn tàu khối lượng m = 8.10^5 kg tăng tốc từ vận tốc v1 = 36km/giờ đến vận tốc v2 = 54km/giờ. 2 2 1mvEd = 2mvEd = 2 2 3mvEd =",
             "options": [
                 {
                     "id": "A",
-                    "content": "5.106J"
+                    "content": "5.10^6J"
                 },
                 {
                     "id": "B",
-                    "content": "5.107J"
+                    "content": "5.10^7J"
                 },
                 {
                     "id": "C",
-                    "content": "5.106J"
+                    "content": "-5.10^6J"
                 },
                 {
                     "id": "D",
-                    "content": "5.107J"
+                    "content": "-5.10^7J"
                 }
             ],
             "answer": "B",

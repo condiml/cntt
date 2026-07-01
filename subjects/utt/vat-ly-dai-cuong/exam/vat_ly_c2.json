@@ -34,19 +34,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "amF   ."
+                    "content": "amF = ."
                 },
                 {
                     "id": "B",
-                    "content": "maF  ."
+                    "content": "maF = ."
                 },
                 {
                     "id": "C",
-                    "content": "amF  ."
+                    "content": "amF = ."
                 },
                 {
                     "id": "D",
-                    "content": "amF   ."
+                    "content": "amF -= ."
                 }
             ],
             "answer": "A",
@@ -134,19 +134,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2 21. r mmGFhd  ."
+                    "content": "2 21. r mmGFhd = ."
                 },
                 {
                     "id": "B",
-                    "content": "2 21 r mmFhd  ."
+                    "content": "2 21 r mmFhd = ."
                 },
                 {
                     "id": "C",
-                    "content": "r mmGFhd 21. ."
+                    "content": "r mmGFhd 21.= ."
                 },
                 {
                     "id": "D",
-                    "content": "r mmFhd 21"
+                    "content": "r mmFhd 21="
                 }
             ],
             "answer": "A",
@@ -159,19 +159,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "maF  ."
+                    "content": "maF = ."
                 },
                 {
                     "id": "B",
-                    "content": "2 21 r mmGF  ."
+                    "content": "2 21 r mmGF = ."
                 },
                 {
                     "id": "C",
-                    "content": "lkF  ."
+                    "content": "lkF Δ= ."
                 },
                 {
                     "id": "D",
-                    "content": "NF  ."
+                    "content": "NF μ= ."
                 }
             ],
             "answer": "C",
@@ -234,19 +234,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "NF tmst   ."
+                    "content": "NF tmst μ= ."
                 },
                 {
                     "id": "B",
-                    "content": "NF tmst  ."
+                    "content": "NF tmst μ= ."
                 },
                 {
                     "id": "C",
-                    "content": "NF tmst  ."
+                    "content": "NF tmst μ= ."
                 },
                 {
                     "id": "D",
-                    "content": "NF tmst "
+                    "content": "NF tmst μ="
                 }
             ],
             "answer": "D",
@@ -259,19 +259,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "lkFht  ."
+                    "content": "lkFht Δ= ."
                 },
                 {
                     "id": "B",
-                    "content": "mgFht  ."
+                    "content": "mgFht = ."
                 },
                 {
                     "id": "C",
-                    "content": "rmFht 2 ."
+                    "content": "rmFht 2= ."
                 },
                 {
                     "id": "D",
-                    "content": "mgFht  ."
+                    "content": "mgFht μ= ."
                 }
             ],
             "answer": "C",
@@ -592,7 +592,7 @@
                 },
                 {
                     "id": "C",
-                    "content": "Luôn hướng vào bề lõm của quĩ đạo."
+                    "content": "Luôn hướng vào bề lõm của quỹ đạo."
                 },
                 {
                     "id": "D",
@@ -630,7 +630,7 @@
         },
         {
             "id": 26,
-            "question": "Vectơ động lượng 𝑃ሬ⃗ của chất điểm được định nghĩa bởi công thức nào sau đây? (𝑣⃗, 𝑎⃗, m tương ứng là vận tốc, gia tốc và khối lượng của chất điểm).",
+            "question": "Vectơ động lượng 𝑃ሬ⃗ của chất điểm được định nghĩa bởi công thức nào sau đây? (𝑣⃗, a⃗, m tương ứng là vận tốc, gia tốc và khối lượng của chất điểm).",
             "options": [
                 {
                     "id": "A",
@@ -642,7 +642,7 @@
                 },
                 {
                     "id": "C",
-                    "content": "𝑝⃗ =𝑚𝑎⃗"
+                    "content": "𝑝⃗ =𝑚a⃗"
                 },
                 {
                     "id": "D",
@@ -905,23 +905,23 @@
         },
         {
             "id": 37,
-            "question": "Vật khối lượng m bị kéo bởi lực F và trượt trên sàn ngang như hình vẽ. Hệ số ma sát trượt giữa vật và mặt sàn là . Gia tốc của vật được tính bởi biểu thức nào sau đây?",
+            "question": "Vật khối lượng m bị kéo bởi lực F và trượt trên sàn ngang như hình vẽ. Hệ số ma sát trượt giữa vật và mặt sàn là μ. Gia tốc của vật được tính bởi biểu thức nào sau đây?",
             "options": [
                 {
                     "id": "A",
-                    "content": "mmgFacos"
+                    "content": "mmgFaμ-=cos"
                 },
                 {
                     "id": "B",
-                    "content": " mmgFasincos"
+                    "content": " mmgFaμμ-+=sincos"
                 },
                 {
                     "id": "C",
-                    "content": "mFacos"
+                    "content": "mFacos="
                 },
                 {
                     "id": "D",
-                    "content": " mmgFasincos"
+                    "content": " mmgFaμμ--=sincos"
                 }
             ],
             "answer": "B",
@@ -930,23 +930,23 @@
         },
         {
             "id": 38,
-            "question": "Vật khối lượng m bị đẩy bởi lực F và trượt trên sàn ngang như hình vẽ. Hệ số ma sát trượt giữa vật và mặt sàn là . Gia tốc của vật đựoc tính bởi biểu thức nào sau đây?",
+            "question": "Vật khối lượng m bị đẩy bởi lực F và trượt trên sàn ngang như hình vẽ. Hệ số ma sát trượt giữa vật và mặt sàn là μ. Gia tốc của vật đựoc tính bởi biểu thức nào sau đây?",
             "options": [
                 {
                     "id": "A",
-                    "content": " mFasincos"
+                    "content": " mFaμsincos+="
                 },
                 {
                     "id": "B",
-                    "content": "mgFasincos"
+                    "content": "mgFasincosμ-="
                 },
                 {
                     "id": "C",
-                    "content": "mFacos"
+                    "content": "mFacos="
                 },
                 {
                     "id": "D",
-                    "content": " mmgFasincos ================================================ )  m m )  m m"
+                    "content": " mmgFaμμ--=sincos ================================================ )  m m )  m m"
                 }
             ],
             "answer": "D",

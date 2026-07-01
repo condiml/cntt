@@ -5,23 +5,23 @@
     "questions": [
         {
             "id": 1,
-            "question": "Lực tĩnh điện F do điện tích điểm q tác dụng lên một điện tích điểm q0 đặt cách nó một khoảng r bằng",
+            "question": "Lực tĩnh điện F do điện tích điểm q tác dụng lên một điện tích điểm q0 đặt cách nó một khoảng r bằng",
             "options": [
                 {
                     "id": "A",
-                    "content": "1 4 o o qq r"
+                    "content": "1 4 o o qq rπεε"
                 },
                 {
                     "id": "B",
-                    "content": "3 1 4 o o qq r r "
+                    "content": "3 1 4 o o qq r rπεε"
                 },
                 {
                     "id": "C",
-                    "content": "1 4 o o qq r r "
+                    "content": "1 4 o o qq r rπεε"
                 },
                 {
                     "id": "D",
-                    "content": "2 1 4 o o qq r r "
+                    "content": "2 1 4 o o qq r rπεε"
                 }
             ],
             "answer": "B",
@@ -30,23 +30,23 @@
         },
         {
             "id": 2,
-            "question": "Vectơ cường độ điện trường do điện tích điểm q gây ra tại một điểm xác định bởi bán kính véctơ r, bằng",
+            "question": "Vectơ cường độ điện trường do điện tích điểm q gây ra tại một điểm xác định bởi bán kính véctơ r, bằng",
             "options": [
                 {
                     "id": "A",
-                    "content": "24 q r r r "
+                    "content": "24 q r r rπ"
                 },
                 {
                     "id": "B",
-                    "content": "24 q r r r "
+                    "content": "24 q r r rπ"
                 },
                 {
                     "id": "C",
-                    "content": "24 o q r r r  "
+                    "content": "24 o q r r rπε ε"
                 },
                 {
                     "id": "D",
-                    "content": "24 o q r r r "
+                    "content": "24 o q r r rπεε"
                 }
             ],
             "answer": "D",
@@ -55,23 +55,23 @@
         },
         {
             "id": 3,
-            "question": "Điện thông gửi qua một mặt S có biểu thức: ( Dn = hình chiếu của D lên phương pháp tuyến của mặt S, dSn = hình chiếu của dS lên phương của D)",
+            "question": "Điện thông gửi qua một mặt S có biểu thức: ( Dn = hình chiếu của D lên phương pháp tuyến của mặt S, dSn = hình chiếu của dS lên phương của D)",
             "options": [
                 {
                     "id": "A",
-                    "content": ".n n S D dS"
+                    "content": ".n n S D dS∫"
                 },
                 {
                     "id": "B",
-                    "content": ".n n S D dS "
+                    "content": ".n n S D dS∫"
                 },
                 {
                     "id": "C",
-                    "content": ". S D dS"
+                    "content": ". S D dS∫"
                 },
                 {
                     "id": "D",
-                    "content": ". n S D dS"
+                    "content": ". n S D dS∫"
                 }
             ],
             "answer": "A",
@@ -80,23 +80,23 @@
         },
         {
             "id": 4,
-            "question": "Công của lực tính điện của điện tích điểm q làm dịch chuyển điện tích điểm qo từ điểm M đến điểm N bằng:",
+            "question": "Công của lực tĩnh điện của điện tích điểm q làm dịch chuyển điện tích điểm qo từ điểm M đến điểm N bằng:",
             "options": [
                 {
                     "id": "A",
-                    "content": "2 2 1 1 4 o o M N qq r r     "
+                    "content": "2 2 1 1 4 o o M N qq r rπεε   -  "
                 },
                 {
                     "id": "B",
-                    "content": "2 2 1 1 4 o o M N qq r r     "
+                    "content": "2 2 1 1 4 o o M N qq r rπεε   +  "
                 },
                 {
                     "id": "C",
-                    "content": "1 1 4 o o M N qq r r     "
+                    "content": "1 1 4 o o M N qq r rπεε   +  "
                 },
                 {
                     "id": "D",
-                    "content": "1 1 4 o o M N qq r r     "
+                    "content": "1 1 4 o o M N qq r rπεε   -  "
                 }
             ],
             "answer": "D",
@@ -284,19 +284,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "1 2 1 2 2 2 . . .1 .4 o q q k q qF r r "
+                    "content": "1 2 1 2 2 2 . . .1 .4 o q q k q qF r rπε= ="
                 },
                 {
                     "id": "B",
-                    "content": "1 2 1 2 2 2 . . .1 4 o q q k q qr rF r r r r    "
+                    "content": "1 2 1 2 2 2 . . .1 4 o q q k q qr rF r r r rπε= = "
                 },
                 {
                     "id": "C",
-                    "content": ".F q E   "
+                    "content": ".F q E= "
                 },
                 {
                     "id": "D",
-                    "content": ".F q E    "
+                    "content": ".F q E= ± "
                 }
             ],
             "answer": "B",
@@ -359,19 +359,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "AB ABA qU"
+                    "content": "AB ABA qU="
                 },
                 {
                     "id": "B",
-                    "content": ". .ABA q E d"
+                    "content": ". .ABA q E d="
                 },
                 {
                     "id": "C",
-                    "content": ". B AB A A q E dl      "
+                    "content": ". B AB A A q E dl= ∫   "
                 },
                 {
                     "id": "D",
-                    "content": "AB A BA q V V "
+                    "content": "AB A BA q V V= -"
                 }
             ],
             "answer": "B",
@@ -384,19 +384,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "B trong điện trường đều E xác định bởi biểu thức A. AB A BU V V "
+                    "content": "B trong điện trường đều E xác định bởi biểu thức A. AB A BU V V= -"
                 },
                 {
                     "id": "B",
-                    "content": ".ABU q E"
+                    "content": ".ABU q E="
                 },
                 {
                     "id": "C",
-                    "content": ". AB AB AB AU E d q "
+                    "content": ". AB AB AB AU E d q= ="
                 },
                 {
                     "id": "D",
-                    "content": ". B AB A U E dl     "
+                    "content": ". B AB A U E dl=∫   "
                 }
             ],
             "answer": "B",
@@ -509,19 +509,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": ". B A E dl     "
+                    "content": ". B A E dl∫   "
                 },
                 {
                     "id": "B",
-                    "content": ". B A D dl     "
+                    "content": ". B A D dl∫   "
                 },
                 {
                     "id": "C",
-                    "content": ". B A H dl     "
+                    "content": ". B A H dl∫   "
                 },
                 {
                     "id": "D",
-                    "content": ". B A B dl     "
+                    "content": ". B A B dl∫   "
                 }
             ],
             "answer": "A",
@@ -534,19 +534,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": ". kin i iS D d S q      "
+                    "content": ". kin i iS D d S qΦ = = Σ∫  "
                 },
                 {
                     "id": "B",
-                    "content": "divD "
+                    "content": "divD ="
                 },
                 {
                     "id": "C",
-                    "content": ". kin i iS E d S q       "
+                    "content": ". kin i iS E d S qΦ = = Σ∫  "
                 },
                 {
                     "id": "D",
-                    "content": "i i q "
+                    "content": "i i qΦ =Σ"
                 }
             ],
             "answer": "A",
@@ -559,19 +559,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "V . O A A E dl     "
+                    "content": "V . O A A E dl=∫   "
                 },
                 {
                     "id": "B",
-                    "content": "V . O A A q E dl      "
+                    "content": "V . O A A q E dl= ∫   "
                 },
                 {
                     "id": "C",
-                    "content": "V . B A A E dl     "
+                    "content": "V . B A A E dl=∫   "
                 },
                 {
                     "id": "D",
-                    "content": "V .A E d"
+                    "content": "V .A E d="
                 }
             ],
             "answer": "A",
@@ -630,7 +630,7 @@
         },
         {
             "id": 26,
-            "question": "Có một điện tích điểm q = 5.10-9C đặt tại điểm A trong chân không. Xác định cường độ điện trường tại điểm B cách A một khoảng 10cm?",
+            "question": "Có một điện tích điểm q = 5.10^-9C đặt tại điểm A trong chân không. Xác định cường độ điện trường tại điểm B cách A một khoảng 10cm?",
             "options": [
                 {
                     "id": "A",
@@ -655,7 +655,7 @@
         },
         {
             "id": 27,
-            "question": "Cho hai điện tích q1 = 5.10-9C, điện tích q2 = -5.10-9C đặt cách nhau 10cm. Xác định véctơ cường độ điện trường tại điểm M nằm trên đường thẳng đi qua hai điện tích đó và cách đều hai điện tích?",
+            "question": "Cho hai điện tích q1 = 5.10^-9C, điện tích q2 = -5.10^-9C đặt cách nhau 10cm. Xác định véctơ cường độ điện trường tại điểm M nằm trên đường thẳng đi qua hai điện tích đó và cách đều hai điện tích?",
             "options": [
                 {
                     "id": "A",
@@ -780,23 +780,23 @@
         },
         {
             "id": 32,
-            "question": "Cho điện tích điểm Q =5.10-6C đặt trong không khí. Điểm M cách Q một khoảng 2cm. Tính công của lực điện trường khi dịch chuyển điện tích điểm q=10-9C từ điểm M đến điểm N bất kỳ nằm trên mặt cầu có bán kính r2=5cm, có tâm ở điểm đặt điện tích Q. Cho k=9.109Nm2/C2",
+            "question": "Cho điện tích điểm Q =5.10^-6C đặt trong không khí. Điểm M cách Q một khoảng 2cm. Tính công của lực điện trường khi dịch chuyển điện tích điểm q=10^-9C từ điểm M đến điểm N bất kỳ nằm trên mặt cầu có bán kính r2=5cm, có tâm ở điểm đặt điện tích Q. Cho k=9.10^9Nm2/C2",
             "options": [
                 {
                     "id": "A",
-                    "content": "14,5.10-4J"
+                    "content": "14,5.10^-4J"
                 },
                 {
                     "id": "B",
-                    "content": "16,5.10-4J"
+                    "content": "16,5.10^-4J"
                 },
                 {
                     "id": "C",
-                    "content": "15,5.10-4J"
+                    "content": "15,5.10^-4J"
                 },
                 {
                     "id": "D",
-                    "content": "13,5.10-4J"
+                    "content": "13,5.10^-4J"
                 }
             ],
             "answer": "D",
@@ -830,23 +830,23 @@
         },
         {
             "id": 34,
-            "question": "Hai điện tích điểm q1= +6.10-8C và q2 = -6.10-8C được đặt cố định tại hai điểm A và B cách nhau một khoảng 4cm, trong không khí. Tìm lực tác dụng lên một điện tích điểm q = +2.10-9C đặt tại điểm O giữa A và B. Cho k=9.109Nm2/C2",
+            "question": "Hai điện tích điểm q1= +6.10^-8C và q2 = -6.10^-8C được đặt cố định tại hai điểm A và B cách nhau một khoảng 4cm, trong không khí. Tìm lực tác dụng lên một điện tích điểm q = +2.10^-9C đặt tại điểm O giữa A và B. Cho k=9.10^9Nm2/C2",
             "options": [
                 {
                     "id": "A",
-                    "content": "54.10-3N"
+                    "content": "54.10^-3N"
                 },
                 {
                     "id": "B",
-                    "content": "54.104N"
+                    "content": "54.10^4N"
                 },
                 {
                     "id": "C",
-                    "content": "54.10-2N"
+                    "content": "54.10^-2N"
                 },
                 {
                     "id": "D",
-                    "content": "54.10-4N"
+                    "content": "54.10^-4N"
                 }
             ],
             "answer": "A",
@@ -855,23 +855,23 @@
         },
         {
             "id": 35,
-            "question": "Biểu thức cường độ điện trường do điện tích điểm sinh ra tại vị trí có tọa độ r so với điện tích đó là",
+            "question": "Biểu thức cường độ điện trường do điện tích điểm sinh ra tại vị trí có tọa độ r so với điện tích đó là",
             "options": [
                 {
                     "id": "A",
-                    "content": "2 1 4 oV dV rE r r     "
+                    "content": "2 1 4 oV dV rE r r πε ε=∫ "
                 },
                 {
                     "id": "B",
-                    "content": "2 . . k q rE r r  "
+                    "content": "2 . . k q rE r rε= "
                 },
                 {
                     "id": "C",
-                    "content": "2 1 4 oL dl rE r r     "
+                    "content": "2 1 4 oL dl rE r r λ πε ε=∫ "
                 },
                 {
                     "id": "D",
-                    "content": "2 1 4 oS dS rE r r     "
+                    "content": "2 1 4 oS dS rE r r σ πε ε=∫ "
                 }
             ],
             "answer": "B",
@@ -884,19 +884,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2 . . k q rE r r  "
+                    "content": "2 . . k q rE r rε= "
                 },
                 {
                     "id": "B",
-                    "content": "2 1 4 oL dl rE r r     "
+                    "content": "2 1 4 oL dl rE r r λ πε ε=∫ "
                 },
                 {
                     "id": "C",
-                    "content": "2 1 4 oV dV rE r r     "
+                    "content": "2 1 4 oV dV rE r r πε ε=∫ "
                 },
                 {
                     "id": "D",
-                    "content": "2 1 4 oS dS rE r r     "
+                    "content": "2 1 4 oS dS rE r r σ πε ε=∫ "
                 }
             ],
             "answer": "B",
@@ -909,19 +909,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2 1 4 oL dl rE r r     "
+                    "content": "2 1 4 oL dl rE r r λ πε ε=∫ "
                 },
                 {
                     "id": "B",
-                    "content": "2 1 4 oS dS rE r r     "
+                    "content": "2 1 4 oS dS rE r r σ πε ε=∫ "
                 },
                 {
                     "id": "C",
-                    "content": "2 1 4 oV dV rE r r     "
+                    "content": "2 1 4 oV dV rE r r πε ε=∫ "
                 },
                 {
                     "id": "D",
-                    "content": "2 . . k q rE r r  "
+                    "content": "2 . . k q rE r rε= "
                 }
             ],
             "answer": "B",
@@ -934,19 +934,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "1 2 1 2 2 2 . . .1 4 o q q k q qr rF r r r r    "
+                    "content": "1 2 1 2 2 2 . . .1 4 o q q k q qr rF r r r rπε= = "
                 },
                 {
                     "id": "B",
-                    "content": "1 212 12 3 121, 2 1 4 oQ Q dq dqF r r     "
+                    "content": "1 212 12 3 121, 2 1 4 oQ Q dq dqF r rπε ε= ∫∫ "
                 },
                 {
                     "id": "C",
-                    "content": "1 1 2 3 1 4 oQ dq dqF r r    "
+                    "content": "1 1 2 3 1 4 oQ dq dqF r rπε ε=∫ "
                 },
                 {
                     "id": "D",
-                    "content": "1 212 12 3 2 1 4 oQ dq dqF r r     "
+                    "content": "1 212 12 3 2 1 4 oQ dq dqF r rπε ε= ∫ "
                 }
             ],
             "answer": "B",
@@ -955,7 +955,7 @@
         },
         {
             "id": 39,
-            "question": "Hai điện tích điểm q1 = 2q2 = 3.10-9C đặt cách nhau 10cm trong chân không. Hiệu điện thế tại hai điểm đặt hai điện tích là",
+            "question": "Hai điện tích điểm q1 = 2q2 = 3.10^-9C đặt cách nhau 10cm trong chân không. Hiệu điện thế tại hai điểm đặt hai điện tích là",
             "options": [
                 {
                     "id": "A",
@@ -980,7 +980,7 @@
         },
         {
             "id": 40,
-            "question": "Đem hai quả cầu nhỏ bằng kim loại có kích thước giống nhau, mang điện tích lúc đầu khác nhau, cho tiếp xúc với nhau rồi đem đặt trong chân không cách nhau 5cm. Tính lực tương tác điện giữa 2 quả cầu biết điện tích lúc đầu của hai quả cầu là q1 = 3.10- 6C, q2 = 10-6C?",
+            "question": "Đem hai quả cầu nhỏ bằng kim loại có kích thước giống nhau, mang điện tích lúc đầu khác nhau, cho tiếp xúc với nhau rồi đem đặt trong chân không cách nhau 5cm. Tính lực tương tác điện giữa 2 quả cầu biết điện tích lúc đầu của hai quả cầu là q1 = 3.10- 6C, q2 = 10^-6C?",
             "options": [
                 {
                     "id": "A",
@@ -1005,23 +1005,23 @@
         },
         {
             "id": 41,
-            "question": "Tính lực tương tác tĩnh điện giữa một êlectron và một prôtôn nếu khoảng cách giữa chúng bằng 5.10-9 cm. Coi rằng êlectron và prôtôn là những điện tích điểm?",
+            "question": "Tính lực tương tác tĩnh điện giữa một êlectron và một prôtôn nếu khoảng cách giữa chúng bằng 5.10^-9 cm. Coi rằng êlectron và prôtôn là những điện tích điểm?",
             "options": [
                 {
                     "id": "A",
-                    "content": "9,2.10-8N"
+                    "content": "9,2.10^-8N"
                 },
                 {
                     "id": "B",
-                    "content": "9,2.10-12N"
+                    "content": "9,2.10^-12N"
                 },
                 {
                     "id": "C",
-                    "content": "4,6.10-18N"
+                    "content": "4,6.10^-18N"
                 },
                 {
                     "id": "D",
-                    "content": "9,2.10-18N"
+                    "content": "9,2.10^-18N"
                 }
             ],
             "answer": "A",

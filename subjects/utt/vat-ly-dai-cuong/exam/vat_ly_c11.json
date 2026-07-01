@@ -42,7 +42,7 @@
                 },
                 {
                     "id": "C",
-                    "content": "Hệ số hấp thụ đơn sắc ứng với tần số ν của vật trong thực tế là 𝑎(𝑇,𝜈)≤ 1."
+                    "content": "Hệ số hấp thụ đơn sắc ứng với tần số ν của vật trong thực tế là a(𝑇,v)≤ 1."
                 },
                 {
                     "id": "D",
@@ -92,7 +92,7 @@
                 },
                 {
                     "id": "C",
-                    "content": "Độ tăng bước sóng được tính theo công thức ∆𝜆= 2𝜆஼ sinଶ ఏ ଶ"
+                    "content": "Độ tăng bước sóng được tính theo công thức ∆λ= 2λ஼ sin^2(θ/2)"
                 },
                 {
                     "id": "D",
@@ -117,7 +117,7 @@
                 },
                 {
                     "id": "C",
-                    "content": "Trong mọi môi trường các photon truyền đi với cùng vận tốc 𝑐 = 3. 10଼𝑚/𝑠"
+                    "content": "Trong mọi môi trường các photon truyền đi với cùng vận tốc c = 3. 10଼𝑚/𝑠"
                 },
                 {
                     "id": "D",
@@ -205,23 +205,23 @@
         },
         {
             "id": 9,
-            "question": "Một thanh thép ở nhiệt độ 727଴𝐶 có hệ số hấp thụ 0,7 thì năng suất phát xạ toàn phần là:",
+            "question": "Một thanh thép ở nhiệt độ 727°𝐶 có hệ số hấp thụ 0,7 thì năng suất phát xạ toàn phần là:",
             "options": [
                 {
                     "id": "A",
-                    "content": "56700 𝑊/𝑚ଶ"
+                    "content": "56700 𝑊/𝑚2"
                 },
                 {
                     "id": "B",
-                    "content": "15839 𝑊/𝑚ଶ"
+                    "content": "15839 𝑊/𝑚2"
                 },
                 {
                     "id": "C",
-                    "content": "39690 𝑊/𝑚ଶ"
+                    "content": "39690 𝑊/𝑚2"
                 },
                 {
                     "id": "D",
-                    "content": "11087 𝑊/𝑚ଶ"
+                    "content": "11087 𝑊/𝑚2"
                 }
             ],
             "answer": "C",
@@ -259,19 +259,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2,24 𝑒𝑉"
+                    "content": "2,24 eV"
                 },
                 {
                     "id": "B",
-                    "content": "4,7 𝑒𝑉"
+                    "content": "4,7 eV"
                 },
                 {
                     "id": "C",
-                    "content": "4,09 𝑒𝑉"
+                    "content": "4,09 eV"
                 },
                 {
                     "id": "D",
-                    "content": "7,5 𝑒𝑉"
+                    "content": "7,5 eV"
                 }
             ],
             "answer": "B",
@@ -280,7 +280,7 @@
         },
         {
             "id": 12,
-            "question": "Trong phổ phát xạ của cơ thể người, tần số ứng với bước sóng mang nhiều năng lượng nhất là bao nhiêu? Biết nhiệt độ trung bình cơ thể người là 33଴𝐶.",
+            "question": "Trong phổ phát xạ của cơ thể người, tần số ứng với bước sóng mang nhiều năng lượng nhất là bao nhiêu? Biết nhiệt độ trung bình cơ thể người là 33°𝐶.",
             "options": [
                 {
                     "id": "A",
@@ -288,24 +288,24 @@
                 },
                 {
                     "id": "B",
-                    "content": "9,45. 10ି଺𝐻𝑧"
+                    "content": "9,45. 10^-6𝐻𝑧"
                 },
                 {
                     "id": "C",
-                    "content": "3,17. 10ଵଷ𝐻𝑧"
+                    "content": "3,17. 10^13𝐻𝑧"
                 },
                 {
                     "id": "D",
-                    "content": "3,17. 10ଷ𝐻𝑧"
+                    "content": "3,17. 10^3𝐻𝑧"
                 }
             ],
             "answer": "C",
-            "explain": "T = 33 + 273 = 306 K. Theo định luật Wien: lamda_m = b / T = 2.898.10^-3 / 306 \u0007pprox 9.47 um. Tần số tương ứng: v = c/lamda_m = 3.17.10^13 Hz.",
+            "explain": "T = 33 + 273 = 306 K. Theo định luật Wien: lamda_m = b / T = 2.898.10^-3 / 306 ≈ 9.47 um. Tần số tương ứng: v = c/lamda_m = 3.17.10^13 Hz.",
             "topic": "Quang lượng tử"
         },
         {
             "id": 13,
-            "question": "Độ dài bước sóng của photon có năng lượng 3,2. 10ିଵଽ𝐽 là:",
+            "question": "Độ dài bước sóng của photon có năng lượng 3,2. 10^-1ଽ𝐽 là:",
             "options": [
                 {
                     "id": "A",
@@ -330,23 +330,23 @@
         },
         {
             "id": 14,
-            "question": "Công thoát của một vật liệu bức xạ photon là 4,0 𝑒𝑉. Nếu photon mang năng lượng 16 𝑒𝑉 đến đập vào bề mặt vật liệu trên thì động năng cực đại của electron bật ra là:",
+            "question": "Công thoát của một vật liệu bức xạ photon là 4,0 eV. Nếu photon mang năng lượng 16 eV đến đập vào bề mặt vật liệu trên thì động năng cực đại của electron bật ra là:",
             "options": [
                 {
                     "id": "A",
-                    "content": "12 𝑒𝑉"
+                    "content": "12 eV"
                 },
                 {
                     "id": "B",
-                    "content": "20 𝑒𝑉"
+                    "content": "20 eV"
                 },
                 {
                     "id": "C",
-                    "content": "0,25 𝑒𝑉"
+                    "content": "0,25 eV"
                 },
                 {
                     "id": "D",
-                    "content": "4 𝑒𝑉"
+                    "content": "4 eV"
                 }
             ],
             "answer": "A",
@@ -455,23 +455,23 @@
         },
         {
             "id": 19,
-            "question": "Năng lượng của photon là 4,2 𝑒𝑉 thì động lượng của nó là:",
+            "question": "Năng lượng của photon là 4,2 eV thì động lượng của nó là:",
             "options": [
                 {
                     "id": "A",
-                    "content": "11,06. 10ିଶହ𝑘𝑔.𝑚/𝑠"
+                    "content": "11,06. 10^-25kg.𝑚/𝑠"
                 },
                 {
                     "id": "B",
-                    "content": "2,24. 10ିଶ଻𝑘𝑔.𝑚/𝑠"
+                    "content": "2,24. 10^-27kg.𝑚/𝑠"
                 },
                 {
                     "id": "C",
-                    "content": "3,32. 10ିଶ଻𝑘𝑔.𝑚/𝑠"
+                    "content": "3,32. 10^-27kg.𝑚/𝑠"
                 },
                 {
                     "id": "D",
-                    "content": "11,06. 10ିଶ଻𝑘𝑔.𝑚/𝑠"
+                    "content": "11,06. 10^-27kg.𝑚/𝑠"
                 }
             ],
             "answer": "B",
@@ -480,11 +480,11 @@
         },
         {
             "id": 20,
-            "question": "Chiếu một chùm sáng đơn sắc bước sóng 𝜆= 0,55 𝜇𝑚 vào một tế bào quang điện có katot làm bằng Cesi có công thoát là 1,8 𝑒𝑉. Hiện tượng quang điện có xảy ra không?",
+            "question": "Chiếu một chùm sáng đơn sắc bước sóng λ= 0,55 𝜇𝑚 vào một tế bào quang điện có katot làm bằng Cesi có công thoát là 1,8 eV. Hiện tượng quang điện có xảy ra không?",
             "options": [
                 {
                     "id": "A",
-                    "content": "Có nhưng chỉ xảy ra sau 10ିଷ𝑠"
+                    "content": "Có nhưng chỉ xảy ra sau 10^-3𝑠"
                 },
                 {
                     "id": "B",
@@ -505,23 +505,23 @@
         },
         {
             "id": 21,
-            "question": "Tia X mang năng lượng 75 𝑘𝑒𝑉 đến đập vào electron đang đứng yên. Tia X tán xạ góc 75଴ so với phương tới. Bước sóng của tia X sau tán xạ là:",
+            "question": "Tia X mang năng lượng 75 𝑘eV đến đập vào electron đang đứng yên. Tia X tán xạ góc 75° so với phương tới. Bước sóng của tia X sau tán xạ là:",
             "options": [
                 {
                     "id": "A",
-                    "content": "2,10. 10ିଵଵ𝑚"
+                    "content": "2,10. 10^-11𝑚"
                 },
                 {
                     "id": "B",
-                    "content": "1,83. 10ିଵଵ𝑚"
+                    "content": "1,83. 10^-11𝑚"
                 },
                 {
                     "id": "C",
-                    "content": "1,88. 10ିଵଵ𝑚"
+                    "content": "1,88. 10^-11𝑚"
                 },
                 {
                     "id": "D",
-                    "content": "1,48. 10ିଵଵ𝑚"
+                    "content": "1,48. 10^-11𝑚"
                 }
             ],
             "answer": "B",
@@ -530,23 +530,23 @@
         },
         {
             "id": 22,
-            "question": "Một photon năng lượng 1 𝑀𝑒𝑉 va chạm với electron tự do và tán xạ góc 900. Bước sóng của photon đến là:",
+            "question": "Một photon năng lượng 1 𝑀eV va chạm với electron tự do và tán xạ góc 900. Bước sóng của photon đến là:",
             "options": [
                 {
                     "id": "A",
-                    "content": "1,98. 10ିଵଶ𝑚"
+                    "content": "1,98. 10^-12𝑚"
                 },
                 {
                     "id": "B",
-                    "content": "3,48. 10ିଵଶ𝑚"
+                    "content": "3,48. 10^-12𝑚"
                 },
                 {
                     "id": "C",
-                    "content": "1,24. 10ିଵଶ𝑚"
+                    "content": "1,24. 10^-12𝑚"
                 },
                 {
                     "id": "D",
-                    "content": "4,38. 10ିଵ 𝑚"
+                    "content": "4,38. 10^-1 𝑚"
                 }
             ],
             "answer": "C",
@@ -555,23 +555,23 @@
         },
         {
             "id": 23,
-            "question": "Một photon năng lượng 1 𝑀𝑒𝑉 va chạm với electron tự do và tán xạ góc 900. Bước sóng của photon tán xạ là:",
+            "question": "Một photon năng lượng 1 𝑀eV va chạm với electron tự do và tán xạ góc 900. Bước sóng của photon tán xạ là:",
             "options": [
                 {
                     "id": "A",
-                    "content": "1,24. 10ିଵଶ𝑚"
+                    "content": "1,24. 10^-12𝑚"
                 },
                 {
                     "id": "B",
-                    "content": "4,63. 10ିଵଶ𝑚"
+                    "content": "4,63. 10^-12𝑚"
                 },
                 {
                     "id": "C",
-                    "content": "1,98. 10ିଵ 𝑚"
+                    "content": "1,98. 10^-1 𝑚"
                 },
                 {
                     "id": "D",
-                    "content": "3,48. 10ିଵଶ𝑚"
+                    "content": "3,48. 10^-12𝑚"
                 }
             ],
             "answer": "D",
@@ -605,7 +605,7 @@
         },
         {
             "id": 25,
-            "question": "So sánh độ tăng bước sóng của photon tán xạ góc 30଴ với photon tán xạ góc 45଴ trong hiệu ứng Compton, biết chùm photon có cùng tần số sóng khi tán xạ lên các electron tự do.",
+            "question": "So sánh độ tăng bước sóng của photon tán xạ góc 30° với photon tán xạ góc 45° trong hiệu ứng Compton, biết chùm photon có cùng tần số sóng khi tán xạ lên các electron tự do.",
             "options": [
                 {
                     "id": "A",
@@ -634,19 +634,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "ℎ = 6,62. 10ିଷସ𝐽.𝑠"
+                    "content": "h = 6,62. 10^-34𝐽.𝑠"
                 },
                 {
                     "id": "B",
-                    "content": "ℎ = 6,62. 10ିଷସ𝐽.𝑚/𝑠"
+                    "content": "h = 6,62. 10^-34𝐽.𝑚/𝑠"
                 },
                 {
                     "id": "C",
-                    "content": "ℎ = 6,62. 10ିଷସ𝐽.𝑚"
+                    "content": "h = 6,62. 10^-34𝐽.𝑚"
                 },
                 {
                     "id": "D",
-                    "content": "ℎ = 6,62. 10ିଷସ𝐽.𝑚ଶ/𝑠"
+                    "content": "h = 6,62. 10^-34𝐽.𝑚2/𝑠"
                 }
             ],
             "answer": "A",
@@ -655,23 +655,23 @@
         },
         {
             "id": 27,
-            "question": "Photon có năng lượng 0,8 𝑀𝑒𝑉 tán xạ trên electron tự do và trở thành bức xạ có bước sóng 2,4. 10ିଵଶ𝑚. Năng lượng của electron tán xạ là:",
+            "question": "Photon có năng lượng 0,8 𝑀eV tán xạ trên electron tự do và trở thành bức xạ có bước sóng 2,4. 10^-12𝑚. Năng lượng của electron tán xạ là:",
             "options": [
                 {
                     "id": "A",
-                    "content": "0,28. 10ିଵସ𝐽"
+                    "content": "0,28. 10^-14𝐽"
                 },
                 {
                     "id": "B",
-                    "content": "4,52. 10ିଵସ𝐽"
+                    "content": "4,52. 10^-14𝐽"
                 },
                 {
                     "id": "C",
-                    "content": "‘8,28. 10ିଵସ𝐽"
+                    "content": "‘8,28. 10^-14𝐽"
                 },
                 {
                     "id": "D",
-                    "content": "7,40. 10ିଵସ𝐽"
+                    "content": "7,40. 10^-14𝐽"
                 }
             ],
             "answer": "B",
@@ -734,11 +734,11 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "𝑊/𝐾ସ"
+                    "content": "𝑊/𝐾4"
                 },
                 {
                     "id": "B",
-                    "content": "𝑊/𝑚ଶ𝐾ସ"
+                    "content": "𝑊/𝑚2𝐾4"
                 },
                 {
                     "id": "C",
@@ -746,7 +746,7 @@
                 },
                 {
                     "id": "D",
-                    "content": "𝑊/𝑚𝐾ସ"
+                    "content": "𝑊/𝑚𝐾4"
                 }
             ],
             "answer": "B",
@@ -763,11 +763,11 @@
                 },
                 {
                     "id": "B",
-                    "content": "Vật thể ở 00C đặt trong không khí."
+                    "content": "Vật thể ở 0°C đặt trong không khí."
                 },
                 {
                     "id": "C",
-                    "content": "Vật thể ở 00C đặt trong chân không."
+                    "content": "Vật thể ở 0°C đặt trong chân không."
                 },
                 {
                     "id": "D",
@@ -800,12 +800,12 @@
                 }
             ],
             "answer": "A",
-            "explain": "Ấm nước sôi T = 100 + 273 = 373 K. Bước sóng cực đại: lamda_m = b / T = 2.898.10^-3 / 373 \u0007pprox 7.76 um.",
+            "explain": "Ấm nước sôi T = 100 + 273 = 373 K. Bước sóng cực đại: lamda_m = b / T = 2.898.10^-3 / 373 ≈ 7.76 um.",
             "topic": "Quang lượng tử"
         },
         {
             "id": 33,
-            "question": "Một lò nung có nhiệt độ nung 1250଴𝐶. Cửa sổ quan sát có diện tích 1,2𝑚ଶ. Giả sử lò là vật đen tuyệt đối. Công suất bức xạ của cửa sổ lò là:",
+            "question": "Một lò nung có nhiệt độ nung 1250°𝐶. Cửa sổ quan sát có diện tích 1,2𝑚2. Giả sử lò là vật đen tuyệt đối. Công suất bức xạ của cửa sổ lò là:",
             "options": [
                 {
                     "id": "A",
@@ -825,12 +825,12 @@
                 }
             ],
             "answer": "B",
-            "explain": "T = 1250 + 273 = 1523 K, S = 1.2 m^2. Công suất bức xạ: P = S * sigma * T^4 = 1.2 * 5.67.10^-8 * 1523^4 \u0007pprox 366070 W.",
+            "explain": "T = 1250 + 273 = 1523 K, S = 1.2 m^2. Công suất bức xạ: P = S * sigma * T^4 = 1.2 * 5.67.10^-8 * 1523^4 ≈ 366070 W.",
             "topic": "Quang lượng tử"
         },
         {
             "id": 34,
-            "question": "Một lò nung có nhiệt độ nung 1250଴𝐶. Bước sóng ứng với năng suất phát xạ cực đại của lò thuộc vùng quang phổ nào?",
+            "question": "Một lò nung có nhiệt độ nung 1250°𝐶. Bước sóng ứng với năng suất phát xạ cực đại của lò thuộc vùng quang phổ nào?",
             "options": [
                 {
                     "id": "A",
@@ -884,23 +884,23 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "20,64. 10ଵସ𝑊"
+                    "content": "20,64. 10^14𝑊"
                 },
                 {
                     "id": "B",
-                    "content": "5,16. 10ଵସ𝑊"
+                    "content": "5,16. 10^14𝑊"
                 },
                 {
                     "id": "C",
-                    "content": "1,11. 10ଶ଺𝑊"
+                    "content": "1,11. 10^26𝑊"
                 },
                 {
                     "id": "D",
-                    "content": "4,46. 10ଶ଺𝑊"
+                    "content": "4,46. 10^26𝑊"
                 }
             ],
             "answer": "D",
-            "explain": "P = S * sigma * T^4 = 4pi * R^2 * sigma * T^4 = 4 * pi * (6.95.10^8)^2 * 5.67.10^-8 * 6000^4 \u0007pprox 4.46.10^26 W.",
+            "explain": "P = S * sigma * T^4 = 4pi * R^2 * sigma * T^4 = 4 * pi * (6.95.10^8)^2 * 5.67.10^-8 * 6000^4 ≈ 4.46.10^26 W.",
             "topic": "Quang lượng tử"
         },
         {
@@ -955,48 +955,48 @@
         },
         {
             "id": 39,
-            "question": "Bức xạ điện từ có bước sóng 350 𝑛𝑚 chiếu đến bề mặt kim loại làm bật ra các electron có động năng cực đại là 1,2 𝑒𝑉. Công thoát của electron trong kim loại là:",
+            "question": "Bức xạ điện từ có bước sóng 350 𝑛𝑚 chiếu đến bề mặt kim loại làm bật ra các electron có động năng cực đại là 1,2 eV. Công thoát của electron trong kim loại là:",
             "options": [
                 {
                     "id": "A",
-                    "content": "5,6 𝑒𝑉"
+                    "content": "5,6 eV"
                 },
                 {
                     "id": "B",
-                    "content": "3,5 𝑒𝑉"
+                    "content": "3,5 eV"
                 },
                 {
                     "id": "C",
-                    "content": "2,3 𝑒𝑉"
+                    "content": "2,3 eV"
                 },
                 {
                     "id": "D",
-                    "content": "1,3 𝑒𝑉"
+                    "content": "1,3 eV"
                 }
             ],
             "answer": "C",
-            "explain": "Lamda = 350 nm => E = hc/lamda = 3.55 eV. Động năng W_d = 1.2 eV => Công thoát A = E - W_d = 2.35 eV \u0007pprox 2.3 eV.",
+            "explain": "Lamda = 350 nm => E = hc/lamda = 3.55 eV. Động năng W_d = 1.2 eV => Công thoát A = E - W_d = 2.35 eV ≈ 2.3 eV.",
             "topic": "Quang lượng tử"
         },
         {
             "id": 40,
-            "question": "Bước sóng của photon là 700 𝑛𝑚. Xác định tần số của photon và năng lượng của photon theo đơn vị 𝑒𝑉.",
+            "question": "Bước sóng của photon là 700 𝑛𝑚. Xác định tần số của photon và năng lượng của photon theo đơn vị eV.",
             "options": [
                 {
                     "id": "A",
-                    "content": "3,2. 10ଵସ𝐻𝑧; 2,36𝑒𝑉"
+                    "content": "3,2. 10^14𝐻𝑧; 2,36eV"
                 },
                 {
                     "id": "B",
-                    "content": "3,2. 10ଵସ𝐻𝑧; 1,77𝑒𝑉"
+                    "content": "3,2. 10^14𝐻𝑧; 1,77eV"
                 },
                 {
                     "id": "C",
-                    "content": "4,3. 10ଵସ𝐻𝑧; 2,36𝑒𝑉"
+                    "content": "4,3. 10^14𝐻𝑧; 2,36eV"
                 },
                 {
                     "id": "D",
-                    "content": "4,3. 10ଵସ𝐻𝑧; 1,77𝑒𝑉"
+                    "content": "4,3. 10^14𝐻𝑧; 1,77eV"
                 }
             ],
             "answer": "D",
@@ -1030,7 +1030,7 @@
         },
         {
             "id": 42,
-            "question": "Một photon có bước sóng 350 𝑛𝑚 chiếu đến bề mặt kali. Công thoát của electron ở lớp bề mặt kali là 2,2 𝑒𝑉. Vận tốc ban đầu cực đại của electron là:",
+            "question": "Một photon có bước sóng 350 𝑛𝑚 chiếu đến bề mặt kali. Công thoát của electron ở lớp bề mặt kali là 2,2 eV. Vận tốc ban đầu cực đại của electron là:",
             "options": [
                 {
                     "id": "A",
@@ -1038,15 +1038,15 @@
                 },
                 {
                     "id": "B",
-                    "content": "6,9. 10ହ𝑚/𝑠"
+                    "content": "6,9. 10^5𝑚/𝑠"
                 },
                 {
                     "id": "C",
-                    "content": "11,2. 10ହ𝑚/𝑠"
+                    "content": "11,2. 10^5𝑚/𝑠"
                 },
                 {
                     "id": "D",
-                    "content": "3,4. 10଺𝑚/𝑠"
+                    "content": "3,4. 10^6𝑚/𝑠"
                 }
             ],
             "answer": "B",
@@ -1105,23 +1105,23 @@
         },
         {
             "id": 45,
-            "question": "Chiếu bức xạ có bước sóng 0,14 𝜇𝑚 vào một kim loại, có hiện tượng quang điện xảy ra. Công thoát của electron đối với kim loại đó là 4,09 𝑒𝑉. Năng lượng hiệu điện thế kháng điện để giữ các quang electron lại không cho bay đến anot là:",
+            "question": "Chiếu bức xạ có bước sóng 0,14 𝜇𝑚 vào một kim loại, có hiện tượng quang điện xảy ra. Công thoát của electron đối với kim loại đó là 4,09 eV. Năng lượng hiệu điện thế kháng điện để giữ các quang electron lại không cho bay đến anot là:",
             "options": [
                 {
                     "id": "A",
-                    "content": "7,65 𝑒𝑉"
+                    "content": "7,65 eV"
                 },
                 {
                     "id": "B",
-                    "content": "4,40 𝑒𝑉"
+                    "content": "4,40 eV"
                 },
                 {
                     "id": "C",
-                    "content": "4,78 𝑒𝑉"
+                    "content": "4,78 eV"
                 },
                 {
                     "id": "D",
-                    "content": "10,1 𝑒𝑉"
+                    "content": "10,1 eV"
                 }
             ],
             "answer": "C",
@@ -1134,19 +1134,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "3,52. 10ିଵଽ𝑘𝑔.𝑚/𝑠"
+                    "content": "3,52. 10^-1ଽkg.𝑚/𝑠"
                 },
                 {
                     "id": "B",
-                    "content": "10,1. 10ିଵଽ𝑘𝑔.𝑚/𝑠"
+                    "content": "10,1. 10^-1ଽkg.𝑚/𝑠"
                 },
                 {
                     "id": "C",
-                    "content": "2,2. 10ିଵଽ𝑘𝑔.𝑚/𝑠"
+                    "content": "2,2. 10^-1ଽkg.𝑚/𝑠"
                 },
                 {
                     "id": "D",
-                    "content": "6,3. 10ିଵଽ𝑘𝑔.𝑚/𝑠"
+                    "content": "6,3. 10^-1ଽkg.𝑚/𝑠"
                 }
             ],
             "answer": "A",
@@ -1155,27 +1155,27 @@
         },
         {
             "id": 47,
-            "question": "Một photon năng lượng 1 𝑀𝑒𝑉 va chạm với electron tự do và tán xạ góc 900. Năng lượng của photon tán xạ là:",
+            "question": "Một photon năng lượng 1 𝑀eV va chạm với electron tự do và tán xạ góc 900. Năng lượng của photon tán xạ là:",
             "options": [
                 {
                     "id": "A",
-                    "content": "0,36𝑀𝑒𝑉"
+                    "content": "0,36𝑀eV"
                 },
                 {
                     "id": "B",
-                    "content": "0,83𝑀𝑒𝑉"
+                    "content": "0,83𝑀eV"
                 },
                 {
                     "id": "C",
-                    "content": "0,21𝑀𝑒𝑉"
+                    "content": "0,21𝑀eV"
                 },
                 {
                     "id": "D",
-                    "content": "0,27𝑀𝑒𝑉"
+                    "content": "0,27𝑀eV"
                 }
             ],
             "answer": "A",
-            "explain": "E = 1 MeV, theta = 90 độ. Năng lượng photon sau tán xạ: E' = E / [1 + (E / m0.c^2)*(1-cos(theta))] = 1 / [1 + 1/0.511] \u0007pprox 0.338 MeV (phương án gần nhất là A. 0.36 MeV).",
+            "explain": "E = 1 MeV, theta = 90 độ. Năng lượng photon sau tán xạ: E' = E / [1 + (E / m0.c^2)*(1-cos(theta))] = 1 / [1 + 1/0.511] ≈ 0.338 MeV (phương án gần nhất là A. 0.36 MeV).",
             "topic": "Quang lượng tử"
         },
         {
@@ -1200,53 +1200,53 @@
                 }
             ],
             "answer": "A",
-            "explain": "Lamda = 0.2400 nm, lamda' = 0.2412 nm => delta_lamda = 1.2 pm. Ta có 1.2 = 2.426 * (1 - cos(theta)) => cos(theta) \u0007pprox 0.5 => theta = pi/3.",
+            "explain": "Lamda = 0.2400 nm, lamda' = 0.2412 nm => delta_lamda = 1.2 pm. Ta có 1.2 = 2.426 * (1 - cos(theta)) => cos(theta) ≈ 0.5 => theta = pi/3.",
             "topic": "Quang lượng tử"
         },
         {
             "id": 49,
-            "question": "Photon có năng lượng 0,15 𝑀𝑒𝑉 va chạm với một electron đứng yên và tán xạ theo góc 90଴. Năng lượng của photon tán xạ là:",
+            "question": "Photon có năng lượng 0,15 𝑀eV va chạm với một electron đứng yên và tán xạ theo góc 90°. Năng lượng của photon tán xạ là:",
             "options": [
                 {
                     "id": "A",
-                    "content": "0,106 𝑀𝑒𝑉"
+                    "content": "0,106 𝑀eV"
                 },
                 {
                     "id": "B",
-                    "content": "0,152 𝑀𝑒𝑉"
+                    "content": "0,152 𝑀eV"
                 },
                 {
                     "id": "C",
-                    "content": "0,116 𝑀𝑒𝑉"
+                    "content": "0,116 𝑀eV"
                 },
                 {
                     "id": "D",
-                    "content": "0,270 𝑀𝑒𝑉"
+                    "content": "0,270 𝑀eV"
                 }
             ],
             "answer": "C",
-            "explain": "E = 0.15 MeV, theta = 90 độ. Năng lượng sau tán xạ: E' = E / [1 + E/0.511] = 0.15 / 1.293 \u0007pprox 0.116 MeV.",
+            "explain": "E = 0.15 MeV, theta = 90 độ. Năng lượng sau tán xạ: E' = E / [1 + E/0.511] = 0.15 / 1.293 ≈ 0.116 MeV.",
             "topic": "Quang lượng tử"
         },
         {
             "id": 50,
-            "question": "Photon ban đầu có năng lượng 0,9 𝑀𝑒𝑉 tán xạ trên một electron tự do và trở thành photon ứng với bức xạ có bước sóng bằng bước sóng Compton. Góc tán xạ của photon là:",
+            "question": "Photon ban đầu có năng lượng 0,9 𝑀eV tán xạ trên một electron tự do và trở thành photon ứng với bức xạ có bước sóng bằng bước sóng Compton. Góc tán xạ của photon là:",
             "options": [
                 {
                     "id": "A",
-                    "content": "60଴"
+                    "content": "60°"
                 },
                 {
                     "id": "B",
-                    "content": "25଴"
+                    "content": "25°"
                 },
                 {
                     "id": "C",
-                    "content": "45଴"
+                    "content": "45°"
                 },
                 {
                     "id": "D",
-                    "content": "52଴"
+                    "content": "52°"
                 }
             ],
             "answer": "D",
@@ -1259,7 +1259,7 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "Photon tán xạ vuông góc với phương đến (90଴)"
+                    "content": "Photon tán xạ vuông góc với phương đến (90°)"
                 },
                 {
                     "id": "B",
@@ -1267,11 +1267,11 @@
                 },
                 {
                     "id": "C",
-                    "content": "Tán xạ cùng phương chiều với electron (0଴)"
+                    "content": "Tán xạ cùng phương chiều với electron (0°)"
                 },
                 {
                     "id": "D",
-                    "content": "Tán xạ ngược so với phương tới (180଴)"
+                    "content": "Tán xạ ngược so với phương tới (180°)"
                 }
             ],
             "answer": "D",
@@ -1280,19 +1280,19 @@
         },
         {
             "id": 52,
-            "question": "Một photon tần số 𝜈଴ va chạm với electron tự do đang ở trạng thái nghỉ và tán xạ góc 60଴ so với phương tới. Nếu tần số photon tán xạ giảm ½ so với tần số photon tới thì giá trị tần số của photon tới là bao nhiêu?",
+            "question": "Một photon tần số v_0 va chạm với electron tự do đang ở trạng thái nghỉ và tán xạ góc 60° so với phương tới. Nếu tần số photon tán xạ giảm ½ so với tần số photon tới thì giá trị tần số của photon tới là bao nhiêu?",
             "options": [
                 {
                     "id": "A",
-                    "content": "2,67. 10ଶ଴𝐻𝑧"
+                    "content": "2,67. 10^20𝐻𝑧"
                 },
                 {
                     "id": "B",
-                    "content": "1,25. 10ଶ଴𝐻𝑧"
+                    "content": "1,25. 10^20𝐻𝑧"
                 },
                 {
                     "id": "C",
-                    "content": "5. 10ଶ଴𝐻𝑧"
+                    "content": "5. 10^20𝐻𝑧"
                 },
                 {
                     "id": "D",
@@ -1300,7 +1300,7 @@
                 }
             ],
             "answer": "A",
-            "explain": "E' = E0 / 2 với theta = 60 độ. Ta có 1 + (E0/m0.c^2) * (1-cos(60)) = 2 => E0/m0.c^2 * 0.5 = 1 => E0 = 2 m0.c^2 = 1.022 MeV. Tần số tương ứng v0 = E0/h \u0007pprox 2.67.10^20 Hz (chọn A).",
+            "explain": "E' = E0 / 2 với theta = 60 độ. Ta có 1 + (E0/m0.c^2) * (1-cos(60)) = 2 => E0/m0.c^2 * 0.5 = 1 => E0 = 2 m0.c^2 = 1.022 MeV. Tần số tương ứng v0 = E0/h ≈ 2.67.10^20 Hz (chọn A).",
             "topic": "Quang lượng tử"
         },
         {
@@ -1309,48 +1309,48 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "90଴"
+                    "content": "90°"
                 },
                 {
                     "id": "B",
-                    "content": "36଴"
+                    "content": "36°"
                 },
                 {
                     "id": "C",
-                    "content": "60଴"
+                    "content": "60°"
                 },
                 {
                     "id": "D",
-                    "content": "50଴"
+                    "content": "50°"
                 }
             ],
             "answer": "D",
-            "explain": "Lamda = 1.807 pm, lamda' = lamda_c = 2.426 pm. delta_lamda = 0.619 pm => cos(theta) = 0.745 => theta = 41.8 độ. Góc tán xạ của electron phi thỏa mãn cot(phi) = (1 + E/m0.c^2)*tan(theta/2) \u0007pprox 0.896 => phi = 50 độ.",
+            "explain": "Lamda = 1.807 pm, lamda' = lamda_c = 2.426 pm. delta_lamda = 0.619 pm => cos(theta) = 0.745 => theta = 41.8 độ. Góc tán xạ của electron phi thỏa mãn cot(phi) = (1 + E/m0.c^2)*tan(theta/2) ≈ 0.896 => phi = 50 độ.",
             "topic": "Quang lượng tử"
         },
         {
             "id": 54,
-            "question": "Trong tán xạ Compton với electron, chùm ánh sáng tím 𝜆= 4000 Å bị tán xạ ngược với góc 180଴. Năng lượng mà nó chuyển cho electron trong va chạm là:",
+            "question": "Trong tán xạ Compton với electron, chùm ánh sáng tím λ= 4000 Å bị tán xạ ngược với góc 180°. Năng lượng mà nó chuyển cho electron trong va chạm là:",
             "options": [
                 {
                     "id": "A",
-                    "content": "3,3. 10ିସ𝑒𝑉"
+                    "content": "3,3. 10^-4eV"
                 },
                 {
                     "id": "B",
-                    "content": "0,33 𝑒𝑉"
+                    "content": "0,33 eV"
                 },
                 {
                     "id": "C",
-                    "content": "3,1 𝑒𝑉"
+                    "content": "3,1 eV"
                 },
                 {
                     "id": "D",
-                    "content": "3,7. 10ିହ𝑒𝑉 ==============================="
+                    "content": "3,7. 10^-5eV ==============================="
                 }
             ],
             "answer": "D",
-            "explain": "Lamda = 400 nm => E = 3.1 eV. Tán xạ ngược theta = 180 độ. delta_lamda = 2.lamda_c = 4.85 pm. Năng lượng truyền cho electron: delta_E \u0007pprox E * delta_lamda / lamda = 3.1 * 4.85.10^-12 / 400.10^-9 = 3.7.10^-5 eV.",
+            "explain": "Lamda = 400 nm => E = 3.1 eV. Tán xạ ngược theta = 180 độ. delta_lamda = 2.lamda_c = 4.85 pm. Năng lượng truyền cho electron: delta_E ≈ E * delta_lamda / lamda = 3.1 * 4.85.10^-12 / 400.10^-9 = 3.7.10^-5 eV.",
             "topic": "Quang lượng tử"
         }
     ]

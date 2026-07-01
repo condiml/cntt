@@ -84,11 +84,11 @@
             "options": [
                 {
                     "id": "A",
-                    "content": ".F m a "
+                    "content": ".F m a="
                 },
                 {
                     "id": "B",
-                    "content": ".M I  "
+                    "content": ".M I β="
                 },
                 {
                     "id": "C",
@@ -155,23 +155,23 @@
         },
         {
             "id": 7,
-            "question": "Gọi mi và iv là khối lượng và vận tốc của chất điểm thứ i. Vận tốc của khối tâm G của hệ n chất điểm được xác định bởi công thức nào sau đây?",
+            "question": "Gọi mi và iv là khối lượng và vận tốc của chất điểm thứ i. Vận tốc của khối tâm G của hệ n chất điểm được xác định bởi công thức nào sau đây?",
             "options": [
                 {
                     "id": "A",
-                    "content": "    n i i n i i G m v v 1 1  "
+                    "content": "Σ Σ = == n i i n i i G m v v 1 1"
                 },
                 {
                     "id": "B",
-                    "content": "    n i i n i ii G m vm v 1 1  "
+                    "content": "Σ Σ = == n i i n i ii G m vm v 1 1"
                 },
                 {
                     "id": "C",
-                    "content": "n v v n i i G   1  "
+                    "content": "n v v n i i G Σ == 1"
                 },
                 {
                     "id": "D",
-                    "content": "n vm v n i ii G   1   iirm ir 2 iirm ir 2 iirm ir iirm ir"
+                    "content": "n vm v n i ii G Σ == 1  iirmΣ ir 2 iirmΣ ir 2 iirmΣ ir iirmΣ ir"
                 }
             ],
             "answer": "B",
@@ -230,7 +230,7 @@
         },
         {
             "id": 10,
-            "question": "Hai vật rắn trong chuyển động quay xung quanh một trục cố định dưới tác dụng của hai mômen lực bằng nhau. Nếu I1 = I2 thì tỷ số gia tốc góc 1 /2 bằng",
+            "question": "Hai vật rắn trong chuyển động quay xung quanh một trục cố định dưới tác dụng của hai mômen lực bằng nhau. Nếu I1 = I2 thì tỷ số gia tốc góc β1 /β2 bằng",
             "options": [
                 {
                     "id": "A",
@@ -330,7 +330,7 @@
         },
         {
             "id": 14,
-            "question": "Hai chất điểm chuyển động đều, cùng vận tốc dài trên hai đường tròn có bán kính R1 /R2  2 . Tỷ số gia tốc pháp tuyến của chúng an1 /an2 bằng",
+            "question": "Hai chất điểm chuyển động đều, cùng vận tốc dài trên hai đường tròn có bán kính R1 /R2 = 2 . Tỷ số gia tốc pháp tuyến của chúng an1 /an2 bằng",
             "options": [
                 {
                     "id": "A",
@@ -409,19 +409,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "I  ml2/3"
+                    "content": "I = ml2/3"
                 },
                 {
                     "id": "B",
-                    "content": "I  ml2/12"
+                    "content": "I = ml2/12"
                 },
                 {
                     "id": "C",
-                    "content": "I  m2l/3"
+                    "content": "I = m2l/3"
                 },
                 {
                     "id": "D",
-                    "content": "I  m2l/12"
+                    "content": "I = m2l/12"
                 }
             ],
             "answer": "A",
@@ -434,19 +434,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "I  ml2/12"
+                    "content": "I = ml2/12"
                 },
                 {
                     "id": "B",
-                    "content": "I  5ml2/3"
+                    "content": "I = 5ml2/3"
                 },
                 {
                     "id": "C",
-                    "content": "I  4ml2/3"
+                    "content": "I = 4ml2/3"
                 },
                 {
                     "id": "D",
-                    "content": "I  ml2/3"
+                    "content": "I = ml2/3"
                 }
             ],
             "answer": "C",
@@ -530,7 +530,7 @@
         },
         {
             "id": 22,
-            "question": "Một vô lăng đang quay với tốc độ góc  = 32 rad/s. Tìm độ lớn của gia tốc góc, biết vô lăng dừng lại sau thời gian t = 20 s.",
+            "question": "Một vô lăng đang quay với tốc độ góc ω = 32 rad/s. Tìm độ lớn của gia tốc góc, biết vô lăng dừng lại sau thời gian t = 20 s.",
             "options": [
                 {
                     "id": "A",
@@ -555,7 +555,7 @@
         },
         {
             "id": 23,
-            "question": "Trên một trụ rỗng khối lượng 1m kg người ta cuộn một sợi dây không giãn có khối lượng và đường kính nhỏ không đáng kể. Đầu tự do của cuộn dây được gắn trên một giá cố định. Để trụ rơi dưới tác dụng của trọng lực, lấy g = 10m/s2. Gia tốc của trụ là:",
+            "question": "Trên một trụ rỗng khối lượng 1m kg= người ta cuộn một sợi dây không giãn có khối lượng và đường kính nhỏ không đáng kể. Đầu tự do của cuộn dây được gắn trên một giá cố định. Để trụ rơi dưới tác dụng của trọng lực, lấy g = 10m/s2. Gia tốc của trụ là:",
             "options": [
                 {
                     "id": "A",
@@ -580,7 +580,7 @@
         },
         {
             "id": 24,
-            "question": "Trên một trụ rỗng khối lượng 1m kg người ta cuộn một sợi dây không giãn có khối lượng và đường kính nhỏ không đáng kể. Đầu tự do của cuộn dây được7 gắn trên một giá cố định. Để trụ rơi dưới tác dụng của trọng lực, lấy g = 10m/s2. Sức căng của dây treo.",
+            "question": "Trên một trụ rỗng khối lượng 1m kg= người ta cuộn một sợi dây không giãn có khối lượng và đường kính nhỏ không đáng kể. Đầu tự do của cuộn dây được7 gắn trên một giá cố định. Để trụ rơi dưới tác dụng của trọng lực, lấy g = 10m/s2. Sức căng của dây treo.",
             "options": [
                 {
                     "id": "A",
@@ -596,7 +596,7 @@
                 },
                 {
                     "id": "D",
-                    "content": "7,5N"
+                    "content": "-7,5N"
                 }
             ],
             "answer": "A",
@@ -609,19 +609,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "12 2 2 2 mm gma "
+                    "content": "12 2 2 2 mm gma +="
                 },
                 {
                     "id": "B",
-                    "content": "12 2 2 mm gma "
+                    "content": "12 2 2 mm gma +="
                 },
                 {
                     "id": "C",
-                    "content": "12 22 mm gma "
+                    "content": "12 22 mm gma +="
                 },
                 {
                     "id": "D",
-                    "content": "12 2 mm gma  ================================================"
+                    "content": "12 2 mm gma += ================================================"
                 }
             ],
             "answer": "B",

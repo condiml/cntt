@@ -305,7 +305,7 @@
         },
         {
             "id": 13,
-            "question": "Ống dây 1 có cùng tiết diện với ống dây 2 nhưng chiều dài ống và số vòng dây đều nhiều hơn gấp đôi. Tỉ sộ hệ số tự cảm của ống 1 với ống 2 là",
+            "question": "Ống dây 1 có cùng tiết diện với ống dây 2 nhưng chiều dài ống và số vòng dây đều nhiều hơn gấp đôi. Tỉ số hệ số tự cảm của ống 1 với ống 2 là",
             "options": [
                 {
                     "id": "A",
@@ -534,19 +534,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "di dt  "
+                    "content": "di dt Φ= -"
                 },
                 {
                     "id": "B",
-                    "content": "di dt "
+                    "content": "di dt Φ="
                 },
                 {
                     "id": "C",
-                    "content": "1 di R dt "
+                    "content": "1 di R dt Φ="
                 },
                 {
                     "id": "D",
-                    "content": "1 di R dt  "
+                    "content": "1 di R dt Φ= -"
                 }
             ],
             "answer": "D",
@@ -555,11 +555,11 @@
         },
         {
             "id": 23,
-            "question": "Một khung dây diện tích S = 5cm2, gồm 50 vòng dây. Đặt khung trong từ trường đều có cảm ứng từ B và quay khung theo mọi hướng. Từ thông qua khung có giá trị cực đại là 5.10-3 Wb. Cảm ứng từ B của từ trường là bao nhiêu?",
+            "question": "Một khung dây diện tích S = 5cm2, gồm 50 vòng dây. Đặt khung trong từ trường đều có cảm ứng từ B và quay khung theo mọi hướng. Từ thông qua khung có giá trị cực đại là 5.10^-3 Wb. Cảm ứng từ B của từ trường là bao nhiêu?",
             "options": [
                 {
                     "id": "A",
-                    "content": "B = 2.10-4T"
+                    "content": "B = 2.10^-4T"
                 },
                 {
                     "id": "B",

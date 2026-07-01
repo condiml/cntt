@@ -134,19 +134,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "10-9 F."
+                    "content": "10^-9 F."
                 },
                 {
                     "id": "B",
-                    "content": "10-12 F."
+                    "content": "10^-12 F."
                 },
                 {
                     "id": "C",
-                    "content": "10-6 F."
+                    "content": "10^-6 F."
                 },
                 {
                     "id": "D",
-                    "content": "10-3 F."
+                    "content": "10^-3 F."
                 }
             ],
             "answer": "A",
@@ -309,19 +309,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2.10-6 C."
+                    "content": "2.10^-6 C."
                 },
                 {
                     "id": "B",
-                    "content": "16.10-6"
+                    "content": "16.10^-6"
                 },
                 {
                     "id": "C",
-                    "content": "C. 4.10-6 C."
+                    "content": "C. 4.10^-6 C."
                 },
                 {
                     "id": "D",
-                    "content": "8.10-6 C."
+                    "content": "8.10^-6 C."
                 }
             ],
             "answer": "D",
@@ -330,7 +330,7 @@
         },
         {
             "id": 14,
-            "question": "Đặt vào hai đầu tụ hiệu điện thế 10 V thì tụ tích được một điện lượng 20.10-9 C. Điện dung của tụ là",
+            "question": "Đặt vào hai đầu tụ hiệu điện thế 10 V thì tụ tích được một điện lượng 20.10^-9 C. Điện dung của tụ là",
             "options": [
                 {
                     "id": "A",
@@ -584,19 +584,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "U QC"
+                    "content": "U QC="
                 },
                 {
                     "id": "B",
-                    "content": "V QC"
+                    "content": "V QC="
                 },
                 {
                     "id": "C",
-                    "content": "UQC ."
+                    "content": "UQC .="
                 },
                 {
                     "id": "D",
-                    "content": "VQC ."
+                    "content": "VQC .="
                 }
             ],
             "answer": "B",
@@ -609,19 +609,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "d S U QC 0."
+                    "content": "d S U QC 0.εε=="
                 },
                 {
                     "id": "B",
-                    "content": "U QC"
+                    "content": "U QC="
                 },
                 {
                     "id": "C",
-                    "content": "RC ..4 0"
+                    "content": "RC ..4 0εεπ="
                 },
                 {
                     "id": "D",
-                    "content": "V QC"
+                    "content": "V QC="
                 }
             ],
             "answer": "B",
@@ -634,19 +634,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "RC ..4 0"
+                    "content": "RC ..4 0εεπ="
                 },
                 {
                     "id": "B",
-                    "content": "d S U QC 0."
+                    "content": "d S U QC 0.εε=="
                 },
                 {
                     "id": "C",
-                    "content": "V QC"
+                    "content": "V QC="
                 },
                 {
                     "id": "D",
-                    "content": "SQC .."
+                    "content": "SQC ..ε="
                 }
             ],
             "answer": "B",
@@ -659,19 +659,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "UQ.2 1W"
+                    "content": "UQ.2 1W="
                 },
                 {
                     "id": "B",
-                    "content": "CQ.2 1W"
+                    "content": "CQ.2 1W="
                 },
                 {
                     "id": "C",
-                    "content": "2.2 1W UC"
+                    "content": "2.2 1W UC="
                 },
                 {
                     "id": "D",
-                    "content": "C Q2 2 1W"
+                    "content": "C Q2 2 1W="
                 }
             ],
             "answer": "B",
@@ -684,19 +684,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2 0..2 1 E"
+                    "content": "2 0..2 1 Eεεω="
                 },
                 {
                     "id": "B",
-                    "content": "CQ.2 1"
+                    "content": "CQ.2 1=ω"
                 },
                 {
                     "id": "C",
-                    "content": "2.2 1 UC"
+                    "content": "2.2 1 UC=ω"
                 },
                 {
                     "id": "D",
-                    "content": "C Q2 2 1"
+                    "content": "C Q2 2 1=ω"
                 }
             ],
             "answer": "A",
@@ -734,19 +734,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "R S U QC 0."
+                    "content": "R S U QC 0.εε=="
                 },
                 {
                     "id": "B",
-                    "content": "RC ..4 0"
+                    "content": "RC ..4 0εεπ="
                 },
                 {
                     "id": "C",
-                    "content": "U QC"
+                    "content": "U QC="
                 },
                 {
                     "id": "D",
-                    "content": "RQC ."
+                    "content": "RQC .="
                 }
             ],
             "answer": "B",

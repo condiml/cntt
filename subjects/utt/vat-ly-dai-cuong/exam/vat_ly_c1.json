@@ -155,7 +155,7 @@
         },
         {
             "id": 7,
-            "question": "Chất điểm chuyển động với phương trình: x=A+cos(t); y=sin(t). Quỹ đạo là:",
+            "question": "Chất điểm chuyển động với phương trình: x=A+cos(ωt); y=sin(ωt). Quỹ đạo là:",
             "options": [
                 {
                     "id": "A",
@@ -180,7 +180,7 @@
         },
         {
             "id": 8,
-            "question": "Chất điểm chuyển động với phương trình: x=Acos(t); y=Bsin(t). Quỹ đạo là:",
+            "question": "Chất điểm chuyển động với phương trình: x=Acos(ωt); y=Bsin(ωt). Quỹ đạo là:",
             "options": [
                 {
                     "id": "A",
@@ -263,7 +263,7 @@
                 },
                 {
                     "id": "B",
-                    "content": "Hình dạng quĩ đạo"
+                    "content": "Hình dạng quỹ đạo"
                 },
                 {
                     "id": "C",
@@ -296,7 +296,7 @@
                 },
                 {
                     "id": "D",
-                    "content": "Độ lớn 2va r ."
+                    "content": "Độ lớn 2va r= ."
                 }
             ],
             "answer": "B",
@@ -305,7 +305,7 @@
         },
         {
             "id": 13,
-            "question": "Nếu trong thời gian khảo sát chuyển động, vectơ vận tốc v và gia tốc a của chất điểm luôn vuông góc với nhau thì chuyển động có tính chất:",
+            "question": "Nếu trong thời gian khảo sát chuyển động, vectơ vận tốc v và gia tốc a của chất điểm luôn vuông góc với nhau thì chuyển động có tính chất:",
             "options": [
                 {
                     "id": "A",
@@ -330,7 +330,7 @@
         },
         {
             "id": 14,
-            "question": "Nếu trong thời gian khảo sát chuyển động, vectơ vận tốc v và gia tốc a của chất điểm luôn tạo với nhau một góc nhọn thì chuyển động có tính chất:",
+            "question": "Nếu trong thời gian khảo sát chuyển động, vectơ vận tốc v và gia tốc a của chất điểm luôn tạo với nhau một góc nhọn thì chuyển động có tính chất:",
             "options": [
                 {
                     "id": "A",
@@ -355,7 +355,7 @@
         },
         {
             "id": 15,
-            "question": "Nếu trong thời gian khảo sát chuyển động, vectơ vận tốc v và gia tốc a của chất điểm luôn tạo với nhau một góc tù thì chuyển động có tính chất:",
+            "question": "Nếu trong thời gian khảo sát chuyển động, vectơ vận tốc v và gia tốc a của chất điểm luôn tạo với nhau một góc tù thì chuyển động có tính chất:",
             "options": [
                 {
                     "id": "A",
@@ -384,15 +384,15 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "Vectơ gia tốc a luôn không đổi"
+                    "content": "Vectơ gia tốc a luôn không đổi"
                 },
                 {
                     "id": "B",
-                    "content": "Vectơ vân tốc v luôn không đổi"
+                    "content": "Vectơ vân tốc v luôn không đổi"
                 },
                 {
                     "id": "C",
-                    "content": "Nếu a cùng chiều với v thì chuyển động là nhanh dần; ngược lại là chậm dần"
+                    "content": "Nếu a cùng chiều với v thì chuyển động là nhanh dần; ngược lại là chậm dần"
                 },
                 {
                     "id": "D",
@@ -434,15 +434,15 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "Vectơ gia tốc a luôn không đổi"
+                    "content": "Vectơ gia tốc a luôn không đổi"
                 },
                 {
                     "id": "B",
-                    "content": "Vectơ vận tốc vluôn không đổi"
+                    "content": "Vectơ vận tốc vluôn không đổi"
                 },
                 {
                     "id": "C",
-                    "content": "Vectơ gia tốc a luôn cùng phương với vectơ vận tốc v"
+                    "content": "Vectơ gia tốc a luôn cùng phương với vectơ vận tốc v"
                 },
                 {
                     "id": "D",
@@ -480,19 +480,19 @@
         },
         {
             "id": 20,
-            "question": "Trong chuyển động tròn, các vectơ vận tốc dài v, vận tốc góc  và bán kính R có mối liên hệ nào?",
+            "question": "Trong chuyển động tròn, các vectơ vận tốc dài v, vận tốc góc ω và bán kính R có mối liên hệ nào?",
             "options": [
                 {
                     "id": "A",
-                    "content": "r v   "
+                    "content": "[]r vω= ×"
                 },
                 {
                     "id": "B",
-                    "content": "v r   "
+                    "content": "[]v r ω= ×"
                 },
                 {
                     "id": "C",
-                    "content": "r v    "
+                    "content": "[]r v ω= ×"
                 },
                 {
                     "id": "D",
@@ -505,19 +505,19 @@
         },
         {
             "id": 21,
-            "question": "Trong chuyển động tròn, các vectơ vận tốc dài v, gia tốc góc  và gia tốc tiếp tuyến ta có mối liên hệ nào?",
+            "question": "Trong chuyển động tròn, các vectơ vận tốc dài v, gia tốc góc β và gia tốc tiếp tuyến ta có mối liên hệ nào?",
             "options": [
                 {
                     "id": "A",
-                    "content": "ta r      "
+                    "content": "ta r β[ = × ]"
                 },
                 {
                     "id": "B",
-                    "content": "R v   "
+                    "content": "[]R v ω= ×"
                 },
                 {
                     "id": "C",
-                    "content": "tr a    "
+                    "content": "[]tr aβ = ×"
                 },
                 {
                     "id": "D",
@@ -559,15 +559,15 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "v r   "
+                    "content": "[]v r ω= ×"
                 },
                 {
                     "id": "B",
-                    "content": "ta r      "
+                    "content": "ta r β[ = × ]"
                 },
                 {
                     "id": "C",
-                    "content": "kdt zdjdt ydidt xda  ... 2 2 2 2 2 2 "
+                    "content": "kdt zdjdt ydidt xda ... 2 2 2 2 2 2 ++="
                 },
                 {
                     "id": "D",
@@ -584,15 +584,15 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2 2 2 2 2 2 d x d y d za dt dt dt                  "
+                    "content": "2 2 2 2 2 2 d x d y d za dt dt dt      = + +          "
                 },
                 {
                     "id": "B",
-                    "content": "n ta a a "
+                    "content": "n ta a a= +"
                 },
                 {
                     "id": "C",
-                    "content": "R va 2 "
+                    "content": "R va 2 ="
                 },
                 {
                     "id": "D",
@@ -605,19 +605,19 @@
         },
         {
             "id": 25,
-            "question": "Trong chuyển động tròn, kí hiệu , ,  là gia tốc góc, vận tốc góc và góc quay của chất điểm. Công thức nào sau đây là đúng?",
+            "question": "Trong chuyển động tròn, kí hiệu β, ω, θ là gia tốc góc, vận tốc góc và góc quay của chất điểm. Công thức nào sau đây là đúng?",
             "options": [
                 {
                     "id": "A",
-                    "content": " t t dt 0 .0 "
+                    "content": "∫+= t t dt 0 .0 βωω"
                 },
                 {
                     "id": "B",
-                    "content": "t  0"
+                    "content": "tβωω += 0"
                 },
                 {
                     "id": "C",
-                    "content": "2 0 2 1 tt  "
+                    "content": "2 0 2 1 tt βωθ +="
                 },
                 {
                     "id": "D",
@@ -630,19 +630,19 @@
         },
         {
             "id": 26,
-            "question": "Trong chuyển động tròn biến đổi đều, kí hiệu , ,  là gia tốc góc, vận tốc góc và góc quay của chất điểm. Công thức nào sau đây là đúng?",
+            "question": "Trong chuyển động tròn biến đổi đều, kí hiệu β, ω, θ là gia tốc góc, vận tốc góc và góc quay của chất điểm. Công thức nào sau đây là đúng?",
             "options": [
                 {
                     "id": "A",
-                    "content": " 22 0 2 "
+                    "content": "βθωω 22 0 2 =-"
                 },
                 {
                     "id": "B",
-                    "content": "2 2 0 2   "
+                    "content": "2 2 0 2ω ω βθ- ="
                 },
                 {
                     "id": "C",
-                    "content": "2 0 2 1 tt  "
+                    "content": "2 0 2 1 tt βωθ +="
                 },
                 {
                     "id": "D",
@@ -663,15 +663,15 @@
                 },
                 {
                     "id": "B",
-                    "content": "r varv ht 2 ;  ."
+                    "content": "r varv ht 2 ; ==ω ."
                 },
                 {
                     "id": "C",
-                    "content": "r varv ht 2 ;.  ."
+                    "content": "r varv ht 2 ;. ==ω ."
                 },
                 {
                     "id": "D",
-                    "content": "r varv ht  ;."
+                    "content": "r varv ht == ;.ω"
                 }
             ],
             "answer": "C",
@@ -680,23 +680,23 @@
         },
         {
             "id": 28,
-            "question": "Trong nguyên tử hyđro, electron chuyển động đều theo quĩ đạo tròn có bán kính R = 5.10-9m, với vận tốc 2,2.108cm/s. Tìm tần số của electron.",
+            "question": "Trong nguyên tử hyđro, electron chuyển động đều theo quỹ đạo tròn có bán kính R = 5.10^-9m, với vận tốc 2,2.10^8cm/s. Tìm tần số của electron.",
             "options": [
                 {
                     "id": "A",
-                    "content": "7.1015 Hz"
+                    "content": "7.10^15 Hz"
                 },
                 {
                     "id": "B",
-                    "content": "7.1014 Hz"
+                    "content": "7.10^14 Hz"
                 },
                 {
                     "id": "C",
-                    "content": "7.1013 Hz"
+                    "content": "7.10^13 Hz"
                 },
                 {
                     "id": "D",
-                    "content": "7.1012 Hz"
+                    "content": "7.10^12 Hz"
                 }
             ],
             "answer": "C",
@@ -709,19 +709,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "10  rad/s2"
+                    "content": "10 π rad/s2"
                 },
                 {
                     "id": "B",
-                    "content": "5  rad/s2"
+                    "content": "5 π rad/s2"
                 },
                 {
                     "id": "C",
-                    "content": "15  rad/s2"
+                    "content": "15 π rad/s2"
                 },
                 {
                     "id": "D",
-                    "content": "20  rad/s2"
+                    "content": "20 π rad/s2"
                 }
             ],
             "answer": "B",
@@ -755,23 +755,23 @@
         },
         {
             "id": 31,
-            "question": "Một đồng hồ có kim giờ dài 4cm, kim phút dài 5cm. Gọi p , g là vận tốc góc và vp, vg là vận tốc dài của đầu kim phút, kim giờ. Quan hệ nào sau đây là đúng?",
+            "question": "Một đồng hồ có kim giờ dài 4cm, kim phút dài 5cm. Gọi pω , gω là vận tốc góc và vp, vg là vận tốc dài của đầu kim phút, kim giờ. Quan hệ nào sau đây là đúng?",
             "options": [
                 {
                     "id": "A",
-                    "content": "p = 12 g ; vg = 16 vp"
+                    "content": "pω = 12 gω ; vg = 16 vp"
                 },
                 {
                     "id": "B",
-                    "content": "p = 12 g ; vp = 15 vg"
+                    "content": "pω = 12 gω ; vp = 15 vg"
                 },
                 {
                     "id": "C",
-                    "content": "g = 12 p ; vp = 25 vg"
+                    "content": "gω = 12 pω ; vp = 25 vg"
                 },
                 {
                     "id": "D",
-                    "content": "g = 12 p ; vg = 9 vp"
+                    "content": "gω = 12 pω ; vg = 9 vp"
                 }
             ],
             "answer": "B",
@@ -780,23 +780,23 @@
         },
         {
             "id": 32,
-            "question": "Một đồng hồ có kim giờ, kim phút và kim giây. Gọi 1, 2 và 3 là vận tốc góc của kim giờ, kim phút và kim giây. Quan hệ nào sau đây là đúng:",
+            "question": "Một đồng hồ có kim giờ, kim phút và kim giây. Gọi 1ω, 2ω và 3ω là vận tốc góc của kim giờ, kim phút và kim giây. Quan hệ nào sau đây là đúng:",
             "options": [
                 {
                     "id": "A",
-                    "content": "1 = 602 = 7203"
+                    "content": "1ω = 602ω = 7203ω"
                 },
                 {
                     "id": "B",
-                    "content": "720 1 = 602 = 3"
+                    "content": "720 1ω = 602ω = 3ω"
                 },
                 {
                     "id": "C",
-                    "content": "1 = 122 = 1443"
+                    "content": "1ω = 122ω = 1443ω"
                 },
                 {
                     "id": "D",
-                    "content": "12 1 = 1442 = 3"
+                    "content": "12 1ω = 1442ω = 3ω"
                 }
             ],
             "answer": "B",
@@ -805,23 +805,23 @@
         },
         {
             "id": 33,
-            "question": "Từ một đỉnh tháp ném một vật theo phương ngang với vận tốc ban đầu là v0. Bỏ qua sức cản không khí. Tìm biểu thức tính gia tốc pháp tuyến an của vật trên quĩ đạo ở thời điểm t (gia tốc rơi tự do là gì)?",
+            "question": "Từ một đỉnh tháp ném một vật theo phương ngang với vận tốc ban đầu là v0. Bỏ qua sức cản không khí. Tìm biểu thức tính gia tốc pháp tuyến an của vật trên quỹ đạo ở thời điểm t (gia tốc rơi tự do là gì)?",
             "options": [
                 {
                     "id": "A",
-                    "content": "0na"
+                    "content": "0=na"
                 },
                 {
                     "id": "B",
-                    "content": "gan "
+                    "content": "gan ="
                 },
                 {
                     "id": "C",
-                    "content": "2 0 22 0 2 vtg vgan "
+                    "content": "2 0 22 0 2 vtg vgan +="
                 },
                 {
                     "id": "D",
-                    "content": "2 0 22 0 vtg gvan  rvarv ht 2;. "
+                    "content": "2 0 22 0 vtg gvan +="
                 }
             ],
             "answer": "D",
@@ -830,23 +830,23 @@
         },
         {
             "id": 34,
-            "question": "Từ một đỉnh tháp ném một vật theo phương ngang với vận tốc ban đầu là v0. Bỏ qua sức cản không khí. Tìm biểu thức tính gia tốc pháp tuyến at của vật trên quĩ đạo ỏ thời điểm t (gia tốc rơi tự do là gì)?",
+            "question": "Từ một đỉnh tháp ném một vật theo phương ngang với vận tốc ban đầu là v0. Bỏ qua sức cản không khí. Tìm biểu thức tính gia tốc pháp tuyến at của vật trên quỹ đạo ỏ thời điểm t (gia tốc rơi tự do là gì)?",
             "options": [
                 {
                     "id": "A",
-                    "content": "0ta"
+                    "content": "0=ta"
                 },
                 {
                     "id": "B",
-                    "content": "2 0 22 0 vtg vgtat  "
+                    "content": "2 0 22 0 vtg vgtat + +="
                 },
                 {
                     "id": "C",
-                    "content": "2 0 22 2 vtg tgat "
+                    "content": "2 0 22 2 vtg tgat +="
                 },
                 {
                     "id": "D",
-                    "content": "2 0 22 0 vtg gvat "
+                    "content": "2 0 22 0 vtg gvat +="
                 }
             ],
             "answer": "C",
@@ -880,7 +880,7 @@
         },
         {
             "id": 36,
-            "question": "Một chất điểm chuyển động trên quĩ đạo tròn bán kính R = 20cm với gia tốc tiếp tuyến không đổi at  5cm/s2. Tìm gia tốc góc .",
+            "question": "Một chất điểm chuyển động trên quỹ đạo tròn bán kính R = 20cm với gia tốc tiếp tuyến không đổi at = 5cm/s2. Tìm gia tốc góc β.",
             "options": [
                 {
                     "id": "A",
@@ -930,7 +930,7 @@
         },
         {
             "id": 38,
-            "question": "Chất điểm M chuyển động trên đường tròn bán kính R = 5m với phương trình: tts  33 (hệ SI). Trong đó s là độ dài cung MO , O là điểm mốc trên đường tròn. Tính quãng đường chất điểm đã đi trong 2 giây đầu tiên.",
+            "question": "Chất điểm M chuyển động trên đường tròn bán kính R = 5m với phương trình: tts += 33 (hệ SI). Trong đó s là độ dài cung MO , O là điểm mốc trên đường tròn. Tính quãng đường chất điểm đã đi trong 2 giây đầu tiên.",
             "options": [
                 {
                     "id": "A",

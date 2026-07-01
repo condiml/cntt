@@ -9,19 +9,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "0 4 IB R  "
+                    "content": "0 4 IB R μμ π="
                 },
                 {
                     "id": "B",
-                    "content": "0 2 IB R "
+                    "content": "0 2 IB R μμ="
                 },
                 {
                     "id": "C",
-                    "content": "0 2 IB R  "
+                    "content": "0 2 IB R μμ π="
                 },
                 {
                     "id": "D",
-                    "content": "0 4 IB R "
+                    "content": "0 4 IB R μμ="
                 }
             ],
             "answer": "C",
@@ -34,19 +34,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2.2 . R SIB  "
+                    "content": "2.2 . R SIB π μμ="
                 },
                 {
                     "id": "B",
-                    "content": "0 2 ISB R "
+                    "content": "0 2 ISB R μμ="
                 },
                 {
                     "id": "C",
-                    "content": "3.2 . R SIB  "
+                    "content": "3.2 . R SIB π μμ="
                 },
                 {
                     "id": "D",
-                    "content": "0 4 ISB R "
+                    "content": "0 4 ISB R μμ="
                 }
             ],
             "answer": "B",
@@ -59,11 +59,11 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2 nIH R"
+                    "content": "2 nIH Rπ="
                 },
                 {
                     "id": "B",
-                    "content": "H nI"
+                    "content": "H nI="
                 },
                 {
                     "id": "C",
@@ -71,7 +71,7 @@
                 },
                 {
                     "id": "D",
-                    "content": "2 IH R"
+                    "content": "2 IH Rπ="
                 }
             ],
             "answer": "C",
@@ -80,7 +80,7 @@
         },
         {
             "id": 4,
-            "question": "Hạt tích điện q chuyển động với vận tốc v trong từ trường B sẽ chịu tác dụng của lực Lorentz F q v B       . Lực này sẽ có tính chất nào sau đây:",
+            "question": "Hạt tích điện q chuyển động với vận tốc v trong từ trường B sẽ chịu tác dụng của lực Lorentz F q v B[ = × ]  . Lực này sẽ có tính chất nào sau đây:",
             "options": [
                 {
                     "id": "A",
@@ -88,7 +88,7 @@
                 },
                 {
                     "id": "B",
-                    "content": "Có chiều sao cho B, qv, F tạo nên một tam diện thuận"
+                    "content": "Có chiều sao cho B, qv, F tạo nên một tam diện thuận"
                 },
                 {
                     "id": "C",
@@ -134,19 +134,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "0 00 34 I dl Idl rdF r            "
+                    "content": "0 00 34 I dl Idl rdF r μμ π [  [ × × ] ]="
                 },
                 {
                     "id": "B",
-                    "content": "0 00 3 . 4 I dl Idl rdF r         "
+                    "content": "0 00 3 . 4 I dl Idl rdF r μμ π [  × ]="
                 },
                 {
                     "id": "C",
-                    "content": "0 4 ooI dl Idl rd F r             "
+                    "content": "0 4 ooI dl Idl rd F r μμ π [  [ × × ] ]=  "
                 },
                 {
                     "id": "D",
-                    "content": "0 4 ooI dl r Idld F r             "
+                    "content": "0 4 ooI dl r Idld F r μμ π [  [ × × ] ]=  "
                 }
             ],
             "answer": "A",
@@ -155,23 +155,23 @@
         },
         {
             "id": 7,
-            "question": "Cảm ứng từ d B  do phần tử dòng điện Id l sinh ra xác định bởi biểu thức",
+            "question": "Cảm ứng từ d B do phần tử dòng điện Id l sinh ra xác định bởi biểu thức",
             "options": [
                 {
                     "id": "A",
-                    "content": "0 34 Idl rdB r        "
+                    "content": "0 34 Idl rdB r μμ π [  × ]="
                 },
                 {
                     "id": "B",
-                    "content": "0 24 Idl rd B r         "
+                    "content": "0 24 Idl rd B r μμ π [  × ]= "
                 },
                 {
                     "id": "C",
-                    "content": "0 4 Idl rd B r         "
+                    "content": "0 4 Idl rd B r μμ π [  × ]= "
                 },
                 {
                     "id": "D",
-                    "content": "0 34 r Idld B r        "
+                    "content": "0 34 r Idld B r μμ π [ × ]= "
                 }
             ],
             "answer": "A",
@@ -180,7 +180,7 @@
         },
         {
             "id": 8,
-            "question": "Đơn vị của cảm ứng từ B trong hệ SI là 2 NIH R",
+            "question": "Đơn vị của cảm ứng từ B trong hệ SI là 2 NIH Rπ=",
             "options": [
                 {
                     "id": "A",
@@ -209,19 +209,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": " )(C BdB "
+                    "content": "∫= )(C BdB"
                 },
                 {
                     "id": "B",
-                    "content": " i iBB "
+                    "content": "Σ= i iBB"
                 },
                 {
                     "id": "C",
-                    "content": "0 34 Idl rB r         "
+                    "content": "0 34 Idl rB r μμ π [  × ]= "
                 },
                 {
                     "id": "D",
-                    "content": ". .sin FB I l    "
+                    "content": ". .sin FB I l =  "
                 }
             ],
             "answer": "C",
@@ -234,19 +234,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": " i iBB "
+                    "content": "Σ= i iBB"
                 },
                 {
                     "id": "B",
-                    "content": " )(C BdB "
+                    "content": "∫= )(C BdB"
                 },
                 {
                     "id": "C",
-                    "content": "0 34 Idl rB r         "
+                    "content": "0 34 Idl rB r μμ π [  × ]= "
                 },
                 {
                     "id": "D",
-                    "content": ". .sin FB I l    "
+                    "content": ". .sin FB I l =  "
                 }
             ],
             "answer": "A",
@@ -259,19 +259,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": ".md B dS  "
+                    "content": ".md B dSφ ="
                 },
                 {
                     "id": "B",
-                    "content": ".md B dS  "
+                    "content": ".md B dSφ ="
                 },
                 {
                     "id": "C",
-                    "content": ".md B dS "
+                    "content": ".md B dSφ ="
                 },
                 {
                     "id": "D",
-                    "content": ".md B dS  "
+                    "content": ".md B dSφ ="
                 }
             ],
             "answer": "A",
@@ -559,19 +559,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "(S) Bd S 0   "
+                    "content": "(S) Bd S 0 → → =∫∇"
                 },
                 {
                     "id": "B",
-                    "content": "(S) E d S 0   "
+                    "content": "(S) E d S 0 → → =∫∇"
                 },
                 {
                     "id": "C",
-                    "content": "i i(S) Bd S q   "
+                    "content": "i i(S) Bd S q → → =Σ∫∇"
                 },
                 {
                     "id": "D",
-                    "content": "k k(C) H d I    "
+                    "content": "k k(C) H d I → → =Σ∫ λ∇"
                 }
             ],
             "answer": "A",
@@ -634,19 +634,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "5.10-5T"
+                    "content": "5.10^-5T"
                 },
                 {
                     "id": "B",
-                    "content": "2.10-5T"
+                    "content": "2.10^-5T"
                 },
                 {
                     "id": "C",
-                    "content": "4.10-5T"
+                    "content": "4.10^-5T"
                 },
                 {
                     "id": "D",
-                    "content": "2π.10-5T"
+                    "content": "2π.10^-5T"
                 }
             ],
             "answer": "A",
@@ -659,19 +659,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": " 1 2cos cos4 oIH R    "
+                    "content": " 1 2cos cos4 oIH R μμ θ θπ= -"
                 },
                 {
                     "id": "B",
-                    "content": "4 oIH R  "
+                    "content": "4 oIH R μμ π="
                 },
                 {
                     "id": "C",
-                    "content": "2 IH R"
+                    "content": "2 IH Rπ="
                 },
                 {
                     "id": "D",
-                    "content": "2 IH R"
+                    "content": "2 IH R="
                 }
             ],
             "answer": "D",
@@ -725,7 +725,7 @@
                 }
             ],
             "answer": "A",
-            "explain": "I = 4 A, R = 2 cm = 0.02 m. Cường độ từ trường H = I / (2pi.R) = 4 / (2 * pi * 0.02) \u0007pprox 31.8 A/m.",
+            "explain": "I = 4 A, R = 2 cm = 0.02 m. Cường độ từ trường H = I / (2pi.R) = 4 / (2 * pi * 0.02) ≈ 31.8 A/m.",
             "topic": "Từ trường"
         },
         {
@@ -734,7 +734,7 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "0,75.10-5T"
+                    "content": "0,75.10^-5T"
                 },
                 {
                     "id": "B",
