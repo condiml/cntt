@@ -509,7 +509,7 @@ function selectExamAnswer(answerInput) {
     const aiToggle = document.getElementById('ai-explanation-toggle');
     const showAI = aiToggle ? aiToggle.checked : true;
 
-    if (!isCorrect && examExplanation && showAI) {
+    if (examExplanation && showAI) {
         const explanationText = q.explanation || q.explain || "Không có giải thích chi tiết cho câu hỏi này.";
         examExplanation.innerHTML = `
             <div class="explanation-box">

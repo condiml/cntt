@@ -43,5 +43,14 @@
         "school": "Đại học Công nghệ GTVT",
         "shortSchool": "UTT",
         "path": "subjects/utt/ung-dung-cntt-co-ban"
+    },
+    {
+        "id": "vat-ly-dai-cuong",
+        "name": "Vật lý đại cương",
+        "shortName": "Vật lý",
+        "icon": "⚛️",
+        "school": "Đại học Công nghệ GTVT",
+        "shortSchool": "UTT",
+        "path": "subjects/utt/vat-ly-dai-cuong"
     }
 ]

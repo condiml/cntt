@@ -1,0 +1,77 @@
+{
+    "id": "vat-ly-dai-cuong",
+    "name": "Vật lý đại cương",
+    "shortName": "Vật lý",
+    "icon": "⚛️",
+    "school": "Đại học Công nghệ GTVT",
+    "shortSchool": "UTT",
+    "examPath": "exam",
+    "chapters": [
+        {
+            "id": 1,
+            "name": "Chương 1: Động học chất điểm",
+            "file": "vat_ly_c1.json"
+        },
+        {
+            "id": 2,
+            "name": "Chương 2: Động lực học chất điểm",
+            "file": "vat_ly_c2.json"
+        },
+        {
+            "id": 3,
+            "name": "Chương 3: Động lực học hệ chất điểm và vật rắn",
+            "file": "vat_ly_c3.json"
+        },
+        {
+            "id": 4,
+            "name": "Chương 4: Công và năng lượng",
+            "file": "vat_ly_c4.json"
+        },
+        {
+            "id": 5,
+            "name": "Chương 5: Nhiệt động lực học",
+            "file": "vat_ly_c5.json"
+        },
+        {
+            "id": 6,
+            "name": "Chương 6: Điện trường tĩnh",
+            "file": "vat_ly_c6.json"
+        },
+        {
+            "id": 7,
+            "name": "Chương 7: Vật dẫn, điện môi và tụ điện",
+            "file": "vat_ly_c7.json"
+        },
+        {
+            "id": 8,
+            "name": "Chương 8: Từ trường tĩnh",
+            "file": "vat_ly_c8.json"
+        },
+        {
+            "id": 9,
+            "name": "Chương 9: Cảm ứng điện từ",
+            "file": "vat_ly_c9.json"
+        },
+        {
+            "id": 11,
+            "name": "Chương 11: Quang học lượng tử",
+            "file": "vat_ly_c11.json"
+        }
+    ],
+    "simulationConfig": {
+        "totalQuestions": 40,
+        "timeLimit": 50,
+        "distribution": [
+            {"chapter": 1, "percent": 10},
+            {"chapter": 2, "percent": 10},
+            {"chapter": 3, "percent": 10},
+            {"chapter": 4, "percent": 10},
+            {"chapter": 5, "percent": 10},
+            {"chapter": 6, "percent": 10},
+            {"chapter": 7, "percent": 10},
+            {"chapter": 8, "percent": 10},
+            {"chapter": 9, "percent": 10},
+            {"chapter": 11, "percent": 10}
+        ]
+    }
+}

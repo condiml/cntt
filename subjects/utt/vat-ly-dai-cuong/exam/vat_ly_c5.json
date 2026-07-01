@@ -1,0 +1,907 @@
+{
+    "title": "Chương 5: Nhiệt động lực học",
+    "chapter": 5,
+    "total_questions": 36,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Phương trình trạng thái của khí lí tưởng (Với R= 8,31 J/ mol K) có khối lượng bất kì là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "p.V= R.T"
+                },
+                {
+                    "id": "B",
+                    "content": "T Vp. = Const"
+                },
+                {
+                    "id": "C",
+                    "content": "T Vp. =  Rm."
+                },
+                {
+                    "id": "D",
+                    "content": "m Vp. =  tR."
+                }
+            ],
+            "answer": "C",
+            "explain": "Phương trình Clapeyron - Mendeleev biểu diễn phương trình trạng thái khí lí tưởng dưới dạng pV = (m/M).RT, trong đó M (hoặc mu) là khối lượng mol.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 2,
+            "question": "Một lượng khí có thể tích không đổi, Nhiệt độ T được làm tăng lên gấp đôi, áp suất của khí sẽ",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "tăng gấp đôi."
+                },
+                {
+                    "id": "B",
+                    "content": "giảm một nửa."
+                },
+                {
+                    "id": "C",
+                    "content": "tăng gấp bốn."
+                },
+                {
+                    "id": "D",
+                    "content": "giảm gấp bốn."
+                }
+            ],
+            "answer": "A",
+            "explain": "Quá trình đẳng tích có thể tích không đổi. Theo định luật Charles, áp suất tỉ lệ thuận với nhiệt độ tuyệt đối T. Khi T tăng gấp đôi thì p tăng gấp đôi.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 3,
+            "question": "Nhiệt độ là đại lượng vật lý đặc trưng cho mức độ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "chuyển động có trật tự của các phân tử."
+                },
+                {
+                    "id": "B",
+                    "content": "nóng lên của vật khi có ma sát"
+                },
+                {
+                    "id": "C",
+                    "content": "chuyển động hỗn loạn của các phân tử"
+                },
+                {
+                    "id": "D",
+                    "content": "lạnh đi khi vật tiếp xúc với nước đá."
+                }
+            ],
+            "answer": "C",
+            "explain": "Nhiệt độ là đại lượng đặc trưng cho mức độ chuyển động hỗn loạn (chuyển động nhiệt) của các phân tử cấu tạo nên vật.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 4,
+            "question": "Hằng số khí lý tưởng R tính theo đơn vị (J/mol.K) là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "8,31"
+                },
+                {
+                    "id": "B",
+                    "content": "0,0848"
+                },
+                {
+                    "id": "C",
+                    "content": "831"
+                },
+                {
+                    "id": "D",
+                    "content": "8,31.103"
+                }
+            ],
+            "answer": "A",
+            "explain": "Hằng số khí lí tưởng R có giá trị bằng 8.31 J/(mol.K).",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 5,
+            "question": "Một khối khí lý tưởng biến đổi theo quá trình đẳng tích. Tăng nhiệt độ của bình từ 1000C lên 2000C thì áp suất tăng lên bao nhiêu lần:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1"
+                },
+                {
+                    "id": "B",
+                    "content": "1,27"
+                },
+                {
+                    "id": "C",
+                    "content": "2"
+                },
+                {
+                    "id": "D",
+                    "content": "2,5"
+                }
+            ],
+            "answer": "B",
+            "explain": "Tăng nhiệt độ từ T1 = 100 + 273 = 373 K lên T2 = 200 + 273 = 473 K. Trong bình kín đẳng tích, áp suất tăng: p2 / p1 = T2 / T1 = 473 / 373 = 1.27 lần.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 6,
+            "question": "Nén đẳng nhiệt một khối khí lý tưởng ở áp suất 2.105 Pa, thể tích 12 lít xuống còn 3 lít. Tính áp suất của khí sau khi nén?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "8.105 N/m2"
+                },
+                {
+                    "id": "B",
+                    "content": "8.105 bar"
+                },
+                {
+                    "id": "C",
+                    "content": "8.105 atm"
+                },
+                {
+                    "id": "D",
+                    "content": "8 mmHg"
+                }
+            ],
+            "answer": "A",
+            "explain": "Quá trình đẳng nhiệt: p1.V1 = p2.V2 => p2 = p1.V1 / V2 = 2.10^5 * 12 / 3 = 8.10^5 Pa (N/m^2).",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 7,
+            "question": "Biểu thức của nguyên lý 1 Nhiệt động lực học:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "U = A + Q"
+                },
+                {
+                    "id": "B",
+                    "content": "ΔU = A + Q"
+                },
+                {
+                    "id": "C",
+                    "content": "U = A’ + Q’"
+                },
+                {
+                    "id": "D",
+                    "content": "ΔU = A’ + Q’"
+                }
+            ],
+            "answer": "B",
+            "explain": "Hệ thức nguyên lý I nhiệt động lực học có dạng delta_U = A + Q.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 8,
+            "question": "Bậc tự do của phân tử khí lý tưởng đơn nguyên tử bằng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1"
+                },
+                {
+                    "id": "B",
+                    "content": "3"
+                },
+                {
+                    "id": "C",
+                    "content": "5"
+                },
+                {
+                    "id": "D",
+                    "content": "6"
+                }
+            ],
+            "answer": "B",
+            "explain": "Khí lí tưởng đơn nguyên tử có 3 bậc tự do tịnh tiến (i = 3).",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 9,
+            "question": "Hệ thức Mayer biểu diễn mối liên hệ giữa nhiệt dung mol đẳng áp và nhiệt dung mol đẳng tích là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cp + Cv = R"
+                },
+                {
+                    "id": "B",
+                    "content": "Cv – Cp = R"
+                },
+                {
+                    "id": "C",
+                    "content": "Cp – Cv = R"
+                },
+                {
+                    "id": "D",
+                    "content": "Cp/Cv = R"
+                }
+            ],
+            "answer": "C",
+            "explain": "Hệ thức Mayer liên hệ giữa nhiệt dung mol đẳng áp và đẳng tích là C_p - C_v = R.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 10,
+            "question": "Công của n mol khí lí tưởng nhận được trong quá trình nén từ trạng thái (1) đến trạng thái (2) được tính theo công thức nào sau đây:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "A12 = - p.ΔV"
+                },
+                {
+                    "id": "B",
+                    "content": "2 12 1 .A p dV "
+                },
+                {
+                    "id": "C",
+                    "content": "1 12 2 .A p dV "
+                },
+                {
+                    "id": "D",
+                    "content": "A12 = p.ΔV"
+                }
+            ],
+            "answer": "B",
+            "explain": "Công mà khí nhận được trong quá trình biến đổi từ trạng thái 1 sang 2: A_12 = - \\int_{V1}^{V2} p dV.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 11,
+            "question": "Độ biến thiên nội năng của n mol khí lý tưởng đơn nguyên tử biến đổi từ trạng thái (1) sang trạng thái (2) là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1 .2U nR T  "
+                },
+                {
+                    "id": "B",
+                    "content": "3 .2U nR T  "
+                },
+                {
+                    "id": "C",
+                    "content": "5 .2U nR T  "
+                },
+                {
+                    "id": "D",
+                    "content": ".2 iU nR T  "
+                }
+            ],
+            "answer": "B",
+            "explain": "Độ biến thiên nội năng của khí lí tưởng đơn nguyên tử (i=3): delta_U = 3/2 * n * R * delta_T.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 12,
+            "question": "Độ biến thiên nội năng của n mol khí lý tưởng lưỡng nguyên tử biến đổi từ trạng thái (1) sang trạng thái (2) là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1 .2U nR T  "
+                },
+                {
+                    "id": "B",
+                    "content": "3 .2U nR T  "
+                },
+                {
+                    "id": "C",
+                    "content": "5 .2U nR T  "
+                },
+                {
+                    "id": "D",
+                    "content": ".2 iU nR T  "
+                }
+            ],
+            "answer": "C",
+            "explain": "Độ biến thiên nội năng của khí lí tưởng lưỡng nguyên tử (i=5): delta_U = 5/2 * n * R * delta_T.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 13,
+            "question": "Quá trình đẳng nhiệt có:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "A = 0"
+                },
+                {
+                    "id": "B",
+                    "content": "ΔU = 0"
+                },
+                {
+                    "id": "C",
+                    "content": "Q = 0"
+                },
+                {
+                    "id": "D",
+                    "content": "T = 0"
+                }
+            ],
+            "answer": "B",
+            "explain": "Trong quá trình đẳng nhiệt, nhiệt độ T không đổi nên nội năng không đổi (delta_U = 0).",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 14,
+            "question": "Đơn vị nhiệt dung riêng của 1 chất là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "J.kg/độ"
+                },
+                {
+                    "id": "B",
+                    "content": "J/kg.độ"
+                },
+                {
+                    "id": "C",
+                    "content": "kg/J.độ"
+                },
+                {
+                    "id": "D",
+                    "content": "J.kg.độ"
+                }
+            ],
+            "answer": "B",
+            "explain": "Nhiệt dung riêng là nhiệt lượng cần để nâng 1kg chất lên 1 độ, đơn vị là J/(kg.độ) hoặc J/(kg.K).",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 15,
+            "question": "Phát biểu nào dưới đây đúng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hệ nhận công và nhiệt thì nội năng của hệ tăng"
+                },
+                {
+                    "id": "B",
+                    "content": "Hệ nhận công và nhiệt thì nội năng hệ giảm"
+                },
+                {
+                    "id": "C",
+                    "content": "Hệ sinh công, tỏa nhiệt thì nội năng hệ tăng"
+                },
+                {
+                    "id": "D",
+                    "content": "Hệ sinh công, tỏa nhiệt thì nội năng của hệ không đổi."
+                }
+            ],
+            "answer": "A",
+            "explain": "Theo hệ thức delta_U = A + Q, nếu hệ nhận công (A > 0) và nhận nhiệt (Q > 0) thì delta_U > 0, tức là nội năng tăng.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 16,
+            "question": "Một khối khí nhận nhiệt lượng 2000 J và công 1500 J. Tính độ biến thiên nội năng của khối khí:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3500 J"
+                },
+                {
+                    "id": "B",
+                    "content": "500 J"
+                },
+                {
+                    "id": "C",
+                    "content": "-3500 J"
+                },
+                {
+                    "id": "D",
+                    "content": "-500 J"
+                }
+            ],
+            "answer": "A",
+            "explain": "Hệ nhận nhiệt Q = 2000 J và nhận công A = 1500 J. Biến thiên nội năng delta_U = A + Q = 1500 + 2000 = 3500 J.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 17,
+            "question": "Hơ nóng đẳng tích một khối khí chứa trong một bình lớn kín. Độ biến thiên nội năng của khối khí là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "U = 0."
+                },
+                {
+                    "id": "B",
+                    "content": "U = Q, Q>0."
+                },
+                {
+                    "id": "C",
+                    "content": "U = Q, Q<0."
+                },
+                {
+                    "id": "D",
+                    "content": "U = A, A>0."
+                }
+            ],
+            "answer": "B",
+            "explain": "Hơ nóng đẳng tích: đẳng tích nên công A = 0, hơ nóng nên hệ nhận nhiệt Q > 0. Biến thiên nội năng delta_U = Q (với Q > 0).",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 18,
+            "question": "Hãy tìm câu đúng. Phát biểu nguyên lý 2 nhiệt động học",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "nhiệt độ không thể tự động truyền từ nơi thấp đến cao"
+                },
+                {
+                    "id": "B",
+                    "content": "nhiệt lượng không thể tự động truyền từ nơi nhiệt độ thấp đến nơi nhiệt độ cao"
+                },
+                {
+                    "id": "C",
+                    "content": "nhiệt lượng không thể truyền từ nơi nhiệt độ thấp đến nơi nhiệt độ ca"
+                },
+                {
+                    "id": "D",
+                    "content": "nhiệt không thể truyền từ nơi nhiệt độ thấp đến nơi nhiệt độ cao"
+                }
+            ],
+            "answer": "B",
+            "explain": "Theo Clausius, nhiệt lượng không thể tự động truyền từ một vật sang một vật nóng hơn (từ nơi nhiệt độ thấp đến nơi nhiệt độ cao hơn).",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 19,
+            "question": "Trong một chu trình của động cơ nhiệt lí tưởng, chất khí thực hiện một công bằng 2.103 J và truyền cho nguồn lạnh một nhiệt lượng bằng 6.103 J. Hiệu suất của động cơ đó bằng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "33%"
+                },
+                {
+                    "id": "B",
+                    "content": "80%"
+                },
+                {
+                    "id": "C",
+                    "content": "25%"
+                },
+                {
+                    "id": "D",
+                    "content": "65%"
+                }
+            ],
+            "answer": "C",
+            "explain": "Công động cơ thực hiện A = 2.10^3 J, nhiệt lượng xả Q2' = 6.10^3 J. Nhiệt lượng nhận từ nguồn nóng Q1 = A + Q2' = 8.10^3 J. Hiệu suất H = A / Q1 = 2/8 = 25%.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 20,
+            "question": "Phát biểu nào sau đây về hiệu suất của động cơ nhiệt sai T1 : nhiệt độ tuyệt đối của nguồn nóng; T2 : nhiệt độ tuyệt đối của nguồn lạnh thì",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "H luôn nhỏ hơn 1"
+                },
+                {
+                    "id": "B",
+                    "content": "H rất thấp"
+                },
+                {
+                    "id": "C",
+                    "content": "H ≤ (T1-T2)/T1"
+                },
+                {
+                    "id": "D",
+                    "content": "H có thể bằng 1"
+                }
+            ],
+            "answer": "D",
+            "explain": "Theo định luật 2 nhiệt động lực học, hiệu suất của mọi động cơ nhiệt thực tế luôn nhỏ hơn 100% (H không thể bằng 1).",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 21,
+            "question": "Hiệu suất của động cơ nhiệt H nhận nhiệt Q1 từ nguồn nóng và truyền nhiệt Q’2 cho nguồn lạnh được xác định bằng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "(Q1-Q’2)/Q1"
+                },
+                {
+                    "id": "B",
+                    "content": "(T1-T2)/T1"
+                },
+                {
+                    "id": "C",
+                    "content": "(T2-T1)/T1"
+                },
+                {
+                    "id": "D",
+                    "content": "(Q’2-Q1)/Q1"
+                }
+            ],
+            "answer": "A",
+            "explain": "Hiệu suất của động cơ nhiệt H = (Q1 - Q2') / Q1.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 22,
+            "question": "Với T1 : nhiệt độ tuyệt đối của nguồn nóng; T2 : nhiệt độ tuyệt đối của nguồn lạnh, hiệu suất của động cơ nhiệt lý tưởng ( hoạt động theo chu trình các nô) có dạng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hmax = (T1+T2)/T2"
+                },
+                {
+                    "id": "B",
+                    "content": "Hmax = (T1-T2)/T2"
+                },
+                {
+                    "id": "C",
+                    "content": "Hmax = (T1+T2)/T1"
+                },
+                {
+                    "id": "D",
+                    "content": "Hmax = (T1-T2)/T1"
+                }
+            ],
+            "answer": "D",
+            "explain": "Hiệu suất cực đại của động cơ Các-nô hoạt động giữa hai nguồn nhiệt T1 và T2 là H = (T1 - T2) / T1.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 23,
+            "question": "Nén đẳng nhiệt một khối khí xác định từ 10 lít giảm xuống còn 5 lít thì áp suất thay đổi như thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "không đổi"
+                },
+                {
+                    "id": "B",
+                    "content": "tăng 1/2 lần"
+                },
+                {
+                    "id": "C",
+                    "content": "giảm 2 lần"
+                },
+                {
+                    "id": "D",
+                    "content": "tăng 2 lần"
+                }
+            ],
+            "answer": "D",
+            "explain": "Nén đẳng nhiệt từ V1 = 10 lít xuống V2 = 5 lít (giảm 2 lần). Theo định luật Boyle-Mariotte, áp suất tỉ lệ nghịch với thể tích nên áp suất tăng 2 lần.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 24,
+            "question": "Một khối khí lí tưởng nhất định thực hiện quá trình biến đổi mà kết quả là nhiệt độ tăng gấp đôi và áp suất tăng gấp đôi. Gọi V1 là thể tích ban đầu của khí, thể tích cuối là V2 thì:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "V2 = 2V1"
+                },
+                {
+                    "id": "B",
+                    "content": "V2 = V1/4."
+                },
+                {
+                    "id": "C",
+                    "content": "V2 = 4V1"
+                },
+                {
+                    "id": "D",
+                    "content": "V2 = V1"
+                }
+            ],
+            "answer": "D",
+            "explain": "Nhiệt độ tuyệt đối tăng gấp đôi (T2 = 2T1), áp suất tăng gấp đôi (p2 = 2p1). Từ p1.V1 / T1 = p2.V2 / T2 => p1.V1 / T1 = 2p1.V2 / 2T1 = p1.V2 / T1 => V2 = V1.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 25,
+            "question": "Một kmol khí được nung nóng đẳng áp từ 17˚C đến 75˚C. Công mà khí đã thực hiện được có giá trị xấp xỉ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "720 KJ"
+                },
+                {
+                    "id": "B",
+                    "content": "481 KJ"
+                },
+                {
+                    "id": "C",
+                    "content": "1200 KJ"
+                },
+                {
+                    "id": "D",
+                    "content": "240 KJ"
+                }
+            ],
+            "answer": "B",
+            "explain": "Công đẳng áp thực hiện bởi 1 kmol khí: A = p.delta_V = n.R.delta_T = 1000 * 8.31 * (75 - 17) = 8310 * 58 \u0007pprox 481.98 kJ.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 26,
+            "question": "Một bình chứa khí oxi dung tích 10 lít ở áp suất 250kPa và nhiệt độ 270C. khối lượng khí oxi trong bình là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "32,1g"
+                },
+                {
+                    "id": "B",
+                    "content": "25,8g"
+                },
+                {
+                    "id": "C",
+                    "content": "12,6g"
+                },
+                {
+                    "id": "D",
+                    "content": "22,4 g"
+                }
+            ],
+            "answer": "A",
+            "explain": "Áp dụng phương trình Mendeleev-Clapeyron: m = p.V.M / (R.T) = 250*10^3 * 0.01 * 32 / (8.31 * 300) = 80000 / 2493 \u0007pprox 32.1 g.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 27,
+            "question": "Chọn câu trả lời đúng: Một lượng khí biến đổi, công sinh ra luôn luôn bằng độ biến thiên nội năng. Quá trình biến đổi đó là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đoạn nhiệt"
+                },
+                {
+                    "id": "B",
+                    "content": "Đẳng áp"
+                },
+                {
+                    "id": "C",
+                    "content": "Đẳng tích"
+                },
+                {
+                    "id": "D",
+                    "content": "Đẳng nhiệt"
+                }
+            ],
+            "answer": "A",
+            "explain": "Quá trình đoạn nhiệt không trao đổi nhiệt với môi trường (Q = 0) nên theo nguyên lý I: delta_U = A, độ biến thiên nội năng bằng đúng công trao đổi.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 28,
+            "question": "Nén đẳng nhiệt 3 lít không khí ở áp suất 1 at. Tìm nhiệt lượng tỏa ra (J), biết rằng thể tích cuối cùng chỉ bằng 1/10 thể tích ban đầu",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "725 J"
+                },
+                {
+                    "id": "B",
+                    "content": "677,65 J"
+                },
+                {
+                    "id": "C",
+                    "content": "530 J"
+                },
+                {
+                    "id": "D",
+                    "content": "323 J"
+                }
+            ],
+            "answer": "B",
+            "explain": "Nhiệt lượng tỏa ra bằng công nén đẳng nhiệt: Q = A = p1.V1.ln(V1/V2) = 9.81.10^4 * 3.10^-3 * ln(10) \u0007pprox 677.65 J (với 1 at \u0007pprox 9.81.10^4 Pa).",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 29,
+            "question": "Một động cơ nhiệt làm việc theo chu trình Các-nô có nhiệt độ của nguồn lạnh là 60°C và của nguồn nóng là 300°C. Hiệu suất của động cơ là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "0,8"
+                },
+                {
+                    "id": "B",
+                    "content": "0,58"
+                },
+                {
+                    "id": "C",
+                    "content": "0,42"
+                },
+                {
+                    "id": "D",
+                    "content": "0,20"
+                }
+            ],
+            "answer": "C",
+            "explain": "T1 = 300 + 273 = 573 K, T2 = 60 + 273 = 333 K. Hiệu suất H = (T1 - T2) / T1 = (573 - 333) / 573 \u0007pprox 42%.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 30,
+            "question": "Hiệu suất của một động cơ nhiệt là 40%, nhiệt lượng nguồn nóng cung cấp là 800J. Công mà động cơ nhiệt thực hiện là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2kj"
+                },
+                {
+                    "id": "B",
+                    "content": "320J"
+                },
+                {
+                    "id": "C",
+                    "content": "800J"
+                },
+                {
+                    "id": "D",
+                    "content": "480J"
+                }
+            ],
+            "answer": "B",
+            "explain": "Hiệu suất H = A / Q1 => Công động cơ thực hiện A = H * Q1 = 0.4 * 800 = 320 J.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 31,
+            "question": "Một động cơ nhiệt thực hiện một công 400J khi nhận từ nguồn nóng một nhiệt lượng 1kJ. Hiệu suất của động cơ nhiệt là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "nhỏ hơn 25%"
+                },
+                {
+                    "id": "B",
+                    "content": "25%"
+                },
+                {
+                    "id": "C",
+                    "content": "lớn hơn 40%"
+                },
+                {
+                    "id": "D",
+                    "content": "40%"
+                }
+            ],
+            "answer": "D",
+            "explain": "Hiệu suất H = A / Q1 = 400 / 1000 = 40%.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 32,
+            "question": ". Một động cơ nhiệt nhận từ nguồn nóng một nhiệt lượng 1200J và truyền cho nguồn lạnh một nhiệt lượng 900J. Hiệu suất của động cơ là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "lớn hơm 75%"
+                },
+                {
+                    "id": "B",
+                    "content": "75%"
+                },
+                {
+                    "id": "C",
+                    "content": "25%"
+                },
+                {
+                    "id": "D",
+                    "content": "nhỏ hơn 25%"
+                }
+            ],
+            "answer": "C",
+            "explain": "Hiệu suất H = (Q1 - Q2') / Q1 = (1200 - 900) / 1200 = 25%.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 33,
+            "question": "Nhiệt dung riêng đẳng áp và nhiệt dung riêng đẳng tích có quan hệ nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "RCC vp "
+                },
+                {
+                    "id": "B",
+                    "content": "RCC pv "
+                },
+                {
+                    "id": "C",
+                    "content": " v p C C"
+                },
+                {
+                    "id": "D",
+                    "content": "RC C p v "
+                }
+            ],
+            "answer": "B",
+            "explain": "Nhiệt dung mol đẳng áp C_p và đẳng tích C_v của khí lí tưởng liên hệ qua hệ thức Mayer: C_p - C_v = R.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 34,
+            "question": "Công thức nào sau đây dùng tính công trong quá trình biến đổi đẳng nhiệt của n mol khí từ trạng thái (1) sang trạng thái (2)?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "VpA "
+                },
+                {
+                    "id": "B",
+                    "content": "TnRA  ."
+                },
+                {
+                    "id": "C",
+                    "content": "UA "
+                },
+                {
+                    "id": "D",
+                    "content": "12 /ln. VVnRTA"
+                }
+            ],
+            "answer": "D",
+            "explain": "Công trong quá trình biến đổi đẳng nhiệt của n mol khí lí tưởng: A = n.R.T.ln(V1/V2).",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 35,
+            "question": "Một động cơ nhiệt lí tưởng hoạt động giữa 2 nguồn nhiệt 100°C và 25,4°C, công mà động cơ thực hiện là 2kJ. Hiệu suất của động cơ này có giá trị là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "H = 25,4%"
+                },
+                {
+                    "id": "B",
+                    "content": "H = 74,6%"
+                },
+                {
+                    "id": "C",
+                    "content": "H = 76,4%"
+                },
+                {
+                    "id": "D",
+                    "content": "H = 20,0%"
+                }
+            ],
+            "answer": "D",
+            "explain": "T1 = 100 + 273 = 373 K, T2 = 25.4 + 273 = 298.4 K. Hiệu suất động cơ Các-nô H = (T1 - T2) / T1 = (373 - 298.4) / 373 = 20.0%.",
+            "topic": "Nhiệt động lực học"
+        },
+        {
+            "id": 36,
+            "question": "Một động cơ nhiệt lí tưởng hoạt động giữa 2 nguồn nhiệt 100°C và 25,4°C, công mà động cơ thực hiện là 2kJ. Để hiệu suất của động cơ đạt 25% thì phải tăng nhiệt độ nguồn nóng lên bao nhiêu",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "t=1250°C"
+                },
+                {
+                    "id": "B",
+                    "content": "t=12,5°C"
+                },
+                {
+                    "id": "C",
+                    "content": "t=152°C"
+                },
+                {
+                    "id": "D",
+                    "content": "t=125°C ==============================="
+                }
+            ],
+            "answer": "D",
+            "explain": "Để H = 25%, nhiệt độ nguồn nóng T1' phải thỏa mãn: (T1' - 298.4)/T1' = 0.25 => T1' = 298.4 / 0.75 \u0007pprox 398 K = 125 độ C. Vậy nhiệt độ nguồn nóng cần tăng lên đến 125 độ C.",
+            "topic": "Nhiệt động lực học"
+        }
+    ]
+}

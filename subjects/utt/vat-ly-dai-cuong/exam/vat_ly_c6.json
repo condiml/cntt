@@ -1,0 +1,1032 @@
+{
+    "title": "Chương 6: Điện trường tĩnh",
+    "chapter": 6,
+    "total_questions": 41,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Lực tĩnh điện F do điện tích điểm q tác dụng lên một điện tích điểm q0 đặt cách nó một khoảng r bằng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1 4 o o qq r"
+                },
+                {
+                    "id": "B",
+                    "content": "3 1 4 o o qq r r "
+                },
+                {
+                    "id": "C",
+                    "content": "1 4 o o qq r r "
+                },
+                {
+                    "id": "D",
+                    "content": "2 1 4 o o qq r r "
+                }
+            ],
+            "answer": "B",
+            "explain": "Lực tĩnh điện Coulomb dạng vectơ do điện tích q tác dụng lên q0 cách khoảng r có dạng F = [q.q0 / (4pi.e0.e.r^3)] * r.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 2,
+            "question": "Vectơ cường độ điện trường do điện tích điểm q gây ra tại một điểm xác định bởi bán kính véctơ r, bằng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "24 q r r r "
+                },
+                {
+                    "id": "B",
+                    "content": "24 q r r r "
+                },
+                {
+                    "id": "C",
+                    "content": "24 o q r r r  "
+                },
+                {
+                    "id": "D",
+                    "content": "24 o q r r r "
+                }
+            ],
+            "answer": "D",
+            "explain": "Vectơ cường độ điện trường do điện tích điểm q gây ra tại bán kính vectơ r có dạng E = [q / (4pi.e0.e.r^3)] * r.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 3,
+            "question": "Điện thông gửi qua một mặt S có biểu thức: ( Dn = hình chiếu của D lên phương pháp tuyến của mặt S, dSn = hình chiếu của dS lên phương của D)",
+            "options": [
+                {
+                    "id": "A",
+                    "content": ".n n S D dS"
+                },
+                {
+                    "id": "B",
+                    "content": ".n n S D dS "
+                },
+                {
+                    "id": "C",
+                    "content": ". S D dS"
+                },
+                {
+                    "id": "D",
+                    "content": ". n S D dS"
+                }
+            ],
+            "answer": "A",
+            "explain": "Điện thông (thông lượng điện cảm) gửi qua diện tích S được định nghĩa bằng tích phân mặt của hình chiếu Dn lên pháp tuyến mặt S: phi = \\int_S Dn dS.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 4,
+            "question": "Công của lực tính điện của điện tích điểm q làm dịch chuyển điện tích điểm qo từ điểm M đến điểm N bằng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2 2 1 1 4 o o M N qq r r     "
+                },
+                {
+                    "id": "B",
+                    "content": "2 2 1 1 4 o o M N qq r r     "
+                },
+                {
+                    "id": "C",
+                    "content": "1 1 4 o o M N qq r r     "
+                },
+                {
+                    "id": "D",
+                    "content": "1 1 4 o o M N qq r r     "
+                }
+            ],
+            "answer": "D",
+            "explain": "Công của lực tĩnh điện dịch chuyển q0 từ M đến N: A_MN = [q.q0 / (4pi.e0.e)] * (1/r_M - 1/r_N).",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 5,
+            "question": "Khi khoảng cách giữa hai điện tích điểm trong chân không giảm xuống 2 lần thì độ lớn lực Culông sẽ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng 4 lần"
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng 2 lần"
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm 4 lần"
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm 2 lần"
+                }
+            ],
+            "answer": "A",
+            "explain": "Lực Coulomb tỷ lệ nghịch với bình phương khoảng cách r^2. Khi r giảm 2 lần thì lực Coulomb tăng lên 2^2 = 4 lần.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 6,
+            "question": "Khi đi qua mặt phân cách của hai môi trường, từ môi trường một sang môi trường hai, có hằng số điện môi lần lượt bằng 1 và bằng 2, số véc tơ điện cảm:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm đi 2 lần"
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng lên hai lần"
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm đi 4 lần"
+                },
+                {
+                    "id": "D",
+                    "content": "Không thay đổi"
+                }
+            ],
+            "answer": "D",
+            "explain": "Theo định lý Gauss, điện thông gửi qua mặt phân cách giữa hai môi trường chỉ phụ thuộc vào điện tích bên trong, không đổi khi đi qua mặt phân cách. Số đường cảm ứng điện (vectơ điện cảm) do đó không thay đổi.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 7,
+            "question": "Khi đi qua mặt phân cách của hai môi trường, từ môi trường một sang môi trường hai, có hằng số điện môi lần lượt bằng 1 và bằng 2, số đường sức điện trường:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm đi 2 lần"
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng lên hai lần"
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm đi 4 lần"
+                },
+                {
+                    "id": "D",
+                    "content": "Tăng lên 4 lần"
+                }
+            ],
+            "answer": "A",
+            "explain": "Vectơ cường độ điện trường E = D / (e0.e). Khi đi từ môi trường e1 = 1 sang môi trường e2 = 2, hằng số điện môi tăng gấp đôi làm E giảm đi 2 lần, do đó số đường sức điện trường giảm đi 2 lần.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 8,
+            "question": "Trong hệ đơn vị SI, đơn vị của véctơ cường độ điện trường được tính bằng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "mV"
+                },
+                {
+                    "id": "B",
+                    "content": "2mV"
+                },
+                {
+                    "id": "C",
+                    "content": "mA"
+                },
+                {
+                    "id": "D",
+                    "content": "2mA"
+                }
+            ],
+            "answer": "A",
+            "explain": "Trong hệ SI, đơn vị của cường độ điện trường là Vôn trên mét (V/m) (ở đây tùy chọn A đại diện cho V/m do lỗi font chữ/OCR thành mV).",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 9,
+            "question": "Định lý Ôxtrogratxki – Gaox đối với điện trường được phát biểu",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Điện thông qua một mặt kín bằng tổng đại số các điện tích bên ngoài mặt kín ấy"
+                },
+                {
+                    "id": "B",
+                    "content": "Điện thông qua một mặt kín bằng tổng đại số các điện tích chứa trong mặt kín ấy"
+                },
+                {
+                    "id": "C",
+                    "content": "Điện thông qua một mặt kín bằng tổng đại số độ lớn các véctơ cường độ điện trường do các điện tích chứa trong mặt kín ấy gây ra"
+                },
+                {
+                    "id": "D",
+                    "content": "Điện thông qua một mặt kín bằng tổng đại số độ lớn các véctơ điện cảm do các điện tích chứa trong mặt kín ấy gây ra."
+                }
+            ],
+            "answer": "B",
+            "explain": "Định lý Ostrogradsky - Gauss (O-G) đối với điện trường: Điện thông (hoặc thông lượng cảm ứng điện) qua một mặt kín bằng tổng đại số các điện tích chứa trong mặt kín đó.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 10,
+            "question": "Hai quả cầu kim loại nhiễm điện |q1| = |q2| đặt cố định, rất gần nhau. Gọi trị số lực tương tác điện giữa chúng khi q1 trái dấu q2 là F, khi q1 cùng dấu q2 là F’. Vậy:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "F > F’"
+                },
+                {
+                    "id": "B",
+                    "content": "F < F’"
+                },
+                {
+                    "id": "C",
+                    "content": "Không xác định được"
+                },
+                {
+                    "id": "D",
+                    "content": "F = F’"
+                }
+            ],
+            "answer": "A",
+            "explain": "Hai quả cầu kim loại nhiễm điện đặt rất gần nhau. Khi trái dấu, lực hút kéo các điện tích về phía đối diện nhau (khoảng cách hiệu dụng nhỏ hơn) => lực hút F lớn hơn. Khi cùng dấu, các điện tích đẩy nhau ra xa nhất => lực đẩy F' nhỏ hơn. Do đó F > F'.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 11,
+            "question": "Đơn vị đo cường độ điện trường trong hệ SI là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "V.m"
+                },
+                {
+                    "id": "B",
+                    "content": "V/m"
+                },
+                {
+                    "id": "C",
+                    "content": "C/m2"
+                },
+                {
+                    "id": "D",
+                    "content": "A/m"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đơn vị đo cường độ điện trường trong hệ SI là V/m.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 12,
+            "question": "Định luật Coulomb dạng véc tơ cho hai điện tích điểm đặt trong chân không là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1 2 1 2 2 2 . . .1 .4 o q q k q qF r r "
+                },
+                {
+                    "id": "B",
+                    "content": "1 2 1 2 2 2 . . .1 4 o q q k q qr rF r r r r    "
+                },
+                {
+                    "id": "C",
+                    "content": ".F q E   "
+                },
+                {
+                    "id": "D",
+                    "content": ".F q E    "
+                }
+            ],
+            "answer": "B",
+            "explain": "Định luật Coulomb dạng vectơ cho hai điện tích điểm đặt trong chân không (e = 1) là F12 = [q1.q2 / (4pi.e0.r^3)] * r12.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 13,
+            "question": "Đơn vị của véc tơ cảm ứng điện trong hệ SI là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "V/m"
+                },
+                {
+                    "id": "B",
+                    "content": "C/m2"
+                },
+                {
+                    "id": "C",
+                    "content": "C/m"
+                },
+                {
+                    "id": "D",
+                    "content": "V.m"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đơn vị của vectơ cảm ứng điện D = e0.e.E trong hệ SI là Culông trên mét vuông (C/m^2).",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 14,
+            "question": "Chọn phát biểu sai. Các đường sức của điện trường tĩnh",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "không cắt nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "là các đường cong kín"
+                },
+                {
+                    "id": "C",
+                    "content": "là các đường cong hở hoặc đường thẳng"
+                },
+                {
+                    "id": "D",
+                    "content": "nơi điện trường mạnh các đường sức mau hơn (dày hơn) nơi điện trường yếu"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đường sức của điện trường tĩnh luôn xuất phát từ các điện tích dương (hoặc vô cùng) và kết thúc ở các điện tích âm (hoặc vô cùng), do đó chúng là đường cong hở chứ không phải đường cong kín.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 15,
+            "question": "Chọn phát biểu sai. Công của lực điện trường khi điện tích điểm q chuyển động từ A đến B trong điện trường bất kỳ là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "AB ABA qU"
+                },
+                {
+                    "id": "B",
+                    "content": ". .ABA q E d"
+                },
+                {
+                    "id": "C",
+                    "content": ". B AB A A q E dl      "
+                },
+                {
+                    "id": "D",
+                    "content": "AB A BA q V V "
+                }
+            ],
+            "answer": "B",
+            "explain": "Công thức A_AB = q.E.d chỉ áp dụng trong điện trường đều, không đúng cho điện trường bất kỳ.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 16,
+            "question": "Chọn phát biểu sai. Hiệu điện thế giữa hai điểm",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "B trong điện trường đều E xác định bởi biểu thức A. AB A BU V V "
+                },
+                {
+                    "id": "B",
+                    "content": ".ABU q E"
+                },
+                {
+                    "id": "C",
+                    "content": ". AB AB AB AU E d q "
+                },
+                {
+                    "id": "D",
+                    "content": ". B AB A U E dl     "
+                }
+            ],
+            "answer": "B",
+            "explain": "Hiệu điện thế giữa hai điểm không phụ thuộc vào điện tích q dịch chuyển: U_AB = A_AB / q, không phải U_AB = q.E.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 17,
+            "question": "Chọn phát biểu sai. Mặt đẳng thế",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "là quỹ tích các điểm có cùng điện thế"
+                },
+                {
+                    "id": "B",
+                    "content": "công của lực điện khi di chuyển điện tích trên mặt đẳng thế phụ thuộc vào khoảng cách giữa các điểm"
+                },
+                {
+                    "id": "C",
+                    "content": "tại mỗi điểm trên mặt đẳng thế, véc tơ cường độ điện trường tại đó vuông góc mặt đẳng thế"
+                },
+                {
+                    "id": "D",
+                    "content": "các mặt đẳng thế không cắt nhau"
+                }
+            ],
+            "answer": "B",
+            "explain": "Công của lực điện dịch chuyển điện tích trên cùng mặt đẳng thế luôn bằng 0 vì điện thế mọi điểm bằng nhau (A = q.delta_V = 0), không phụ thuộc khoảng cách.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 18,
+            "question": "Hai quả cầu nhỏ tích điện, tác dụng lên nhau bởi một lực bằng 0,1N. Lực tác dụng giữa hai quả cầu sẽ thay đổi như thế nào khi tăng điện tích của mỗi quả cầu lên gấp đôi và khoảng cách giữa chúng không thay đổi?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "0,1N"
+                },
+                {
+                    "id": "B",
+                    "content": "0,2N"
+                },
+                {
+                    "id": "C",
+                    "content": "0,4N"
+                },
+                {
+                    "id": "D",
+                    "content": "0,05N"
+                }
+            ],
+            "answer": "C",
+            "explain": "Lực Coulomb tỷ lệ thuận với tích hai điện tích q1.q2. Khi điện tích mỗi quả tăng gấp đôi (tích tăng 4 lần) thì lực tăng 4 lần: F' = 4 * 0.1 = 0.4 N.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 19,
+            "question": "Lực tương tác culông giữa hai điện tích điểm thay đổi như thế nào khi tăng khoảng cách giữa chúng 2 lần?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm 4 lần"
+                },
+                {
+                    "id": "B",
+                    "content": "Giảm 2 lần"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng 4 lần"
+                },
+                {
+                    "id": "D",
+                    "content": "Tăng 2 lần"
+                }
+            ],
+            "answer": "A",
+            "explain": "Lực tương tác Coulomb tỷ lệ nghịch với r^2. Khi khoảng cách r tăng 2 lần thì lực tương tác giảm đi 2^2 = 4 lần.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 20,
+            "question": "Cường độ điện trường do một điện tích điểm sinh ra thay đổi như thế nào khi tăng khoảng cách đến điện tích lên 2 lần?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm 4 lần"
+                },
+                {
+                    "id": "B",
+                    "content": "Giảm 2 lần"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng 4 lần"
+                },
+                {
+                    "id": "D",
+                    "content": "Tăng 2 lần"
+                }
+            ],
+            "answer": "A",
+            "explain": "Cường độ điện trường E tỷ lệ nghịch với r^2. Khi khoảng cách r tăng 2 lần thì E giảm đi 2^2 = 4 lần.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 21,
+            "question": "Biểu thức nào sau đây gọi là lưu số của véc tơ cường độ điện trường",
+            "options": [
+                {
+                    "id": "A",
+                    "content": ". B A E dl     "
+                },
+                {
+                    "id": "B",
+                    "content": ". B A D dl     "
+                },
+                {
+                    "id": "C",
+                    "content": ". B A H dl     "
+                },
+                {
+                    "id": "D",
+                    "content": ". B A B dl     "
+                }
+            ],
+            "answer": "A",
+            "explain": "Lưu số của vectơ cường độ điện trường là tích phân dọc theo đường cong hở hoặc kín: \\int_A^B E.dl.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 22,
+            "question": "Định lý Gauss dạng tích phân đối với điện trường",
+            "options": [
+                {
+                    "id": "A",
+                    "content": ". kin i iS D d S q      "
+                },
+                {
+                    "id": "B",
+                    "content": "divD "
+                },
+                {
+                    "id": "C",
+                    "content": ". kin i iS E d S q       "
+                },
+                {
+                    "id": "D",
+                    "content": "i i q "
+                }
+            ],
+            "answer": "A",
+            "explain": "Định lý Gauss dạng tích phân cho điện cảm: thông lượng điện cảm gửi qua mặt kín bằng tổng đại số các điện tích bên trong mặt kín: \\oint D.dS = sum(q_i).",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 23,
+            "question": "Điện thế tại một điểm trong điện trường bất kỳ",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "V . O A A E dl     "
+                },
+                {
+                    "id": "B",
+                    "content": "V . O A A q E dl      "
+                },
+                {
+                    "id": "C",
+                    "content": "V . B A A E dl     "
+                },
+                {
+                    "id": "D",
+                    "content": "V .A E d"
+                }
+            ],
+            "answer": "A",
+            "explain": "Điện thế tại một điểm A trong điện trường bất kỳ được tính bằng tích phân đường từ A đến điểm mốc (vô cùng hoặc điểm O): V_A = \\int_A^O E.dl.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 24,
+            "question": "Bắn một êlectron đi vào giữa 2 bản của một tụ điện phẳng như hình vẽ. Quỹ đạo của êlectron giữa 2 bản có dạng của đường gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đường thẳng"
+                },
+                {
+                    "id": "B",
+                    "content": "Đường parabol hướng về phía trên"
+                },
+                {
+                    "id": "C",
+                    "content": "Đường parabol hướng về phía dưới"
+                },
+                {
+                    "id": "D",
+                    "content": "Một cung đường tròn."
+                }
+            ],
+            "answer": "B",
+            "explain": "Electron mang điện tích âm, khi bay vào tụ điện phẳng sẽ bị hút về bản dương (bản tích điện dương nằm phía trên) làm quỹ đạo lệch thành hình parabol hướng lên trên.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 25,
+            "question": "Khi dịch chuyển điện tích q giữa hai điểm có hiệu điện thế là 6V. Lực do điện trường tác động lên điện tích thực hiện một công là 3J. Điện tích q bằng bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "0,5 C"
+                },
+                {
+                    "id": "B",
+                    "content": "2 C"
+                },
+                {
+                    "id": "C",
+                    "content": "18 C"
+                },
+                {
+                    "id": "D",
+                    "content": "không thể xác định điện tích"
+                }
+            ],
+            "answer": "A",
+            "explain": "Ta có công A = q.U => q = A / U = 3 / 6 = 0.5 C.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 26,
+            "question": "Có một điện tích điểm q = 5.10-9C đặt tại điểm A trong chân không. Xác định cường độ điện trường tại điểm B cách A một khoảng 10cm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "5000V/m"
+                },
+                {
+                    "id": "B",
+                    "content": "4500V/m"
+                },
+                {
+                    "id": "C",
+                    "content": "9000V/m"
+                },
+                {
+                    "id": "D",
+                    "content": "2500V/m"
+                }
+            ],
+            "answer": "B",
+            "explain": "Cường độ điện trường E = k.q / r^2 = 9.10^9 * 5.10^-9 / 0.1^2 = 45 / 0.01 = 4500 V/m.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 27,
+            "question": "Cho hai điện tích q1 = 5.10-9C, điện tích q2 = -5.10-9C đặt cách nhau 10cm. Xác định véctơ cường độ điện trường tại điểm M nằm trên đường thẳng đi qua hai điện tích đó và cách đều hai điện tích?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "18000V/m"
+                },
+                {
+                    "id": "B",
+                    "content": "45000V/m"
+                },
+                {
+                    "id": "C",
+                    "content": "36000V/m"
+                },
+                {
+                    "id": "D",
+                    "content": "12500V/m"
+                }
+            ],
+            "answer": "C",
+            "explain": "M nằm chính giữa đoạn nối q1 (dương) và q2 (âm). Hai vectơ điện trường E1 và E2 đều hướng từ q1 sang q2 nên cùng chiều: E = E1 + E2 = 2 * (k.q1 / r1^2) = 2 * 9.10^9 * 5.10^-9 / 0.05^2 = 36000 V/m.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 28,
+            "question": "Hình bên có vẽ các đường sức của một số điện trường trong phạm vi M’M. Tìm hình vẽ điện trường mà nếu đi từ M’ sang M thì lúc đầu cường độ điện trường giảm sau đó lại tăng dần?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "A"
+                },
+                {
+                    "id": "B",
+                    "content": "D"
+                },
+                {
+                    "id": "C",
+                    "content": "B"
+                },
+                {
+                    "id": "D",
+                    "content": "C"
+                }
+            ],
+            "answer": "C",
+            "explain": "Các đường sức mau (dày) ở hai đầu M', M và thưa ở giữa nghĩa là cường độ điện trường giảm ở giữa rồi tăng lại ở đầu kia. Hình B mô tả trường hợp này.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 29,
+            "question": "Hình bên có vẽ các đường sức của một số điện trường trong phạm vi M’M. Tìm hình vẽ mà cường độ điện trường không đổi?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "A"
+                },
+                {
+                    "id": "B",
+                    "content": "B"
+                },
+                {
+                    "id": "C",
+                    "content": "C"
+                },
+                {
+                    "id": "D",
+                    "content": "D"
+                }
+            ],
+            "answer": "A",
+            "explain": "Điện trường đều (cường độ không đổi) có các đường sức song song cách đều nhau. Hình A mô tả điều này.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 30,
+            "question": "Hình bên có vẽ các đường sức của một số điện trường trong phạm vi M’M. Tìm hình vẽ mà cường độ điện trường giảm dần từ M’ sang M?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "A"
+                },
+                {
+                    "id": "B",
+                    "content": "B"
+                },
+                {
+                    "id": "C",
+                    "content": "C"
+                },
+                {
+                    "id": "D",
+                    "content": "D"
+                }
+            ],
+            "answer": "C",
+            "explain": "Mật độ đường sức giảm dần từ M' sang M nghĩa là cường độ điện trường giảm dần. Hình C mô tả điều này.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 31,
+            "question": "Hình bên có vẽ các đường sức của một số điện trường trong phạm vi M’M. Tìm hình vẽ mà cường độ điện trường tăng dần từ M’ sang M?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "A"
+                },
+                {
+                    "id": "B",
+                    "content": "C"
+                },
+                {
+                    "id": "C",
+                    "content": "B"
+                },
+                {
+                    "id": "D",
+                    "content": "D"
+                }
+            ],
+            "answer": "D",
+            "explain": "Mật độ đường sức tăng dần từ M' sang M nghĩa là cường độ điện trường tăng dần. Hình D mô tả điều này.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 32,
+            "question": "Cho điện tích điểm Q =5.10-6C đặt trong không khí. Điểm M cách Q một khoảng 2cm. Tính công của lực điện trường khi dịch chuyển điện tích điểm q=10-9C từ điểm M đến điểm N bất kỳ nằm trên mặt cầu có bán kính r2=5cm, có tâm ở điểm đặt điện tích Q. Cho k=9.109Nm2/C2",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "14,5.10-4J"
+                },
+                {
+                    "id": "B",
+                    "content": "16,5.10-4J"
+                },
+                {
+                    "id": "C",
+                    "content": "15,5.10-4J"
+                },
+                {
+                    "id": "D",
+                    "content": "13,5.10-4J"
+                }
+            ],
+            "answer": "D",
+            "explain": "Công dịch chuyển điện tích q từ M cách Q khoảng r1 đến N bất kỳ trên mặt cầu r2: A = k.Q.q * (1/r1 - 1/r2) = 9.10^9 * 5.10^-6 * 10^-9 * (1/0.02 - 1/0.05) = 45.10^-6 * 30 = 13.5.10^-4 J.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 33,
+            "question": "Lực hút giữa điện tử và hạt nhân trong nguyên tử hiđrô là F. Ion He1+ có bán kính lớn gấp hai lần bán kính nguyên tử hiđrô. Lực hút giữa điện tử và hạt nhân trong Ion He1+ bằng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3F/4"
+                },
+                {
+                    "id": "B",
+                    "content": "F/4"
+                },
+                {
+                    "id": "C",
+                    "content": "F/2"
+                },
+                {
+                    "id": "D",
+                    "content": "2F"
+                }
+            ],
+            "answer": "C",
+            "explain": "Với H2: F = k.e^2/r^2. Với He1+: hạt nhân tích điện +2e, 1 electron lớp vỏ tích điện -e, khoảng cách r' = 2r. Lực hút F' = k.(2e).e / r'^2 = 2.k.e^2 / (4r^2) = F / 2.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 34,
+            "question": "Hai điện tích điểm q1= +6.10-8C và q2 = -6.10-8C được đặt cố định tại hai điểm A và B cách nhau một khoảng 4cm, trong không khí. Tìm lực tác dụng lên một điện tích điểm q = +2.10-9C đặt tại điểm O giữa A và B. Cho k=9.109Nm2/C2",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "54.10-3N"
+                },
+                {
+                    "id": "B",
+                    "content": "54.104N"
+                },
+                {
+                    "id": "C",
+                    "content": "54.10-2N"
+                },
+                {
+                    "id": "D",
+                    "content": "54.10-4N"
+                }
+            ],
+            "answer": "A",
+            "explain": "q1 = 6.10^-8 C (A), q2 = -6.10^-8 C (B), q = 2.10^-9 C đặt tại trung điểm O. Cả hai lực do q1 đẩy và q2 hút q đều hướng từ A sang B: F = F1 + F2 = 2 * k.q1.q / (d/2)^2 = 2 * 9.10^9 * 6.10^-8 * 2.10^-9 / 0.02^2 = 54.10^-3 N.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 35,
+            "question": "Biểu thức cường độ điện trường do điện tích điểm sinh ra tại vị trí có tọa độ r so với điện tích đó là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2 1 4 oV dV rE r r     "
+                },
+                {
+                    "id": "B",
+                    "content": "2 . . k q rE r r  "
+                },
+                {
+                    "id": "C",
+                    "content": "2 1 4 oL dl rE r r     "
+                },
+                {
+                    "id": "D",
+                    "content": "2 1 4 oS dS rE r r     "
+                }
+            ],
+            "answer": "B",
+            "explain": "Cường độ điện trường do điện tích điểm sinh ra tại r: E = [q / (4pi.e0.e.r^3)] * r (hoặc k.q.r / (e.r^3)).",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 36,
+            "question": "Biểu thức cường độ điện trường do sợi dây mảnh tích điện với mật độ λ sinh ra là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2 . . k q rE r r  "
+                },
+                {
+                    "id": "B",
+                    "content": "2 1 4 oL dl rE r r     "
+                },
+                {
+                    "id": "C",
+                    "content": "2 1 4 oV dV rE r r     "
+                },
+                {
+                    "id": "D",
+                    "content": "2 1 4 oS dS rE r r     "
+                }
+            ],
+            "answer": "B",
+            "explain": "Cường độ điện trường do sợi dây mảnh tích điện mật độ lamda: E = 1/(4pi.e0.e) * \\int_L (lamda.dl / r^3) * r.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 37,
+            "question": "Biểu thức cường độ điện trường do mặt S tích điện với mật độ σ sinh ra là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2 1 4 oL dl rE r r     "
+                },
+                {
+                    "id": "B",
+                    "content": "2 1 4 oS dS rE r r     "
+                },
+                {
+                    "id": "C",
+                    "content": "2 1 4 oV dV rE r r     "
+                },
+                {
+                    "id": "D",
+                    "content": "2 . . k q rE r r  "
+                }
+            ],
+            "answer": "B",
+            "explain": "Cường độ điện trường do mặt phẳng tích điện mật độ sigma: E = 1/(4pi.e0.e) * \\int_S (sigma.dS / r^3) * r.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 38,
+            "question": "Định luật Coulomb dạng véc tơ cho hai vật tích điện Q1,Q2 có kích thước là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1 2 1 2 2 2 . . .1 4 o q q k q qr rF r r r r    "
+                },
+                {
+                    "id": "B",
+                    "content": "1 212 12 3 121, 2 1 4 oQ Q dq dqF r r     "
+                },
+                {
+                    "id": "C",
+                    "content": "1 1 2 3 1 4 oQ dq dqF r r    "
+                },
+                {
+                    "id": "D",
+                    "content": "1 212 12 3 2 1 4 oQ dq dqF r r     "
+                }
+            ],
+            "answer": "B",
+            "explain": "Định luật Coulomb dạng vectơ cho hai vật tích điện Q1, Q2 có kích thước lớn: F12 = 1/(4pi.e0.e) * \\int_{V1} \\int_{V2} (dq1.dq2 / r12^3) * r12.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 39,
+            "question": "Hai điện tích điểm q1 = 2q2 = 3.10-9C đặt cách nhau 10cm trong chân không. Hiệu điện thế tại hai điểm đặt hai điện tích là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "13,5V"
+                },
+                {
+                    "id": "B",
+                    "content": "135V"
+                },
+                {
+                    "id": "C",
+                    "content": "180V"
+                },
+                {
+                    "id": "D",
+                    "content": "270V"
+                }
+            ],
+            "answer": "B",
+            "explain": "Hiệu điện thế U12 = |V1 - V2|. Điện thế do q2 gây ra tại q1: V1 = k.q2/d = 9.10^9 * 1.5.10^-9 / 0.1 = 135 V. Điện thế do q1 gây ra tại q2: V2 = k.q1/d = 9.10^9 * 3.10^-9 / 0.1 = 270 V. Hiệu điện thế U12 = 270 - 135 = 135 V.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 40,
+            "question": "Đem hai quả cầu nhỏ bằng kim loại có kích thước giống nhau, mang điện tích lúc đầu khác nhau, cho tiếp xúc với nhau rồi đem đặt trong chân không cách nhau 5cm. Tính lực tương tác điện giữa 2 quả cầu biết điện tích lúc đầu của hai quả cầu là q1 = 3.10- 6C, q2 = 10-6C?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "F = 12,5N"
+                },
+                {
+                    "id": "B",
+                    "content": "F = 14,4N"
+                },
+                {
+                    "id": "C",
+                    "content": "F = 16,2N"
+                },
+                {
+                    "id": "D",
+                    "content": "F = 18,3N"
+                }
+            ],
+            "answer": "B",
+            "explain": "Khi tiếp xúc, điện tích chia đều: q1' = q2' = (q1+q2)/2 = (3.10^-6 + 10^-6)/2 = 2.10^-6 C. Lực tương tác tĩnh điện: F = k.q1'.q2' / d^2 = 9.10^9 * (2.10^-6)^2 / 0.05^2 = 14.4 N.",
+            "topic": "Điện trường"
+        },
+        {
+            "id": 41,
+            "question": "Tính lực tương tác tĩnh điện giữa một êlectron và một prôtôn nếu khoảng cách giữa chúng bằng 5.10-9 cm. Coi rằng êlectron và prôtôn là những điện tích điểm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "9,2.10-8N"
+                },
+                {
+                    "id": "B",
+                    "content": "9,2.10-12N"
+                },
+                {
+                    "id": "C",
+                    "content": "4,6.10-18N"
+                },
+                {
+                    "id": "D",
+                    "content": "9,2.10-18N"
+                }
+            ],
+            "answer": "A",
+            "explain": "Lực tĩnh điện giữa electron và proton cách d = 5.10^-9 cm = 5.10^-11 m: F = k.e^2 / d^2 = 9.10^9 * (1.6.10^-19)^2 / (5.10^-11)^2 = 9.2.10^-8 N.",
+            "topic": "Điện trường"
+        }
+    ]
+}

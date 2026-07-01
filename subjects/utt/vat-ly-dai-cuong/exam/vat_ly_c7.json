@@ -1,0 +1,807 @@
+{
+    "title": "Chương 7: Vật dẫn, điện môi và tụ điện",
+    "chapter": 7,
+    "total_questions": 32,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Tụ điện là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "hệ thống gồm hai vật đặt gần nhau và ngăn cách nhau bằng một lớp cách điện."
+                },
+                {
+                    "id": "B",
+                    "content": "hệ thống gồm hai vật dẫn đặt gần nhau và ngăn cách nhau bằng một lớp cách điện."
+                },
+                {
+                    "id": "C",
+                    "content": "hệ thống gồm hai vật dẫn đặt tiếp xúc với nhau và được bao bọc bằng điện môi."
+                },
+                {
+                    "id": "D",
+                    "content": "hệ thống hai vật dẫn đặt cách nhau một khoảng đủ xa."
+                }
+            ],
+            "answer": "B",
+            "explain": "Tụ điện là một hệ thống gồm hai vật dẫn đặt gần nhau và được ngăn cách nhau bằng một lớp cách điện (gọi là lớp điện môi).",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 2,
+            "question": "Trong trường hợp nào sau đây ta có một tụ điện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "hai tấm gỗ khô đặt cách nhau một khoảng trong không khí."
+                },
+                {
+                    "id": "B",
+                    "content": "hai tấm nhôm đặt cách nhau một khoảng trong nước nguyên chất."
+                },
+                {
+                    "id": "C",
+                    "content": "hai tấm kẽm ngâm trong dung dịch axit."
+                },
+                {
+                    "id": "D",
+                    "content": "hai tấm nhựa phủ ngoài một lá nhôm."
+                }
+            ],
+            "answer": "B",
+            "explain": "Một tụ điện gồm hai vật dẫn và một chất điện môi (cách điện). Nhôm là vật dẫn điện tốt, nước nguyên chất là chất cách điện rất tốt, do đó hai tấm nhôm cách nhau trong nước nguyên chất tạo thành một tụ điện.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 3,
+            "question": "Để tích điện cho tụ điện, ta phải",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "mắc vào hai đầu tụ một hiệu điện thế."
+                },
+                {
+                    "id": "B",
+                    "content": "cọ xát các bản tụ với nhau."
+                },
+                {
+                    "id": "C",
+                    "content": "đặt tụ gần vật nhiễm điện."
+                },
+                {
+                    "id": "D",
+                    "content": "đặt tụ gần nguồn điện."
+                }
+            ],
+            "answer": "A",
+            "explain": "Để tích điện cho tụ điện, ta nối hai đầu bản tụ điện vào một hiệu điện thế (nguồn điện) để tạo ra sự chênh lệch điện tích giữa hai bản.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 4,
+            "question": "Trong các nhận xét về tụ điện dưới đây, nhận xét không đúng là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Điện dung đặc trưng cho khả năng tích điện của tụ."
+                },
+                {
+                    "id": "B",
+                    "content": "Điện dung của tụ càng lớn thì tích được điện lượng càng lớn."
+                },
+                {
+                    "id": "C",
+                    "content": "Điện dung của tụ có đơn vị là Fara (F)."
+                },
+                {
+                    "id": "D",
+                    "content": "Hiệu điện thế càng lớn thì điện dung của tụ càng lớn."
+                }
+            ],
+            "answer": "D",
+            "explain": "Hiệu điện thế U tăng thì điện tích Q tích tụ tăng theo công thức Q = C.U. Điện dung C của một tụ điện xác định là hằng số không đổi, không phụ thuộc vào U.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 5,
+            "question": "Fara là điện dung của một tụ điện mà",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "giữa hai bản tụ có hiệu điện thế 1V thì nó tích được điện tích 1 C."
+                },
+                {
+                    "id": "B",
+                    "content": "giữa hai bản tụ có một hiệu điện thế không đổi thì nó được tích điện 1"
+                },
+                {
+                    "id": "C",
+                    "content": "C. giữa hai bản tụ có điện môi với hằng số điện môi bằng 1."
+                },
+                {
+                    "id": "D",
+                    "content": "khoảng cách giữa hai bản tụ là 1mm."
+                }
+            ],
+            "answer": "A",
+            "explain": "Fara (F) là điện dung của một tụ điện mà khi giữa hai bản tụ có hiệu điện thế 1V thì nó tích được điện tích 1C: C = Q/U = 1C / 1V = 1F.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 6,
+            "question": "1nF bằng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "10-9 F."
+                },
+                {
+                    "id": "B",
+                    "content": "10-12 F."
+                },
+                {
+                    "id": "C",
+                    "content": "10-6 F."
+                },
+                {
+                    "id": "D",
+                    "content": "10-3 F."
+                }
+            ],
+            "answer": "A",
+            "explain": "1 nF (nanofara) bằng 10^-9 F.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 7,
+            "question": "Nếu hiệu điện thế giữa hai bản tụ tăng 2 lần thì điện dung của tụ",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng 2 lần."
+                },
+                {
+                    "id": "B",
+                    "content": "Giảm 2 lần."
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng 4 lần."
+                },
+                {
+                    "id": "D",
+                    "content": "Không đổi."
+                }
+            ],
+            "answer": "D",
+            "explain": "Điện dung C của một tụ điện xác định chỉ phụ thuộc cấu tạo, kích thước bản tụ, khoảng cách và chất điện môi giữa chúng. Thay đổi hiệu điện thế U không làm thay đổi điện dung C của tụ.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 8,
+            "question": "Giá trị điện dung của tụ xoay thay đổi là do",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thay đổi điện môi trong lòng tụ."
+                },
+                {
+                    "id": "B",
+                    "content": "thay đổi phần diện tích đối nhau giữa các bản tụ."
+                },
+                {
+                    "id": "C",
+                    "content": "Thay đổi khoảng cách giữa các bản tụ."
+                },
+                {
+                    "id": "D",
+                    "content": "thay đổi chất liệu làm các bản tụ."
+                }
+            ],
+            "answer": "B",
+            "explain": "Tụ xoay có các bản hình quạt di động xoay quanh một trục. Khi xoay trục, phần diện tích đối nhau giữa các bản động và bản tĩnh thay đổi làm thay đổi điện dung C của tụ.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 9,
+            "question": "Trong các công thức sau, công thức không phải để tính năng lượng điện trường trong tụ điện là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "W = Q2/2C."
+                },
+                {
+                    "id": "B",
+                    "content": "W = QU/2."
+                },
+                {
+                    "id": "C",
+                    "content": "W = CU2/2."
+                },
+                {
+                    "id": "D",
+                    "content": "W = C2/2Q."
+                }
+            ],
+            "answer": "D",
+            "explain": "Công thức tính năng lượng điện trường tụ điện là W = Q^2/2C, W = QU/2, W = CU^2/2. Công thức C^2/2Q không đúng đơn vị và toán học.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 10,
+            "question": "Với một tụ điện xác định, nếu hiệu điện thế hai đầu tụ giảm 2 lần thì năng lượng điện trường của tụ",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng 2 lần."
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng 4 lần."
+                },
+                {
+                    "id": "C",
+                    "content": "Không đổi."
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm 4 lần."
+                }
+            ],
+            "answer": "D",
+            "explain": "Năng lượng điện trường W = 1/2 C.U^2. Với tụ xác định (C = const), nếu hiệu điện thế U giảm 2 lần thì năng lượng giảm 2^2 = 4 lần.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 11,
+            "question": "Với một tụ điện xác định, nếu muốn năng lượng điện trường của tụ tăng 4 lần thì phải tăng điện tích của tụ",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng 16 lần."
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng 4 lần."
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng 2 lần."
+                },
+                {
+                    "id": "D",
+                    "content": "Không đổi."
+                }
+            ],
+            "answer": "C",
+            "explain": "Năng lượng W = Q^2/2C. Để năng lượng W tăng 4 lần thì điện tích Q phải tăng lên sqrt(4) = 2 lần.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 12,
+            "question": "Trường hợp nào sau đây ta không có một tụ điện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giữa hai bản kim loại sứ;"
+                },
+                {
+                    "id": "B",
+                    "content": "Giữa hai bản kim loại không khí;"
+                },
+                {
+                    "id": "C",
+                    "content": "Giữa hai bản kim loại là nước vôi;"
+                },
+                {
+                    "id": "D",
+                    "content": "Giữa hai bản kim loại nước tinh khiết."
+                }
+            ],
+            "answer": "C",
+            "explain": "Nước vôi là một dung dịch chất điện phân dẫn điện tốt, do đó không thể đóng vai trò lớp điện môi cách điện giữa hai bản tụ điện.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 13,
+            "question": "Một tụ có điện dung 2 μF. Khi đặt một hiệu điện thế 4 V vào 2 bản của tụ điện thì tụ tích được một điện lượng là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2.10-6 C."
+                },
+                {
+                    "id": "B",
+                    "content": "16.10-6"
+                },
+                {
+                    "id": "C",
+                    "content": "C. 4.10-6 C."
+                },
+                {
+                    "id": "D",
+                    "content": "8.10-6 C."
+                }
+            ],
+            "answer": "D",
+            "explain": "C = 2 uF = 2.10^-6 F, U = 4 V. Điện lượng tích được: Q = C.U = 2.10^-6 * 4 = 8.10^-6 C.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 14,
+            "question": "Đặt vào hai đầu tụ hiệu điện thế 10 V thì tụ tích được một điện lượng 20.10-9 C. Điện dung của tụ là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2 μF."
+                },
+                {
+                    "id": "B",
+                    "content": "2 mF."
+                },
+                {
+                    "id": "C",
+                    "content": "2 F."
+                },
+                {
+                    "id": "D",
+                    "content": "2 nF."
+                }
+            ],
+            "answer": "D",
+            "explain": "U = 10 V, Q = 20.10^-9 C. Điện dung của tụ: C = Q / U = 20.10^-9 / 10 = 2.10^-9 F = 2 nF.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 15,
+            "question": "Nếu đặt vào hai đầu tụ một hiệu điện thế 4 V thì tụ tích được một điện lượng 2 μC. Nếu đặt vào hai đầu tụ một hiệu điện thế 10 V thì tụ tích được một điện lượng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "50 μC."
+                },
+                {
+                    "id": "B",
+                    "content": "1 μC."
+                },
+                {
+                    "id": "C",
+                    "content": "5 μC."
+                },
+                {
+                    "id": "D",
+                    "content": "0,8 μC."
+                }
+            ],
+            "answer": "C",
+            "explain": "Q = C.U. Khi U1 = 4V thì Q1 = 2 uC. Điện dung C = Q1 / U1 = 0.5 uF. Khi U2 = 10 V thì Q2 = C.U2 = 0.5 * 10 = 5 uC.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 16,
+            "question": "Để tụ tích một điện lượng 10 nC thì đặt vào hai đầu tụ một hiệu điện thế 2V. Để tụ đó tích được điện lượng 2,5 nC thì phải đặt vào hai đầu tụ một hiệu điện thế",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "500 mV."
+                },
+                {
+                    "id": "B",
+                    "content": "0,05 V."
+                },
+                {
+                    "id": "C",
+                    "content": "5V."
+                },
+                {
+                    "id": "D",
+                    "content": "20 V."
+                }
+            ],
+            "answer": "A",
+            "explain": "Q1 = 10 nC, U1 = 2V => C = Q1 / U1 = 5 nF. Khi tích điện lượng Q2 = 2.5 nC, hiệu điện thế cần đặt: U2 = Q2 / C = 2.5 / 5 = 0.5 V = 500 mV.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 17,
+            "question": "Hai đầu tụ 20 μF có hiệu điện thế 5V thì năng lượng tụ tích được là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "0,25 mJ."
+                },
+                {
+                    "id": "B",
+                    "content": "500 J."
+                },
+                {
+                    "id": "C",
+                    "content": "50 mJ."
+                },
+                {
+                    "id": "D",
+                    "content": "50 μJ."
+                }
+            ],
+            "answer": "A",
+            "explain": "C = 20 uF = 20.10^-6 F, U = 5 V. Năng lượng tụ tích được: W = 1/2 C.U^2 = 0.5 * 20.10^-6 * 25 = 2.50.10^-4 J = 0.25 mJ.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 18,
+            "question": "Một tụ điện được tích điện bằng một hiệu điện thế 10 V thì năng lượng của tụ là 10 mJ. Nếu muốn năng lượng của tụ là 22,5 mJ thì hai bản tụ phải có hiệu điện thế là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "15 V."
+                },
+                {
+                    "id": "B",
+                    "content": "7,5 V."
+                },
+                {
+                    "id": "C",
+                    "content": "20 V."
+                },
+                {
+                    "id": "D",
+                    "content": "40 V."
+                }
+            ],
+            "answer": "A",
+            "explain": "Năng lượng ban đầu W1 = 1/2 C.U1^2 = 10 mJ với U1 = 10V. Để W2 = 22.5 mJ, tỉ lệ W2 / W1 = 2.25 = (U2 / U1)^2 => U2 / U1 = 1.5 => U2 = 15 V.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 19,
+            "question": "Giữa hai bản tụ phẳng cách nhau 1 cm có một hiệu điện thế 10 V. Cường độ điện trường đều trong lòng tụ là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "100 V/m."
+                },
+                {
+                    "id": "B",
+                    "content": "1 kV/m."
+                },
+                {
+                    "id": "C",
+                    "content": "10 V/m."
+                },
+                {
+                    "id": "D",
+                    "content": "0,01 V/m."
+                }
+            ],
+            "answer": "B",
+            "explain": "d = 1 cm = 0.01 m, U = 10 V. Cường độ điện trường trong lòng tụ phẳng: E = U / d = 10 / 0.01 = 1000 V/m = 1 kV/m.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 20,
+            "question": "Chọn phát biểu đúng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vật dẫn là các vật có khả năng dẫn điện, điện môi là môi trường dẫn điện"
+                },
+                {
+                    "id": "B",
+                    "content": "Vật dẫn là các vật có khả năng dẫn điện, điện môi là các vật không có khả năng dẫn điện"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ vật dẫn mới có khả năng tích điện, điện môi không thể tích điện"
+                },
+                {
+                    "id": "D",
+                    "content": "Ở điều kiện thường, không khí là vật dẫn, nước là điện môi"
+                }
+            ],
+            "answer": "B",
+            "explain": "Định nghĩa: Vật dẫn là các vật có khả năng dẫn điện (chứa hạt mang điện tự do), điện môi là các vật không có khả năng dẫn điện (không chứa hạt mang điện tự do).",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 21,
+            "question": "Trạng thái cân bằng tĩnh điện là trạng thái mà",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "mọi điện tích tự do trên vật dẫn không chuyển động"
+                },
+                {
+                    "id": "B",
+                    "content": "mọi điện tích tự do trên vật dẫn không chuyển động có hướng"
+                },
+                {
+                    "id": "C",
+                    "content": "điện tích trên vật dẫn có thể chuyển động theo một hướng xác định"
+                },
+                {
+                    "id": "D",
+                    "content": "mọi điện tích âm và dương trên vật dẫn đứng cân bằng"
+                }
+            ],
+            "answer": "B",
+            "explain": "Trạng thái cân bằng tĩnh điện của vật dẫn là trạng thái mà các điện tích tự do trên vật dẫn không còn chuyển động có hướng (đứng yên tương đối).",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 22,
+            "question": "Chọn phát biểu sai. Vật dẫn ở trạng thái cân bằng tĩnh điện có đặc điểm",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Điện trường bên trong vật dẫn luôn bằng không"
+                },
+                {
+                    "id": "B",
+                    "content": "Điện trường trên bề mặt vật dẫn luôn bằng không"
+                },
+                {
+                    "id": "C",
+                    "content": "Điện trường trên bề mặt vật dẫn có phương vuông góc với bề mặt vật dẫn"
+                },
+                {
+                    "id": "D",
+                    "content": "Hiệu điện thế giữa hai điểm bất kỳ trên vật dẫn luôn bằng không"
+                }
+            ],
+            "answer": "B",
+            "explain": "Vật dẫn cân bằng tĩnh điện có đặc điểm: cường độ điện trường bên trong bằng 0, điện tích chỉ phân bố ở bề mặt ngoài, vectơ cường độ điện trường sát bề mặt vuông góc với bề mặt, thế năng mọi điểm bằng nhau.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 23,
+            "question": "Chọn phát biểu sai. Nếu vật dẫn tích điện ở trạng thái cân bằng tĩnh điện thì",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "điện tích chỉ phân bố trên bề mặt vật dẫn và phụ thuộc vào hình dạng của vật"
+                },
+                {
+                    "id": "B",
+                    "content": "điện tích phân bố đều trên toàn bộ vật dẫn không phụ thuộc hình dạng vật"
+                },
+                {
+                    "id": "C",
+                    "content": "sự phân bố điện tích nói chung không đều"
+                },
+                {
+                    "id": "D",
+                    "content": "điện tích bên trong phần rỗng bằng không"
+                }
+            ],
+            "answer": "B",
+            "explain": "Ở vật dẫn cân bằng tĩnh điện, điện tích chỉ phân bố ở bề mặt ngoài, mật độ điện tích lớn ở những chỗ lồi (đặc biệt là mũi nhọn) và nhỏ ở chỗ lõm. Phân bố không đều trừ phi vật có dạng hình cầu đối xứng.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 24,
+            "question": "Điện dung của một vật dẫn cô lập tích điện Q có điện thế V được xác định bằng biểu thức nào sau đây",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "U QC"
+                },
+                {
+                    "id": "B",
+                    "content": "V QC"
+                },
+                {
+                    "id": "C",
+                    "content": "UQC ."
+                },
+                {
+                    "id": "D",
+                    "content": "VQC ."
+                }
+            ],
+            "answer": "B",
+            "explain": "Điện dung của một vật dẫn cô lập tích điện Q và có điện thế V được định nghĩa là C = Q / V.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 25,
+            "question": "Điện dung của một tụ điện bất kỳ được xác định bằng biểu thức nào sau đây",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "d S U QC 0."
+                },
+                {
+                    "id": "B",
+                    "content": "U QC"
+                },
+                {
+                    "id": "C",
+                    "content": "RC ..4 0"
+                },
+                {
+                    "id": "D",
+                    "content": "V QC"
+                }
+            ],
+            "answer": "B",
+            "explain": "Điện dung của một tụ điện bất kỳ tích điện lượng Q dưới hiệu điện thế U được định nghĩa là C = Q / U.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 26,
+            "question": "Điện dung của một tụ điện phẳng có diện tích bản tụ S, cách nhau khoảng d bằng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "RC ..4 0"
+                },
+                {
+                    "id": "B",
+                    "content": "d S U QC 0."
+                },
+                {
+                    "id": "C",
+                    "content": "V QC"
+                },
+                {
+                    "id": "D",
+                    "content": "SQC .."
+                }
+            ],
+            "answer": "B",
+            "explain": "Điện dung của tụ điện phẳng: C = e0.e.S / d (trong đó S là diện tích bản tụ, d là khoảng cách giữa các bản tụ).",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 27,
+            "question": "Chọn biểu thức sai. Năng lượng của tụ điện được xác định bằng biểu thức",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "UQ.2 1W"
+                },
+                {
+                    "id": "B",
+                    "content": "CQ.2 1W"
+                },
+                {
+                    "id": "C",
+                    "content": "2.2 1W UC"
+                },
+                {
+                    "id": "D",
+                    "content": "C Q2 2 1W"
+                }
+            ],
+            "answer": "B",
+            "explain": "Năng lượng tụ điện W = Q^2/2C, không phải W = CQ/2.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 28,
+            "question": "Mật độ năng lượng điện trường được xác định bằng biểu thức",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2 0..2 1 E"
+                },
+                {
+                    "id": "B",
+                    "content": "CQ.2 1"
+                },
+                {
+                    "id": "C",
+                    "content": "2.2 1 UC"
+                },
+                {
+                    "id": "D",
+                    "content": "C Q2 2 1"
+                }
+            ],
+            "answer": "A",
+            "explain": "Mật độ năng lượng điện trường trong tụ điện được xác định bằng công thức: w_e = 1/2 * e0 * e * E^2.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 29,
+            "question": "Khi cần một tụ điện có điện dung lớn hơn điện dung của các tụ điện đang có, ta không thể chọn cách mắc nào sau đây",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mắc nối tiếp"
+                },
+                {
+                    "id": "B",
+                    "content": "Mắc song song"
+                },
+                {
+                    "id": "C",
+                    "content": "Mắc hỗn hợp"
+                },
+                {
+                    "id": "D",
+                    "content": "Mắc hỗn hợp đối xứng"
+                }
+            ],
+            "answer": "A",
+            "explain": "Mắc nối tiếp các tụ điện làm giảm điện dung tương đương của bộ tụ (1/C = sum(1/C_i)), do đó để có điện dung lớn hơn các tụ đang có, ta không thể mắc nối tiếp.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 30,
+            "question": "Điện dung của một quả cầu kim loại bán kính R tích điện Q phân bố đều trên bề mặt",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "R S U QC 0."
+                },
+                {
+                    "id": "B",
+                    "content": "RC ..4 0"
+                },
+                {
+                    "id": "C",
+                    "content": "U QC"
+                },
+                {
+                    "id": "D",
+                    "content": "RQC ."
+                }
+            ],
+            "answer": "B",
+            "explain": "Điện dung của một quả cầu kim loại bán kính R cô lập đặt trong môi trường điện môi là C = 4pi.e0.e.R.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 31,
+            "question": "Tụ điện C1=2µF; C2=3µF được tích điện bởi các hiệu điện thế không đổi U1=200V, U2=400V sau đó các bản cùng dấu của tụ được nối với nhau. Hiệu điện thế giữa hai bản của mỗi tụ sau khi nối là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "300V"
+                },
+                {
+                    "id": "B",
+                    "content": "320V"
+                },
+                {
+                    "id": "C",
+                    "content": "350V"
+                },
+                {
+                    "id": "D",
+                    "content": "280V"
+                }
+            ],
+            "answer": "B",
+            "explain": "Khi ghép song song bản cùng dấu: tổng điện tích bảo toàn Q = Q1 + Q2 = C1.U1 + C2.U2 = 2.200 + 3.400 = 1600 uC. Điện dung tương đương C = C1 + C2 = 5 uF. Hiệu điện thế mới: U = Q / C = 1600 / 5 = 320 V.",
+            "topic": "Vật dẫn và tụ điện"
+        },
+        {
+            "id": 32,
+            "question": "Điện dung của một tụ điện không khí phẳng thay đổi như thế nào khi tăng khoảng cách giữa hai bản 2 lần và đưa vào giữa hai bản một chất điện môi có hằng số điện môi là ε = 4?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng 2 lần"
+                },
+                {
+                    "id": "B",
+                    "content": "Giảm 2 lần"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng 8 lần"
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm 8 lần"
+                }
+            ],
+            "answer": "A",
+            "explain": "C = e0.e.S / d. Khi d tăng 2 lần và đưa vào chất điện môi e = 4 (ban đầu không khí e = 1) thì điện dung mới: C' = e0 * 4 * S / (2d) = 2.C (tăng lên 2 lần).",
+            "topic": "Vật dẫn và tụ điện"
+        }
+    ]
+}

@@ -441,7 +441,7 @@ function renderSimQuestion() {
 
     // Show explanation if feedback enabled
     if (simExplanation) {
-        if (showFeedback && userAnswer !== correctAnswer && q.explanation && simConfig.showAIExplanation) {
+        if (showFeedback && q.explanation && simConfig.showAIExplanation) {
             simExplanation.innerHTML = `
                 <div class="explanation-box">
                     <div class="explanation-header">

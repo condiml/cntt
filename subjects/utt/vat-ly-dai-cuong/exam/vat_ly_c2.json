@@ -1,0 +1,957 @@
+{
+    "title": "Chương 2: Động lực học chất điểm",
+    "chapter": 2,
+    "total_questions": 38,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Định luật I Niutơn xác nhận rằng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Với mỗi lực tác dụng đều có một phản lực trực đối."
+                },
+                {
+                    "id": "B",
+                    "content": "Vật giữ nguyên trạng thái đứng yên hoặc chuyển động thẳng đều khi nó không chịu tác dụng của bất cứ vật nào khác."
+                },
+                {
+                    "id": "C",
+                    "content": "Khi hợp lực tác dụng lên một vât bằng không thì vật không thể chuyển động được."
+                },
+                {
+                    "id": "D",
+                    "content": "Do quán tính nên mọi vật đang chuyển động đều có xu hướng dừng lại."
+                }
+            ],
+            "answer": "B",
+            "explain": "Định luật I Newton xác nhận rằng một vật sẽ bảo toàn trạng thái đứng yên hoặc chuyển động thẳng đều nếu nó không chịu tác dụng của lực nào hoặc hợp ngoại lực tác dụng lên nó bằng không.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 2,
+            "question": "Chọn đáp án đúng. Công thức định luật II Niutơn:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "amF   ."
+                },
+                {
+                    "id": "B",
+                    "content": "maF  ."
+                },
+                {
+                    "id": "C",
+                    "content": "amF  ."
+                },
+                {
+                    "id": "D",
+                    "content": "amF   ."
+                }
+            ],
+            "answer": "A",
+            "explain": "Biểu thức định luật II Newton là a = F/m (vectơ gia tốc bằng vectơ lực chia cho khối lượng).",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 3,
+            "question": "Nếu một vật đang chuyển động có gia tốc mà lực tác dụng lên nó giảm đi thì gia tốc của vật",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "tăng lên ."
+                },
+                {
+                    "id": "B",
+                    "content": "giảm đi."
+                },
+                {
+                    "id": "C",
+                    "content": "không thay đổi."
+                },
+                {
+                    "id": "D",
+                    "content": "bằng 0."
+                }
+            ],
+            "answer": "B",
+            "explain": "Theo định luật II Newton (a = F/m), gia tốc tỷ lệ thuận với lực tác dụng. Lực giảm đi thì gia tốc cũng giảm.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 4,
+            "question": "Khi khối lượng của mỗi vật tăng lên gấp đôi và khoảng cách giữa chúng cũng tăng lên gấp đôi thì lực hấp dẫn giữa chúng sẽ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng lên gấp đôi."
+                },
+                {
+                    "id": "B",
+                    "content": "Giảm đi một nửa."
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng lên gấp bốn."
+                },
+                {
+                    "id": "D",
+                    "content": "Giữ như cũ."
+                }
+            ],
+            "answer": "D",
+            "explain": "Lực hấp dẫn F = G * m1 * m2 / r^2. Khi m1 và m2 tăng gấp đôi và r cũng tăng gấp đôi thì lực hấp dẫn không đổi.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 5,
+            "question": "Cặp “lực và phản lực” trong định luật III Niutơn:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tác dụng vào cùng một vật."
+                },
+                {
+                    "id": "B",
+                    "content": "Tác dụng vào hai vật khác nhau."
+                },
+                {
+                    "id": "C",
+                    "content": "Không cần phải bằng nhau về độ lớn."
+                },
+                {
+                    "id": "D",
+                    "content": "Phải bằng nhau về độ lớn nhưng không cần phải cùng giá."
+                }
+            ],
+            "answer": "B",
+            "explain": "Lực và phản lực luôn xuất hiện đồng thời, cùng giá, cùng độ lớn, ngược chiều và tác dụng vào hai vật khác nhau.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 6,
+            "question": "Biểu thức của định luật vạn vật hấp dẫn là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2 21. r mmGFhd  ."
+                },
+                {
+                    "id": "B",
+                    "content": "2 21 r mmFhd  ."
+                },
+                {
+                    "id": "C",
+                    "content": "r mmGFhd 21. ."
+                },
+                {
+                    "id": "D",
+                    "content": "r mmFhd 21"
+                }
+            ],
+            "answer": "A",
+            "explain": "Biểu thức định luật vạn vật hấp dẫn: F_hd = G * m1 * m2 / r^2.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 7,
+            "question": "Công thức của định luật Húc là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "maF  ."
+                },
+                {
+                    "id": "B",
+                    "content": "2 21 r mmGF  ."
+                },
+                {
+                    "id": "C",
+                    "content": "lkF  ."
+                },
+                {
+                    "id": "D",
+                    "content": "NF  ."
+                }
+            ],
+            "answer": "C",
+            "explain": "Công thức của định luật Húc: F = k * delta_l (lực đàn hồi tỷ lệ với độ biến dạng).",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 8,
+            "question": "Kết luận nào sau đây không đúng đối với lực đàn hồi.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xuất hiện khi vật bị biến dạng."
+                },
+                {
+                    "id": "B",
+                    "content": "Luôn là lực kéo."
+                },
+                {
+                    "id": "C",
+                    "content": "Tỉ lệ với độ biến dạng."
+                },
+                {
+                    "id": "D",
+                    "content": "Luôn ngược hướng với lực làm nó bị biến dạng."
+                }
+            ],
+            "answer": "B",
+            "explain": "Lực đàn hồi xuất hiện khi vật bị biến dạng và ngược hướng biến dạng, nó có thể là lực kéo hoặc lực nén tùy thuộc vào chiều biến dạng, do đó luôn là lực kéo là phát biểu sai.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 9,
+            "question": "Một vật lúc đầu nằm trên một mặt phẳng nhám nằm ngang. Sau khi được truyền một vận tốc đầu, vật chuyển động chậm dần vì có:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lực tác dụng ban đầu."
+                },
+                {
+                    "id": "B",
+                    "content": "Phản lực."
+                },
+                {
+                    "id": "C",
+                    "content": "Lực ma sát."
+                },
+                {
+                    "id": "D",
+                    "content": "Quán tính."
+                }
+            ],
+            "answer": "C",
+            "explain": "Vật trượt trên mặt phẳng ngang nhám chậm dần rồi dừng lại do tác dụng của lực ma sát trượt cản trở chuyển động.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 10,
+            "question": "Với µt là hệ số ma sát trượt, công thức của lực ma sát trượt là :",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "NF tmst   ."
+                },
+                {
+                    "id": "B",
+                    "content": "NF tmst  ."
+                },
+                {
+                    "id": "C",
+                    "content": "NF tmst  ."
+                },
+                {
+                    "id": "D",
+                    "content": "NF tmst "
+                }
+            ],
+            "answer": "D",
+            "explain": "Độ lớn lực ma sát trượt F_mst = mu_t * N.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 11,
+            "question": "Biểu thức tính độ lớn của lực hướng tâm là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "lkFht  ."
+                },
+                {
+                    "id": "B",
+                    "content": "mgFht  ."
+                },
+                {
+                    "id": "C",
+                    "content": "rmFht 2 ."
+                },
+                {
+                    "id": "D",
+                    "content": "mgFht  ."
+                }
+            ],
+            "answer": "C",
+            "explain": "Độ lớn lực hướng tâm F_ht = m * a_n = m * w^2 * r (hoặc m * v^2 / r).",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 12,
+            "question": "Gia tốc của vật sẽ thay đổi như thế nào nếu độ lớn lực tác dụng lên vật tăng lên hai lần và khối lượng của vật giảm đi 2 lần?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Gia tốc của vật tăng lên hai lần."
+                },
+                {
+                    "id": "B",
+                    "content": "Gia tốc của vật giảm đi hai lần."
+                },
+                {
+                    "id": "C",
+                    "content": "Gia tốc vật tăng lên bốn lần."
+                },
+                {
+                    "id": "D",
+                    "content": "Gia tốc vật không đổi."
+                }
+            ],
+            "answer": "C",
+            "explain": "Gia tốc a = F/m. Khi F tăng 2 lần và m giảm 2 lần thì gia tốc tăng: a' = 2F / (m/2) = 4a (tăng lên 4 lần).",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 13,
+            "question": "Trọng lực của vật càng lên cao càng giảm vì:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Gia tốc rơi tự do tỷ lệ thuận với độ cao."
+                },
+                {
+                    "id": "B",
+                    "content": "Gia tốc rơi tự do khi lên cao giảm."
+                },
+                {
+                    "id": "C",
+                    "content": "Khối lượng của vật giảm."
+                },
+                {
+                    "id": "D",
+                    "content": "Khối lượng của vật tăng."
+                }
+            ],
+            "answer": "B",
+            "explain": "Trọng lực P = mg giảm vì gia tốc rơi tự do g giảm khi độ cao tăng theo công thức g = GM/(R+h)^2.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 14,
+            "question": "Gia tốc của vật sẽ thay đổi như thế nào nếu độ lớn lực tác dụng lên vật tăng lên hai lần và khối lượng của vật tăng lên 2 lần?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Gia tốc của vật tăng lên hai lần."
+                },
+                {
+                    "id": "B",
+                    "content": "Gia tốc của vật giảm đi hai lần."
+                },
+                {
+                    "id": "C",
+                    "content": "Gia tốc vật tăng lên bốn lần."
+                },
+                {
+                    "id": "D",
+                    "content": "Gia tốc vật không đổi."
+                }
+            ],
+            "answer": "D",
+            "explain": "Gia tốc a = F/m. Khi F tăng 2 lần và m tăng 2 lần thì gia tốc không đổi: a' = 2F / 2m = a.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 15,
+            "question": "Có hai quả cầu đặt cách nhau một đoạn r trong không khí. Sau đó đặt chúng vào trong dầu và cũng cách nhau một đoạn r như trên. Lực hấp dẫn giữa hai quả cầu trong trường hợp này",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "bằng không."
+                },
+                {
+                    "id": "B",
+                    "content": "tăng lên."
+                },
+                {
+                    "id": "C",
+                    "content": "không đổi."
+                },
+                {
+                    "id": "D",
+                    "content": "giảm đi"
+                }
+            ],
+            "answer": "C",
+            "explain": "Lực hấp dẫn giữa hai vật chỉ phụ thuộc vào khối lượng và khoảng cách giữa chúng, không phụ thuộc vào môi trường trung gian xung quanh (không khí hay dầu).",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 16,
+            "question": "Khi khối lượng giảm một nửa và vận tốc của vật tăng gấp đôi thì động lượng của vật",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "không đổi"
+                },
+                {
+                    "id": "B",
+                    "content": "tăng gấp 2"
+                },
+                {
+                    "id": "C",
+                    "content": "tăng gấp 4"
+                },
+                {
+                    "id": "D",
+                    "content": "tăng gấp 8"
+                }
+            ],
+            "answer": "A",
+            "explain": "Động lượng p = mv. Khi m giảm 1/2 và v tăng 2 lần thì p' = (m/2) * (2v) = mv (không đổi).",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 17,
+            "question": "Chọn đáp án đúng, Trong giới hạn đàn hồi của lò xo, khi lò xo biến dạng hướng của lực đàn hồi ở đầu lò xo sẽ",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "hướng theo trục và hướng vào trong."
+                },
+                {
+                    "id": "B",
+                    "content": "hướng theo trục và hướng ra ngoài."
+                },
+                {
+                    "id": "C",
+                    "content": "hướng vuông góc với trục lò xo."
+                },
+                {
+                    "id": "D",
+                    "content": "luôn ngược với hướng của ngoại lực gây biến dạng."
+                }
+            ],
+            "answer": "D",
+            "explain": "Lực đàn hồi luôn ngược với hướng của ngoại lực gây biến dạng nhằm đưa vật về hình dạng ban đầu.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 18,
+            "question": "Các vệ tinh nhân tạo chuyển động tròn đều xung quanh Trái Đất vì :",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lực hấp dẫn đóng vai trò là lực hướng tâm."
+                },
+                {
+                    "id": "B",
+                    "content": "Lực đàn hồi đóng vai trò là lực hướng tâm."
+                },
+                {
+                    "id": "C",
+                    "content": "Lực ma sát đóng vai trò là lực hướng tâm."
+                },
+                {
+                    "id": "D",
+                    "content": "Lực điện đóng vai trò là lực hướng tâm."
+                }
+            ],
+            "answer": "A",
+            "explain": "Lực hấp dẫn giữa Trái Đất và vệ tinh đóng vai trò là lực hướng tâm giữ vệ tinh chuyển động tròn đều.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 19,
+            "question": "Ở những đoạn đường vòng, mặt đường được nâng lên một bên. Việc làm này nhằm mục đích:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "tăng lực ma sát."
+                },
+                {
+                    "id": "B",
+                    "content": "giới hạn vận tốc của xe."
+                },
+                {
+                    "id": "C",
+                    "content": "tạo lực hướng tâm nhờ phản lực của đường."
+                },
+                {
+                    "id": "D",
+                    "content": "giảm lực ma sát."
+                }
+            ],
+            "answer": "C",
+            "explain": "Mặt đường nghiêng ở góc cua để hợp lực của trọng lực P và phản lực N tạo thành lực hướng tâm hướng vào tâm cua giúp xe không bị trượt.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 20,
+            "question": "Lực hấp dẫn giữa hai vật kích thước nhỏ không đáng kể, đặt cách nhau một khoảng 10cm là F. Khi khoảng cách giữa 2 vật là 2,5 cm, lực hấp dẫn giữa chúng bằng bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "4F"
+                },
+                {
+                    "id": "B",
+                    "content": "8F"
+                },
+                {
+                    "id": "C",
+                    "content": "16F"
+                },
+                {
+                    "id": "D",
+                    "content": "25F"
+                }
+            ],
+            "answer": "C",
+            "explain": "F_hd tỷ lệ nghịch với r^2. Khi khoảng cách r giảm 4 lần (từ 10cm xuống 2.5cm) thì lực hấp dẫn tăng 4^2 = 16 lần.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 21,
+            "question": "Trường lực nào sau đây không phải là lực thế?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trường lực đàn hồi."
+                },
+                {
+                    "id": "B",
+                    "content": "Trường lực hấp dẫn."
+                },
+                {
+                    "id": "C",
+                    "content": "Trường trọng lực."
+                },
+                {
+                    "id": "D",
+                    "content": "Trường lực ma sát"
+                }
+            ],
+            "answer": "D",
+            "explain": "Lực ma sát là lực phi thế vì công của lực ma sát phụ thuộc vào dạng đường đi và luôn hao phí năng lượng.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 22,
+            "question": "Phát biểu nào sau đây SAI?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Định luật II Newton F = ma áp dụng cho hệ chịu tác dụng của ngoại lực."
+                },
+                {
+                    "id": "B",
+                    "content": "Định luật I của Newton chỉ được áp dụng cho hệ cô lập."
+                },
+                {
+                    "id": "C",
+                    "content": "Trọng lượng và khối lượng là hai khái niệm giống nhau."
+                },
+                {
+                    "id": "D",
+                    "content": "Định luật I Newton là trường hợp riêng của định luật II Newton khi tổng hợp các ngoại lực tác dụng lên hệ bằng không (𝐹⃗= 0)"
+                }
+            ],
+            "answer": "C",
+            "explain": "Trọng lượng và khối lượng là hai khái niệm khác nhau (khối lượng đặc trưng cho lượng chất và mức quán tính, trọng lượng là lực hút của Trái Đất tác dụng lên vật).",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 23,
+            "question": "Phát biểu nào sau đây SAI?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Động lượng của một hệ cô lập được bảo toàn."
+                },
+                {
+                    "id": "B",
+                    "content": "Xung lượng của lực tác dụng lên vật trong thời gian dt bằng độ biến thiên động lượng của vật trong thời gian đó."
+                },
+                {
+                    "id": "C",
+                    "content": "Lực ma sát Fms = kN, trong đó k là hệ số tỷ lệ, còn N là thành phần lực tác dụng tiếp tuyến với phương chuyển động của vật."
+                },
+                {
+                    "id": "D",
+                    "content": "Lực ma sát không phải là lực thế."
+                }
+            ],
+            "answer": "C",
+            "explain": "N trong công thức F_ms = k.N là phản lực pháp tuyến (áp lực vuông góc với mặt tiếp xúc), không phải tiếp tuyến.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 24,
+            "question": "Chọn phát biểu SAI. Lực hướng tâm có tính chất:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Làm thay đổi phương của chuyển động."
+                },
+                {
+                    "id": "B",
+                    "content": "Làm thay đổi độ lớn của vectơ vận tốc"
+                },
+                {
+                    "id": "C",
+                    "content": "Luôn hướng vào bề lõm của quĩ đạo."
+                },
+                {
+                    "id": "D",
+                    "content": "Gây ra gia tốc pháp tuyến của chuyển động"
+                }
+            ],
+            "answer": "B",
+            "explain": "Lực hướng tâm chỉ làm thay đổi phương của vận tốc (hướng của chuyển động), không làm thay đổi độ lớn của vận tốc trong chuyển động tròn đều.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 25,
+            "question": "Đơn vị mômen động lượng là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "kgm2/s"
+                },
+                {
+                    "id": "B",
+                    "content": "kgm/s"
+                },
+                {
+                    "id": "C",
+                    "content": "Nm"
+                },
+                {
+                    "id": "D",
+                    "content": "kgm/s2"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đơn vị mômen động lượng L = r.p là m * (kg.m/s) = kg.m^2/s.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 26,
+            "question": "Vectơ động lượng 𝑃ሬ⃗ của chất điểm được định nghĩa bởi công thức nào sau đây? (𝑣⃗, 𝑎⃗, m tương ứng là vận tốc, gia tốc và khối lượng của chất điểm).",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "𝑝=𝑚𝑣⃗"
+                },
+                {
+                    "id": "B",
+                    "content": "𝑝⃗ =𝑚𝑣⃗"
+                },
+                {
+                    "id": "C",
+                    "content": "𝑝⃗ =𝑚𝑎⃗"
+                },
+                {
+                    "id": "D",
+                    "content": "p = mv"
+                }
+            ],
+            "answer": "B",
+            "explain": "Vectơ động lượng p = m.v.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 27,
+            "question": "Động lượng là một đại lượng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đặc trưng cho sự thay đổi nhanh chậm của chuyển động"
+                },
+                {
+                    "id": "B",
+                    "content": "Đặc trưng cho sự chuyển động về mặt động lực học và có giá trị bằng tích của khối lượng và vectơ vận tốc ."
+                },
+                {
+                    "id": "C",
+                    "content": "Đặc trưng cho sự chuyển động về mặt động lực học và có giá trị bằng tích của khối lượng và độ lớn vận tốc"
+                },
+                {
+                    "id": "D",
+                    "content": "Đặc trưng cho sự chuyển động về mặt động lực học và có giá trị bằng tích của khối lượng và bình phương độ lớn vận tốc."
+                }
+            ],
+            "answer": "B",
+            "explain": "Động lượng đặc trưng cho chuyển động về mặt động lực học và có giá trị bằng tích của khối lượng và vectơ vận tốc.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 28,
+            "question": "Độ biến thiên động lượng có giá trị bằng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tích của thời gian với vận tốc."
+                },
+                {
+                    "id": "B",
+                    "content": "Tích của lực tác dụng với khoảng thời gian đang xét."
+                },
+                {
+                    "id": "C",
+                    "content": "Tích của lực tác dụng với quãng đường đang xét ."
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả sai."
+                }
+            ],
+            "answer": "B",
+            "explain": "Theo định luật II Newton, độ biến thiên động lượng bằng xung lượng của lực tác dụng: delta_p = F * delta_t.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 29,
+            "question": "Đơn vị động lượng là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "(kgm2/s)"
+                },
+                {
+                    "id": "B",
+                    "content": "(kgm/s)"
+                },
+                {
+                    "id": "C",
+                    "content": "(Nm)"
+                },
+                {
+                    "id": "D",
+                    "content": "(kgm/s2)"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đơn vị động lượng trong hệ SI là kg.m/s.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 30,
+            "question": "Ôtô có khối lượng 1 tấn, khi đi qua điểm giữa của cầu có tốc độ 36 km/h, biết cầu là một mặt phẳng đặt nằm ngang. Lấy g = 10 kgm/s2. Áp lực do ôtô nén xuống cầu là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "6000N."
+                },
+                {
+                    "id": "B",
+                    "content": "15000N."
+                },
+                {
+                    "id": "C",
+                    "content": "10000N."
+                },
+                {
+                    "id": "D",
+                    "content": "11000N."
+                }
+            ],
+            "answer": "C",
+            "explain": "Cầu nằm ngang nên áp lực nén xuống cầu đúng bằng trọng lượng của ô tô: N = P = mg = 1000 * 10 = 10000 N.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 31,
+            "question": "Ôtô có khối lượng 1 tấn, khi đi qua điểm giữa của cầu có tốc độ 36 km/h, biết cầu lõm xuống là một cung tròn có bán kính 100 m. Lấy g = 10 m/s2. Áp lực do ôtô nén xuống đáy chỗ lõm là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "6000N."
+                },
+                {
+                    "id": "B",
+                    "content": "15000N."
+                },
+                {
+                    "id": "C",
+                    "content": "10000N."
+                },
+                {
+                    "id": "D",
+                    "content": "11000N."
+                }
+            ],
+            "answer": "D",
+            "explain": "Tại đáy chỗ lõm, lực hướng tâm hướng lên: N - mg = m.v^2/R => N = m(g + v^2/R) = 1000 * (10 + 10^2/100) = 11000 N.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 32,
+            "question": "Ôtô có khối lượng 1 tấn, khi đi qua điểm giữa của cầu có tốc độ 36 km/h, biết cầu vồng lên là một cung tròn có bán kính 100 m. Lấy g = 10 m/s2. Áp lực do ôtô nén xuống chỗ lồi là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "10000N."
+                },
+                {
+                    "id": "B",
+                    "content": "9000N."
+                },
+                {
+                    "id": "C",
+                    "content": "9800N."
+                },
+                {
+                    "id": "D",
+                    "content": "11000N."
+                }
+            ],
+            "answer": "B",
+            "explain": "Tại đỉnh cầu lồi, lực hướng tâm hướng xuống: mg - N = m.v^2/R => N = m(g - v^2/R) = 1000 * (10 - 10^2/100) = 9000 N.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 33,
+            "question": "Khẩu pháo có khối lương M = 450 kg, nhả đạn theo phương hợp với phương ngang một góc =600. Đạn có khối lượng m = 10 kg, rời nòng với vận tốc v = 450 m/s. Khi bắn, pháo bị giật lùi về phía sau với vận tốc bao nhiêu? (coi nền đất tuyệt đối cứng).",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "10 m/s"
+                },
+                {
+                    "id": "B",
+                    "content": "5 m/s"
+                },
+                {
+                    "id": "C",
+                    "content": "7,5 m/s"
+                },
+                {
+                    "id": "D",
+                    "content": "2,5 m/s"
+                }
+            ],
+            "answer": "B",
+            "explain": "Áp dụng bảo toàn động lượng theo phương ngang: M.V + m.v.cos(alpha) = 0 => V = - m.v.cos(alpha)/M = - 10 * 450 * 0.5 / 450 = -5 m/s (giật lùi 5 m/s).",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 34,
+            "question": "Một chất điểm khối lượng m = 5kg chuyển động tròn đều với chu kỳ 10 giây, bán kính quỹ đạo là 2 m. Tính mômen động lượng của chất điểm.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "8 kgm2/s"
+                },
+                {
+                    "id": "B",
+                    "content": "12,6 kgm2/s"
+                },
+                {
+                    "id": "C",
+                    "content": "4 kgm2/s"
+                },
+                {
+                    "id": "D",
+                    "content": "6,3 kgm2/s"
+                }
+            ],
+            "answer": "B",
+            "explain": "Mômen động lượng L = m.v.r = m.w.r^2 = m.R^2 * (2pi/T) = 5 * 2^2 * (2*pi/10) = 4pi = 12.6 kg.m^2/s.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 35,
+            "question": "Chất điểm khối lượng m = 0,5 kg chuyển động tròn đều với vận tốc góc là 5 vòng/s. Tính mômen động lượng của chất điểm, biết bán kính quỹ đạo là 2m.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "5 kgm2/s"
+                },
+                {
+                    "id": "B",
+                    "content": "10 kgm2/s"
+                },
+                {
+                    "id": "C",
+                    "content": "31,4 kgm2/s"
+                },
+                {
+                    "id": "D",
+                    "content": "62,8 kgm2/s"
+                }
+            ],
+            "answer": "D",
+            "explain": "L = m.r^2.w = m.R^2 * (2pi * f) = 0.5 * 2^2 * (2pi * 5) = 20pi = 62.8 kg.m^2/s.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 36,
+            "question": "Vật m = 1,0 kg rơi tự do xuống đất mất 0,5 s. Lấy g = 9,8 m/s2 . Độ biến thiên động lượng trong thời gian đó là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "4,9kgm/s."
+                },
+                {
+                    "id": "B",
+                    "content": "0,5kgm/s."
+                },
+                {
+                    "id": "C",
+                    "content": "9,8kgm/s."
+                },
+                {
+                    "id": "D",
+                    "content": "19,6kgm/s."
+                }
+            ],
+            "answer": "A",
+            "explain": "Độ biến thiên động lượng bằng xung lượng của trọng lực: delta_p = P * t = m.g.t = 1.0 * 9.8 * 0.5 = 4.9 kg.m/s.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 37,
+            "question": "Vật khối lượng m bị kéo bởi lực F và trượt trên sàn ngang như hình vẽ. Hệ số ma sát trượt giữa vật và mặt sàn là . Gia tốc của vật được tính bởi biểu thức nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "mmgFacos"
+                },
+                {
+                    "id": "B",
+                    "content": " mmgFasincos"
+                },
+                {
+                    "id": "C",
+                    "content": "mFacos"
+                },
+                {
+                    "id": "D",
+                    "content": " mmgFasincos"
+                }
+            ],
+            "answer": "B",
+            "explain": "Lực kéo xiên góc alpha hướng lên. Phản lực N = mg - F.sin(alpha). Gia tốc a = [F.cos(alpha) - mu.N]/m = [F(cos(alpha) + mu.sin(alpha)) - mu.mg]/m.",
+            "topic": "Động lực học"
+        },
+        {
+            "id": 38,
+            "question": "Vật khối lượng m bị đẩy bởi lực F và trượt trên sàn ngang như hình vẽ. Hệ số ma sát trượt giữa vật và mặt sàn là . Gia tốc của vật đựoc tính bởi biểu thức nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": " mFasincos"
+                },
+                {
+                    "id": "B",
+                    "content": "mgFasincos"
+                },
+                {
+                    "id": "C",
+                    "content": "mFacos"
+                },
+                {
+                    "id": "D",
+                    "content": " mmgFasincos ================================================ )  m m )  m m"
+                }
+            ],
+            "answer": "D",
+            "explain": "Lực đẩy xiên góc alpha hướng xuống. Phản lực N = mg + F.sin(alpha). Gia tốc a = [F.cos(alpha) - mu.N]/m = [F(cos(alpha) - mu.sin(alpha)) - mu.mg]/m.",
+            "topic": "Động lực học"
+        }
+    ]
+}

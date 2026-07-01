@@ -1,0 +1,707 @@
+{
+    "title": "Chương 9: Cảm ứng điện từ",
+    "chapter": 9,
+    "total_questions": 28,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Véc tơ pháp tuyến của diện tích S là véc tơ",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Có độ lớn bằng 1 đơn vị và có phương vuông góc với diện tích đã cho."
+                },
+                {
+                    "id": "B",
+                    "content": "Có độ lớn bằng 1 đơn vị và song song với diện tích đã cho."
+                },
+                {
+                    "id": "C",
+                    "content": "Có độ lớn bằng 1 đơn vị và tạo với diện tích đã cho một góc không đổi."
+                },
+                {
+                    "id": "D",
+                    "content": "Có độ lớn bằng hằng số và tạo với diện tích đã cho một góc không đổi."
+                }
+            ],
+            "answer": "A",
+            "explain": "Vectơ pháp tuyến của diện tích S là vectơ n có độ lớn bằng 1 đơn vị và có phương vuông góc với diện tích đã cho.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 2,
+            "question": "Từ thông qua một diện tích S không phụ thuộc yếu tố nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Độ lớn cảm ứng từ;"
+                },
+                {
+                    "id": "B",
+                    "content": "Diện tích đang xét;"
+                },
+                {
+                    "id": "C",
+                    "content": "Góc tạo bởi pháp tuyến và véc tơ cảm ứng từ;"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhiệt độ môi trường."
+                }
+            ],
+            "answer": "D",
+            "explain": "Từ thông phi = B.S.cos(theta) phụ thuộc vào cảm ứng từ B, diện tích S và góc theta giữa pháp tuyến và cảm ứng từ, không phụ thuộc vào nhiệt độ môi trường.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 3,
+            "question": "Cho véc tơ pháp tuyến của diện tích vuông góc với các đường sức từ thì khi độ lớn cảm ứng từ tăng 2 lần, từ thông",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bằng 0."
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng 2 lần."
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng 4 lần."
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm 2 lần."
+                }
+            ],
+            "answer": "A",
+            "explain": "Khi pháp tuyến vuông góc với đường sức từ thì góc theta = 90 độ => cos(theta) = 0. Từ thông phi = B.S.cos(90) = 0. Khi B tăng 2 lần, từ thông vẫn bằng 0.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 4,
+            "question": "1 vêbe bằng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1 T.m2."
+                },
+                {
+                    "id": "B",
+                    "content": "1 T/m."
+                },
+                {
+                    "id": "C",
+                    "content": "1 T.m."
+                },
+                {
+                    "id": "D",
+                    "content": "1 T/ m2."
+                }
+            ],
+            "answer": "A",
+            "explain": "Trong hệ SI, đơn vị của từ thông là Vêbe (Wb). 1 Wb = 1 Tesla * mét vuông (T.m^2).",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 5,
+            "question": "Điều nào sau đây không đúng khi nói về hiện tượng cảm ứng điện từ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trong hiện tượng cảm ứng điện từ, từ trường có thể sinh ra dòng điện;"
+                },
+                {
+                    "id": "B",
+                    "content": "Dòng điện cảm ứng có thể tạo ra từ từ trường của dòng điện hoặc từ trường của nam châm vĩnh cửu;"
+                },
+                {
+                    "id": "C",
+                    "content": "Dòng điện cảm ứng trong mạch chỉ tồn tại khi có từ thông biến thiên qua mạch;"
+                },
+                {
+                    "id": "D",
+                    "content": "dòng điện cảm ứng xuất hiện trong mạch kín nằm yên trong từ trường không đổi."
+                }
+            ],
+            "answer": "D",
+            "explain": "Hiện tượng cảm ứng điện từ chỉ xảy ra khi có sự biến thiên từ thông qua mạch. Dòng điện cảm ứng không thể xuất hiện trong mạch kín nằm yên trong từ trường không đổi vì từ thông không biến thiên.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 6,
+            "question": "Dòng điện cảm ứng trong mạch kín có chiều",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sao cho từ trường cảm ứng có chiều chống lại sự biến thiên từ thông ban đầu qua mạch."
+                },
+                {
+                    "id": "B",
+                    "content": "Hoàn toàn ngẫu nhiên."
+                },
+                {
+                    "id": "C",
+                    "content": "Sao cho từ trường cảm ứng luôn cùng chiều với từ trường ngoài."
+                },
+                {
+                    "id": "D",
+                    "content": "Sao cho từ trường cảm ứng luôn ngược chiều với từ trường ngoài."
+                }
+            ],
+            "answer": "A",
+            "explain": "Theo định luật Lenz, dòng điện cảm ứng trong mạch kín phải có chiều sao cho từ trường do nó sinh ra có tác dụng chống lại sự biến thiên của từ thông ban đầu qua mạch.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 7,
+            "question": "Suất điện động cảm ứng là suất điện động",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sinh ra dòng điện cảm ứng trong mạch kín."
+                },
+                {
+                    "id": "B",
+                    "content": "Sinh ra dòng điện trong mạch kín."
+                },
+                {
+                    "id": "C",
+                    "content": "Được sinh bởi nguồn điện hóa học."
+                },
+                {
+                    "id": "D",
+                    "content": "Được sinh bởi dòng điện cảm ứng."
+                }
+            ],
+            "answer": "A",
+            "explain": "Suất điện động cảm ứng là suất điện động sinh ra dòng điện cảm ứng trong mạch kín khi từ thông qua mạch biến thiên.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 8,
+            "question": "Độ lớn của suất điện động cảm ứng trong mạch kín tỉ lệ với",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tốc độ biến thiên từ thông qua mạch ấy."
+                },
+                {
+                    "id": "B",
+                    "content": "Độ lớn từ thông qua mạch."
+                },
+                {
+                    "id": "C",
+                    "content": "Điện trở của mạch."
+                },
+                {
+                    "id": "D",
+                    "content": "Diện tích của mạch."
+                }
+            ],
+            "answer": "A",
+            "explain": "Theo định luật Faraday, độ lớn của suất điện động cảm ứng trong mạch kín tỉ lệ với tốc độ biến thiên từ thông qua mạch đó: |e_c| = |d_phi / d_t|.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 9,
+            "question": "Khi cho nam châm chuyển động qua một mạch kín, trong mạch xuất hiện dòng điện cảm ứng. Điện năng của dòng điện được chuyển hóa từ",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hóa năng."
+                },
+                {
+                    "id": "B",
+                    "content": "Cơ năng."
+                },
+                {
+                    "id": "C",
+                    "content": "Quang năng."
+                },
+                {
+                    "id": "D",
+                    "content": "Nhiệt năng."
+                }
+            ],
+            "answer": "B",
+            "explain": "Khi di chuyển nam châm gần mạch kín để tạo dòng điện cảm ứng, cơ năng (của nam châm) đã được chuyển hóa thành điện năng (dòng điện cảm ứng).",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 10,
+            "question": "Từ thông riêng của một mạch kín phụ thuộc vào",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cường độ dòng điện qua mạch."
+                },
+                {
+                    "id": "B",
+                    "content": "Điện trở của mạch."
+                },
+                {
+                    "id": "C",
+                    "content": "Chiều dài dây dẫn."
+                },
+                {
+                    "id": "D",
+                    "content": "Tiết diện dây dẫn."
+                }
+            ],
+            "answer": "A",
+            "explain": "Từ thông riêng của mạch kín phi_s = L.I phụ thuộc vào cường độ dòng điện I chạy qua mạch đó.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 11,
+            "question": "Suất điện động tự cảm của mạch điện tỉ lệ với",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Điện trở của mạch."
+                },
+                {
+                    "id": "B",
+                    "content": "Từ thông cực đại qua mạch."
+                },
+                {
+                    "id": "C",
+                    "content": "Từ thông cực tiểu qua mạch."
+                },
+                {
+                    "id": "D",
+                    "content": "Tốc độ biến thiên cường độ dòng điện qua mạch."
+                }
+            ],
+            "answer": "D",
+            "explain": "Suất điện động tự cảm e_tc = - L.dI/dt tỉ lệ với tốc độ biến thiên cường độ dòng điện trong mạch.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 12,
+            "question": "Năng lượng của ống dây tự cảm tỉ lệ với",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cường độ dòng điện qua ống dây."
+                },
+                {
+                    "id": "B",
+                    "content": "Bình phương cường độ dòng điện trong ống dây."
+                },
+                {
+                    "id": "C",
+                    "content": "Căn bậc hai lần cường độ dòng điện trong ống dây."
+                },
+                {
+                    "id": "D",
+                    "content": "Một trên bình phương cường độ dòng điện trong ống dây."
+                }
+            ],
+            "answer": "B",
+            "explain": "Năng lượng từ trường của ống dây tự cảm W = 1/2 L.I^2 tỉ lệ thuận với bình phương cường độ dòng điện chạy trong ống dây.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 13,
+            "question": "Ống dây 1 có cùng tiết diện với ống dây 2 nhưng chiều dài ống và số vòng dây đều nhiều hơn gấp đôi. Tỉ sộ hệ số tự cảm của ống 1 với ống 2 là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1."
+                },
+                {
+                    "id": "B",
+                    "content": "2."
+                },
+                {
+                    "id": "C",
+                    "content": "4."
+                },
+                {
+                    "id": "D",
+                    "content": "8."
+                }
+            ],
+            "answer": "B",
+            "explain": "Độ tự cảm của ống dây: L = mu0.mu.(N^2/l).S. Ống dây 1 có cùng S, nhưng l1 = 2.l2 và N1 = 2.N2. Tỷ số L1 / L2 = (N1^2 / l1) / (N2^2 / l2) = (4.N2^2 / 2.l2) / (N2^2 / l2) = 2.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 14,
+            "question": "Trường hợp sau đây không xuất hiện dòng điện cảm ứng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cả ba trường hợp"
+                },
+                {
+                    "id": "B",
+                    "content": "Khung dây kín chuyển động vuông góc với một từ trường đều"
+                },
+                {
+                    "id": "C",
+                    "content": "Khung dây kín chuyển động song song với một từ trường đều"
+                },
+                {
+                    "id": "D",
+                    "content": "mạch không kín"
+                }
+            ],
+            "answer": "A",
+            "explain": "Dòng điện cảm ứng chỉ xuất hiện khi mạch kín và có từ thông biến thiên qua nó. Cả ba trường hợp (khung dây chuyển động tịnh tiến trong từ trường đều, mạch không kín) đều không làm xuất hiện dòng điện cảm ứng.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 15,
+            "question": "Một mạch kín chuyển động song song với đường sức của một từ trường đều. Dòng điện trong mạch:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bằng không"
+                },
+                {
+                    "id": "B",
+                    "content": "Phụ thuộc vào diện tích trong mạch"
+                },
+                {
+                    "id": "C",
+                    "content": "Phụ thuộc vào hình dạng của mạch"
+                },
+                {
+                    "id": "D",
+                    "content": "Phụ thuộc vào độ lớn của từ trường"
+                }
+            ],
+            "answer": "A",
+            "explain": "Mạch kín tịnh tiến song song với các đường sức từ trường đều thì từ thông qua mạch luôn không đổi (phi = B.S.cos(theta) = const) => dòng điện cảm ứng bằng không.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 16,
+            "question": "Nguyên nhân sinh ra suất điện động cảm ứng trong vòng dây dẫn là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhiệt độ của dây dẫn"
+                },
+                {
+                    "id": "B",
+                    "content": "Từ trường biến đổi theo thời gian"
+                },
+                {
+                    "id": "C",
+                    "content": "Bản chất của dây dẫn"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả ba nguyên nhân"
+                }
+            ],
+            "answer": "B",
+            "explain": "Suất điện động cảm ứng xuất hiện trong vòng dây là do từ trường biến thiên theo thời gian làm từ thông gửi qua vòng dây thay đổi.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 17,
+            "question": "Từ thông qua một diện tích S (phẳng) có giá trị cực đại khi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mặt phẳng (S) song song với các đường cảm ứng từ."
+                },
+                {
+                    "id": "B",
+                    "content": "Mặt phẳng (S) vuông góc với các đường cảm ứng từ."
+                },
+                {
+                    "id": "C",
+                    "content": "Pháp tuyến của mặt phẳng (S) tạo với các đường cảm ứng từ một góc 120o."
+                },
+                {
+                    "id": "D",
+                    "content": "Mặt phẳng (S) tạo với các đường cảm ứng từ góc 60o."
+                }
+            ],
+            "answer": "B",
+            "explain": "Từ thông phi = B.S.cos(theta) đạt giá trị cực đại khi cos(theta) = 1, tức góc theta = 0 (pháp tuyến song song với đường sức, hay mặt phẳng S vuông góc với các đường cảm ứng từ).",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 18,
+            "question": "Từ thông qua một diện tích S (phẳng) có giá trị âm khi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Pháp tuyến của mặt phẳng (S) vuông góc với các đường cảm ứng từ."
+                },
+                {
+                    "id": "B",
+                    "content": "Pháp tuyến của mặt phẳng (S) tạo với các đường cảm ứng từ một góc nhọn."
+                },
+                {
+                    "id": "C",
+                    "content": "Pháp tuyến của mặt phẳng (S) tạo với các đường cảm ứng từ một góc 120o."
+                },
+                {
+                    "id": "D",
+                    "content": "Mặt phẳng (S) tạo với các đường cảm ứng từ góc 60o."
+                }
+            ],
+            "answer": "C",
+            "explain": "Từ thông phi = B.S.cos(theta) có giá trị âm khi cos(theta) < 0, tức là góc theta là góc tù (ví dụ 120 độ).",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 19,
+            "question": "Công thức nào dưới đây xác định năng lượng từ trường của ống dây có độ tự cảm L khi có dòng điện không đổi I chạy qua.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2 2 LI"
+                },
+                {
+                    "id": "B",
+                    "content": ".L I"
+                },
+                {
+                    "id": "C",
+                    "content": ". 2 L I"
+                },
+                {
+                    "id": "D",
+                    "content": "W = L.I 2"
+                }
+            ],
+            "answer": "C",
+            "explain": "Năng lượng từ trường của ống dây tự cảm có dòng điện không đổi I chạy qua được tính bằng công thức: W = 1/2 * L * I^2.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 20,
+            "question": "Đơn vị từ thông trong hệ SI là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tesla"
+                },
+                {
+                    "id": "B",
+                    "content": "Henry"
+                },
+                {
+                    "id": "C",
+                    "content": "Vêbe"
+                },
+                {
+                    "id": "D",
+                    "content": "Ampe"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đơn vị đo từ thông trong hệ SI là Vêbe (Wb).",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 21,
+            "question": "Trong thời gian 2 giây từ thông đi qua một vòng dây được tăng đều từ 2 lên 8Wb. Khi ấy suất điện động cảm ứng trong vòng dây có giá trị bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "6V"
+                },
+                {
+                    "id": "B",
+                    "content": "4V"
+                },
+                {
+                    "id": "C",
+                    "content": "3V"
+                },
+                {
+                    "id": "D",
+                    "content": "12V"
+                }
+            ],
+            "answer": "C",
+            "explain": "Suất điện động cảm ứng xuất hiện trong 1 vòng dây: |e_c| = |delta_phi / delta_t| = (8 - 2) / 2 = 3 V.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 22,
+            "question": "Dòng điện cảm ứng chạy trong một mạch kín có điện trở R, khi từ thông ф thay đổi thì cường độ dòng cảm ứng ở mỗi thời điểm xác định bằng công thức:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "di dt  "
+                },
+                {
+                    "id": "B",
+                    "content": "di dt "
+                },
+                {
+                    "id": "C",
+                    "content": "1 di R dt "
+                },
+                {
+                    "id": "D",
+                    "content": "1 di R dt  "
+                }
+            ],
+            "answer": "D",
+            "explain": "Cường độ dòng điện cảm ứng i = e_c / R = - (1/R) * (d_phi / dt).",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 23,
+            "question": "Một khung dây diện tích S = 5cm2, gồm 50 vòng dây. Đặt khung trong từ trường đều có cảm ứng từ B và quay khung theo mọi hướng. Từ thông qua khung có giá trị cực đại là 5.10-3 Wb. Cảm ứng từ B của từ trường là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "B = 2.10-4T"
+                },
+                {
+                    "id": "B",
+                    "content": "B = 2.10 -3T"
+                },
+                {
+                    "id": "C",
+                    "content": "B = 2.10 -2T"
+                },
+                {
+                    "id": "D",
+                    "content": "B = 0,2T"
+                }
+            ],
+            "answer": "D",
+            "explain": "S = 5 cm^2 = 5.10^-4 m^2, N = 50 vòng. Từ thông cực đại phi_max = N.B.S = 5.10^-3 Wb => B = phi_max / (N.S) = 5.10^-3 / (50 * 5.10^-4) = 0.2 T.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 24,
+            "question": "Một thanh dây dẫn dài l=10cm chuyển động trong mặt phẳng vuông góc với các đường sức của một từ trường đều B= 0,05T với vận tốc không đổi v=10m/s. Suất điện động cảm ứng giữa hai đầu thanh",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "50mv"
+                },
+                {
+                    "id": "B",
+                    "content": "30mv"
+                },
+                {
+                    "id": "C",
+                    "content": "20mv"
+                },
+                {
+                    "id": "D",
+                    "content": "100mV"
+                }
+            ],
+            "answer": "A",
+            "explain": "l = 10 cm = 0.1 m, B = 0.05 T, v = 10 m/s. Suất điện động cảm ứng giữa hai đầu thanh chuyển động vuông góc: e_c = B.v.l = 0.05 * 10 * 0.1 = 0.05 V = 50 mV.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 25,
+            "question": "Hai khung dây tròn có mặt phẳng song song với nhau đặt trong từ trường đều. Khung dây 1 có đường kính 20 cm và từ thông qua nó là 30 mWb. Cuộn dây 2 có đường kính 40 cm, từ thông qua nó là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "60 mWb."
+                },
+                {
+                    "id": "B",
+                    "content": "120 mWb."
+                },
+                {
+                    "id": "C",
+                    "content": "15 mWb."
+                },
+                {
+                    "id": "D",
+                    "content": "7,5 mWb."
+                }
+            ],
+            "answer": "B",
+            "explain": "Khung dây 1 có đường kính D1 = 20 cm, khung 2 có D2 = 40 cm = 2.D1 => S2 = 4.S1. Trong từ trường đều, từ thông phi = B.S => phi2 = 4.phi1 = 4 * 30 mWb = 120 mWb.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 26,
+            "question": "Khi dịch chuyển nam châm SN đến gần vòng dây như hình vẽ thì:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dòng điện cảm ứng có chiều xác định bằng quy tắc bàn tay phải"
+                },
+                {
+                    "id": "B",
+                    "content": "Dòng điện cảm ứng có chiều theo mũi tên (1)"
+                },
+                {
+                    "id": "C",
+                    "content": "Dòng điện cảm ứng có chiều theo mũi tên (2)"
+                },
+                {
+                    "id": "D",
+                    "content": "Dòng điện cảm ứng có chiều xác định bằng quy tắc bàn tay trái"
+                }
+            ],
+            "answer": "B",
+            "explain": "Khi cực Bắc (N) của nam châm dịch chuyển lại gần vòng dây, từ thông hướng sang phải qua vòng dây tăng lên. Dòng điện cảm ứng xuất hiện sẽ sinh ra từ trường ngược chiều để chống lại sự tăng (hướng sang trái). Theo quy tắc nắm bàn tay phải, dòng điện đi theo chiều mũi tên (1).",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 27,
+            "question": "Một ống dây có hệ số tự cảm 20 mH đang có dòng điện với cường độ 5 A chạy qua. Trong thời gian 0,1 s dòng điện giảm đều về 0. Độ lớn suất điện động tự cảm của ống dây có độ lớn là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "100 V."
+                },
+                {
+                    "id": "B",
+                    "content": "1V."
+                },
+                {
+                    "id": "C",
+                    "content": "0,1 V."
+                },
+                {
+                    "id": "D",
+                    "content": "0,01 V."
+                }
+            ],
+            "answer": "B",
+            "explain": "L = 20 mH = 0.02 H, delta_I = 5 A, delta_t = 0.1 s. Suất điện động tự cảm: |e_tc| = L * |delta_I / delta_t| = 0.02 * 5 / 0.1 = 1 V.",
+            "topic": "Cảm ứng điện từ"
+        },
+        {
+            "id": 28,
+            "question": "Một ống dây có hệ số tự cảm 0,1 H có dòng điện 200 mA chạy qua. Năng lượng từ tích lũy ở ống dây này là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2 mJ."
+                },
+                {
+                    "id": "B",
+                    "content": "4 mJ."
+                },
+                {
+                    "id": "C",
+                    "content": "2000 mJ."
+                },
+                {
+                    "id": "D",
+                    "content": "4 J. ========================================"
+                }
+            ],
+            "answer": "A",
+            "explain": "L = 0.1 H, I = 200 mA = 0.2 A. Năng lượng từ tích lũy: W = 1/2 L.I^2 = 0.5 * 0.1 * 0.2^2 = 0.002 J = 2 mJ.",
+            "topic": "Cảm ứng điện từ"
+        }
+    ]
+}

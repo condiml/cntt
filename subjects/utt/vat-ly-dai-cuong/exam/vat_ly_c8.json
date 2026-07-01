@@ -1,0 +1,757 @@
+{
+    "title": "Chương 8: Từ trường tĩnh",
+    "chapter": 8,
+    "total_questions": 30,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Xét một dòng điện thẳng dài vô hạn, cường độ I. Cảm ứng từ B do dòng điện tạo ra ở vị trí cách dòng một khoảng R là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "0 4 IB R  "
+                },
+                {
+                    "id": "B",
+                    "content": "0 2 IB R "
+                },
+                {
+                    "id": "C",
+                    "content": "0 2 IB R  "
+                },
+                {
+                    "id": "D",
+                    "content": "0 4 IB R "
+                }
+            ],
+            "answer": "C",
+            "explain": "Cảm ứng từ B do dòng điện thẳng dài vô hạn cường độ I gây ra tại điểm cách dây khoảng R trong môi trường điện môi: B = mu0.mu.I / (2pi.R).",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 2,
+            "question": "Cho một dòng điện tròn bán kính R, cường độ I. Cảm ứng từ B do dòng điện này tạo ra ở tâm của nó bằng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2.2 . R SIB  "
+                },
+                {
+                    "id": "B",
+                    "content": "0 2 ISB R "
+                },
+                {
+                    "id": "C",
+                    "content": "3.2 . R SIB  "
+                },
+                {
+                    "id": "D",
+                    "content": "0 4 ISB R "
+                }
+            ],
+            "answer": "B",
+            "explain": "Cảm ứng từ B tại tâm của dòng điện tròn bán kính R, cường độ I: B = mu0.mu.I / (2R).",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 3,
+            "question": "Biểu thức nào sau đây xác định cường độ từ trường tại một điểm bên trong cuộn dây hình xuyến, với n vòng, mật độ vòng dây là N, có dòng điện cường độ I đi qua.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2 nIH R"
+                },
+                {
+                    "id": "B",
+                    "content": "H nI"
+                },
+                {
+                    "id": "C",
+                    "content": ""
+                },
+                {
+                    "id": "D",
+                    "content": "2 IH R"
+                }
+            ],
+            "answer": "C",
+            "explain": "Cường độ từ trường H bên trong cuộn dây hình xuyến có N vòng dây, dòng điện I là H = N.I / (2pi.R).",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 4,
+            "question": "Hạt tích điện q chuyển động với vận tốc v trong từ trường B sẽ chịu tác dụng của lực Lorentz F q v B       . Lực này sẽ có tính chất nào sau đây:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cùng phương, cùng chiều với chuyển động"
+                },
+                {
+                    "id": "B",
+                    "content": "Có chiều sao cho B, qv, F tạo nên một tam diện thuận"
+                },
+                {
+                    "id": "C",
+                    "content": "Không sinh công"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả ba tính chất trên"
+                }
+            ],
+            "answer": "C",
+            "explain": "Lực Lorentz F = q.(v x B) tác dụng lên hạt mang điện chuyển động trong từ trường luôn có phương vuông góc với vectơ vận tốc v, do đó công suất của nó P = F.v = 0 (lực Lorentz không sinh công).",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 5,
+            "question": "Đường cảm ứng từ B là những đường:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khép kín"
+                },
+                {
+                    "id": "B",
+                    "content": "Không có điểm tận cùng"
+                },
+                {
+                    "id": "C",
+                    "content": "Không có điểm xuất phát"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả cả tính chất nêu ra"
+                }
+            ],
+            "answer": "D",
+            "explain": "Các đường cảm ứng từ là những đường cong khép kín liên tục, không có điểm bắt đầu (xuất phát) và không có điểm kết thúc (tận cùng) vì trong tự nhiên không có từ đơn cực.",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 6,
+            "question": "Định luật Ampe về tương tác giữa hai phần từ dòng điện",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "0 00 34 I dl Idl rdF r            "
+                },
+                {
+                    "id": "B",
+                    "content": "0 00 3 . 4 I dl Idl rdF r         "
+                },
+                {
+                    "id": "C",
+                    "content": "0 4 ooI dl Idl rd F r             "
+                },
+                {
+                    "id": "D",
+                    "content": "0 4 ooI dl r Idld F r             "
+                }
+            ],
+            "answer": "A",
+            "explain": "Định luật Ampere về lực tương tác giữa hai phần tử dòng điện: dF = [mu0.mu.I1.I2 / (4pi.r^3)] * [dl1 x [dl2 x r]].",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 7,
+            "question": "Cảm ứng từ d B  do phần tử dòng điện Id l sinh ra xác định bởi biểu thức",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "0 34 Idl rdB r        "
+                },
+                {
+                    "id": "B",
+                    "content": "0 24 Idl rd B r         "
+                },
+                {
+                    "id": "C",
+                    "content": "0 4 Idl rd B r         "
+                },
+                {
+                    "id": "D",
+                    "content": "0 34 r Idld B r        "
+                }
+            ],
+            "answer": "A",
+            "explain": "Công thức định luật Biot-Savart-Laplace cho cảm ứng từ dB của phần tử dòng điện Idl: dB = [mu0.mu / (4pi.r^3)] * [Idl x r].",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 8,
+            "question": "Đơn vị của cảm ứng từ B trong hệ SI là 2 NIH R",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vêbe (Wb)"
+                },
+                {
+                    "id": "B",
+                    "content": "Ampe (A)"
+                },
+                {
+                    "id": "C",
+                    "content": "Tesla (T)"
+                },
+                {
+                    "id": "D",
+                    "content": "Ampe trên mét (A/m)"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đơn vị của cảm ứng từ B trong hệ SI là Tesla (T).",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 9,
+            "question": "Từ trường do dòng điện không đổi I chạy trong dây dẫn gây ra tại một điểm xác định bởi biểu thức",
+            "options": [
+                {
+                    "id": "A",
+                    "content": " )(C BdB "
+                },
+                {
+                    "id": "B",
+                    "content": " i iBB "
+                },
+                {
+                    "id": "C",
+                    "content": "0 34 Idl rB r         "
+                },
+                {
+                    "id": "D",
+                    "content": ". .sin FB I l    "
+                }
+            ],
+            "answer": "C",
+            "explain": "Theo nguyên lý siêu đề từ trường, cảm ứng từ tổng hợp do dòng điện không đổi I chạy trên toàn bộ dây dẫn gây ra bằng tích phân dọc theo dây dẫn: B = \\int_C dB.",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 10,
+            "question": "Từ trường do nhiều dòng điện chạy trong các dây dẫn gây ra tại một điểm xác định bởi biểu thức",
+            "options": [
+                {
+                    "id": "A",
+                    "content": " i iBB "
+                },
+                {
+                    "id": "B",
+                    "content": " )(C BdB "
+                },
+                {
+                    "id": "C",
+                    "content": "0 34 Idl rB r         "
+                },
+                {
+                    "id": "D",
+                    "content": ". .sin FB I l    "
+                }
+            ],
+            "answer": "A",
+            "explain": "Cảm ứng từ tổng hợp tại một điểm do nhiều dòng điện độc lập gây ra bằng tổng vectơ các cảm ứng từ của từng dòng điện: B = sum(B_i).",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 11,
+            "question": "Từ thông gửi qua diện tích dS là đại lượng được xác định bởi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": ".md B dS  "
+                },
+                {
+                    "id": "B",
+                    "content": ".md B dS  "
+                },
+                {
+                    "id": "C",
+                    "content": ".md B dS "
+                },
+                {
+                    "id": "D",
+                    "content": ".md B dS  "
+                }
+            ],
+            "answer": "A",
+            "explain": "Từ thông (thông lượng cảm ứng từ) gửi qua diện tích vi phân dS được xác định bởi công thức: d_phi = B.dS = B.dS.cos(theta).",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 12,
+            "question": "Chọn câu SAI:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phổ các đường sức từ là những đường cong kín bao quanh các dòng điện"
+                },
+                {
+                    "id": "B",
+                    "content": "Từ trường không đổi gây bởi dòng điện không đổi"
+                },
+                {
+                    "id": "C",
+                    "content": "Từ trường gây bởi các điện tích chuyển động trong hệ quy chiếu ta đang xét"
+                },
+                {
+                    "id": "D",
+                    "content": "Từ trường gây bởi các dòng điện và các nam châm"
+                }
+            ],
+            "answer": "C",
+            "explain": "Lực tĩnh điện làm dịch chuyển điện tích là lực thế nên công của nó không phụ thuộc dạng đường đi (câu C đúng nhưng thuộc về điện trường, không phải từ trường. Thường trong ngân hàng câu hỏi, phát biểu sai ở đây là về từ trường tĩnh không đổi tác dụng lên hạt điện đứng yên ở câu khác, hoặc một ý khác liên quan đến phổ sức từ).",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 13,
+            "question": "Chọn câu SAI::",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Từ trường không đổi tác dụng lên hạt tích điện đứng yên"
+                },
+                {
+                    "id": "B",
+                    "content": "Lực Lorentz luôn vuông góc với phương chuyển động của điện tích q"
+                },
+                {
+                    "id": "C",
+                    "content": "Công của lựctĩnh điện làm dịch chuyển một điện tích q không phụ thuộc vào dạng đường đi mà chỉ phụ thuộc vào điểm đầu và điểm cuối của đoạn đường dịch chuyển"
+                },
+                {
+                    "id": "D",
+                    "content": "Lực Lorentz không sinh công lên hạt điện chuyển động"
+                }
+            ],
+            "answer": "A",
+            "explain": "Từ trường tĩnh (không đổi) chỉ tác dụng lực lên hạt mang điện chuyển động (lực Lorentz F = q.v.B.sin(theta)). Khi hạt đứng yên (v = 0), lực Lorentz bằng 0. Vậy từ trường không tác dụng lên hạt tích điện đứng yên.",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 14,
+            "question": "Hai dòng điện thẳng, song song, dài vô hạn, ngược chiều nhau, đặt cạnh nhau thì:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hút nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Không tương tác với nhau"
+                },
+                {
+                    "id": "C",
+                    "content": "Đẩy nhau"
+                },
+                {
+                    "id": "D",
+                    "content": "Lực đẩy lớn hơn lực hút"
+                }
+            ],
+            "answer": "C",
+            "explain": "Hai dòng điện thẳng song song ngược chiều đẩy nhau, cùng chiều hút nhau.",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 15,
+            "question": "Phát biểu nào ĐÚNG: Từ thông gửi qua một mặt kín S bất kỳ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bằng tổng đại số các dòng điện gây ra từ trường"
+                },
+                {
+                    "id": "B",
+                    "content": "Thì bằng không"
+                },
+                {
+                    "id": "C",
+                    "content": "Bằng tổng các dòng điện bên trong và bên ngoài mặt kín"
+                },
+                {
+                    "id": "D",
+                    "content": "Bằng tổng đại số các dòng điện xuyên qua nó"
+                }
+            ],
+            "answer": "B",
+            "explain": "Từ thông (thông lượng từ trường) gửi qua một mặt kín bất kỳ luôn bằng không (\\oint B.dS = 0) do các đường sức từ luôn là những đường cong khép kín.",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 16,
+            "question": "Đơn vị của véc tơ cường độ từ trường trong hệ SI là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vêbe (Wb)"
+                },
+                {
+                    "id": "B",
+                    "content": "Ampe (A)"
+                },
+                {
+                    "id": "C",
+                    "content": "Tesla (T)"
+                },
+                {
+                    "id": "D",
+                    "content": "Ampe trên mét (A/m)"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đơn vị của cường độ từ trường H trong hệ SI là Ampe trên mét (A/m).",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 17,
+            "question": "Tương tác nào sau đây là tương tác từ",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tương tác giữa hai electron"
+                },
+                {
+                    "id": "B",
+                    "content": "Tương tác giữa electron và proton"
+                },
+                {
+                    "id": "C",
+                    "content": "Tương tác của một hòn bi và trái đất"
+                },
+                {
+                    "id": "D",
+                    "content": "Tương tác giữa hai dây dẫn song song có dòng điện"
+                }
+            ],
+            "answer": "D",
+            "explain": "Tương tác từ là tương tác giữa các điện tích chuyển động, tức là giữa các dòng điện hoặc dòng điện và nam châm.",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 18,
+            "question": "Phương của lực từ tác dụng lên dây dẫn mang dòng điện không có đặc điểm nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vuông góc với dây dẫn mang dòng điện;"
+                },
+                {
+                    "id": "B",
+                    "content": "Vuông góc với véc tơ cảm ứng từ;"
+                },
+                {
+                    "id": "C",
+                    "content": "Vuông góc với mặt phẳng chứa véc tờ cảm ứng từ và dòng điện;"
+                },
+                {
+                    "id": "D",
+                    "content": "Song song với các đường sức từ."
+                }
+            ],
+            "answer": "D",
+            "explain": "Lực từ (lực Ampere) F = I.[dl x B] luôn có phương vuông góc với dây dẫn mang dòng điện và vuông góc với vectơ cảm ứng từ B. Do đó nó luôn vuông góc với các đường sức từ chứ không thể song song.",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 19,
+            "question": "Một dây dẫn mang dòng điện có chiều từ trái sang phải nằm trong một từ trường có chiều từ dưới lên thì lực từ có chiều",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Từ trái sang phải."
+                },
+                {
+                    "id": "B",
+                    "content": "Từ trên xuống dưới."
+                },
+                {
+                    "id": "C",
+                    "content": "Từ trong ra ngoài."
+                },
+                {
+                    "id": "D",
+                    "content": "Từ ngoài vào trong."
+                }
+            ],
+            "answer": "C",
+            "explain": "Chiều dòng điện I từ trái sang phải (+x), cảm ứng từ B từ dưới lên (+y). Lực Ampere F = I x B hướng từ trong ra ngoài (theo quy tắc bàn tay trái).",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 20,
+            "question": "Nếu lực từ tác dụng lên đoạn dây dẫn mang dòng điện tăng 2 lần thì độ lớn cảm ứng từ tại vị trí đặt đoạn dây đó",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vẫn không đổi."
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng 2 lần."
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng 4 lần."
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm 2 lần."
+                }
+            ],
+            "answer": "A",
+            "explain": "Cảm ứng từ B tại một điểm trong từ trường chỉ phụ thuộc vào dòng điện gây ra nó và vị trí điểm đó, không phụ thuộc vào lực tác dụng lên đoạn dây thử đặt tại đó.",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 21,
+            "question": "Khi độ lớn cảm ứng từ và cường độ dòng điện qua dây dẫn tăng 2 lần thì độ lớn lực từ tác dụng lên dây dẫn",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng 2 lần."
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng 4 lần."
+                },
+                {
+                    "id": "C",
+                    "content": "Không đổi."
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm 2 lần."
+                }
+            ],
+            "answer": "B",
+            "explain": "Lực từ F = I.B.L.sin(theta). Khi B và I đều tăng gấp đôi thì lực từ F tăng gấp 2 * 2 = 4 lần.",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 22,
+            "question": "Độ lớn của lực Lo – ren – xơ không phụ thuộc vào",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giá trị của điện tích."
+                },
+                {
+                    "id": "B",
+                    "content": "Độ lớn vận tốc của điện tích."
+                },
+                {
+                    "id": "C",
+                    "content": "Độ lớn cảm ứng từ."
+                },
+                {
+                    "id": "D",
+                    "content": "Khối lượng của điện tích."
+                }
+            ],
+            "answer": "D",
+            "explain": "Độ lớn lực Lorentz F_L = |q|.v.B.sin(theta), không phụ thuộc vào khối lượng của hạt mang điện.",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 23,
+            "question": "Biểu thức nào sau đây diễn đạt định lý O – G đối với từ trường?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "(S) Bd S 0   "
+                },
+                {
+                    "id": "B",
+                    "content": "(S) E d S 0   "
+                },
+                {
+                    "id": "C",
+                    "content": "i i(S) Bd S q   "
+                },
+                {
+                    "id": "D",
+                    "content": "k k(C) H d I    "
+                }
+            ],
+            "answer": "A",
+            "explain": "Định lý O-G đối với từ trường phát biểu dưới dạng tích phân là \\oint_S B.dS = 0 (thông lượng cảm ứng từ qua mặt kín bằng 0).",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 24,
+            "question": "Một đoạn dây dẫn dài 1,5 m mang dòng điện 10",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "đặt vuông góc trong một từ trường đều có độ lớn cảm ứng từ 1,2 T. Nó chịu một lực từ tác dụng là A. 18 N."
+                },
+                {
+                    "id": "B",
+                    "content": "1,8 N."
+                },
+                {
+                    "id": "C",
+                    "content": "1800 N."
+                },
+                {
+                    "id": "D",
+                    "content": "0 N."
+                }
+            ],
+            "answer": "A",
+            "explain": "L = 1.5 m, I = 10 A, B = 1.2 T, vuông góc (theta=90). Lực từ tác dụng F = I.B.L = 10 * 1.2 * 1.5 = 18 N.",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 25,
+            "question": "Một đoạn dây dẫn mang dòng điện 1,5 A chịu một lực từ 5 N. Sau đó cường độ dòng điện thay đổi thì lực từ tác dụng lên đoạn dây là 20 N. Cường độ dòng điện đã",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng thêm 4,5 A."
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng thêm 6 A."
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm bớt 4,5 A."
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm bớt 6 A."
+                }
+            ],
+            "answer": "A",
+            "explain": "Lực từ F tỉ lệ thuận với cường độ dòng điện I khi các thông số khác không đổi. Lúc đầu I1 = 1.5 A thì F1 = 5 N. Lúc sau F2 = 20 N (tăng 4 lần) => I2 = 4 * 1.5 = 6 A. Vậy dòng điện tăng thêm delta_I = 6 - 1.5 = 4.5 A.",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 26,
+            "question": "Cảm ứng từ do dây dẫn thẳng dài vô hạn có dòng điện I=5A đặt trong chân không sinh ra tại một điểm cách dây một khoảng R=2cm có độ lớn bằng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "5.10-5T"
+                },
+                {
+                    "id": "B",
+                    "content": "2.10-5T"
+                },
+                {
+                    "id": "C",
+                    "content": "4.10-5T"
+                },
+                {
+                    "id": "D",
+                    "content": "2π.10-5T"
+                }
+            ],
+            "answer": "A",
+            "explain": "I = 5 A, R = 2 cm = 0.02 m. Cảm ứng từ: B = 2.10^-7 * I / R = 2.10^-7 * 5 / 0.02 = 5.10^-5 T.",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 27,
+            "question": "Cường độ từ trường do dòng điện I chạy trong vòng dây dẫn tròn bán kính R sinh ra tại tâm vòng dây có độ lớn",
+            "options": [
+                {
+                    "id": "A",
+                    "content": " 1 2cos cos4 oIH R    "
+                },
+                {
+                    "id": "B",
+                    "content": "4 oIH R  "
+                },
+                {
+                    "id": "C",
+                    "content": "2 IH R"
+                },
+                {
+                    "id": "D",
+                    "content": "2 IH R"
+                }
+            ],
+            "answer": "D",
+            "explain": "Cường độ từ trường H tại tâm vòng dây tròn bán kính R, cường độ dòng điện I: H = I / (2R).",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 28,
+            "question": "Cho dòng điện I = 10A chạy qua dây dẵn thẳng dài và qua vòng dây tròn như hình 6.6. Biết bán kính vòng tròn là 2cm và hệ thống đặt trong không khí. Tính cảm ứng từ tại tâm O của vòng tròn.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "10 – 4 T"
+                },
+                {
+                    "id": "B",
+                    "content": "3,14.10 – 4 T"
+                },
+                {
+                    "id": "C",
+                    "content": "2,14.10 – 4 T"
+                },
+                {
+                    "id": "D",
+                    "content": "4,14.10 – 4 T"
+                }
+            ],
+            "answer": "D",
+            "explain": "Dòng điện I = 10 A chạy qua dây thẳng tiếp tuyến và vòng tròn R = 2 cm = 0.02 m. Tại tâm O: B = B_tron + B_thang = 2pi.10^-7 * I/R + 2.10^-7 * I/R = 2.10^-7 * (I/R) * (pi + 1) = 2.10^-7 * (10/0.02) * 4.1416 = 10^-4 * 4.14 = 4.14.10^-4 T.",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 29,
+            "question": "Cường độ từ trường do dây dẫn thẳng dài vô hạn có dòng điện I= 4A đặt trong chân không sinh ra tại một điểm cách dây một khoảng R=2cm có độ lớn bằng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "31,8A/m"
+                },
+                {
+                    "id": "B",
+                    "content": "3,18A/m"
+                },
+                {
+                    "id": "C",
+                    "content": "4.10 -5A/m"
+                },
+                {
+                    "id": "D",
+                    "content": "4π.10 -5A/m"
+                }
+            ],
+            "answer": "A",
+            "explain": "I = 4 A, R = 2 cm = 0.02 m. Cường độ từ trường H = I / (2pi.R) = 4 / (2 * pi * 0.02) \u0007pprox 31.8 A/m.",
+            "topic": "Từ trường"
+        },
+        {
+            "id": 30,
+            "question": "Cảm ứng từ do dây dẫn thẳng dài vô hạn có dòng điện I= 3A đặt trong chân không sinh ra tại một điểm cách dây một khoảng R=4cm có độ lớn bằng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "0,75.10-5T"
+                },
+                {
+                    "id": "B",
+                    "content": "1,5.10 -5T"
+                },
+                {
+                    "id": "C",
+                    "content": "3.10 -5T"
+                },
+                {
+                    "id": "D",
+                    "content": "11,94T I Hình 6.6"
+                }
+            ],
+            "answer": "B",
+            "explain": "I = 3 A, R = 4 cm = 0.04 m. Cảm ứng từ B = 2.10^-7 * I / R = 2.10^-7 * 3 / 0.04 = 1.5.10^-5 T.",
+            "topic": "Từ trường"
+        }
+    ]
+}

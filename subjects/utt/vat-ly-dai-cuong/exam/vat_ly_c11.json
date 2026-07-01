@@ -1,0 +1,1357 @@
+{
+    "title": "Chương 11: Quang học lượng tử",
+    "chapter": 11,
+    "total_questions": 54,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Năng suất phát xạ đơn sắc là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là năng lượng được phát ra từ vật có diện tích dS ở nhiệt độ T trong một đơn vị thời gian."
+                },
+                {
+                    "id": "B",
+                    "content": "Là năng lượng được phát ra bởi một đơn vị diện tích của một vật ở nhiệt độ T trong một đơn vị thời gian và được mang đi bởi chùm bức xạ điện từ có tần số ν."
+                },
+                {
+                    "id": "C",
+                    "content": "Là năng lượng được phát ra bởi một đơn vị diện tích của một vật ở nhiệt độ T trong một đơn vị thời gian và được mang đi bởi các bức xạ điện từ có tần số trong khoảng (ν, ν + dν)."
+                },
+                {
+                    "id": "D",
+                    "content": "Là năng lượng được phát ra từ vật có diện tích dS ở nhiệt độ T trong một đơn vị thời gian và được mang đi bởi các bức xạ điện từ có tần số trong khoảng (ν, ν + dν)."
+                }
+            ],
+            "answer": "C",
+            "explain": "Năng suất phát xạ đơn sắc r(T,v) là năng lượng được phát xạ bởi một đơn vị diện tích bề mặt của vật ở nhiệt độ T trong một đơn vị thời gian và được mang đi bởi các bức xạ có tần số trong khoảng từ v đến v+dv.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 2,
+            "question": "Phát biểu nào sau đây là chưa đúng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng suất phát xạ toàn phần của một vật đen tuyệt đối tỉ lệ với lũy thừa bốn của nhiệt độ tuyệt đối của vật ấy."
+                },
+                {
+                    "id": "B",
+                    "content": "Tỉ số giữa năng suất phát xạ đơn sắc và hệ số hấp thụ đơn sắc của cùng một vật ở nhiệt độ nhất định là một hàm chỉ phụ thuộc tần số bức xạ ν và nhiệt độ T mà không phụ thuộc vào bản chất của vật đó."
+                },
+                {
+                    "id": "C",
+                    "content": "Hệ số hấp thụ đơn sắc ứng với tần số ν của vật trong thực tế là 𝑎(𝑇,𝜈)≤ 1."
+                },
+                {
+                    "id": "D",
+                    "content": "Đối với vật đen tuyệt đối, bước sóng λm của chùm bức xạ đơn sắc mang nhiều năng lượng nhất tỉ lệ nghịch với nhiệt độ tuyệt đối của vật."
+                }
+            ],
+            "answer": "C",
+            "explain": "Hệ số hấp thụ đơn sắc a(T,v) của vật xám hoặc vật thực tế trong thực tiễn luôn nhỏ hơn 1 (a < 1). Viết a <= 1 chung cho cả vật đen tuyệt đối (a=1) là một xấp xỉ lý thuyết, nhưng trong thực tế a luôn nhỏ hơn hẳn 1.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 3,
+            "question": "Trong hiện tượng quang điện, phát biểu nào sau đây là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hiện tượng quang điện chỉ xảy ra với các electron ở sát mặt ngoài của kim loại."
+                },
+                {
+                    "id": "B",
+                    "content": "Động năng ban đầu của electron phụ thuộc vào cường độ của chùm bức xạ rọi tới."
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lượng của chùm photon tới càng lớn xác suất xảy ra hiện tượng quang điện càng cao."
+                },
+                {
+                    "id": "D",
+                    "content": "Xác suất xảy ra hiện tượng quang điện là lớn đối với những vật liệu nặng (Z lớn)."
+                }
+            ],
+            "answer": "D",
+            "explain": "Xác suất xảy ra hiệu ứng quang điện là rất lớn đối với những vật liệu nặng (Z lớn) vì tiết diện quang điện tỉ lệ thuận với Z^5 ở vùng năng lượng thấp.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 4,
+            "question": "Đặc điểm nào sau đây không thuộc hiệu ứng Compton:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cường độ dòng quang điện bão hòa tỉ lệ với cường độ chùm photon đến."
+                },
+                {
+                    "id": "B",
+                    "content": "Chứng minh sự tồn tại động lượng của các hạt photon."
+                },
+                {
+                    "id": "C",
+                    "content": "Độ tăng bước sóng được tính theo công thức ∆𝜆= 2𝜆஼ sinଶ ఏ ଶ"
+                },
+                {
+                    "id": "D",
+                    "content": "Bước sóng tán xạ không phụ thuộc vào cấu tạo chất được dọi tia X mà chỉ phụ thuộc vào góc tán xạ θ."
+                }
+            ],
+            "answer": "A",
+            "explain": "Cường độ dòng quang điện bão hòa tỉ lệ với cường độ chùm photon đến là đặc điểm của hiện tượng quang điện ngoài, không thuộc về đặc điểm của hiệu ứng Compton.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 5,
+            "question": "Nội dung nào sau đây không thuộc nội dung thuyết photon của Einstein:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khi một vật phát xạ hay hấp thụ bức xạ điện từ nghĩa là vật đó phát hay hấp thụ các photon."
+                },
+                {
+                    "id": "B",
+                    "content": "Khả năng phát xạ và khả năng hấp thụ của một vật tỉ lệ thuận với nhau."
+                },
+                {
+                    "id": "C",
+                    "content": "Trong mọi môi trường các photon truyền đi với cùng vận tốc 𝑐 = 3. 10଼𝑚/𝑠"
+                },
+                {
+                    "id": "D",
+                    "content": "Cường độ chùm bức xạ tỉ lệ với số photon phát ra từ nguồn trong một đơn vị thời gian."
+                }
+            ],
+            "answer": "B",
+            "explain": "Khả năng phát xạ và hấp thụ tỉ lệ thuận với nhau là nội dung định luật Kirchhoff về bức xạ nhiệt, không thuộc về thuyết photon của Einstein.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 6,
+            "question": "Vật đen tuyệt đối thì",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cho phép tất cả các bức xạ đến đi xuyên qua nó."
+                },
+                {
+                    "id": "B",
+                    "content": "Phản xạ tất cả các bức xạ chiếu đến nó."
+                },
+                {
+                    "id": "C",
+                    "content": "Hấp thụ tất cả các bức xạ chiếu đến nó."
+                },
+                {
+                    "id": "D",
+                    "content": "Có bề mặt được phủ kín bởi bồ hóng hoặc than."
+                }
+            ],
+            "answer": "C",
+            "explain": "Vật đen tuyệt đối là vật hấp thụ hoàn toàn tất cả các bức xạ điện từ chiếu đến nó ở mọi nhiệt độ.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 7,
+            "question": "Phát biểu nào sau đây là đúng về định luật Stefan-Boltzmann: (1) Định luật Stefan-Boltzmann giúp xác định năng suất phát xạ toàn phần của một vật đen tuyệt đối; (2) Định luật Stefan-Boltzmann dựa trên lý thuyết lượng tử; (3) Định luật Stefan- Boltzmann không cho biết sự phân phối năng lượng theo bước sóng.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Câu (1) và (2) đúng."
+                },
+                {
+                    "id": "B",
+                    "content": "Câu (2) và (3) đúng."
+                },
+                {
+                    "id": "C",
+                    "content": "Câu (1) và (3) đúng."
+                },
+                {
+                    "id": "D",
+                    "content": "Các câu (1), (2) và (3) đều đúng."
+                }
+            ],
+            "answer": "C",
+            "explain": "Định luật Stefan-Boltzmann giúp xác định năng suất phát xạ toàn phần của vật đen tuyệt đối (R_T = sigma.T^4) và nó không cho biết sự phân phối năng lượng theo bước sóng (định luật Planck mới cho biết). Định luật Stefan-Boltzmann ban đầu được chứng minh dựa trên nhiệt động lực học cổ điển chứ không phải lượng tử.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 8,
+            "question": "Nhiệt độ của một vật đen tuyệt đối tăng từ 1000 𝐾 đến 2000 𝐾. Năng suất phát xạ toàn phần của nó tăng hay giảm bao nhiêu lần?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng 16 lần"
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng gấp đôi"
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm 4 lần"
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm 8 lần"
+                }
+            ],
+            "answer": "A",
+            "explain": "Năng suất phát xạ toàn phần tỉ lệ với lũy thừa 4 của nhiệt độ tuyệt đối T^4. Khi T tăng từ 1000 K lên 2000 K (tăng 2 lần) thì năng suất phát xạ toàn phần tăng 2^4 = 16 lần.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 9,
+            "question": "Một thanh thép ở nhiệt độ 727଴𝐶 có hệ số hấp thụ 0,7 thì năng suất phát xạ toàn phần là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "56700 𝑊/𝑚ଶ"
+                },
+                {
+                    "id": "B",
+                    "content": "15839 𝑊/𝑚ଶ"
+                },
+                {
+                    "id": "C",
+                    "content": "39690 𝑊/𝑚ଶ"
+                },
+                {
+                    "id": "D",
+                    "content": "11087 𝑊/𝑚ଶ"
+                }
+            ],
+            "answer": "C",
+            "explain": "T = 727 + 273 = 1000 K, hệ số hấp thụ a = 0.7. Năng suất phát xạ toàn phần: R_T = a * sigma * T^4 = 0.7 * 5.67.10^-8 * 1000^4 = 39690 W/m^2.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 10,
+            "question": "Nhiệt độ của một vật được nung nóng tăng lên 3 lần thì năng lượng bức xạ phát ra bởi một đơn vị diện tích của vật đó trong một đơn vị thời gian tăng lên bao nhiêu lần?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không đủ thông tin để kết luận."
+                },
+                {
+                    "id": "B",
+                    "content": "81 lần."
+                },
+                {
+                    "id": "C",
+                    "content": "9 lần"
+                },
+                {
+                    "id": "D",
+                    "content": "3 lần"
+                }
+            ],
+            "answer": "B",
+            "explain": "Nhiệt độ tuyệt đối tăng 3 lần. Theo định luật Stefan-Boltzmann, năng lượng bức xạ phát ra tăng 3^4 = 81 lần.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 11,
+            "question": "Giới hạn đỏ của hiện tượng quang điện đối với sắt là 0,264𝜇𝑚. Công thoát của electron trong kim loại:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2,24 𝑒𝑉"
+                },
+                {
+                    "id": "B",
+                    "content": "4,7 𝑒𝑉"
+                },
+                {
+                    "id": "C",
+                    "content": "4,09 𝑒𝑉"
+                },
+                {
+                    "id": "D",
+                    "content": "7,5 𝑒𝑉"
+                }
+            ],
+            "answer": "B",
+            "explain": "Giới hạn quang điện lamda0 = 0.264 um. Công thoát A = hc/lamda0 = 6.625.10^-34 * 3.10^8 / 0.264.10^-6 = 7.53.10^-19 J. Đổi ra eV: A = 7.53.10^-19 / 1.6.10^-19 = 4.7 eV.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 12,
+            "question": "Trong phổ phát xạ của cơ thể người, tần số ứng với bước sóng mang nhiều năng lượng nhất là bao nhiêu? Biết nhiệt độ trung bình cơ thể người là 33଴𝐶.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "9,45 𝐻𝑧"
+                },
+                {
+                    "id": "B",
+                    "content": "9,45. 10ି଺𝐻𝑧"
+                },
+                {
+                    "id": "C",
+                    "content": "3,17. 10ଵଷ𝐻𝑧"
+                },
+                {
+                    "id": "D",
+                    "content": "3,17. 10ଷ𝐻𝑧"
+                }
+            ],
+            "answer": "C",
+            "explain": "T = 33 + 273 = 306 K. Theo định luật Wien: lamda_m = b / T = 2.898.10^-3 / 306 \u0007pprox 9.47 um. Tần số tương ứng: v = c/lamda_m = 3.17.10^13 Hz.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 13,
+            "question": "Độ dài bước sóng của photon có năng lượng 3,2. 10ିଵଽ𝐽 là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "210 𝑛𝑚"
+                },
+                {
+                    "id": "B",
+                    "content": "420 𝑛𝑚"
+                },
+                {
+                    "id": "C",
+                    "content": "530 𝑛𝑚"
+                },
+                {
+                    "id": "D",
+                    "content": "620 𝑛𝑚"
+                }
+            ],
+            "answer": "D",
+            "explain": "Năng lượng photon E = 3.2.10^-19 J. Bước sóng lamda = hc/E = 6.625.10^-34 * 3.10^8 / 3.2.10^-19 = 621 nm.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 14,
+            "question": "Công thoát của một vật liệu bức xạ photon là 4,0 𝑒𝑉. Nếu photon mang năng lượng 16 𝑒𝑉 đến đập vào bề mặt vật liệu trên thì động năng cực đại của electron bật ra là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "12 𝑒𝑉"
+                },
+                {
+                    "id": "B",
+                    "content": "20 𝑒𝑉"
+                },
+                {
+                    "id": "C",
+                    "content": "0,25 𝑒𝑉"
+                },
+                {
+                    "id": "D",
+                    "content": "4 𝑒𝑉"
+                }
+            ],
+            "answer": "A",
+            "explain": "Động năng cực đại của electron quang điện: W_d = E - A = 16 - 4 = 12 eV.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 15,
+            "question": "Tần số của chùm photon đến lớn hơn tần số ngưỡng của kim loại. Vậy hiệu ứng quang điện sẽ xảy ra:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Từ từ"
+                },
+                {
+                    "id": "B",
+                    "content": "Ngay lập tức"
+                },
+                {
+                    "id": "C",
+                    "content": "Rất nhanh"
+                },
+                {
+                    "id": "D",
+                    "content": "Chậm"
+                }
+            ],
+            "answer": "B",
+            "explain": "Hiện tượng quang điện xảy ra hầu như ngay lập tức (không có độ trễ thời gian đáng kể, t < 10^-9 s) khi tần số ánh sáng thích hợp.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 16,
+            "question": "Nếu tần số và cường độ của chùm bức xạ đến katot được giữ không đổi, cường độ dòng quang điện sẽ thay đổi như thế nào khi đặt vào giữa tế bào quang điện một hiệu điện thế UAC>0.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm"
+                },
+                {
+                    "id": "B",
+                    "content": "Không đổi"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng"
+                },
+                {
+                    "id": "D",
+                    "content": "Không thể xác định"
+                }
+            ],
+            "answer": "C",
+            "explain": "Khi đặt hiệu điện thế thuận UAC > 0, cường độ dòng quang điện sẽ tăng dần cho đến khi đạt giá trị bão hòa.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 17,
+            "question": "Cường độ dòng quang điện trong hiệu ứng quang điện phụ thuộc vào:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cường độ ánh sáng chiếu đến tế bào quang điện"
+                },
+                {
+                    "id": "B",
+                    "content": "Tần số của chùm ánh sáng đến"
+                },
+                {
+                    "id": "C",
+                    "content": "Bước sóng của chùm photon đến"
+                },
+                {
+                    "id": "D",
+                    "content": "Công thoát của electron bề mặt kim loại"
+                }
+            ],
+            "answer": "A",
+            "explain": "Theo định luật quang điện thứ hai, cường độ dòng quang điện bão hòa tỉ lệ thuận với cường độ chùm sáng chiếu tới.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 18,
+            "question": "Phát biểu nào sau đây là sai về hiệu ứng quang điện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hiệu điện thế hãm phụ thuộc vào bước sóng photon tới"
+                },
+                {
+                    "id": "B",
+                    "content": "Hiệu điện thế hãm phụ thuộc vào tần số photon tới"
+                },
+                {
+                    "id": "C",
+                    "content": "Hiệu điện thế hãm phụ thuộc vào cường độ chùm photon tới"
+                },
+                {
+                    "id": "D",
+                    "content": "Hiệu điện thế hãm phụ thuộc năng lượng photon tới"
+                }
+            ],
+            "answer": "C",
+            "explain": "Hiệu điện thế hãm Uh chỉ phụ thuộc vào tần số (bước sóng) của ánh sáng kích thích và công thoát của kim loại, không phụ thuộc vào cường độ của chùm sáng kích thích.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 19,
+            "question": "Năng lượng của photon là 4,2 𝑒𝑉 thì động lượng của nó là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "11,06. 10ିଶହ𝑘𝑔.𝑚/𝑠"
+                },
+                {
+                    "id": "B",
+                    "content": "2,24. 10ିଶ଻𝑘𝑔.𝑚/𝑠"
+                },
+                {
+                    "id": "C",
+                    "content": "3,32. 10ିଶ଻𝑘𝑔.𝑚/𝑠"
+                },
+                {
+                    "id": "D",
+                    "content": "11,06. 10ିଶ଻𝑘𝑔.𝑚/𝑠"
+                }
+            ],
+            "answer": "B",
+            "explain": "Năng lượng photon E = 4.2 eV = 6.72.10^-19 J. Động lượng của photon: p = E / c = 6.72.10^-19 / 3.10^8 = 2.24.10^-27 kg.m/s.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 20,
+            "question": "Chiếu một chùm sáng đơn sắc bước sóng 𝜆= 0,55 𝜇𝑚 vào một tế bào quang điện có katot làm bằng Cesi có công thoát là 1,8 𝑒𝑉. Hiện tượng quang điện có xảy ra không?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Có nhưng chỉ xảy ra sau 10ିଷ𝑠"
+                },
+                {
+                    "id": "B",
+                    "content": "Không thể xác định"
+                },
+                {
+                    "id": "C",
+                    "content": "Không"
+                },
+                {
+                    "id": "D",
+                    "content": "Có"
+                }
+            ],
+            "answer": "D",
+            "explain": "Cesi có công thoát A = 1.8 eV. Bước sóng kích thích lamda = 0.55 um => E = hc/lamda = 2.26 eV. Vì E > A nên hiện tượng quang điện CÓ xảy ra ngay lập tức.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 21,
+            "question": "Tia X mang năng lượng 75 𝑘𝑒𝑉 đến đập vào electron đang đứng yên. Tia X tán xạ góc 75଴ so với phương tới. Bước sóng của tia X sau tán xạ là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2,10. 10ିଵଵ𝑚"
+                },
+                {
+                    "id": "B",
+                    "content": "1,83. 10ିଵଵ𝑚"
+                },
+                {
+                    "id": "C",
+                    "content": "1,88. 10ିଵଵ𝑚"
+                },
+                {
+                    "id": "D",
+                    "content": "1,48. 10ିଵଵ𝑚"
+                }
+            ],
+            "answer": "B",
+            "explain": "E = 75 keV, theta = 75 độ. Lamda = hc/E = 1.656.10^-11 m. Độ tăng Compton: delta_lamda = lamda_c * (1 - cos(75)) = 1.8.10^-12 m. Bước sóng sau tán xạ: lamda' = lamda + delta_lamda = 1.83.10^-11 m.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 22,
+            "question": "Một photon năng lượng 1 𝑀𝑒𝑉 va chạm với electron tự do và tán xạ góc 900. Bước sóng của photon đến là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1,98. 10ିଵଶ𝑚"
+                },
+                {
+                    "id": "B",
+                    "content": "3,48. 10ିଵଶ𝑚"
+                },
+                {
+                    "id": "C",
+                    "content": "1,24. 10ିଵଶ𝑚"
+                },
+                {
+                    "id": "D",
+                    "content": "4,38. 10ିଵ 𝑚"
+                }
+            ],
+            "answer": "C",
+            "explain": "Photon có năng lượng E = 1 MeV = 1.6.10^-13 J. Bước sóng ban đầu: lamda = hc/E = 6.625.10^-34 * 3.10^8 / 1.6.10^-13 = 1.24.10^-12 m.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 23,
+            "question": "Một photon năng lượng 1 𝑀𝑒𝑉 va chạm với electron tự do và tán xạ góc 900. Bước sóng của photon tán xạ là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1,24. 10ିଵଶ𝑚"
+                },
+                {
+                    "id": "B",
+                    "content": "4,63. 10ିଵଶ𝑚"
+                },
+                {
+                    "id": "C",
+                    "content": "1,98. 10ିଵ 𝑚"
+                },
+                {
+                    "id": "D",
+                    "content": "3,48. 10ିଵଶ𝑚"
+                }
+            ],
+            "answer": "D",
+            "explain": "Bước sóng sau tán xạ góc 90 độ: lamda' = lamda + lamda_c = 1.24.10^-12 + 2.426.10^-12 = 3.67.10^-12 m (ở đây chọn phương án gần nhất D là 3.48.10^-12 m).",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 24,
+            "question": "Trong hiệu ứng Compton có thể tìm thấy chùm tia X tán xạ có bước sóng ngắn hơn bước sóng chùm tia X đến không?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không"
+                },
+                {
+                    "id": "B",
+                    "content": "Có"
+                },
+                {
+                    "id": "C",
+                    "content": "Có nếu biết được góc tán xạ của tia X."
+                },
+                {
+                    "id": "D",
+                    "content": "Có nếu dùng thiết bị dò tìm phù hợp."
+                }
+            ],
+            "answer": "A",
+            "explain": "Trong tán xạ Compton, photon va chạm và truyền năng lượng cho electron nên năng lượng giảm => bước sóng tăng. Do đó không thể tìm thấy bức xạ có bước sóng ngắn hơn ban đầu.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 25,
+            "question": "So sánh độ tăng bước sóng của photon tán xạ góc 30଴ với photon tán xạ góc 45଴ trong hiệu ứng Compton, biết chùm photon có cùng tần số sóng khi tán xạ lên các electron tự do.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "50%"
+                },
+                {
+                    "id": "B",
+                    "content": "45,7%"
+                },
+                {
+                    "id": "C",
+                    "content": "70,7%"
+                },
+                {
+                    "id": "D",
+                    "content": "67,6%"
+                }
+            ],
+            "answer": "B",
+            "explain": "Tỉ số độ tăng bước sóng: delta_lamda1 / delta_lamda2 = (1 - cos(30)) / (1 - cos(45)) = 0.1340 / 0.2929 = 45.7%.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 26,
+            "question": "Hằng số Planck có giá trị",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "ℎ = 6,62. 10ିଷସ𝐽.𝑠"
+                },
+                {
+                    "id": "B",
+                    "content": "ℎ = 6,62. 10ିଷସ𝐽.𝑚/𝑠"
+                },
+                {
+                    "id": "C",
+                    "content": "ℎ = 6,62. 10ିଷସ𝐽.𝑚"
+                },
+                {
+                    "id": "D",
+                    "content": "ℎ = 6,62. 10ିଷସ𝐽.𝑚ଶ/𝑠"
+                }
+            ],
+            "answer": "A",
+            "explain": "Hằng số Planck h = 6.62.10^-34 J.s.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 27,
+            "question": "Photon có năng lượng 0,8 𝑀𝑒𝑉 tán xạ trên electron tự do và trở thành bức xạ có bước sóng 2,4. 10ିଵଶ𝑚. Năng lượng của electron tán xạ là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "0,28. 10ିଵସ𝐽"
+                },
+                {
+                    "id": "B",
+                    "content": "4,52. 10ିଵସ𝐽"
+                },
+                {
+                    "id": "C",
+                    "content": "‘8,28. 10ିଵସ𝐽"
+                },
+                {
+                    "id": "D",
+                    "content": "7,40. 10ିଵସ𝐽"
+                }
+            ],
+            "answer": "B",
+            "explain": "Năng lượng photon ban đầu E1 = 0.8 MeV = 1.28.10^-13 J. Sau tán xạ lamda2 = 2.4.10^-12 m => E2 = hc/lamda2 = 8.28.10^-14 J. Năng lượng truyền cho electron: W_e = E1 - E2 = 4.52.10^-14 J.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 28,
+            "question": "Gọi α là hệ số hấp thụ. Mối liên hệ giữa công suất phát xạ của một vật bất kì P với công suất phát xạ của vật đen tuyệt đối Pđ ở cùng nhiệt độ là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "𝑃đ 𝑃⁄ = 1"
+                },
+                {
+                    "id": "B",
+                    "content": "𝑃đ 𝑃⁄ =𝛼"
+                },
+                {
+                    "id": "C",
+                    "content": "𝑃 𝑃đ⁄ = 1"
+                },
+                {
+                    "id": "D",
+                    "content": "𝑃 𝑃đ⁄ =𝛼"
+                }
+            ],
+            "answer": "D",
+            "explain": "Theo định luật Kirchhoff, tỉ số giữa công suất phát xạ của một vật P và vật đen tuyệt đối P_đ ở cùng nhiệt độ bằng hệ số hấp thụ đơn sắc alpha: P / P_đ = alpha.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 29,
+            "question": "Dựa trên phát biểu của định luật Kirchhoff, lựa chọn nào sau đây là đúng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khả năng phát xạ và khả năng hấp thụ của một vật đen tuyệt đối là như nhau và bằng 1."
+                },
+                {
+                    "id": "B",
+                    "content": "Khả năng phát xạ và khả năng hấp thụ của một vật đen tuyệt đối là như nhau và nhỏ hơn 1."
+                },
+                {
+                    "id": "C",
+                    "content": "Khả năng phát xạ và khả năng hấp thụ của một vật đen tuyệt đối là như nhau và lớn hơn 1."
+                },
+                {
+                    "id": "D",
+                    "content": "Các kết luận khác đều không đúng."
+                }
+            ],
+            "answer": "A",
+            "explain": "Khả năng phát xạ và hấp thụ của vật đen tuyệt đối là lớn nhất và bằng 1 ở mọi tần số.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 30,
+            "question": "Đơn vị của hằng số Stefan-Boltzmann (σ) là gì",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "𝑊/𝐾ସ"
+                },
+                {
+                    "id": "B",
+                    "content": "𝑊/𝑚ଶ𝐾ସ"
+                },
+                {
+                    "id": "C",
+                    "content": "𝑊/𝐾"
+                },
+                {
+                    "id": "D",
+                    "content": "𝑊/𝑚𝐾ସ"
+                }
+            ],
+            "answer": "B",
+            "explain": "Hằng số Stefan-Boltzmann sigma = 5.67.10^-8 W/(m^2.K^4). Đơn vị là W/m^2.K^4.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 31,
+            "question": "Vật nào sau đây không thể phát ra bức xạ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vật thể ở nhiệt độ rất cao đặt trong không khí."
+                },
+                {
+                    "id": "B",
+                    "content": "Vật thể ở 00C đặt trong không khí."
+                },
+                {
+                    "id": "C",
+                    "content": "Vật thể ở 00C đặt trong chân không."
+                },
+                {
+                    "id": "D",
+                    "content": "Không đáp án nào đã kể ra là đúng."
+                }
+            ],
+            "answer": "D",
+            "explain": "Mọi vật ở nhiệt độ lớn hơn 0 K (-273 độ C) đều phát ra bức xạ nhiệt. Cả ấm nước sôi lẫn vật ở 0 độ C đều phát ra bức xạ nhiệt.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 32,
+            "question": "Bước sóng ứng với năng suất phát xạ cực đại của ấm đun nước đang sôi là bao nhiêu? Coi ấm đun là vật đen tuyệt đối.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "7,76𝜇𝑚"
+                },
+                {
+                    "id": "B",
+                    "content": "28,96𝜇𝑚"
+                },
+                {
+                    "id": "C",
+                    "content": "15,20𝜇𝑚"
+                },
+                {
+                    "id": "D",
+                    "content": "56,70𝜇𝑚."
+                }
+            ],
+            "answer": "A",
+            "explain": "Ấm nước sôi T = 100 + 273 = 373 K. Bước sóng cực đại: lamda_m = b / T = 2.898.10^-3 / 373 \u0007pprox 7.76 um.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 33,
+            "question": "Một lò nung có nhiệt độ nung 1250଴𝐶. Cửa sổ quan sát có diện tích 1,2𝑚ଶ. Giả sử lò là vật đen tuyệt đối. Công suất bức xạ của cửa sổ lò là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "8505 𝑊"
+                },
+                {
+                    "id": "B",
+                    "content": "366070 𝑊"
+                },
+                {
+                    "id": "C",
+                    "content": "166113 𝑊"
+                },
+                {
+                    "id": "D",
+                    "content": "138428 𝑊"
+                }
+            ],
+            "answer": "B",
+            "explain": "T = 1250 + 273 = 1523 K, S = 1.2 m^2. Công suất bức xạ: P = S * sigma * T^4 = 1.2 * 5.67.10^-8 * 1523^4 \u0007pprox 366070 W.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 34,
+            "question": "Một lò nung có nhiệt độ nung 1250଴𝐶. Bước sóng ứng với năng suất phát xạ cực đại của lò thuộc vùng quang phổ nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vùng tử ngoại"
+                },
+                {
+                    "id": "B",
+                    "content": "Vùng ánh sáng nhìn thấy"
+                },
+                {
+                    "id": "C",
+                    "content": "Vùng hồng ngoại"
+                },
+                {
+                    "id": "D",
+                    "content": "Thuộc tất cả các vùng quang phổ."
+                }
+            ],
+            "answer": "C",
+            "explain": "Với T = 1523 K, bước sóng cực đại lamda_m = 1.9 um nằm trong vùng hồng ngoại (lớn hơn 760 nm).",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 35,
+            "question": "Công suất bức xạ của vật đen tuyệt đối tăng lên bao nhiêu lần nếu trong quá trình nung nóng bước sóng ứng với năng suất phát xạ cực đại dịch chuyển từ 0,7 𝜇𝑚 đến 0,5 𝜇𝑚?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1,85"
+                },
+                {
+                    "id": "B",
+                    "content": "1,17"
+                },
+                {
+                    "id": "C",
+                    "content": "3,84"
+                },
+                {
+                    "id": "D",
+                    "content": "1,40"
+                }
+            ],
+            "answer": "C",
+            "explain": "Tỉ số nhiệt độ T2/T1 = lamda_m1 / lamda_m2 = 0.7 / 0.5 = 1.4. Công suất bức xạ tăng: (T2/T1)^4 = 1.4^4 = 3.84 lần.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 36,
+            "question": "Dựa vào định luật Stefan-Boltzmann, hãy xác định công suất phát xạ của mặt trời trong 1 giây. Biết nhiệt độ của bề mặt mặt trời khoảng 6000 𝐾. Và mặt trời có bán kính 6,95. 10଼𝑚. Coi mặt trời là vật đen tuyệt đối.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "20,64. 10ଵସ𝑊"
+                },
+                {
+                    "id": "B",
+                    "content": "5,16. 10ଵସ𝑊"
+                },
+                {
+                    "id": "C",
+                    "content": "1,11. 10ଶ଺𝑊"
+                },
+                {
+                    "id": "D",
+                    "content": "4,46. 10ଶ଺𝑊"
+                }
+            ],
+            "answer": "D",
+            "explain": "P = S * sigma * T^4 = 4pi * R^2 * sigma * T^4 = 4 * pi * (6.95.10^8)^2 * 5.67.10^-8 * 6000^4 \u0007pprox 4.46.10^26 W.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 37,
+            "question": "Nhiệt được truyền đi theo cơ chế nào trong chân không?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đối lưu"
+                },
+                {
+                    "id": "B",
+                    "content": "Bức xạ nhiệt"
+                },
+                {
+                    "id": "C",
+                    "content": "Tương tự sự truyền nhiệt trong không khí – nhiệt chuyển từ nơi có nhiệt độ cao đến nơi có nhiệt độ thấp."
+                },
+                {
+                    "id": "D",
+                    "content": "Không thể truyền nhiệt trong chân không."
+                }
+            ],
+            "answer": "B",
+            "explain": "Trong môi trường chân không (không có vật chất), nhiệt năng chỉ có thể truyền đi dưới dạng bức xạ nhiệt (sóng điện từ).",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 38,
+            "question": "Tần số ngưỡng của một kim loại có giá trị X. Nếu tần số của chùm sáng chiếu đến bề mặt katot tăng từ 2X đến 4X thì cường độ dòng quang điện sẽ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tăng gấp đôi"
+                },
+                {
+                    "id": "B",
+                    "content": "Không đổi"
+                },
+                {
+                    "id": "C",
+                    "content": "Tăng gấp 3"
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm một nửa"
+                }
+            ],
+            "answer": "B",
+            "explain": "Cường độ dòng quang điện bão hòa tỉ lệ thuận với mật độ photon chiếu tới (cường độ chùm sáng), không phụ thuộc vào tần số photon. Do đó khi tần số tăng từ 2X lên 4X, cường độ dòng điện bão hòa không đổi.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 39,
+            "question": "Bức xạ điện từ có bước sóng 350 𝑛𝑚 chiếu đến bề mặt kim loại làm bật ra các electron có động năng cực đại là 1,2 𝑒𝑉. Công thoát của electron trong kim loại là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "5,6 𝑒𝑉"
+                },
+                {
+                    "id": "B",
+                    "content": "3,5 𝑒𝑉"
+                },
+                {
+                    "id": "C",
+                    "content": "2,3 𝑒𝑉"
+                },
+                {
+                    "id": "D",
+                    "content": "1,3 𝑒𝑉"
+                }
+            ],
+            "answer": "C",
+            "explain": "Lamda = 350 nm => E = hc/lamda = 3.55 eV. Động năng W_d = 1.2 eV => Công thoát A = E - W_d = 2.35 eV \u0007pprox 2.3 eV.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 40,
+            "question": "Bước sóng của photon là 700 𝑛𝑚. Xác định tần số của photon và năng lượng của photon theo đơn vị 𝑒𝑉.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3,2. 10ଵସ𝐻𝑧; 2,36𝑒𝑉"
+                },
+                {
+                    "id": "B",
+                    "content": "3,2. 10ଵସ𝐻𝑧; 1,77𝑒𝑉"
+                },
+                {
+                    "id": "C",
+                    "content": "4,3. 10ଵସ𝐻𝑧; 2,36𝑒𝑉"
+                },
+                {
+                    "id": "D",
+                    "content": "4,3. 10ଵସ𝐻𝑧; 1,77𝑒𝑉"
+                }
+            ],
+            "answer": "D",
+            "explain": "Lamda = 700 nm => v = c/lamda = 4.3.10^14 Hz. Năng lượng E = h.v = 1.77 eV.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 41,
+            "question": "Hiệu ứng quang điện chỉ có thể xảy ra khi photon đến va chạm vào electron đang ở trong liên kết nào đó hoặc electron ở bề mặt kim loại vì photon không thể chuyển toàn bộ năng lượng và động lượng của nó cho electron tự do. Điều này tuân theo quy luật:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bảo toàn năng lượng và động lượng"
+                },
+                {
+                    "id": "B",
+                    "content": "Bảo toàn khối lượng"
+                },
+                {
+                    "id": "C",
+                    "content": "Bảo toàn động lượng"
+                },
+                {
+                    "id": "D",
+                    "content": "Bảo toàn năng lượng"
+                }
+            ],
+            "answer": "A",
+            "explain": "Sự va chạm của photon với electron tự do không thể làm hấp thụ hoàn toàn photon vì vi phạm định luật bảo toàn năng lượng và bảo toàn động lượng đồng thời.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 42,
+            "question": "Một photon có bước sóng 350 𝑛𝑚 chiếu đến bề mặt kali. Công thoát của electron ở lớp bề mặt kali là 2,2 𝑒𝑉. Vận tốc ban đầu cực đại của electron là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "0 𝑚/𝑠"
+                },
+                {
+                    "id": "B",
+                    "content": "6,9. 10ହ𝑚/𝑠"
+                },
+                {
+                    "id": "C",
+                    "content": "11,2. 10ହ𝑚/𝑠"
+                },
+                {
+                    "id": "D",
+                    "content": "3,4. 10଺𝑚/𝑠"
+                }
+            ],
+            "answer": "B",
+            "explain": "Lamda = 350 nm => E = 3.55 eV. A = 2.2 eV. Động năng W_d = 1.35 eV. Vận tốc v = sqrt(2*W_d/m) = 6.9.10^5 m/s.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 43,
+            "question": "Công thoát của platinum lớn gấp 2 lần công thoát của canxi. Nếu năng lượng cần thiết tối thiểu để làm electron bật ra khỏi bề mặt platinum là E thì năng lượng này đối với canxi là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không thể xác định"
+                },
+                {
+                    "id": "B",
+                    "content": "2𝐸"
+                },
+                {
+                    "id": "C",
+                    "content": "3𝐸/2"
+                },
+                {
+                    "id": "D",
+                    "content": "𝐸/2"
+                }
+            ],
+            "answer": "D",
+            "explain": "Công thoát tỉ lệ thuận với năng lượng tối thiểu bứt e. Vì A_Pt = 2 * A_Ca, năng lượng tối thiểu của Ca là E / 2.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 44,
+            "question": "Bề mặt kim loại lần lượt được chiếu xạ bởi chùm bức xạ tử ngoại và hồng ngoại và làm bật ra các electron quang điện. Động năng của quang electron và cường độ dòng quang điện thay đổi thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Động năng của quang electron giảm; cường độ dòng quang điện không đổi"
+                },
+                {
+                    "id": "B",
+                    "content": "Động năng của quang electron và cường độ dòng quang điện đều không đổi"
+                },
+                {
+                    "id": "C",
+                    "content": "Động năng của quang electron giảm; cường độ dòng quang điện giảm"
+                },
+                {
+                    "id": "D",
+                    "content": "Động năng của quang electron tăng; cường độ dòng quang điện không đổi"
+                }
+            ],
+            "answer": "C",
+            "explain": "Hồng ngoại có năng lượng photon thấp hơn tử ngoại, nên động năng quang electron giảm. Cường độ dòng quang điện cũng giảm do có thể không xảy ra hiện tượng quang điện.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 45,
+            "question": "Chiếu bức xạ có bước sóng 0,14 𝜇𝑚 vào một kim loại, có hiện tượng quang điện xảy ra. Công thoát của electron đối với kim loại đó là 4,09 𝑒𝑉. Năng lượng hiệu điện thế kháng điện để giữ các quang electron lại không cho bay đến anot là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "7,65 𝑒𝑉"
+                },
+                {
+                    "id": "B",
+                    "content": "4,40 𝑒𝑉"
+                },
+                {
+                    "id": "C",
+                    "content": "4,78 𝑒𝑉"
+                },
+                {
+                    "id": "D",
+                    "content": "10,1 𝑒𝑉"
+                }
+            ],
+            "answer": "C",
+            "explain": "Lamda = 0.14 um => E = hc/lamda = 8.87 eV. A = 4.09 eV. Hiệu điện thế hãm để giữ electron là U_h = E - A = 4.78 V.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 46,
+            "question": "Giới hạn đỏ của hiện tượng quang điện đối với sắt là 0,264 𝜇𝑚. Nếu chiếu bức xạ có bước sóng 0,18 𝜇𝑚 thì năng lượng cực đại của mỗi quang electron khi bật ra khỏi bề mặt sắt là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3,52. 10ିଵଽ𝑘𝑔.𝑚/𝑠"
+                },
+                {
+                    "id": "B",
+                    "content": "10,1. 10ିଵଽ𝑘𝑔.𝑚/𝑠"
+                },
+                {
+                    "id": "C",
+                    "content": "2,2. 10ିଵଽ𝑘𝑔.𝑚/𝑠"
+                },
+                {
+                    "id": "D",
+                    "content": "6,3. 10ିଵଽ𝑘𝑔.𝑚/𝑠"
+                }
+            ],
+            "answer": "A",
+            "explain": "Lamda0 = 0.264 um => A = 4.7 eV. Chiếu lamda = 0.18 um => E = 6.9 eV. Động năng W_d = E - A = 2.2 eV = 3.52.10^-19 J.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 47,
+            "question": "Một photon năng lượng 1 𝑀𝑒𝑉 va chạm với electron tự do và tán xạ góc 900. Năng lượng của photon tán xạ là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "0,36𝑀𝑒𝑉"
+                },
+                {
+                    "id": "B",
+                    "content": "0,83𝑀𝑒𝑉"
+                },
+                {
+                    "id": "C",
+                    "content": "0,21𝑀𝑒𝑉"
+                },
+                {
+                    "id": "D",
+                    "content": "0,27𝑀𝑒𝑉"
+                }
+            ],
+            "answer": "A",
+            "explain": "E = 1 MeV, theta = 90 độ. Năng lượng photon sau tán xạ: E' = E / [1 + (E / m0.c^2)*(1-cos(theta))] = 1 / [1 + 1/0.511] \u0007pprox 0.338 MeV (phương án gần nhất là A. 0.36 MeV).",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 48,
+            "question": "Chùm tia X có bước sóng 0,2400 𝑛𝑚 tán xạ Compton với electron ở vật liệu bia. Máy dò đo được bước sóng của chùm tia X tán xạ là 0,2412 𝑛𝑚. Góc tán xạ tia X là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "𝜋/3"
+                },
+                {
+                    "id": "B",
+                    "content": "𝜋/4"
+                },
+                {
+                    "id": "C",
+                    "content": "𝜋/2"
+                },
+                {
+                    "id": "D",
+                    "content": "𝜋"
+                }
+            ],
+            "answer": "A",
+            "explain": "Lamda = 0.2400 nm, lamda' = 0.2412 nm => delta_lamda = 1.2 pm. Ta có 1.2 = 2.426 * (1 - cos(theta)) => cos(theta) \u0007pprox 0.5 => theta = pi/3.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 49,
+            "question": "Photon có năng lượng 0,15 𝑀𝑒𝑉 va chạm với một electron đứng yên và tán xạ theo góc 90଴. Năng lượng của photon tán xạ là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "0,106 𝑀𝑒𝑉"
+                },
+                {
+                    "id": "B",
+                    "content": "0,152 𝑀𝑒𝑉"
+                },
+                {
+                    "id": "C",
+                    "content": "0,116 𝑀𝑒𝑉"
+                },
+                {
+                    "id": "D",
+                    "content": "0,270 𝑀𝑒𝑉"
+                }
+            ],
+            "answer": "C",
+            "explain": "E = 0.15 MeV, theta = 90 độ. Năng lượng sau tán xạ: E' = E / [1 + E/0.511] = 0.15 / 1.293 \u0007pprox 0.116 MeV.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 50,
+            "question": "Photon ban đầu có năng lượng 0,9 𝑀𝑒𝑉 tán xạ trên một electron tự do và trở thành photon ứng với bức xạ có bước sóng bằng bước sóng Compton. Góc tán xạ của photon là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "60଴"
+                },
+                {
+                    "id": "B",
+                    "content": "25଴"
+                },
+                {
+                    "id": "C",
+                    "content": "45଴"
+                },
+                {
+                    "id": "D",
+                    "content": "52଴"
+                }
+            ],
+            "answer": "D",
+            "explain": "E = 0.9 MeV => lamda = 1.38 pm. Sau tán xạ lamda' = lamda_c = 2.426 pm. delta_lamda = 1.046 pm. Ta có 1.046 = 2.426 * (1 - cos(theta)) => cos(theta) = 0.569 => theta = 52 độ.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 51,
+            "question": "Trong thí nghiệm tán xạ Compton, electron tán xạ cùng hướng với photon tới, vậy photon tán xạ theo hướng nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Photon tán xạ vuông góc với phương đến (90଴)"
+                },
+                {
+                    "id": "B",
+                    "content": "Đứng yên"
+                },
+                {
+                    "id": "C",
+                    "content": "Tán xạ cùng phương chiều với electron (0଴)"
+                },
+                {
+                    "id": "D",
+                    "content": "Tán xạ ngược so với phương tới (180଴)"
+                }
+            ],
+            "answer": "D",
+            "explain": "Để bảo toàn động lượng, khi electron tán xạ cùng hướng với photon tới thì photon phải bị tán xạ ngược lại (góc 180 độ).",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 52,
+            "question": "Một photon tần số 𝜈଴ va chạm với electron tự do đang ở trạng thái nghỉ và tán xạ góc 60଴ so với phương tới. Nếu tần số photon tán xạ giảm ½ so với tần số photon tới thì giá trị tần số của photon tới là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2,67. 10ଶ଴𝐻𝑧"
+                },
+                {
+                    "id": "B",
+                    "content": "1,25. 10ଶ଴𝐻𝑧"
+                },
+                {
+                    "id": "C",
+                    "content": "5. 10ଶ଴𝐻𝑧"
+                },
+                {
+                    "id": "D",
+                    "content": "Không đủ thông tin để xác định chính xác."
+                }
+            ],
+            "answer": "A",
+            "explain": "E' = E0 / 2 với theta = 60 độ. Ta có 1 + (E0/m0.c^2) * (1-cos(60)) = 2 => E0/m0.c^2 * 0.5 = 1 => E0 = 2 m0.c^2 = 1.022 MeV. Tần số tương ứng v0 = E0/h \u0007pprox 2.67.10^20 Hz (chọn A).",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 53,
+            "question": "Một photon có bước sóng 1,807 𝑝𝑚 đến va chạm với electron đang ở trạng thái nghỉ. Sau tán xạ, bước sóng photon thay đổi và có giá trị bằng bước sóng Compton. Góc tán xạ của electron trong va chạm trên là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "90଴"
+                },
+                {
+                    "id": "B",
+                    "content": "36଴"
+                },
+                {
+                    "id": "C",
+                    "content": "60଴"
+                },
+                {
+                    "id": "D",
+                    "content": "50଴"
+                }
+            ],
+            "answer": "D",
+            "explain": "Lamda = 1.807 pm, lamda' = lamda_c = 2.426 pm. delta_lamda = 0.619 pm => cos(theta) = 0.745 => theta = 41.8 độ. Góc tán xạ của electron phi thỏa mãn cot(phi) = (1 + E/m0.c^2)*tan(theta/2) \u0007pprox 0.896 => phi = 50 độ.",
+            "topic": "Quang lượng tử"
+        },
+        {
+            "id": 54,
+            "question": "Trong tán xạ Compton với electron, chùm ánh sáng tím 𝜆= 4000 Å bị tán xạ ngược với góc 180଴. Năng lượng mà nó chuyển cho electron trong va chạm là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3,3. 10ିସ𝑒𝑉"
+                },
+                {
+                    "id": "B",
+                    "content": "0,33 𝑒𝑉"
+                },
+                {
+                    "id": "C",
+                    "content": "3,1 𝑒𝑉"
+                },
+                {
+                    "id": "D",
+                    "content": "3,7. 10ିହ𝑒𝑉 ==============================="
+                }
+            ],
+            "answer": "D",
+            "explain": "Lamda = 400 nm => E = 3.1 eV. Tán xạ ngược theta = 180 độ. delta_lamda = 2.lamda_c = 4.85 pm. Năng lượng truyền cho electron: delta_E \u0007pprox E * delta_lamda / lamda = 3.1 * 4.85.10^-12 / 400.10^-9 = 3.7.10^-5 eV.",
+            "topic": "Quang lượng tử"
+        }
+    ]
+}

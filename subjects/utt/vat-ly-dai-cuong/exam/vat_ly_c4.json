@@ -1,0 +1,957 @@
+{
+    "title": "Chương 4: Công và năng lượng",
+    "chapter": 4,
+    "total_questions": 38,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Va chạm đàn hồi là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Va chạm có sự bảo toàn cơ năng."
+                },
+                {
+                    "id": "B",
+                    "content": "Va chạm có sự bảo toàn cơ năng và sự bảo toàn động lượng."
+                },
+                {
+                    "id": "C",
+                    "content": "Va chạm có sự bảo toàn động lượng nhưng không có sự bảo toàn cơ năng."
+                },
+                {
+                    "id": "D",
+                    "content": "Va chạm có sự bảo toàn cơ năng nhưng không có sự bảo toàn động lượng ."
+                }
+            ],
+            "answer": "B",
+            "explain": "Định luật bảo toàn cơ năng phát biểu rằng trong một hệ cô lập chỉ có lực thế (lực bảo toàn) tác dụng, cơ năng toàn phần của hệ là đại lượng bảo toàn.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 2,
+            "question": "Lực thế là :",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lực có công do nó thực hiện không phụ thuộc vào dạng đường đi."
+                },
+                {
+                    "id": "B",
+                    "content": "Lực có công do nó thực hiện không phụ thuộc vào điểm đầu và điểm cuối"
+                },
+                {
+                    "id": "C",
+                    "content": "Lực có công do nó thực hiện trên mọi quỹ đạo kín bằng không."
+                },
+                {
+                    "id": "D",
+                    "content": "Không có câu nào đúng."
+                }
+            ],
+            "answer": "A",
+            "explain": "Một trường lực được gọi là trường lực thế (lường bảo toàn) nếu công của lực đó khi dịch chuyển chất điểm chỉ phụ thuộc điểm đầu và cuối, không phụ thuộc dạng đường đi.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 3,
+            "question": "Độ biến thiên động năng có giá trị bằng :",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Công của lực tác dụng trên quỹ đạo đang xét."
+                },
+                {
+                    "id": "B",
+                    "content": "Tích của lực tác dụng với khoảng thời gian đang xét."
+                },
+                {
+                    "id": "C",
+                    "content": "Thế năng của trường lực thế."
+                },
+                {
+                    "id": "D",
+                    "content": "Xung lượng trong khoảng thời gian đang xét"
+                }
+            ],
+            "answer": "A",
+            "explain": "Lực hấp dẫn và lực tĩnh điện là hai ví dụ điển hình của lực thế (lực bảo toàn).",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 4,
+            "question": "Cho vật ban đầu đứng yên trượt có ma sát từ đỉnh dốc trên mặt phẳng nghiêng đến cuối dốc:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thế năng ở đỉnh dốc biến đổi hoàn toàn thành động năng ở cuối dốc."
+                },
+                {
+                    "id": "B",
+                    "content": "Động năng ở cuối dốc lớn hơn thế năng ở đỉnh dốc."
+                },
+                {
+                    "id": "C",
+                    "content": "Động năng ở cuối dốc nhỏ hơn thế năng ở đỉnh dốc."
+                },
+                {
+                    "id": "D",
+                    "content": "Cơ năng không thay đổi."
+                }
+            ],
+            "answer": "C",
+            "explain": "Công của lực ma sát luôn phụ thuộc vào chiều dài và hình dạng đường đi, nên lực ma sát là lực phi thế (lực không bảo toàn).",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 5,
+            "question": "Công của lực thế:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Luôn luôn bằng không vì lực F thẳng góc với vecto dộ dịch chuyển ds"
+                },
+                {
+                    "id": "B",
+                    "content": "Dọc theo một quỹ đạo kín luôn luôn bằng không"
+                },
+                {
+                    "id": "C",
+                    "content": "Phụ thuộc vào quỹ đạo cũng như điểm đầu và điểm cuối của nó"
+                },
+                {
+                    "id": "D",
+                    "content": "Là đại lượng không đổi vì lực thế không phụ thuộc vào quỹ đạo"
+                }
+            ],
+            "answer": "B",
+            "explain": "Hệ kín chỉ có các lực thế tương tác giữa các vật trong hệ thì cơ năng của hệ (tổng động năng và thế năng) là một đại lượng bảo toàn.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 6,
+            "question": "Nếu động lượng được bảo toàn trong va chạm bất kỳ thì động năng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cũng được bảo toàn"
+                },
+                {
+                    "id": "B",
+                    "content": "Bảo toàn trong trường lực thế"
+                },
+                {
+                    "id": "C",
+                    "content": "Bảo toàn trong trường hợp không có lực thế"
+                },
+                {
+                    "id": "D",
+                    "content": "Bảo toàn trong va chạm đàn hồi"
+                }
+            ],
+            "answer": "D",
+            "explain": "Hệ có lực không bảo toàn (lực ma sát, lực cản...) tác dụng thì cơ năng không bảo toàn. Độ biến thiên cơ năng bằng công của lực không bảo toàn đó.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 7,
+            "question": "Vật chuyển động trên đường ngang với vận tốc v, biết lực F không đổi, luôn tạo với phương ngang một góc  như hình vẽ. Công của lực F trên đoạn đường s được tính bằng biểu thức nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "cos..sFA"
+                },
+                {
+                    "id": "B",
+                    "content": "cos..sFA  FS F M M’ S"
+                },
+                {
+                    "id": "C",
+                    "content": "sin..sFA"
+                },
+                {
+                    "id": "D",
+                    "content": "  s dsFA cos.."
+                }
+            ],
+            "answer": "A",
+            "explain": "Thế năng của một vật trong trường trọng lực đều tại độ cao z: W_t = mgz + C (thường chọn mốc thế năng z=0 thì C=0).",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 8,
+            "question": "Phát biểu nào sau đây về công của lực ma sát trượt trên một chuyển động cong bất kì là sai?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Luôn có giá trị âm"
+                },
+                {
+                    "id": "B",
+                    "content": "Luôn có biểu thức tính   s msms dsFA ."
+                },
+                {
+                    "id": "C",
+                    "content": "Khi lực ma sát không đổi thì Ams = - Fms.s"
+                },
+                {
+                    "id": "D",
+                    "content": "Khi vật trượt trên đường ngang thì Ams = - Fms.s"
+                }
+            ],
+            "answer": "D",
+            "explain": "Định lý động năng: Độ biến thiên động năng của chất điểm bằng tổng công của các lực tác dụng lên chất điểm đó: delta_W_d = A.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 9,
+            "question": "Công của trọng lực không có đặc điểm nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phụ thuộc vào độ cao ban đầu của vật"
+                },
+                {
+                    "id": "B",
+                    "content": "Phụ thuộc vào độ cao lúc sau của vật"
+                },
+                {
+                    "id": "C",
+                    "content": "Phụ thuộc vào hình dạng đường đi"
+                },
+                {
+                    "id": "D",
+                    "content": "Phụ thuộc vào khối lượng của vật."
+                }
+            ],
+            "answer": "C",
+            "explain": "Động năng của chất điểm khối lượng m chuyển động với vận tốc v có biểu thức: W_d = 1/2 m.v^2.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 10,
+            "question": "Đại lượng đặc trưng cho khả năng sinh công của một vật trong một đơn vị thời gian gọi là :",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Công cơ học."
+                },
+                {
+                    "id": "B",
+                    "content": "Công phát động."
+                },
+                {
+                    "id": "C",
+                    "content": "Công cản."
+                },
+                {
+                    "id": "D",
+                    "content": "Công suất."
+                }
+            ],
+            "answer": "D",
+            "explain": "Thế năng của lò xo bị biến dạng đàn hồi lượng x: W_t = 1/2 k.x^2.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 11,
+            "question": "Đơn vị nào sau đây không phải là đơn vị công suất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "J.s."
+                },
+                {
+                    "id": "B",
+                    "content": "W."
+                },
+                {
+                    "id": "C",
+                    "content": "N.m/s."
+                },
+                {
+                    "id": "D",
+                    "content": "HP."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đơn vị công suất trong hệ SI là Oát (W). 1 W = 1 J/s.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 12,
+            "question": "Chọn đáp án đúng. Công có thể biểu thị bằng tích của",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "năng lượng và khoảng thời gian."
+                },
+                {
+                    "id": "B",
+                    "content": "lực, quãng đường đi được và khoảng thời gian."
+                },
+                {
+                    "id": "C",
+                    "content": "lực và quãng đường đi được."
+                },
+                {
+                    "id": "D",
+                    "content": "lực và vận tốc."
+                }
+            ],
+            "answer": "C",
+            "explain": "Trường trọng lực, trường hấp dẫn vũ trụ, trường lực đàn hồi đều là trường lực thế.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 13,
+            "question": "Chọn đáp án đúng. Động năng tịnh tiến của một vật khối lượng m, chuyển động với vận tốc v là :",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "mvWd 2 1"
+                },
+                {
+                    "id": "B",
+                    "content": "2mvWd  ."
+                },
+                {
+                    "id": "C",
+                    "content": "22mvWd  ."
+                },
+                {
+                    "id": "D",
+                    "content": "2 2 1mvWd  ."
+                }
+            ],
+            "answer": "D",
+            "explain": "Năng lượng không tự sinh ra cũng không tự mất đi, nó chỉ chuyển hóa từ dạng này sang dạng khác hoặc truyền từ vật này sang vật khác.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 14,
+            "question": "Trong các câu sau đây câu nào là sai? Động năng của vật không đổi khi vật",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "chuyển động thẳng đều."
+                },
+                {
+                    "id": "B",
+                    "content": "chuyển động với gia tốc không đổi."
+                },
+                {
+                    "id": "C",
+                    "content": "chuyển động tròn đều."
+                },
+                {
+                    "id": "D",
+                    "content": "chuyển động cong đều."
+                }
+            ],
+            "answer": "B",
+            "explain": "Định luật bảo toàn động lượng chỉ áp dụng cho hệ cô lập (hệ kín) không chịu ngoại lực tác dụng hoặc hợp ngoại lực bằng không.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 15,
+            "question": "Chọn phát biểu đúng. Khi vận tốc của một vật tăng gấp hai thì",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "gia tốc của vật tăng gấp hai."
+                },
+                {
+                    "id": "B",
+                    "content": "động lượng của vật tăng gấp hai."
+                },
+                {
+                    "id": "C",
+                    "content": "động năng tịnh tiến của vật tăng gấp hai."
+                },
+                {
+                    "id": "D",
+                    "content": "thế năng của vật tăng gấp hai."
+                }
+            ],
+            "answer": "B",
+            "explain": "Vật rơi tự do từ độ cao h xuống. Tại độ cao z, cơ năng bảo toàn: E = mgh = mgz + 1/2 mv^2 => v = sqrt(2g(h-z)).",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 16,
+            "question": "Một vật chuyển động với vận tốc v dưới tác dụng của lực F không đổi. Công suất của lực F là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "P=Fvt."
+                },
+                {
+                    "id": "B",
+                    "content": "P=Fv."
+                },
+                {
+                    "id": "C",
+                    "content": "P=Ft."
+                },
+                {
+                    "id": "D",
+                    "content": "P=Fv2."
+                }
+            ],
+            "answer": "B",
+            "explain": "Vật trượt từ đỉnh dốc nghiêng cao h xuống đáy dốc, nếu không có ma sát: cơ năng bảo toàn mgh = 1/2 mv^2 => v = sqrt(2gh).",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 17,
+            "question": "Khi một tên lửa chuyển động thì cả vận tốc và khối lượng của nó đều thay đổi. Khi khối lượng giảm một nửa, vận tốc tăng gấp hai thì động năng của tên lửa:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "không đổi."
+                },
+                {
+                    "id": "B",
+                    "content": "tăng gấp 2 lần."
+                },
+                {
+                    "id": "C",
+                    "content": "tăng gấp 4 lần."
+                },
+                {
+                    "id": "D",
+                    "content": "giảm 2 lần."
+                }
+            ],
+            "answer": "B",
+            "explain": "Theo định luật bảo toàn cơ năng, động năng cực đại ở vị trí thấp nhất bằng thế năng cực đại ở vị trí cao nhất (W_d,max = W_t,max).",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 18,
+            "question": "Biểu thức nào sau đây tính công của lực F trong chuyển động quay của vật rắn quanh trục  cố định?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "    0 dMA"
+                },
+                {
+                    "id": "B",
+                    "content": "  2 1 .. t t dMA "
+                },
+                {
+                    "id": "C",
+                    "content": "122 1   IA"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Lực ma sát tác dụng cản trở chuyển động nên công của lực ma sát luôn là công cản (A < 0).",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 19,
+            "question": "Một cái đĩa và một quả cầu đặc, đồng chất, bán kính khác nhau, nhưng cùng khối lượng m và cùng lăn không trượt trên đường với cùng vận tốc tịnh tiến v. Động năng E của vật nào lớn hơn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Edĩa = Eqcầu"
+                },
+                {
+                    "id": "B",
+                    "content": "Edĩa < Eqcầu"
+                },
+                {
+                    "id": "C",
+                    "content": "Edĩa > Eqcầu"
+                },
+                {
+                    "id": "D",
+                    "content": "Chưa khẳng định được"
+                }
+            ],
+            "answer": "C",
+            "explain": "Khi kéo vật đi lên dốc đều, công của lực kéo bằng tổng độ lớn công của trọng lực và công của lực ma sát: A_F = P.h + F_ms.s.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 20,
+            "question": "Một cái vòng, một cái đĩa và một quả cầu đặc, bán kính khác nhau, nhưng cùng khối lượng m và cùng lăn không trượt trên đường với cùng vận tốc tịnh tiến v. Động năng E của vật nào lớn hơn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Evòng = Edĩa = Eqcầu"
+                },
+                {
+                    "id": "B",
+                    "content": "Evòng < Edĩa < Eqcầu"
+                },
+                {
+                    "id": "C",
+                    "content": "Evòng > Edĩa > Eqcầu"
+                },
+                {
+                    "id": "D",
+                    "content": "Evòng > Eqcầu > Edĩa"
+                }
+            ],
+            "answer": "C",
+            "explain": "Công suất P = A / t = F.s / t = F.v (lực nhân vận tốc).",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 21,
+            "question": "Một toa xe gồm 4 bánh giống nhau, mỗi bánh có khối lượng m coi như hình trụ đặc. Khối lượng của toa xe không kể 4 bánh xe là M. Toa xe chuyển động với vận tốc v. Động năng toàn phần của một toa xe là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": " 232 1 vmMEd "
+                },
+                {
+                    "id": "B",
+                    "content": " 222 1 vmMEd "
+                },
+                {
+                    "id": "C",
+                    "content": " 242 1 vmMEd "
+                },
+                {
+                    "id": "D",
+                    "content": " 262 1 vmMEd "
+                }
+            ],
+            "answer": "D",
+            "explain": "Đơn vị của thế năng đàn hồi lò xo là Jun (J) như mọi dạng năng lượng khác.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 22,
+            "question": "Khẩu pháo có khối lương M = 450 kg, nhả đạn theo phương . Đạn có khối lượng m = 5 kg, rời nòng với vận tốc v = 450 m/s. Khi bắn, pháo bị giật lùi một đoạn 45 cm. Tính lực cản trung bình của mặt đường tác dụng lên khẩu pháo.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "10 m/s"
+                },
+                {
+                    "id": "B",
+                    "content": "12500 N"
+                },
+                {
+                    "id": "C",
+                    "content": "10000 N"
+                },
+                {
+                    "id": "D",
+                    "content": "12000 N"
+                }
+            ],
+            "answer": "B",
+            "explain": "Động năng của vật rắn quay quanh trục cố định với mômen quán tính I và vận tốc góc w: W_d = 1/2 I.w^2.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 23,
+            "question": "Một vật nhỏ, khối lượng m = 2kg ném thẳng đứng lên cao từ mặt đất với vận tốc đầu 20m/s, rồi rơi xuống đất. Tính công của trọng lực thực hiện trong quá trình vật chuyển động.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "400 J"
+                },
+                {
+                    "id": "B",
+                    "content": "– 400 J"
+                },
+                {
+                    "id": "C",
+                    "content": "200 J"
+                },
+                {
+                    "id": "D",
+                    "content": "0 J"
+                }
+            ],
+            "answer": "D",
+            "explain": "Động năng toàn phần của vật rắn lăn không trượt bằng tổng động năng tịnh tiến của khối tâm và động năng quay quanh trục đi qua khối tâm: W_d = 1/2 m.v_G^2 + 1/2 I.w^2.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 24,
+            "question": "Một vô lăng hình trụ đồng chất, bán kính R = 20cm, khối lượng m = 20kg, đang quay với vận tốc  = 4 rad/s thì bị hãm đều và dừng lại. Tính công của lực hãm trong quá trình đó.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "– 16 J"
+                },
+                {
+                    "id": "B",
+                    "content": "– 32 J"
+                },
+                {
+                    "id": "C",
+                    "content": "– 64 J"
+                },
+                {
+                    "id": "D",
+                    "content": "– 128 J"
+                }
+            ],
+            "answer": "B",
+            "explain": "Khi đi xe xuống dốc, thế năng giảm dần và chuyển hóa thành động năng (vận tốc xe tăng lên) và một phần nhiệt năng do ma sát thắng phanh.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 25,
+            "question": "Một động cơ có công suất cơ học 500W, rôto quay với vận tốc 300 vòng/phút. Tính mômen của lực ứng với công suất trên.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "16 Nm"
+                },
+                {
+                    "id": "B",
+                    "content": "8 Nm"
+                },
+                {
+                    "id": "C",
+                    "content": "32 Nm"
+                },
+                {
+                    "id": "D",
+                    "content": "15 Nm"
+                }
+            ],
+            "answer": "A",
+            "explain": "m = 0.5 kg, v = 10 m/s => Động năng W_d = 1/2 m.v^2 = 0.5 * 0.5 * 100 = 25 J.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 26,
+            "question": "Một đĩa tròn đồng chất khối lượng m, lăn không trượt trên sàn ngang với vận tốc v. Động năng của đĩa là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": ""
+                },
+                {
+                    "id": "B",
+                    "content": ""
+                },
+                {
+                    "id": "C",
+                    "content": ""
+                },
+                {
+                    "id": "D",
+                    "content": "2 4 3mvEd "
+                }
+            ],
+            "answer": "D",
+            "explain": "m = 2 kg, x = 10 cm = 0.1 m, k = 100 N/m. Thế năng đàn hồi W_t = 1/2 k.x^2 = 0.5 * 100 * 0.01 = 0.5 J.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 27,
+            "question": "Một quả cầu đặc đồng chất đang lăn không trượt thì động năng tịnh tiến bằng bao nhiêu lần động năng quay:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2"
+                },
+                {
+                    "id": "B",
+                    "content": "2,5"
+                },
+                {
+                    "id": "C",
+                    "content": "3"
+                },
+                {
+                    "id": "D",
+                    "content": "3,5"
+                }
+            ],
+            "answer": "B",
+            "explain": "Vật được thả rơi tự do: delta_W_d = P.s = m.g.s. Sau 2 giây đầu, quãng đường rơi s = 1/2.g.t^2 = 1/2 * 10 * 4 = 20 m. Công trọng lực A = m.g.s = 1 * 10 * 20 = 200 J.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 28,
+            "question": "Một cái đĩa tròn đồng chất đang lăn không trượt thì động năng tịnh tiến chiếm bao nhiêu phần trăm động năng toàn phần của đĩa?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "47%"
+                },
+                {
+                    "id": "B",
+                    "content": "50%"
+                },
+                {
+                    "id": "C",
+                    "content": "67%"
+                },
+                {
+                    "id": "D",
+                    "content": "77%"
+                }
+            ],
+            "answer": "C",
+            "explain": "Khối lượng m = 1 kg. Công lực kéo làm tăng tốc vật từ 2 m/s lên 6 m/s: A = delta_W_d = 1/2 m(v2^2 - v1^2) = 0.5 * 1 * (36 - 4) = 16 J.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 29,
+            "question": "Một cái ống hình trụ rỗng, thành mỏng đang lăn không trượt thì động năng tịnh tiến chiếm bao nhiêu phần trăm động năng toàn phần của đĩa?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "77%"
+                },
+                {
+                    "id": "B",
+                    "content": "25%"
+                },
+                {
+                    "id": "C",
+                    "content": "50%"
+                },
+                {
+                    "id": "D",
+                    "content": "67%"
+                }
+            ],
+            "answer": "C",
+            "explain": "Xe m = 1000 kg dừng lại hẳn (v2=0) từ vận tốc v1 = 72 km/h = 20 m/s. Công của lực hãm A = delta_W_d = 0 - 1/2 m.v1^2 = - 0.5 * 1000 * 400 = -200000 J = -200 kJ.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 30,
+            "question": "Một cái vòng sắt, khối lượng 10 kg, đang lăn không trượt trên sàn ngang. Vận tốc của khối tâm là 2 m/s. Cần phải tốn một công có độ lớn bao nhiêu để làm cho nó dừng lại:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "10 J"
+                },
+                {
+                    "id": "B",
+                    "content": "20 J"
+                },
+                {
+                    "id": "C",
+                    "content": "30 J"
+                },
+                {
+                    "id": "D",
+                    "content": "40 J"
+                }
+            ],
+            "answer": "D",
+            "explain": "Công thực hiện A = F.s.cos(alpha) = 150 * 20 * cos(30) = 3000 * 0.866 = 2598 J \u0007pprox 2600 J (hoặc 150*20 = 3000 J nếu kéo song song mặt dốc nghiêng 30 độ).",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 31,
+            "question": "Một bánh xe hình trụ rỗng đồng chất, khối lượng m = 2 kg, lăn không trượt trên mặt phẳng ngang với vận tốc tịnh tiến v = 4 m/s. Động năng của nó là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "12 J."
+                },
+                {
+                    "id": "B",
+                    "content": "24 J."
+                },
+                {
+                    "id": "C",
+                    "content": "32 J."
+                },
+                {
+                    "id": "D",
+                    "content": "48 J."
+                }
+            ],
+            "answer": "C",
+            "explain": "m = 100 g = 0.1 kg, h = 5 m. Trọng lực sinh công khi vật rơi: A = mgh = 0.1 * 10 * 5 = 5 J.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 32,
+            "question": "Một bánh xe hình trụ đặc đồng chất, khối lượng m = 2 kg, lăn không trượt trên mặt phẳng ngang với vận tốc tịnh tiến v = 4 m/s. Động năng của nó là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "24 J"
+                },
+                {
+                    "id": "B",
+                    "content": "12 J."
+                },
+                {
+                    "id": "C",
+                    "content": "32 J."
+                },
+                {
+                    "id": "D",
+                    "content": "48 J."
+                }
+            ],
+            "answer": "A",
+            "explain": "Công suất P = A / t = m.g.h / t = 1000 * 10 * 10 / 5 = 20000 W = 20 kW.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 33,
+            "question": "Một đĩa tròn đồng chất, khối lượng m, lăn không trượt trên sàn ngang với vận tốc v. Động năng toàn phần của đĩa là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "mv2/2"
+                },
+                {
+                    "id": "B",
+                    "content": "mv2 ."
+                },
+                {
+                    "id": "C",
+                    "content": "3mv2/ 4"
+                },
+                {
+                    "id": "D",
+                    "content": "4mv2/3"
+                }
+            ],
+            "answer": "C",
+            "explain": "w = 10 rad/s, R = 20 cm = 0.2 m. Quả cầu đặc I = 2/5 m.R^2. v_G = w.R = 10 * 0.2 = 2 m/s. Động năng toàn phần W_d = 1/2 m.v_G^2 + 1/2 I.w^2 = 1/2 m.v_G^2 + 1/2 (2/5 m.R^2) w^2 = 7/10 m.v_G^2 = 0.7 * 10 * 4 = 28 J.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 34,
+            "question": "Một ống hình trụ rỗng, thành mỏng khối lượng m bán kính R lăn không trượt trên mặt sàn ngang. Tỉ số giữa động năng tịnh tiến và động năng toàn phần của nó là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "65%."
+                },
+                {
+                    "id": "B",
+                    "content": "45%."
+                },
+                {
+                    "id": "C",
+                    "content": "30%."
+                },
+                {
+                    "id": "D",
+                    "content": "50%."
+                }
+            ],
+            "answer": "D",
+            "explain": "Trụ đặc lăn không trượt I = 1/2 m.R^2. W_d = 1/2 m.v_G^2 + 1/2 I.w^2 = 3/4 m.v_G^2 = 0.75 * 10 * 2^2 = 30 J.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 35,
+            "question": "Tính công cần thiết để một đoàn tàu khối lượng m = 8.105 kg tăng tốc từ vận tốc v1 = 36km/giờ đến vận tốc v2 = 54km/giờ. 2 2 1mvEd  2mvEd  2 2 3mvEd ",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "5.106J"
+                },
+                {
+                    "id": "B",
+                    "content": "5.107J"
+                },
+                {
+                    "id": "C",
+                    "content": "5.106J"
+                },
+                {
+                    "id": "D",
+                    "content": "5.107J"
+                }
+            ],
+            "answer": "B",
+            "explain": "Trụ rỗng I = m.R^2. W_d = 1/2 m.v_G^2 + 1/2 I.w^2 = m.v_G^2 = 10 * 2^2 = 40 J.",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 36,
+            "question": "Một vật được thả rơi tự do từ độ cao 3,6m. Khi động năng của vật bằng hai lần thế năng của nó thì độ cao của vật bằng bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1,8m"
+                },
+                {
+                    "id": "B",
+                    "content": "0,9m"
+                },
+                {
+                    "id": "C",
+                    "content": "2,4m"
+                },
+                {
+                    "id": "D",
+                    "content": "1,2m"
+                }
+            ],
+            "answer": "D",
+            "explain": "Theo bảo toàn cơ năng, thế năng ban đầu chuyển hoàn toàn thành động năng toàn phần ở chân dốc: m.g.h = W_d_tổng. Với quả cầu đặc W_d_tổng = 7/10 m.v^2 => g.h = 0.7 v^2 => v = sqrt(10/7 * g * h).",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 37,
+            "question": "Từ đỉnh tháp cao h = 20 m, người ta ném một vật khối lượng m = 50 g, với vận tốc ban đầu vo = 18 m/s. Khi chạm đất, vận tốc của vật là v = 24 m/s. Cho g = 10 m/s2 . Hãy tìm công của lực cản của không khí.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "–7,1J"
+                },
+                {
+                    "id": "B",
+                    "content": "–4,2J"
+                },
+                {
+                    "id": "C",
+                    "content": "–5,7J"
+                },
+                {
+                    "id": "D",
+                    "content": "–3,7J"
+                }
+            ],
+            "answer": "D",
+            "explain": "Với trụ đặc lăn không trượt, W_d_tổng = 3/4 m.v^2 = mgh => v = sqrt(4/3 * g * h).",
+            "topic": "Công và năng lượng"
+        },
+        {
+            "id": 38,
+            "question": "Một vật có khối lượng m1 = 4 kg chuyển động với vận tốc v1 = 2 m/s tới va chạm với vật thứ hai đang đứng yên và có khối lượng m2 = m1. Coi va chạm là va chạm mềm, xuyên tâm. Tìm cơ năng mất mát trong quá trình va chạm.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "8J"
+                },
+                {
+                    "id": "B",
+                    "content": "4J"
+                },
+                {
+                    "id": "C",
+                    "content": "16J"
+                },
+                {
+                    "id": "D",
+                    "content": "32J ================================================="
+                }
+            ],
+            "answer": "B",
+            "explain": "Với trụ rỗng lăn không trượt, W_d_tổng = m.v^2 = mgh => v = sqrt(g * h).",
+            "topic": "Công và năng lượng"
+        }
+    ]
+}

@@ -1,0 +1,632 @@
+{
+    "title": "Chương 3: Động lực học hệ chất điểm và vật rắn",
+    "chapter": 3,
+    "total_questions": 25,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Một người đứng trên sàn quay hình đĩa đang quay đều. Nếu người đó đi chậm từ tâm ra ngoài biên sàn, sàn đĩa sẽ quay chậm đi, hiện tượng được giải thích bằng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Định luật bảo toàn cơ năng."
+                },
+                {
+                    "id": "B",
+                    "content": "Định luật bảo toàn động lượng."
+                },
+                {
+                    "id": "C",
+                    "content": "Định luật bảo toàn môment động lượng."
+                },
+                {
+                    "id": "D",
+                    "content": "Không có câu nào đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": "Khi người đi từ tâm ra ngoài biên đĩa, mômen quán tính I của hệ tăng lên. Theo định luật bảo toàn mômen động lượng (I.w = const), vận tốc góc w phải giảm đi làm đĩa quay chậm lại.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 2,
+            "question": "Động lượng của khối tâm của một hệ chất điểm có giá trị bằng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tổng động lượng của các chất điểm."
+                },
+                {
+                    "id": "B",
+                    "content": "Tổng động lượng các chất điểm chia cho khối lượng của hệ."
+                },
+                {
+                    "id": "C",
+                    "content": "Tổng động lượng các chất điểm nhân cho khối lượng của hệ."
+                },
+                {
+                    "id": "D",
+                    "content": "Không có câu nào đúng"
+                }
+            ],
+            "answer": "A",
+            "explain": "Động lượng toàn phần của hệ chất điểm bằng động lượng của khối tâm hệ, tức là bằng tổng động lượng của các chất điểm trong hệ: p = sum(p_i).",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 3,
+            "question": "Biểu thức của môment quán tính của một hệ chất điểm đối với một trục là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "với là vectơ vị trí của chất điểm thứ i."
+                },
+                {
+                    "id": "B",
+                    "content": "với là vectơ vị trí của chất điểm thứ i."
+                },
+                {
+                    "id": "C",
+                    "content": "với là khoảng cách của chất điểm thứ i đến trục."
+                },
+                {
+                    "id": "D",
+                    "content": "với là vectơ khoảng cách của chất điểm thứ i đến trục."
+                }
+            ],
+            "answer": "C",
+            "explain": "Mômen quán tính của hệ chất điểm đối với trục quay là I = sum(m_i * r_i^2), với r_i là khoảng cách từ chất điểm thứ i đến trục.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 4,
+            "question": "Phương trình chuyển động của vật rắn lăn không trượt với tác dụng lực F như hình vẽ là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": ".F m a "
+                },
+                {
+                    "id": "B",
+                    "content": ".M I  "
+                },
+                {
+                    "id": "C",
+                    "content": "Cả hai phương trình trên."
+                },
+                {
+                    "id": "D",
+                    "content": "Không có câu nào đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": "Vật lăn không trượt tham gia đồng thời cả hai chuyển động: tịnh tiến của khối tâm (F = m.a) và chuyển động quay quanh trục đi qua khối tâm (M = I.beta).",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 5,
+            "question": "Môment quán tính của vật rắn đối với một trục là đại lượng đặc trưng cho:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tác dụng lực lên vật rắn trong chuyển động quay xung quanh trục."
+                },
+                {
+                    "id": "B",
+                    "content": "Quán tính của vật rắn trong chuyển động quay xung quanh trục."
+                },
+                {
+                    "id": "C",
+                    "content": "Quán tính của vật rắn trong chuyển động tịnh tiến dọc theo trục."
+                },
+                {
+                    "id": "D",
+                    "content": "Quán tính của vật rắn trong chuyển động tổng quát của vật rắn."
+                }
+            ],
+            "answer": "B",
+            "explain": "Mômen quán tính là đại lượng đặc trưng cho mức quán tính của vật rắn trong chuyển động quay quanh trục đó (cản trở sự thay đổi trạng thái quay).",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 6,
+            "question": "Môment quán tính của quả cầu đặc khối lượng M bán kính R đối với trục tiếp tuyến với bề mặt quả cầu bằng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "(2/5).MR2"
+                },
+                {
+                    "id": "B",
+                    "content": "(1/2).MR2"
+                },
+                {
+                    "id": "C",
+                    "content": "(7/5).MR2"
+                },
+                {
+                    "id": "D",
+                    "content": "(5/3).MR2"
+                }
+            ],
+            "answer": "C",
+            "explain": "Mômen quán tính đối với trục đi qua tâm quả cầu đặc: I_G = 2/5 M.R^2. Theo định lý Steiner-Huygens, mômen quán tính đối với trục tiếp tuyến là: I = I_G + M.R^2 = 7/5 M.R^2.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 7,
+            "question": "Gọi mi và iv là khối lượng và vận tốc của chất điểm thứ i. Vận tốc của khối tâm G của hệ n chất điểm được xác định bởi công thức nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "    n i i n i i G m v v 1 1  "
+                },
+                {
+                    "id": "B",
+                    "content": "    n i i n i ii G m vm v 1 1  "
+                },
+                {
+                    "id": "C",
+                    "content": "n v v n i i G   1  "
+                },
+                {
+                    "id": "D",
+                    "content": "n vm v n i ii G   1   iirm ir 2 iirm ir 2 iirm ir iirm ir"
+                }
+            ],
+            "answer": "B",
+            "explain": "Vận tốc khối tâm G của hệ chất điểm được xác định theo công thức: v_G = sum(m_i * v_i) / sum(m_i).",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 8,
+            "question": "Các động cơ đốt trong phải có một kì nén khí và kì nổ khí mới sinh công cung cấp năng lượng ra bên ngoài. Vậy ở kì nén, piston lấy năng lượng ở đâu để nén khí?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Từ quán tính của piston"
+                },
+                {
+                    "id": "B",
+                    "content": "Từ quán tính của xe"
+                },
+                {
+                    "id": "C",
+                    "content": "Từ quán tính của vô lăng (bánh đà)"
+                },
+                {
+                    "id": "D",
+                    "content": "Từ nhiên liệu."
+                }
+            ],
+            "answer": "C",
+            "explain": "Ở kỳ nén, piston lấy năng lượng từ quán tính quay của vô lăng (bánh đà) để thực hiện công nén hỗn hợp khí.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 9,
+            "question": "Đại lượng đặc trưng cho khả năng bảo toàn chuyển động quay là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khối lượng."
+                },
+                {
+                    "id": "B",
+                    "content": "Mômen lực."
+                },
+                {
+                    "id": "C",
+                    "content": "Mômen quán tính."
+                },
+                {
+                    "id": "D",
+                    "content": "mômen động lượng."
+                }
+            ],
+            "answer": "D",
+            "explain": "Mômen động lượng L = I.w đặc trưng cho trạng thái chuyển động quay và khả năng bảo toàn chuyển động quay của vật.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 10,
+            "question": "Hai vật rắn trong chuyển động quay xung quanh một trục cố định dưới tác dụng của hai mômen lực bằng nhau. Nếu I1 = I2 thì tỷ số gia tốc góc 1 /2 bằng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1."
+                },
+                {
+                    "id": "B",
+                    "content": "2."
+                },
+                {
+                    "id": "C",
+                    "content": "1/2."
+                },
+                {
+                    "id": "D",
+                    "content": "1/4."
+                }
+            ],
+            "answer": "A",
+            "explain": "Mômen lực tác dụng bằng nhau M1 = M2, mômen quán tính bằng nhau I1 = I2 => Gia tốc góc beta1 = beta2 = M/I. Tỷ số beta1 / beta2 = 1.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 11,
+            "question": "Có một đĩa đặc đồng chất khối lượng 2 kg, bán kính R = 0,2 m. Tác dụng một lực tiếp tuyến không đổi F = 100 N vào vành đĩa để đĩa chuyển động quay xung quanh trục đi qua khối tâm và vuông góc với mặt đĩa. Xác định gia tốc góc của đĩa.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "400 rad/s2"
+                },
+                {
+                    "id": "B",
+                    "content": "550 rad/s2"
+                },
+                {
+                    "id": "C",
+                    "content": "600 rad/s2"
+                },
+                {
+                    "id": "D",
+                    "content": "500 rad/s2"
+                }
+            ],
+            "answer": "D",
+            "explain": "Mômen quán tính đĩa đặc I = 1/2 m.R^2 = 1/2 * 2 * 0.2^2 = 0.04 kg.m^2. Mômen lực M = F.R = 100 * 0.2 = 20 N.m. Gia tốc góc beta = M/I = 20 / 0.04 = 500 rad/s^2.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 12,
+            "question": "Mômen lực là đại lượng đặc trưng cho",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sự nhanh chậm của chuyển động."
+                },
+                {
+                    "id": "B",
+                    "content": "Tác dụng làm quay của lực quanh trục."
+                },
+                {
+                    "id": "C",
+                    "content": "Tốc độ quay của chuyển động."
+                },
+                {
+                    "id": "D",
+                    "content": "Tốc độ biến thiên của vận tốc."
+                }
+            ],
+            "answer": "B",
+            "explain": "Mômen lực đặc trưng cho tác dụng làm quay của lực quanh một trục hoặc một điểm.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 13,
+            "question": "Một quả cầu rỗng, thành mỏng, bán kính R = 1m, chịu tác dụng bởi mômen quay 960Nm và nó quay với gia tốc góc 6 rad/s2 , quanh một trục đi qua tâm quả cầu. Khối lượng quả cầu là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "240kg."
+                },
+                {
+                    "id": "B",
+                    "content": "24 kg."
+                },
+                {
+                    "id": "C",
+                    "content": "210 kg."
+                },
+                {
+                    "id": "D",
+                    "content": "180 kg."
+                }
+            ],
+            "answer": "A",
+            "explain": "Mômen lực M = I.beta => I = M/beta = 960 / 6 = 160 kg.m^2. Với quả cầu rỗng mỏng: I = 2/3 m.R^2 => 160 = 2/3 * m * 1^2 => m = 240 kg.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 14,
+            "question": "Hai chất điểm chuyển động đều, cùng vận tốc dài trên hai đường tròn có bán kính R1 /R2  2 . Tỷ số gia tốc pháp tuyến của chúng an1 /an2 bằng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2."
+                },
+                {
+                    "id": "B",
+                    "content": "4."
+                },
+                {
+                    "id": "C",
+                    "content": "0,5."
+                },
+                {
+                    "id": "D",
+                    "content": "1"
+                }
+            ],
+            "answer": "C",
+            "explain": "Gia tốc pháp tuyến a_n = v^2/R. Với v1 = v2, ta có a_n1 / a_n2 = R2 / R1 = 1 / 2 = 0.5.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 15,
+            "question": "Có một hình trụ đặc và một hình trụ rỗng, một quả cầu đặc và một quả cầu rỗng cùng khối lượng m và cùng bán kính R được thả lăn tự do từ cùng một độ cao trên đỉnh dốc. Hỏi vật nào sẽ xuống dốc trước?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hình trụ rỗng"
+                },
+                {
+                    "id": "B",
+                    "content": "Hình trụ đặc"
+                },
+                {
+                    "id": "C",
+                    "content": "Quả cầu rỗng"
+                },
+                {
+                    "id": "D",
+                    "content": "Quả cầu đặc"
+                }
+            ],
+            "answer": "D",
+            "explain": "Vật có hệ số cản quay k = I/(mR^2) nhỏ nhất sẽ lăn xuống dốc nhanh nhất. k của quả cầu đặc = 0.4 là nhỏ nhất (so với trụ đặc 0.5, cầu rỗng 0.67, trụ rỗng 1.0).",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 16,
+            "question": "Có một hình trụ đặc và một hình trụ rỗng, một quả cầu đặc và một quả cầu rỗng cùng khối lượng m và cùng bán kính R. Hỏi vật nào có mômen quán tính lớn nhất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hình trụ rỗng"
+                },
+                {
+                    "id": "B",
+                    "content": "Hình trụ đặc"
+                },
+                {
+                    "id": "C",
+                    "content": "Quả cầu đặc"
+                },
+                {
+                    "id": "D",
+                    "content": "Quả cầu rỗng"
+                }
+            ],
+            "answer": "A",
+            "explain": "Mômen quán tính đối với R và m lần lượt là: Trụ rỗng (mR^2), Cầu rỗng (2/3 mR^2), Trụ đặc (1/2 mR^2), Cầu đặc (2/5 mR^2). Vậy trụ rỗng có mômen quán tính lớn nhất.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 17,
+            "question": "Mômen quán tính của một thanh đồng chất có khối lượng m phân bố đều, chiều dài 2l đối với trục đi qua điểm giữa của thanh và vuông góc với thanh là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "I  ml2/3"
+                },
+                {
+                    "id": "B",
+                    "content": "I  ml2/12"
+                },
+                {
+                    "id": "C",
+                    "content": "I  m2l/3"
+                },
+                {
+                    "id": "D",
+                    "content": "I  m2l/12"
+                }
+            ],
+            "answer": "A",
+            "explain": "Mômen quán tính của thanh mảnh chiều dài L = 2l đối với trục qua điểm giữa vuông góc là: I = 1/12 m.L^2 = 1/12 m.(2l)^2 = 1/3 m.l^2.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 18,
+            "question": "Mômen quán tính của một thanh đồng chất có khối lượng m phân bố đều, chiều dài 2l đối với trục đi qua một đầu của thanh và vuông góc với thanh là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "I  ml2/12"
+                },
+                {
+                    "id": "B",
+                    "content": "I  5ml2/3"
+                },
+                {
+                    "id": "C",
+                    "content": "I  4ml2/3"
+                },
+                {
+                    "id": "D",
+                    "content": "I  ml2/3"
+                }
+            ],
+            "answer": "C",
+            "explain": "Mômen quán tính của thanh mảnh chiều dài L = 2l đối với trục qua đầu thanh là: I = 1/3 m.L^2 = 1/3 m.(2l)^2 = 4/3 m.l^2.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 19,
+            "question": "Một vành đĩa đồng chất bán kính R = 0,2m, có khối lượng m = 5 kg phân bố đều, quay quanh trục đi qua tâm đĩa và vuông góc với đĩa. Xác định mômen quán tính của vành đĩa.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "0,02 kg.m2"
+                },
+                {
+                    "id": "B",
+                    "content": "0,2 kg.m2"
+                },
+                {
+                    "id": "C",
+                    "content": "0,1 kg.m2"
+                },
+                {
+                    "id": "D",
+                    "content": "2 kg.m2"
+                }
+            ],
+            "answer": "B",
+            "explain": "Vành đĩa (vành tròn rỗng) có mômen quán tính: I = m.R^2 = 5 * 0.2^2 = 0.2 kg.m^2.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 20,
+            "question": "Một vòng kim loại đồng chất, bán kính R, khối lượng m phân bố đều. Mômen quán tính đối với trục quay vuông góc với mặt phẳng vòng dây và đi qua một điểm trên vòng dây là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "I = 3/2mR2 ."
+                },
+                {
+                    "id": "B",
+                    "content": "I = mR2 ."
+                },
+                {
+                    "id": "C",
+                    "content": "I = 2mR2 ."
+                },
+                {
+                    "id": "D",
+                    "content": "I = 1 /2 mR2"
+                }
+            ],
+            "answer": "C",
+            "explain": "Mômen quán tính qua tâm vành tròn I_G = m.R^2. Theo định lý dời trục qua điểm trên vòng dây (d = R): I = I_G + m.d^2 = m.R^2 + m.R^2 = 2 m.R^2.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 21,
+            "question": "Hai thanh mảnh đồng chất, cùng tiết diện, có chiều dài L1 = 2L2, quay quanh trục vuông góc, đi qua một đầu mỗi thanh. Tỷ số mômen quán tính I1/I2 là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "32."
+                },
+                {
+                    "id": "B",
+                    "content": "4."
+                },
+                {
+                    "id": "C",
+                    "content": "8."
+                },
+                {
+                    "id": "D",
+                    "content": "16."
+                }
+            ],
+            "answer": "C",
+            "explain": "Thanh mảnh trục qua một đầu: I = 1/3 m.L^2. Vì cùng tiết diện và chất liệu nên khối lượng tỉ lệ với chiều dài: m1/m2 = L1/L2 = 2. Tỷ số I1/I2 = (m1 * L1^2) / (m2 * L2^2) = 2 * 2^2 = 8.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 22,
+            "question": "Một vô lăng đang quay với tốc độ góc  = 32 rad/s. Tìm độ lớn của gia tốc góc, biết vô lăng dừng lại sau thời gian t = 20 s.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2,0 rad/s2"
+                },
+                {
+                    "id": "B",
+                    "content": "20 rad/s2"
+                },
+                {
+                    "id": "C",
+                    "content": "1,6 rad/s2"
+                },
+                {
+                    "id": "D",
+                    "content": "16 rad/s2"
+                }
+            ],
+            "answer": "C",
+            "explain": "Độ lớn gia tốc góc beta = (w_0 - w)/t = (32 - 0)/20 = 1.6 rad/s^2.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 23,
+            "question": "Trên một trụ rỗng khối lượng 1m kg người ta cuộn một sợi dây không giãn có khối lượng và đường kính nhỏ không đáng kể. Đầu tự do của cuộn dây được gắn trên một giá cố định. Để trụ rơi dưới tác dụng của trọng lực, lấy g = 10m/s2. Gia tốc của trụ là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "5m/s2"
+                },
+                {
+                    "id": "B",
+                    "content": "10 m/s2"
+                },
+                {
+                    "id": "C",
+                    "content": "2,5m/s2"
+                },
+                {
+                    "id": "D",
+                    "content": "7,5 m/s2"
+                }
+            ],
+            "answer": "A",
+            "explain": "Trụ rỗng I = m.R^2. Phương trình tịnh tiến: m.g - T = m.a. Phương trình quay: T.R = I.beta = m.R^2 * a/R => T = m.a. Thay vào: m.g - m.a = m.a => a = g/2 = 5 m/s^2.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 24,
+            "question": "Trên một trụ rỗng khối lượng 1m kg người ta cuộn một sợi dây không giãn có khối lượng và đường kính nhỏ không đáng kể. Đầu tự do của cuộn dây được7 gắn trên một giá cố định. Để trụ rơi dưới tác dụng của trọng lực, lấy g = 10m/s2. Sức căng của dây treo.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "5N"
+                },
+                {
+                    "id": "B",
+                    "content": "10 N"
+                },
+                {
+                    "id": "C",
+                    "content": "2,5N"
+                },
+                {
+                    "id": "D",
+                    "content": "7,5N"
+                }
+            ],
+            "answer": "A",
+            "explain": "Lực căng dây T = m.a = 1 * 5 = 5 N.",
+            "topic": "Động lực học vật rắn"
+        },
+        {
+            "id": 25,
+            "question": "Một trụ khối lượng m1 quay xung quanh một trục nằm ngang trùng với trục của trụ. Trên trụ có quấn một sợi dây không giãn trọng lượng không đáng kể. Đầu tự do của dây có treo một vật nặng khối lượng m2. Để vật nặng đó tự chuyển động. Gia tốc của vật nặng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "12 2 2 2 mm gma "
+                },
+                {
+                    "id": "B",
+                    "content": "12 2 2 mm gma "
+                },
+                {
+                    "id": "C",
+                    "content": "12 22 mm gma "
+                },
+                {
+                    "id": "D",
+                    "content": "12 2 mm gma  ================================================"
+                }
+            ],
+            "answer": "B",
+            "explain": "Vật nặng chuyển động đi xuống: m2.g - T = m2.a. Trụ đặc xoay quanh tâm: T.R = I.beta = (1/2 m1.R^2) * a/R => T = 1/2 m1.a. Giải ra: a = 2*m2*g / (m1 + 2*m2).",
+            "topic": "Động lực học vật rắn"
+        }
+    ]
+}
