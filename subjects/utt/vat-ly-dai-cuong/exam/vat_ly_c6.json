@@ -9,19 +9,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "1 4 o o qq r\\(\\pi\\)\\(\\varepsilon\\)\\(\\varepsilon\\)"
+                    "content": "\\(F = \\frac{q q_0}{4 \\pi \\varepsilon_0 \\varepsilon r^2}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "3 1 4 o o qq r r\\(\\pi\\)\\(\\varepsilon\\)\\(\\varepsilon\\)"
+                    "content": "\\(\\vec{F} = \\frac{q q_0}{4 \\pi \\varepsilon_0 \\varepsilon r^3} \\vec{r}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "1 4 o o qq r r\\(\\pi\\)\\(\\varepsilon\\)\\(\\varepsilon\\)"
+                    "content": "\\(\\vec{F} = \\frac{q q_0}{4 \\pi \\varepsilon_0 \\varepsilon r^2} \\vec{r}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "2 1 4 o o qq r r\\(\\pi\\)\\(\\varepsilon\\)\\(\\varepsilon\\)"
+                    "content": "\\(\\vec{F} = \\frac{q q_0}{4 \\pi \\varepsilon_0 \\varepsilon r} \\vec{r}\\)"
                 }
             ],
             "answer": "B",
@@ -34,19 +34,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "24 q r r r\\(\\pi\\)"
+                    "content": "\\(\\vec{E} = \\frac{q \\vec{r}}{4 \\pi r^3}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "24 q r r r\\(\\pi\\)"
+                    "content": "\\(\\vec{E} = \\frac{q \\vec{r}}{4 \\pi \\varepsilon r^3}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "24 o q r r r\\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)"
+                    "content": "\\(\\vec{E} = \\frac{q \\vec{r}}{4 \\pi \\varepsilon_0 \\varepsilon r^2}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "24 o q r r r\\(\\pi\\)\\(\\varepsilon\\)\\(\\varepsilon\\)"
+                    "content": "\\(\\vec{E} = \\frac{q \\vec{r}}{4 \\pi \\varepsilon_0 \\varepsilon r^3}\\)"
                 }
             ],
             "answer": "D",
