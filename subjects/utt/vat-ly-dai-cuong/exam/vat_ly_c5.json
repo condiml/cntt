@@ -17,15 +17,15 @@
                 },
                 {
                     "id": "C",
-                    "content": "T Vp. = μ Rm."
+                    "content": "T Vp. = \\(\\mu\\) Rm."
                 },
                 {
                     "id": "D",
-                    "content": "m Vp. = μ tR."
+                    "content": "m Vp. = \\(\\mu\\) tR."
                 }
             ],
             "answer": "C",
-            "explain": "Phương trình Clapeyron - Mendeleev biểu diễn phương trình trạng thái khí lý tưởng dưới dạng pV = (m/M).RT, trong đó M (hoặc mu) là khối lượng mol.",
+            "explain": "Phương trình Clapeyron - Mendeleev biểu diễn phương trình trạng thái khí lý tưởng dưới dạng pV = (m/M).RT, trong đó M (hoặc \\(\\mu\\)) là khối lượng mol.",
             "topic": "Nhiệt động lực học"
         },
         {
@@ -96,7 +96,7 @@
                 },
                 {
                     "id": "D",
-                    "content": "8,31.10^3"
+                    "content": "8,31.\\(10^{3}\\)"
                 }
             ],
             "answer": "A",
@@ -130,19 +130,19 @@
         },
         {
             "id": 6,
-            "question": "Nén đẳng nhiệt một khối khí lý tưởng ở áp suất 2.10^5 Pa, thể tích 12 lít xuống còn 3 lít. Tính áp suất của khí sau khi nén?",
+            "question": "Nén đẳng nhiệt một khối khí lý tưởng ở áp suất 2.\\(10^{5}\\) Pa, thể tích 12 lít xuống còn 3 lít. Tính áp suất của khí sau khi nén?",
             "options": [
                 {
                     "id": "A",
-                    "content": "8.10^5 N/m2"
+                    "content": "8.\\(10^{5}\\) N/m2"
                 },
                 {
                     "id": "B",
-                    "content": "8.10^5 bar"
+                    "content": "8.\\(10^{5}\\) bar"
                 },
                 {
                     "id": "C",
-                    "content": "8.10^5 atm"
+                    "content": "8.\\(10^{5}\\) atm"
                 },
                 {
                     "id": "D",
@@ -150,7 +150,7 @@
                 }
             ],
             "answer": "A",
-            "explain": "Quá trình đẳng nhiệt: p1.V1 = p2.V2 => p2 = p1.V1 / V2 = 2.10^5 * 12 / 3 = 8.10^5 Pa (N/m^2).",
+            "explain": "Quá trình đẳng nhiệt: p1.V1 = p2.V2 => p2 = p1.V1 / V2 = 2.\\(10^{5}\\) * 12 / 3 = 8.\\(10^{5}\\) Pa (N/m^2).",
             "topic": "Nhiệt động lực học"
         },
         {
@@ -163,7 +163,7 @@
                 },
                 {
                     "id": "B",
-                    "content": "ΔU = A + Q"
+                    "content": "\\(\\Delta\\)U = A + Q"
                 },
                 {
                     "id": "C",
@@ -171,7 +171,7 @@
                 },
                 {
                     "id": "D",
-                    "content": "ΔU = A’ + Q’"
+                    "content": "\\(\\Delta\\)U = A’ + Q’"
                 }
             ],
             "answer": "B",
@@ -234,7 +234,7 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "A12 = - p.ΔV"
+                    "content": "A12 = - p.\\(\\Delta\\)V"
                 },
                 {
                     "id": "B",
@@ -246,7 +246,7 @@
                 },
                 {
                     "id": "D",
-                    "content": "A12 = p.ΔV"
+                    "content": "A12 = p.\\(\\Delta\\)V"
                 }
             ],
             "answer": "B",
@@ -259,23 +259,23 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "1 .2U nR TΔ = Δ"
+                    "content": "1 .2U nR T\\(\\Delta\\) = \\(\\Delta\\)"
                 },
                 {
                     "id": "B",
-                    "content": "3 .2U nR TΔ = Δ"
+                    "content": "3 .2U nR T\\(\\Delta\\) = \\(\\Delta\\)"
                 },
                 {
                     "id": "C",
-                    "content": "5 .2U nR TΔ = Δ"
+                    "content": "5 .2U nR T\\(\\Delta\\) = \\(\\Delta\\)"
                 },
                 {
                     "id": "D",
-                    "content": ".2 iU nR TΔ = Δ"
+                    "content": ".2 iU nR T\\(\\Delta\\) = \\(\\Delta\\)"
                 }
             ],
             "answer": "B",
-            "explain": "Độ biến thiên nội năng của khí lý tưởng đơn nguyên tử (i=3): delta_U = 3/2 * n * R * delta_T.",
+            "explain": "Độ biến thiên nội năng của khí lý tưởng đơn nguyên tử (i=3): delta_U = \\(\\frac{3}{2}\\) * n * R * delta_T.",
             "topic": "Nhiệt động lực học"
         },
         {
@@ -284,23 +284,23 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "1 .2U nR TΔ = Δ"
+                    "content": "1 .2U nR T\\(\\Delta\\) = \\(\\Delta\\)"
                 },
                 {
                     "id": "B",
-                    "content": "3 .2U nR TΔ = Δ"
+                    "content": "3 .2U nR T\\(\\Delta\\) = \\(\\Delta\\)"
                 },
                 {
                     "id": "C",
-                    "content": "5 .2U nR TΔ = Δ"
+                    "content": "5 .2U nR T\\(\\Delta\\) = \\(\\Delta\\)"
                 },
                 {
                     "id": "D",
-                    "content": ".2 iU nR TΔ = Δ"
+                    "content": ".2 iU nR T\\(\\Delta\\) = \\(\\Delta\\)"
                 }
             ],
             "answer": "C",
-            "explain": "Độ biến thiên nội năng của khí lý tưởng lưỡng nguyên tử (i=5): delta_U = 5/2 * n * R * delta_T.",
+            "explain": "Độ biến thiên nội năng của khí lý tưởng lưỡng nguyên tử (i=5): delta_U = \\(\\frac{5}{2}\\) * n * R * delta_T.",
             "topic": "Nhiệt động lực học"
         },
         {
@@ -313,7 +313,7 @@
                 },
                 {
                     "id": "B",
-                    "content": "ΔU = 0"
+                    "content": "\\(\\Delta\\)U = 0"
                 },
                 {
                     "id": "C",
@@ -409,19 +409,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "ΔU = 0."
+                    "content": "\\(\\Delta\\)U = 0."
                 },
                 {
                     "id": "B",
-                    "content": "ΔU = Q, Q>0."
+                    "content": "\\(\\Delta\\)U = Q, Q>0."
                 },
                 {
                     "id": "C",
-                    "content": "ΔU = Q, Q<0."
+                    "content": "\\(\\Delta\\)U = Q, Q<0."
                 },
                 {
                     "id": "D",
-                    "content": "ΔU = A, A>0."
+                    "content": "\\(\\Delta\\)U = A, A>0."
                 }
             ],
             "answer": "B",
@@ -455,7 +455,7 @@
         },
         {
             "id": 19,
-            "question": "Trong một chu trình của động cơ nhiệt lý tưởng, chất khí thực hiện một công bằng 2.10^3 J và truyền cho nguồn lạnh một nhiệt lượng bằng 6.10^3 J. Hiệu suất của động cơ đó bằng",
+            "question": "Trong một chu trình của động cơ nhiệt lý tưởng, chất khí thực hiện một công bằng 2.\\(10^{3}\\) J và truyền cho nguồn lạnh một nhiệt lượng bằng 6.\\(10^{3}\\) J. Hiệu suất của động cơ đó bằng",
             "options": [
                 {
                     "id": "A",
@@ -475,7 +475,7 @@
                 }
             ],
             "answer": "C",
-            "explain": "Công động cơ thực hiện A = 2.10^3 J, nhiệt lượng xả Q2' = 6.10^3 J. Nhiệt lượng nhận từ nguồn nóng Q1 = A + Q2' = 8.10^3 J. Hiệu suất H = A / Q1 = 2/8 = 25%.",
+            "explain": "Công động cơ thực hiện A = 2.\\(10^{3}\\) J, nhiệt lượng xả Q2' = 6.\\(10^{3}\\) J. Nhiệt lượng nhận từ nguồn nóng Q1 = A + Q2' = 8.\\(10^{3}\\) J. Hiệu suất H = A / Q1 = 2/8 = 25%.",
             "topic": "Nhiệt động lực học"
         },
         {
@@ -563,7 +563,7 @@
                 },
                 {
                     "id": "B",
-                    "content": "tăng 1/2 lần"
+                    "content": "tăng \\(\\frac{1}{2}\\) lần"
                 },
                 {
                     "id": "C",
@@ -650,7 +650,7 @@
                 }
             ],
             "answer": "A",
-            "explain": "Áp dụng phương trình Mendeleev-Clapeyron: m = p.V.M / (R.T) = 250*10^3 * 0.01 * 32 / (8.31 * 300) = 80000 / 2493 ≈ 32.1 g.",
+            "explain": "Áp dụng phương trình Mendeleev-Clapeyron: m = p.V.M / (R.T) = 250*\\(10^{3}\\) * 0.01 * 32 / (8.31 * 300) = 80000 / 2493 ≈ 32.1 g.",
             "topic": "Nhiệt động lực học"
         },
         {
@@ -680,7 +680,7 @@
         },
         {
             "id": 28,
-            "question": "Nén đẳng nhiệt 3 lít không khí ở áp suất 1 at. Tìm nhiệt lượng tỏa ra (J), biết rằng thể tích cuối cùng chỉ bằng 1/10 thể tích ban đầu",
+            "question": "Nén đẳng nhiệt 3 lít không khí ở áp suất 1 \\(a_t\\). Tìm nhiệt lượng tỏa ra (J), biết rằng thể tích cuối cùng chỉ bằng 1/10 thể tích ban đầu",
             "options": [
                 {
                     "id": "A",
@@ -700,7 +700,7 @@
                 }
             ],
             "answer": "B",
-            "explain": "Nhiệt lượng tỏa ra bằng công nén đẳng nhiệt: Q = A = p1.V1.ln(V1/V2) = 9.81.10^4 * 3.10^-3 * ln(10) ≈ 677.65 J (với 1 at ≈ 9.81.10^4 Pa).",
+            "explain": "Nhiệt lượng tỏa ra bằng công nén đẳng nhiệt: Q = A = p1.V1.ln(V1/V2) = 9.81.\\(10^{4}\\) * 3.\\(10^{-3}\\) * ln(10) ≈ 677.65 J (với 1 \\(a_t\\) ≈ 9.81.\\(10^{4}\\) Pa).",
             "topic": "Nhiệt động lực học"
         },
         {
@@ -817,7 +817,7 @@
                 },
                 {
                     "id": "C",
-                    "content": "γ= v p C C"
+                    "content": "\\(\\gamma\\)= v p C C"
                 },
                 {
                     "id": "D",
@@ -834,15 +834,15 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "VpA Δ-="
+                    "content": "VpA \\(\\Delta\\)-="
                 },
                 {
                     "id": "B",
-                    "content": "TnRA Δ= ."
+                    "content": "TnRA \\(\\Delta\\)= ."
                 },
                 {
                     "id": "C",
-                    "content": "UA Δ="
+                    "content": "UA \\(\\Delta\\)="
                 },
                 {
                     "id": "D",

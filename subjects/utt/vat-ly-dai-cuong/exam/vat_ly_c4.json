@@ -100,7 +100,7 @@
                 }
             ],
             "answer": "C",
-            "explain": "Công của lực ma sát luôn phụ thuộc vào chiều dài và hình dạng đường đi, nên lực ma sát là lực phi thế (lực không bảo toàn).",
+            "explain": "Công của lực ma sát luôn phụ thuộc vào chiều dài và hình dạng đường đi, nên lực ma sát là lực \\(\\phi\\) thế (lực không bảo toàn).",
             "topic": "Công và năng lượng"
         },
         {
@@ -225,7 +225,7 @@
                 }
             ],
             "answer": "C",
-            "explain": "Động năng của chất điểm khối lượng m chuyển động với vận tốc v có biểu thức: W_d = 1/2 m.v^2.",
+            "explain": "Động năng của chất điểm khối lượng m chuyển động với vận tốc v có biểu thức: W_d = \\(\\frac{1}{2}\\) m.v^2.",
             "topic": "Công và năng lượng"
         },
         {
@@ -250,7 +250,7 @@
                 }
             ],
             "answer": "D",
-            "explain": "Thế năng của lò xo bị biến dạng đàn hồi lượng x: W_t = 1/2 k.x^2.",
+            "explain": "Thế năng của lò xo bị biến dạng đàn hồi lượng x: W_t = \\(\\frac{1}{2}\\) k.x^2.",
             "topic": "Công và năng lượng"
         },
         {
@@ -375,7 +375,7 @@
                 }
             ],
             "answer": "B",
-            "explain": "Vật rơi tự do từ độ cao h xuống. Tại độ cao z, cơ năng bảo toàn: E = mgh = mgz + 1/2 mv^2 => v = sqrt(2g(h-z)).",
+            "explain": "Vật rơi tự do từ độ cao h xuống. Tại độ cao z, cơ năng bảo toàn: E = mgh = mgz + \\(\\frac{1}{2}\\) mv^2 => v = sqrt(2g(h-z)).",
             "topic": "Công và năng lượng"
         },
         {
@@ -400,7 +400,7 @@
                 }
             ],
             "answer": "B",
-            "explain": "Vật trượt từ đỉnh dốc nghiêng cao h xuống đáy dốc, nếu không có ma sát: cơ năng bảo toàn mgh = 1/2 mv^2 => v = sqrt(2gh).",
+            "explain": "Vật trượt từ đỉnh dốc nghiêng cao h xuống đáy dốc, nếu không có ma sát: cơ năng bảo toàn mgh = \\(\\frac{1}{2}\\) mv^2 => v = sqrt(2gh).",
             "topic": "Công và năng lượng"
         },
         {
@@ -430,19 +430,19 @@
         },
         {
             "id": 18,
-            "question": "Biểu thức nào sau đây tính công của lực F trong chuyển động quay của vật rắn quanh trục Δ cố định?",
+            "question": "Biểu thức nào sau đây tính công của lực F trong chuyển động quay của vật rắn quanh trục \\(\\Delta\\) cố định?",
             "options": [
                 {
                     "id": "A",
-                    "content": "∫ Δ= θ  0 dMA"
+                    "content": "∫ \\(\\Delta\\)= \\(\\theta\\)  0 dMA"
                 },
                 {
                     "id": "B",
-                    "content": "∫ Δ= 2 1 .. t t dMA ω"
+                    "content": "∫ \\(\\Delta\\)= 2 1 .. t t dMA \\(\\omega\\)"
                 },
                 {
                     "id": "C",
-                    "content": "122 1 ωω -= ΔIA"
+                    "content": "122 1 \\(\\omega\\)\\(\\omega\\) -= \\(\\Delta\\)IA"
                 },
                 {
                     "id": "D",
@@ -550,7 +550,7 @@
                 }
             ],
             "answer": "B",
-            "explain": "Động năng của vật rắn quay quanh trục cố định với mômen quán tính I và vận tốc góc w: W_d = 1/2 I.w^2.",
+            "explain": "Động năng của vật rắn quay quanh trục cố định với mômen quán tính I và vận tốc góc w: W_d = \\(\\frac{1}{2}\\) I.w^2.",
             "topic": "Công và năng lượng"
         },
         {
@@ -575,12 +575,12 @@
                 }
             ],
             "answer": "D",
-            "explain": "Động năng toàn phần của vật rắn lăn không trượt bằng tổng động năng tịnh tiến của khối tâm và động năng quay quanh trục đi qua khối tâm: W_d = 1/2 m.v_G^2 + 1/2 I.w^2.",
+            "explain": "Động năng toàn phần của vật rắn lăn không trượt bằng tổng động năng tịnh tiến của khối tâm và động năng quay quanh trục đi qua khối tâm: W_d = \\(\\frac{1}{2}\\) m.v_G^2 + \\(\\frac{1}{2}\\) I.w^2.",
             "topic": "Công và năng lượng"
         },
         {
             "id": 24,
-            "question": "Một vô lăng hình trụ đồng chất, bán kính R = 20cm, khối lượng m = 20kg, đang quay với vận tốc ω = 4π rad/s thì bị hãm đều và dừng lại. Tính công của lực hãm trong quá trình đó.",
+            "question": "Một vô lăng hình trụ đồng chất, bán kính R = 20cm, khối lượng m = 20kg, đang quay với vận tốc \\(\\omega\\) = 4\\(\\pi\\) rad/s thì bị hãm đều và dừng lại. Tính công của lực hãm trong quá trình đó.",
             "options": [
                 {
                     "id": "A",
@@ -625,7 +625,7 @@
                 }
             ],
             "answer": "A",
-            "explain": "m = 0.5 kg, v = 10 m/s => Động năng W_d = 1/2 m.v^2 = 0.5 * 0.5 * 100 = 25 J.",
+            "explain": "m = 0.5 kg, v = 10 m/s => Động năng W_d = \\(\\frac{1}{2}\\) m.v^2 = 0.5 * 0.5 * 100 = 25 J.",
             "topic": "Công và năng lượng"
         },
         {
@@ -650,7 +650,7 @@
                 }
             ],
             "answer": "D",
-            "explain": "m = 2 kg, x = 10 cm = 0.1 m, k = 100 N/m. Thế năng đàn hồi W_t = 1/2 k.x^2 = 0.5 * 100 * 0.01 = 0.5 J.",
+            "explain": "m = 2 kg, x = 10 cm = 0.1 m, k = 100 N/m. Thế năng đàn hồi W_t = \\(\\frac{1}{2}\\) k.x^2 = 0.5 * 100 * 0.01 = 0.5 J.",
             "topic": "Công và năng lượng"
         },
         {
@@ -675,7 +675,7 @@
                 }
             ],
             "answer": "B",
-            "explain": "Vật được thả rơi tự do: delta_W_d = P.s = m.g.s. Sau 2 giây đầu, quãng đường rơi s = 1/2.g.t^2 = 1/2 * 10 * 4 = 20 m. Công trọng lực A = m.g.s = 1 * 10 * 20 = 200 J.",
+            "explain": "Vật được thả rơi tự do: delta_W_d = P.s = m.g.s. Sau 2 giây đầu, quãng đường rơi s = \\(\\frac{1}{2}\\).g.t^2 = \\(\\frac{1}{2}\\) * 10 * 4 = 20 m. Công trọng lực A = m.g.s = 1 * 10 * 20 = 200 J.",
             "topic": "Công và năng lượng"
         },
         {
@@ -700,7 +700,7 @@
                 }
             ],
             "answer": "C",
-            "explain": "Khối lượng m = 1 kg. Công lực kéo làm tăng tốc vật từ 2 m/s lên 6 m/s: A = delta_W_d = 1/2 m(v2^2 - v1^2) = 0.5 * 1 * (36 - 4) = 16 J.",
+            "explain": "Khối lượng m = 1 kg. Công lực kéo làm tăng tốc vật từ 2 m/s lên 6 m/s: A = delta_W_d = \\(\\frac{1}{2}\\) m(v2^2 - v1^2) = 0.5 * 1 * (36 - 4) = 16 J.",
             "topic": "Công và năng lượng"
         },
         {
@@ -725,7 +725,7 @@
                 }
             ],
             "answer": "C",
-            "explain": "Xe m = 1000 kg dừng lại hẳn (v2=0) từ vận tốc v1 = 72 km/h = 20 m/s. Công của lực hãm A = delta_W_d = 0 - 1/2 m.v1^2 = - 0.5 * 1000 * 400 = -200000 J = -200 kJ.",
+            "explain": "Xe m = 1000 kg dừng lại hẳn (v2=0) từ vận tốc v1 = 72 km/h = 20 m/s. Công của lực hãm A = delta_W_d = 0 - \\(\\frac{1}{2}\\) m.v1^2 = - 0.5 * 1000 * 400 = -200000 J = -200 kJ.",
             "topic": "Công và năng lượng"
         },
         {
@@ -821,11 +821,11 @@
                 },
                 {
                     "id": "D",
-                    "content": "4mv2/3"
+                    "content": "4mv\\(\\frac{2}{3}\\)"
                 }
             ],
             "answer": "C",
-            "explain": "w = 10 rad/s, R = 20 cm = 0.2 m. Quả cầu đặc I = 2/5 m.R^2. v_G = w.R = 10 * 0.2 = 2 m/s. Động năng toàn phần W_d = 1/2 m.v_G^2 + 1/2 I.w^2 = 1/2 m.v_G^2 + 1/2 (2/5 m.R^2) w^2 = 7/10 m.v_G^2 = 0.7 * 10 * 4 = 28 J.",
+            "explain": "w = 10 rad/s, R = 20 cm = 0.2 m. Quả cầu đặc I = \\(\\frac{2}{5}\\) m.R^2. v_G = w.R = 10 * 0.2 = 2 m/s. Động năng toàn phần W_d = \\(\\frac{1}{2}\\) m.v_G^2 + \\(\\frac{1}{2}\\) I.w^2 = \\(\\frac{1}{2}\\) m.v_G^2 + \\(\\frac{1}{2}\\) (\\(\\frac{2}{5}\\) m.R^2) w^2 = \\(\\frac{7}{10}\\) m.v_G^2 = 0.7 * 10 * 4 = 28 J.",
             "topic": "Công và năng lượng"
         },
         {
@@ -850,32 +850,32 @@
                 }
             ],
             "answer": "D",
-            "explain": "Trụ đặc lăn không trượt I = 1/2 m.R^2. W_d = 1/2 m.v_G^2 + 1/2 I.w^2 = 3/4 m.v_G^2 = 0.75 * 10 * 2^2 = 30 J.",
+            "explain": "Trụ đặc lăn không trượt I = \\(\\frac{1}{2}\\) m.R^2. W_d = \\(\\frac{1}{2}\\) m.v_G^2 + \\(\\frac{1}{2}\\) I.w^2 = \\(\\frac{3}{4}\\) m.v_G^2 = 0.75 * 10 * 2^2 = 30 J.",
             "topic": "Công và năng lượng"
         },
         {
             "id": 35,
-            "question": "Tính công cần thiết để một đoàn tàu khối lượng m = 8.10^5 kg tăng tốc từ vận tốc v1 = 36km/giờ đến vận tốc v2 = 54km/giờ. 2 2 1mvEd = 2mvEd = 2 2 3mvEd =",
+            "question": "Tính công cần thiết để một đoàn tàu khối lượng m = 8.\\(10^{5}\\) kg tăng tốc từ vận tốc v1 = 36km/giờ đến vận tốc v2 = 54km/giờ. 2 2 1mvEd = 2mvEd = 2 2 3mvEd =",
             "options": [
                 {
                     "id": "A",
-                    "content": "5.10^6J"
+                    "content": "5.\\(10^{6}\\)J"
                 },
                 {
                     "id": "B",
-                    "content": "5.10^7J"
+                    "content": "5.\\(10^{7}\\)J"
                 },
                 {
                     "id": "C",
-                    "content": "-5.10^6J"
+                    "content": "-5.\\(10^{6}\\)J"
                 },
                 {
                     "id": "D",
-                    "content": "-5.10^7J"
+                    "content": "-5.\\(10^{7}\\)J"
                 }
             ],
             "answer": "B",
-            "explain": "Trụ rỗng I = m.R^2. W_d = 1/2 m.v_G^2 + 1/2 I.w^2 = m.v_G^2 = 10 * 2^2 = 40 J.",
+            "explain": "Trụ rỗng I = m.R^2. W_d = \\(\\frac{1}{2}\\) m.v_G^2 + \\(\\frac{1}{2}\\) I.w^2 = m.v_G^2 = 10 * 2^2 = 40 J.",
             "topic": "Công và năng lượng"
         },
         {
@@ -900,7 +900,7 @@
                 }
             ],
             "answer": "D",
-            "explain": "Theo bảo toàn cơ năng, thế năng ban đầu chuyển hoàn toàn thành động năng toàn phần ở chân dốc: m.g.h = W_d_tổng. Với quả cầu đặc W_d_tổng = 7/10 m.v^2 => g.h = 0.7 v^2 => v = sqrt(10/7 * g * h).",
+            "explain": "Theo bảo toàn cơ năng, thế năng ban đầu chuyển hoàn toàn thành động năng toàn phần ở chân dốc: m.g.h = W_d_tổng. Với quả cầu đặc W_d_tổng = \\(\\frac{7}{10}\\) m.v^2 => g.h = 0.7 v^2 => v = sqrt(10/7 * g * h).",
             "topic": "Công và năng lượng"
         },
         {
@@ -925,7 +925,7 @@
                 }
             ],
             "answer": "D",
-            "explain": "Với trụ đặc lăn không trượt, W_d_tổng = 3/4 m.v^2 = mgh => v = sqrt(4/3 * g * h).",
+            "explain": "Với trụ đặc lăn không trượt, W_d_tổng = \\(\\frac{3}{4}\\) m.v^2 = mgh => v = sqrt(\\(\\frac{4}{3}\\) * g * h).",
             "topic": "Công và năng lượng"
         },
         {

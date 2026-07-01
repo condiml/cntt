@@ -100,7 +100,7 @@
                 }
             ],
             "answer": "C",
-            "explain": "Gia tốc tiếp tuyến đặc trưng cho sự thay đổi về độ lớn của vận tốc, có chiều phụ thuộc vào tính chất nhanh hay chậm của chuyển động: a_t = dv/dt.",
+            "explain": "Gia tốc tiếp tuyến đặc trưng cho sự thay đổi về độ lớn của vận tốc, có chiều phụ thuộc vào tính chất nhanh hay chậm của chuyển động: \\(a_t\\) = dv/dt.",
             "topic": "Động học"
         },
         {
@@ -125,7 +125,7 @@
                 }
             ],
             "answer": "A",
-            "explain": "Gia tốc pháp tuyến đặc trưng cho sự thay đổi về hướng của vectơ vận tốc, có chiều luôn hướng về bề lõm của quỹ đạo (tâm quỹ đạo): a_n = v^2/R.",
+            "explain": "Gia tốc pháp tuyến đặc trưng cho sự thay đổi về hướng của vectơ vận tốc, có chiều luôn hướng về bề lõm của quỹ đạo (tâm quỹ đạo): \\(a_n\\) = v^2/R.",
             "topic": "Động học"
         },
         {
@@ -155,7 +155,7 @@
         },
         {
             "id": 7,
-            "question": "Chất điểm chuyển động với phương trình: x=A+cos(ωt); y=sin(ωt). Quỹ đạo là:",
+            "question": "Chất điểm chuyển động với phương trình: x=A+cos(\\(\\omega\\)t); y=sin(\\(\\omega\\)t). Quỹ đạo là:",
             "options": [
                 {
                     "id": "A",
@@ -180,7 +180,7 @@
         },
         {
             "id": 8,
-            "question": "Chất điểm chuyển động với phương trình: x=Acos(ωt); y=Bsin(ωt). Quỹ đạo là:",
+            "question": "Chất điểm chuyển động với phương trình: x=Acos(\\(\\omega\\)t); y=Bsin(\\(\\omega\\)t). Quỹ đạo là:",
             "options": [
                 {
                     "id": "A",
@@ -230,7 +230,7 @@
         },
         {
             "id": 10,
-            "question": "Một chất điểm chuyển động trong một mặt phẳng có gia tốc tiếp tuyến at=0 và gia tốc pháp tuyến an=const. Chất điểm sẽ:",
+            "question": "Một chất điểm chuyển động trong một mặt phẳng có gia tốc tiếp tuyến \\(a_t\\)=0 và gia tốc pháp tuyến \\(a_n\\)=const. Chất điểm sẽ:",
             "options": [
                 {
                     "id": "A",
@@ -250,7 +250,7 @@
                 }
             ],
             "answer": "B",
-            "explain": "Gia tốc tiếp tuyến a_t = 0 nên độ lớn vận tốc không đổi (chuyển động đều). Gia tốc pháp tuyến a_n = hằng số > 0 nên bán kính cong R = v^2/a_n = hằng số, tức là quỹ đạo tròn. Vậy chất điểm chuyển động tròn đều.",
+            "explain": "Gia tốc tiếp tuyến \\(a_t\\) = 0 nên độ lớn vận tốc không đổi (chuyển động đều). Gia tốc pháp tuyến \\(a_n\\) = hằng số > 0 nên bán kính cong R = v^2/\\(a_n\\) = hằng số, tức là quỹ đạo tròn. Vậy chất điểm chuyển động tròn đều.",
             "topic": "Động học"
         },
         {
@@ -325,7 +325,7 @@
                 }
             ],
             "answer": "C",
-            "explain": "Nếu vectơ vận tốc và vectơ gia tốc luôn vuông góc nhau thì gia tốc tiếp tuyến a_t = 0 (vận tốc không đổi) và chỉ có gia tốc hướng tâm (quỹ đạo cong tròn). Đây là chuyển động tròn đều.",
+            "explain": "Nếu vectơ vận tốc và vectơ gia tốc luôn vuông góc nhau thì gia tốc tiếp tuyến \\(a_t\\) = 0 (vận tốc không đổi) và chỉ có gia tốc hướng tâm (quỹ đạo cong tròn). Đây là chuyển động tròn đều.",
             "topic": "Động học"
         },
         {
@@ -350,7 +350,7 @@
                 }
             ],
             "answer": "A",
-            "explain": "Vectơ vận tốc và gia tốc tạo với nhau một góc nhọn (cos > 0) nên gia tốc tiếp tuyến a_t = a.cos > 0, độ lớn vận tốc tăng theo thời gian => chuyển động nhanh dần.",
+            "explain": "Vectơ vận tốc và gia tốc tạo với nhau một góc nhọn (cos > 0) nên gia tốc tiếp tuyến \\(a_t\\) = a.cos > 0, độ lớn vận tốc tăng theo thời gian => chuyển động nhanh dần.",
             "topic": "Động học"
         },
         {
@@ -375,7 +375,7 @@
                 }
             ],
             "answer": "B",
-            "explain": "Vectơ vận tốc và gia tốc tạo với nhau một góc tù (cos < 0) nên gia tốc tiếp tuyến a_t = a.cos < 0, độ lớn vận tốc giảm theo thời gian => chuyển động chậm dần.",
+            "explain": "Vectơ vận tốc và gia tốc tạo với nhau một góc tù (cos < 0) nên gia tốc tiếp tuyến \\(a_t\\) = a.cos < 0, độ lớn vận tốc giảm theo thời gian => chuyển động chậm dần.",
             "topic": "Động học"
         },
         {
@@ -480,19 +480,19 @@
         },
         {
             "id": 20,
-            "question": "Trong chuyển động tròn, các vectơ vận tốc dài v, vận tốc góc ω và bán kính R có mối liên hệ nào?",
+            "question": "Trong chuyển động tròn, các vectơ vận tốc dài v, vận tốc góc \\(\\omega\\) và bán kính R có mối liên hệ nào?",
             "options": [
                 {
                     "id": "A",
-                    "content": "[]r vω= ×"
+                    "content": "[]r v\\(\\omega\\)= ×"
                 },
                 {
                     "id": "B",
-                    "content": "[]v r ω= ×"
+                    "content": "[]v r \\(\\omega\\)= ×"
                 },
                 {
                     "id": "C",
-                    "content": "[]r v ω= ×"
+                    "content": "[]r v \\(\\omega\\)= ×"
                 },
                 {
                     "id": "D",
@@ -505,19 +505,19 @@
         },
         {
             "id": 21,
-            "question": "Trong chuyển động tròn, các vectơ vận tốc dài v, gia tốc góc β và gia tốc tiếp tuyến ta có mối liên hệ nào?",
+            "question": "Trong chuyển động tròn, các vectơ vận tốc dài v, gia tốc góc \\(\\beta\\) và gia tốc tiếp tuyến ta có mối liên hệ nào?",
             "options": [
                 {
                     "id": "A",
-                    "content": "ta r β[ = × ]"
+                    "content": "ta r \\(\\beta\\)[ = × ]"
                 },
                 {
                     "id": "B",
-                    "content": "[]R v ω= ×"
+                    "content": "[]R v \\(\\omega\\)= ×"
                 },
                 {
                     "id": "C",
-                    "content": "[]tr aβ = ×"
+                    "content": "[]tr a\\(\\beta\\) = ×"
                 },
                 {
                     "id": "D",
@@ -525,7 +525,7 @@
                 }
             ],
             "answer": "A",
-            "explain": "Mối liên hệ giữa vectơ gia tốc tiếp tuyến a_t, gia tốc góc beta và bán kính r là: a_t = beta x r (tích vectơ).",
+            "explain": "Mối liên hệ giữa vectơ gia tốc tiếp tuyến \\(a_t\\), gia tốc góc \\(\\beta\\) và bán kính r là: \\(a_t\\) = \\(\\beta\\) x r (tích vectơ).",
             "topic": "Động học"
         },
         {
@@ -559,11 +559,11 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "[]v r ω= ×"
+                    "content": "[]v r \\(\\omega\\)= ×"
                 },
                 {
                     "id": "B",
-                    "content": "ta r β[ = × ]"
+                    "content": "ta r \\(\\beta\\)[ = × ]"
                 },
                 {
                     "id": "C",
@@ -575,7 +575,7 @@
                 }
             ],
             "answer": "D",
-            "explain": "Tất cả các hệ thức liên hệ v = w x r, a_t = beta x r và a = a_x i + a_y j + a_z k đều chính xác trong chuyển động tròn.",
+            "explain": "Tất cả các hệ thức liên hệ v = w x r, \\(a_t\\) = \\(\\beta\\) x r và a = a_x i + a_y j + a_z k đều chính xác trong chuyển động tròn.",
             "topic": "Động học"
         },
         {
@@ -600,24 +600,24 @@
                 }
             ],
             "answer": "C",
-            "explain": "Gia tốc hướng tâm trong chuyển động tròn đều có độ lớn là a_n = v^2/R. Tất cả các phương án đều đúng ở các trường hợp chuyển động tròn tổng quát.",
+            "explain": "Gia tốc hướng tâm trong chuyển động tròn đều có độ lớn là \\(a_n\\) = v^2/R. Tất cả các phương án đều đúng ở các trường hợp chuyển động tròn tổng quát.",
             "topic": "Động học"
         },
         {
             "id": 25,
-            "question": "Trong chuyển động tròn, kí hiệu β, ω, θ là gia tốc góc, vận tốc góc và góc quay của chất điểm. Công thức nào sau đây là đúng?",
+            "question": "Trong chuyển động tròn, kí hiệu \\(\\beta\\), \\(\\omega\\), \\(\\theta\\) là gia tốc góc, vận tốc góc và góc quay của chất điểm. Công thức nào sau đây là đúng?",
             "options": [
                 {
                     "id": "A",
-                    "content": "∫+= t t dt 0 .0 βωω"
+                    "content": "∫+= t t dt 0 .0 \\(\\beta\\)\\(\\omega\\)\\(\\omega\\)"
                 },
                 {
                     "id": "B",
-                    "content": "tβωω += 0"
+                    "content": "t\\(\\beta\\)\\(\\omega\\)\\(\\omega\\) += 0"
                 },
                 {
                     "id": "C",
-                    "content": "2 0 2 1 tt βωθ +="
+                    "content": "2 0 2 1 tt \\(\\beta\\)\\(\\omega\\)\\(\\theta\\) +="
                 },
                 {
                     "id": "D",
@@ -625,24 +625,24 @@
                 }
             ],
             "answer": "D",
-            "explain": "Tất cả các công thức liên hệ vận tốc góc w = w_0 + beta.t, góc quay theta = w_0.t + 1/2 beta.t^2 và vi phân đều đúng cho chuyển động tròn.",
+            "explain": "Tất cả các công thức liên hệ vận tốc góc w = w_0 + \\(\\beta\\).t, góc quay \\(\\theta\\) = w_0.t + \\(\\frac{1}{2}\\) \\(\\beta\\).t^2 và vi phân đều đúng cho chuyển động tròn.",
             "topic": "Động học"
         },
         {
             "id": 26,
-            "question": "Trong chuyển động tròn biến đổi đều, kí hiệu β, ω, θ là gia tốc góc, vận tốc góc và góc quay của chất điểm. Công thức nào sau đây là đúng?",
+            "question": "Trong chuyển động tròn biến đổi đều, kí hiệu \\(\\beta\\), \\(\\omega\\), \\(\\theta\\) là gia tốc góc, vận tốc góc và góc quay của chất điểm. Công thức nào sau đây là đúng?",
             "options": [
                 {
                     "id": "A",
-                    "content": "βθωω 22 0 2 =-"
+                    "content": "\\(\\beta\\)\\(\\theta\\)\\(\\omega\\)\\(\\omega\\) 22 0 2 =-"
                 },
                 {
                     "id": "B",
-                    "content": "2 2 0 2ω ω βθ- ="
+                    "content": "2 2 0 2\\(\\omega\\) \\(\\omega\\) \\(\\beta\\)\\(\\theta\\)- ="
                 },
                 {
                     "id": "C",
-                    "content": "2 0 2 1 tt βωθ +="
+                    "content": "2 0 2 1 tt \\(\\beta\\)\\(\\omega\\)\\(\\theta\\) +="
                 },
                 {
                     "id": "D",
@@ -650,7 +650,7 @@
                 }
             ],
             "answer": "D",
-            "explain": "Các công thức liên hệ cho chuyển động tròn biến đổi đều tương tự chuyển động thẳng biến đổi đều: w^2 - w_0^2 = 2.beta.theta và theta = w_0.t + 1/2.beta.t^2 đều đúng.",
+            "explain": "Các công thức liên hệ cho chuyển động tròn biến đổi đều tương tự chuyển động thẳng biến đổi đều: w^2 - w_0^2 = 2.\\(\\beta\\).\\(\\theta\\) và \\(\\theta\\) = w_0.t + \\(\\frac{1}{2}\\).\\(\\beta\\).t^2 đều đúng.",
             "topic": "Động học"
         },
         {
@@ -663,44 +663,44 @@
                 },
                 {
                     "id": "B",
-                    "content": "r varv ht 2 ; ==ω ."
+                    "content": "r varv ht 2 ; ==\\(\\omega\\) ."
                 },
                 {
                     "id": "C",
-                    "content": "r varv ht 2 ;. ==ω ."
+                    "content": "r varv ht 2 ;. ==\\(\\omega\\) ."
                 },
                 {
                     "id": "D",
-                    "content": "r varv ht == ;.ω"
+                    "content": "r varv ht == ;.\\(\\omega\\)"
                 }
             ],
             "answer": "C",
-            "explain": "Vận tốc dài v = w.r và gia tốc hướng tâm a_ht = v^2/r (hoặc w^2.r).",
+            "explain": "Vận tốc dài v = w.r và gia tốc hướng tâm \\(a_{ht}\\) = v^2/r (hoặc w^2.r).",
             "topic": "Động học"
         },
         {
             "id": 28,
-            "question": "Trong nguyên tử hyđro, electron chuyển động đều theo quỹ đạo tròn có bán kính R = 5.10^-9m, với vận tốc 2,2.10^8cm/s. Tìm tần số của electron.",
+            "question": "Trong nguyên tử hyđro, electron chuyển động đều theo quỹ đạo tròn có bán kính R = 5.\\(10^{-9}\\)m, với vận tốc 2,2.\\(10^{8}\\)cm/s. Tìm tần số của electron.",
             "options": [
                 {
                     "id": "A",
-                    "content": "7.10^15 Hz"
+                    "content": "7.\\(10^{15}\\) Hz"
                 },
                 {
                     "id": "B",
-                    "content": "7.10^14 Hz"
+                    "content": "7.\\(10^{14}\\) Hz"
                 },
                 {
                     "id": "C",
-                    "content": "7.10^13 Hz"
+                    "content": "7.\\(10^{13}\\) Hz"
                 },
                 {
                     "id": "D",
-                    "content": "7.10^12 Hz"
+                    "content": "7.\\(10^{12}\\) Hz"
                 }
             ],
             "answer": "C",
-            "explain": "R = 5.10^-9 m, v = 2.2.10^8 cm/s = 2.2.10^6 m/s. Vận tốc góc w = v/R = 4.4.10^14 rad/s. Tần số f = w/(2pi) = 4.4.10^14 / (2 * 3.1416) = 7.10^13 Hz.",
+            "explain": "R = 5.\\(10^{-9}\\) m, v = 2.2.\\(10^{8}\\) cm/s = 2.2.\\(10^{6}\\) m/s. Vận tốc góc w = v/R = 4.4.\\(10^{14}\\) rad/s. Tần số f = w/(2pi) = 4.4.\\(10^{14}\\) / (2 * 3.1416) = 7.\\(10^{13}\\) Hz.",
             "topic": "Động học"
         },
         {
@@ -709,23 +709,23 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "10 π rad/s2"
+                    "content": "10 \\(\\pi\\) rad/s2"
                 },
                 {
                     "id": "B",
-                    "content": "5 π rad/s2"
+                    "content": "5 \\(\\pi\\) rad/s2"
                 },
                 {
                     "id": "C",
-                    "content": "15 π rad/s2"
+                    "content": "15 \\(\\pi\\) rad/s2"
                 },
                 {
                     "id": "D",
-                    "content": "20 π rad/s2"
+                    "content": "20 \\(\\pi\\) rad/s2"
                 }
             ],
             "answer": "B",
-            "explain": "t = 2 s, w = 300 vòng/phút = 5 vòng/s = 10pi rad/s. Gia tốc góc beta = (w - w_0)/t = (10pi - 0)/2 = 5pi rad/s^2.",
+            "explain": "t = 2 s, w = 300 vòng/phút = 5 vòng/s = 10pi rad/s. Gia tốc góc \\(\\beta\\) = (w - w_0)/t = (10pi - 0)/2 = 5pi rad/s^2.",
             "topic": "Động học"
         },
         {
@@ -750,28 +750,28 @@
                 }
             ],
             "answer": "C",
-            "explain": "R = 10 cm = 0.1 m, v = 80 cm/s = 0.8 m/s. Gia tốc pháp tuyến a_n = v^2/R = 0.8^2 / 0.1 = 6.4 m/s^2.",
+            "explain": "R = 10 cm = 0.1 m, v = 80 cm/s = 0.8 m/s. Gia tốc pháp tuyến \\(a_n\\) = v^2/R = 0.8^2 / 0.1 = 6.4 m/s^2.",
             "topic": "Động học"
         },
         {
             "id": 31,
-            "question": "Một đồng hồ có kim giờ dài 4cm, kim phút dài 5cm. Gọi pω , gω là vận tốc góc và vp, vg là vận tốc dài của đầu kim phút, kim giờ. Quan hệ nào sau đây là đúng?",
+            "question": "Một đồng hồ có kim giờ dài 4cm, kim phút dài 5cm. Gọi p\\(\\omega\\) , g\\(\\omega\\) là vận tốc góc và vp, vg là vận tốc dài của đầu kim phút, kim giờ. Quan hệ nào sau đây là đúng?",
             "options": [
                 {
                     "id": "A",
-                    "content": "pω = 12 gω ; vg = 16 vp"
+                    "content": "p\\(\\omega\\) = 12 g\\(\\omega\\) ; vg = 16 vp"
                 },
                 {
                     "id": "B",
-                    "content": "pω = 12 gω ; vp = 15 vg"
+                    "content": "p\\(\\omega\\) = 12 g\\(\\omega\\) ; vp = 15 vg"
                 },
                 {
                     "id": "C",
-                    "content": "gω = 12 pω ; vp = 25 vg"
+                    "content": "g\\(\\omega\\) = 12 p\\(\\omega\\) ; vp = 25 vg"
                 },
                 {
                     "id": "D",
-                    "content": "gω = 12 pω ; vg = 9 vp"
+                    "content": "g\\(\\omega\\) = 12 p\\(\\omega\\) ; vg = 9 vp"
                 }
             ],
             "answer": "B",
@@ -780,23 +780,23 @@
         },
         {
             "id": 32,
-            "question": "Một đồng hồ có kim giờ, kim phút và kim giây. Gọi 1ω, 2ω và 3ω là vận tốc góc của kim giờ, kim phút và kim giây. Quan hệ nào sau đây là đúng:",
+            "question": "Một đồng hồ có kim giờ, kim phút và kim giây. Gọi 1\\(\\omega\\), 2\\(\\omega\\) và 3\\(\\omega\\) là vận tốc góc của kim giờ, kim phút và kim giây. Quan hệ nào sau đây là đúng:",
             "options": [
                 {
                     "id": "A",
-                    "content": "1ω = 602ω = 7203ω"
+                    "content": "1\\(\\omega\\) = 602\\(\\omega\\) = 7203\\(\\omega\\)"
                 },
                 {
                     "id": "B",
-                    "content": "720 1ω = 602ω = 3ω"
+                    "content": "720 1\\(\\omega\\) = 602\\(\\omega\\) = 3\\(\\omega\\)"
                 },
                 {
                     "id": "C",
-                    "content": "1ω = 122ω = 1443ω"
+                    "content": "1\\(\\omega\\) = 122\\(\\omega\\) = 1443\\(\\omega\\)"
                 },
                 {
                     "id": "D",
-                    "content": "12 1ω = 1442ω = 3ω"
+                    "content": "12 1\\(\\omega\\) = 1442\\(\\omega\\) = 3\\(\\omega\\)"
                 }
             ],
             "answer": "B",
@@ -805,7 +805,7 @@
         },
         {
             "id": 33,
-            "question": "Từ một đỉnh tháp ném một vật theo phương ngang với vận tốc ban đầu là v0. Bỏ qua sức cản không khí. Tìm biểu thức tính gia tốc pháp tuyến an của vật trên quỹ đạo ở thời điểm t (gia tốc rơi tự do là gì)?",
+            "question": "Từ một đỉnh tháp ném một vật theo phương ngang với vận tốc ban đầu là \\(v_0\\). Bỏ qua sức cản không khí. Tìm biểu thức tính gia tốc pháp tuyến \\(a_n\\) của vật trên quỹ đạo ở thời điểm t (gia tốc rơi tự do là gì)?",
             "options": [
                 {
                     "id": "A",
@@ -825,12 +825,12 @@
                 }
             ],
             "answer": "D",
-            "explain": "Vận tốc ném ngang v = sqrt(v_0^2 + g^2.t^2). Góc alpha giữa vận tốc và phương ngang có cos(alpha) = v_0 / v. Gia tốc pháp tuyến a_n = g.cos(alpha) = g.v_0 / sqrt(v_0^2 + g^2.t^2).",
+            "explain": "Vận tốc ném ngang v = sqrt(\\(v_0\\)^2 + g^2.t^2). Góc alpha giữa vận tốc và phương ngang có cos(alpha) = \\(v_0\\) / v. Gia tốc pháp tuyến \\(a_n\\) = g.cos(alpha) = g.\\(v_0\\) / sqrt(\\(v_0\\)^2 + g^2.t^2).",
             "topic": "Động học"
         },
         {
             "id": 34,
-            "question": "Từ một đỉnh tháp ném một vật theo phương ngang với vận tốc ban đầu là v0. Bỏ qua sức cản không khí. Tìm biểu thức tính gia tốc pháp tuyến at của vật trên quỹ đạo ỏ thời điểm t (gia tốc rơi tự do là gì)?",
+            "question": "Từ một đỉnh tháp ném một vật theo phương ngang với vận tốc ban đầu là \\(v_0\\). Bỏ qua sức cản không khí. Tìm biểu thức tính gia tốc pháp tuyến \\(a_t\\) của vật trên quỹ đạo ỏ thời điểm t (gia tốc rơi tự do là gì)?",
             "options": [
                 {
                     "id": "A",
@@ -850,7 +850,7 @@
                 }
             ],
             "answer": "C",
-            "explain": "Gia tốc tiếp tuyến a_t = g.sin(alpha) = g * (g.t / v) = g^2.t / sqrt(v_0^2 + g^2.t^2).",
+            "explain": "Gia tốc tiếp tuyến \\(a_t\\) = g.sin(alpha) = g * (g.t / v) = g^2.t / sqrt(\\(v_0\\)^2 + g^2.t^2).",
             "topic": "Động học"
         },
         {
@@ -875,12 +875,12 @@
                 }
             ],
             "answer": "B",
-            "explain": "Quãng đường đi được trong giây thứ nhất (t=1s): s1 = 1/2.a.t^2 = 1/2.a = 3 => a = 6 m/s^2. Quãng đường đi được trong 2 giây đầu: s2 = 1/2.a.2^2 = 2.a = 12 m. Quãng đường đi trong giây tiếp theo: delta s = s2 - s1 = 12 - 3 = 9 m.",
+            "explain": "Quãng đường đi được trong giây thứ nhất (t=1s): s1 = \\(\\frac{1}{2}\\).a.t^2 = \\(\\frac{1}{2}\\).a = 3 => a = 6 m/s^2. Quãng đường đi được trong 2 giây đầu: s2 = \\(\\frac{1}{2}\\).a.2^2 = 2.a = 12 m. Quãng đường đi trong giây tiếp theo: \\(\\delta\\) s = s2 - s1 = 12 - 3 = 9 m.",
             "topic": "Động học"
         },
         {
             "id": 36,
-            "question": "Một chất điểm chuyển động trên quỹ đạo tròn bán kính R = 20cm với gia tốc tiếp tuyến không đổi at = 5cm/s2. Tìm gia tốc góc β.",
+            "question": "Một chất điểm chuyển động trên quỹ đạo tròn bán kính R = 20cm với gia tốc tiếp tuyến không đổi \\(a_t\\) = 5cm/s2. Tìm gia tốc góc \\(\\beta\\).",
             "options": [
                 {
                     "id": "A",
@@ -900,7 +900,7 @@
                 }
             ],
             "answer": "D",
-            "explain": "R = 20 cm = 0.2 m, a_t = 5 cm/s^2 = 0.05 m/s^2. Gia tốc góc beta = a_t / R = 0.05 / 0.2 = 0.25 rad/s^2.",
+            "explain": "R = 20 cm = 0.2 m, \\(a_t\\) = 5 cm/s^2 = 0.05 m/s^2. Gia tốc góc \\(\\beta\\) = \\(a_t\\) / R = 0.05 / 0.2 = 0.25 rad/s^2.",
             "topic": "Động học"
         },
         {

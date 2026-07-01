@@ -88,7 +88,7 @@
                 },
                 {
                     "id": "B",
-                    "content": ".M I β="
+                    "content": ".M I \\(\\beta\\)="
                 },
                 {
                     "id": "C",
@@ -100,7 +100,7 @@
                 }
             ],
             "answer": "C",
-            "explain": "Vật lăn không trượt tham gia đồng thời cả hai chuyển động: tịnh tiến của khối tâm (F = m.a) và chuyển động quay quanh trục đi qua khối tâm (M = I.beta).",
+            "explain": "Vật lăn không trượt tham gia đồng thời cả hai chuyển động: tịnh tiến của khối tâm (F = m.a) và chuyển động quay quanh trục đi qua khối tâm (M = I.\\(\\beta\\)).",
             "topic": "Động lực học vật rắn"
         },
         {
@@ -134,11 +134,11 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "(2/5).MR2"
+                    "content": "(\\(\\frac{2}{5}\\)).MR2"
                 },
                 {
                     "id": "B",
-                    "content": "(1/2).MR2"
+                    "content": "(\\(\\frac{1}{2}\\)).MR2"
                 },
                 {
                     "id": "C",
@@ -150,7 +150,7 @@
                 }
             ],
             "answer": "C",
-            "explain": "Mômen quán tính đối với trục đi qua tâm quả cầu đặc: I_G = 2/5 M.R^2. Theo định lý Steiner-Huygens, mômen quán tính đối với trục tiếp tuyến là: I = I_G + M.R^2 = 7/5 M.R^2.",
+            "explain": "Mômen quán tính đối với trục đi qua tâm quả cầu đặc: I_G = \\(\\frac{2}{5}\\) M.R^2. Theo định lý Steiner-Huygens, mômen quán tính đối với trục tiếp tuyến là: I = I_G + M.R^2 = 7/5 M.R^2.",
             "topic": "Động lực học vật rắn"
         },
         {
@@ -230,7 +230,7 @@
         },
         {
             "id": 10,
-            "question": "Hai vật rắn trong chuyển động quay xung quanh một trục cố định dưới tác dụng của hai mômen lực bằng nhau. Nếu I1 = I2 thì tỷ số gia tốc góc β1 /β2 bằng",
+            "question": "Hai vật rắn trong chuyển động quay xung quanh một trục cố định dưới tác dụng của hai mômen lực bằng nhau. Nếu I1 = I2 thì tỷ số gia tốc góc \\(\\beta\\)1 /\\(\\beta\\)2 bằng",
             "options": [
                 {
                     "id": "A",
@@ -242,7 +242,7 @@
                 },
                 {
                     "id": "C",
-                    "content": "1/2."
+                    "content": "\\(\\frac{1}{2}\\)."
                 },
                 {
                     "id": "D",
@@ -275,7 +275,7 @@
                 }
             ],
             "answer": "D",
-            "explain": "Mômen quán tính đĩa đặc I = 1/2 m.R^2 = 1/2 * 2 * 0.2^2 = 0.04 kg.m^2. Mômen lực M = F.R = 100 * 0.2 = 20 N.m. Gia tốc góc beta = M/I = 20 / 0.04 = 500 rad/s^2.",
+            "explain": "Mômen quán tính đĩa đặc I = \\(\\frac{1}{2}\\) m.R^2 = \\(\\frac{1}{2}\\) * 2 * 0.2^2 = 0.04 kg.m^2. Mômen lực M = F.R = 100 * 0.2 = 20 N.m. Gia tốc góc \\(\\beta\\) = M/I = 20 / 0.04 = 500 rad/s^2.",
             "topic": "Động lực học vật rắn"
         },
         {
@@ -325,7 +325,7 @@
                 }
             ],
             "answer": "A",
-            "explain": "Mômen lực M = I.beta => I = M/beta = 960 / 6 = 160 kg.m^2. Với quả cầu rỗng mỏng: I = 2/3 m.R^2 => 160 = 2/3 * m * 1^2 => m = 240 kg.",
+            "explain": "Mômen lực M = I.\\(\\beta\\) => I = M/\\(\\beta\\) = 960 / 6 = 160 kg.m^2. Với quả cầu rỗng mỏng: I = \\(\\frac{2}{3}\\) m.R^2 => 160 = \\(\\frac{2}{3}\\) * m * 1^2 => m = 240 kg.",
             "topic": "Động lực học vật rắn"
         },
         {
@@ -350,7 +350,7 @@
                 }
             ],
             "answer": "C",
-            "explain": "Gia tốc pháp tuyến a_n = v^2/R. Với v1 = v2, ta có a_n1 / a_n2 = R2 / R1 = 1 / 2 = 0.5.",
+            "explain": "Gia tốc pháp tuyến \\(a_n\\) = v^2/R. Với v1 = v2, ta có a_n1 / a_n2 = R2 / R1 = 1 / 2 = 0.5.",
             "topic": "Động lực học vật rắn"
         },
         {
@@ -400,7 +400,7 @@
                 }
             ],
             "answer": "A",
-            "explain": "Mômen quán tính đối với R và m lần lượt là: Trụ rỗng (mR^2), Cầu rỗng (2/3 mR^2), Trụ đặc (1/2 mR^2), Cầu đặc (2/5 mR^2). Vậy trụ rỗng có mômen quán tính lớn nhất.",
+            "explain": "Mômen quán tính đối với R và m lần lượt là: Trụ rỗng (mR^2), Cầu rỗng (\\(\\frac{2}{3}\\) mR^2), Trụ đặc (\\(\\frac{1}{2}\\) mR^2), Cầu đặc (\\(\\frac{2}{5}\\) mR^2). Vậy trụ rỗng có mômen quán tính lớn nhất.",
             "topic": "Động lực học vật rắn"
         },
         {
@@ -409,7 +409,7 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "I = ml2/3"
+                    "content": "I = ml\\(\\frac{2}{3}\\)"
                 },
                 {
                     "id": "B",
@@ -425,7 +425,7 @@
                 }
             ],
             "answer": "A",
-            "explain": "Mômen quán tính của thanh mảnh chiều dài L = 2l đối với trục qua điểm giữa vuông góc là: I = 1/12 m.L^2 = 1/12 m.(2l)^2 = 1/3 m.l^2.",
+            "explain": "Mômen quán tính của thanh mảnh chiều dài L = 2l đối với trục qua điểm giữa vuông góc là: I = \\(\\frac{1}{12}\\) m.L^2 = \\(\\frac{1}{12}\\) m.(2l)^2 = \\(\\frac{1}{3}\\) m.l^2.",
             "topic": "Động lực học vật rắn"
         },
         {
@@ -438,19 +438,19 @@
                 },
                 {
                     "id": "B",
-                    "content": "I = 5ml2/3"
+                    "content": "I = 5ml\\(\\frac{2}{3}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "I = 4ml2/3"
+                    "content": "I = 4ml\\(\\frac{2}{3}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "I = ml2/3"
+                    "content": "I = ml\\(\\frac{2}{3}\\)"
                 }
             ],
             "answer": "C",
-            "explain": "Mômen quán tính của thanh mảnh chiều dài L = 2l đối với trục qua đầu thanh là: I = 1/3 m.L^2 = 1/3 m.(2l)^2 = 4/3 m.l^2.",
+            "explain": "Mômen quán tính của thanh mảnh chiều dài L = 2l đối với trục qua đầu thanh là: I = \\(\\frac{1}{3}\\) m.L^2 = \\(\\frac{1}{3}\\) m.(2l)^2 = \\(\\frac{4}{3}\\) m.l^2.",
             "topic": "Động lực học vật rắn"
         },
         {
@@ -484,7 +484,7 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "I = 3/2mR2 ."
+                    "content": "I = \\(\\frac{3}{2}\\)mR2 ."
                 },
                 {
                     "id": "B",
@@ -525,12 +525,12 @@
                 }
             ],
             "answer": "C",
-            "explain": "Thanh mảnh trục qua một đầu: I = 1/3 m.L^2. Vì cùng tiết diện và chất liệu nên khối lượng tỉ lệ với chiều dài: m1/m2 = L1/L2 = 2. Tỷ số I1/I2 = (m1 * L1^2) / (m2 * L2^2) = 2 * 2^2 = 8.",
+            "explain": "Thanh mảnh trục qua một đầu: I = \\(\\frac{1}{3}\\) m.L^2. Vì cùng tiết diện và chất liệu nên khối lượng tỉ lệ với chiều dài: m1/m2 = L1/L2 = 2. Tỷ số I1/I2 = (m1 * L1^2) / (m2 * L2^2) = 2 * 2^2 = 8.",
             "topic": "Động lực học vật rắn"
         },
         {
             "id": 22,
-            "question": "Một vô lăng đang quay với tốc độ góc ω = 32 rad/s. Tìm độ lớn của gia tốc góc, biết vô lăng dừng lại sau thời gian t = 20 s.",
+            "question": "Một vô lăng đang quay với tốc độ góc \\(\\omega\\) = 32 rad/s. Tìm độ lớn của gia tốc góc, biết vô lăng dừng lại sau thời gian t = 20 s.",
             "options": [
                 {
                     "id": "A",
@@ -550,7 +550,7 @@
                 }
             ],
             "answer": "C",
-            "explain": "Độ lớn gia tốc góc beta = (w_0 - w)/t = (32 - 0)/20 = 1.6 rad/s^2.",
+            "explain": "Độ lớn gia tốc góc \\(\\beta\\) = (w_0 - w)/t = (32 - 0)/20 = 1.6 rad/s^2.",
             "topic": "Động lực học vật rắn"
         },
         {
@@ -575,7 +575,7 @@
                 }
             ],
             "answer": "A",
-            "explain": "Trụ rỗng I = m.R^2. Phương trình tịnh tiến: m.g - T = m.a. Phương trình quay: T.R = I.beta = m.R^2 * a/R => T = m.a. Thay vào: m.g - m.a = m.a => a = g/2 = 5 m/s^2.",
+            "explain": "Trụ rỗng I = m.R^2. Phương trình tịnh tiến: m.g - T = m.a. Phương trình quay: T.R = I.\\(\\beta\\) = m.R^2 * a/R => T = m.a. Thay vào: m.g - m.a = m.a => a = g/2 = 5 m/s^2.",
             "topic": "Động lực học vật rắn"
         },
         {
@@ -625,7 +625,7 @@
                 }
             ],
             "answer": "B",
-            "explain": "Vật nặng chuyển động đi xuống: m2.g - T = m2.a. Trụ đặc xoay quanh tâm: T.R = I.beta = (1/2 m1.R^2) * a/R => T = 1/2 m1.a. Giải ra: a = 2*m2*g / (m1 + 2*m2).",
+            "explain": "Vật nặng chuyển động đi xuống: m2.g - T = m2.a. Trụ đặc xoay quanh tâm: T.R = I.\\(\\beta\\) = (\\(\\frac{1}{2}\\) m1.R^2) * a/R => T = \\(\\frac{1}{2}\\) m1.a. Giải ra: a = 2*m2*g / (m1 + 2*m2).",
             "topic": "Động lực học vật rắn"
         }
     ]

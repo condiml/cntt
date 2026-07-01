@@ -439,6 +439,10 @@ function renderExamQuestion() {
     }
 
     updateExamProgress();
+
+    if (window.MathJax && window.MathJax.typesetPromise) {
+        window.MathJax.typesetPromise();
+    }
 }
 
 function selectExamAnswer(answerInput) {
@@ -525,6 +529,10 @@ function selectExamAnswer(answerInput) {
     waitingForContinue = true;
     examContinueBtn?.classList.remove('hidden');
     updateExamStats();
+
+    if (window.MathJax && window.MathJax.typesetPromise) {
+        window.MathJax.typesetPromise();
+    }
 }
 
 function handleExamContinue() {

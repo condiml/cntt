@@ -458,6 +458,10 @@ function renderSimQuestion() {
 
     if (simPrevBtn) simPrevBtn.disabled = simIndex === 0;
     if (simNextBtn) simNextBtn.disabled = simIndex === simQuestions.length - 1;
+
+    if (window.MathJax && window.MathJax.typesetPromise) {
+        window.MathJax.typesetPromise();
+    }
 }
 
 function selectSimAnswer(letter) {

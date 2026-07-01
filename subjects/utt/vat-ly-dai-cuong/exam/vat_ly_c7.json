@@ -134,23 +134,23 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "10^-9 F."
+                    "content": "\\(10^{-9}\\) F."
                 },
                 {
                     "id": "B",
-                    "content": "10^-12 F."
+                    "content": "\\(10^{-12}\\) F."
                 },
                 {
                     "id": "C",
-                    "content": "10^-6 F."
+                    "content": "\\(10^{-6}\\) F."
                 },
                 {
                     "id": "D",
-                    "content": "10^-3 F."
+                    "content": "\\(10^{-3}\\) F."
                 }
             ],
             "answer": "A",
-            "explain": "1 nF (nanofara) bằng 10^-9 F.",
+            "explain": "1 nF (nanofara) bằng \\(10^{-9}\\) F.",
             "topic": "Vật dẫn và tụ điện"
         },
         {
@@ -250,7 +250,7 @@
                 }
             ],
             "answer": "D",
-            "explain": "Năng lượng điện trường W = 1/2 C.U^2. Với tụ xác định (C = const), nếu hiệu điện thế U giảm 2 lần thì năng lượng giảm 2^2 = 4 lần.",
+            "explain": "Năng lượng điện trường W = \\(\\frac{1}{2}\\) C.U^2. Với tụ xác định (C = const), nếu hiệu điện thế U giảm 2 lần thì năng lượng giảm 2^2 = 4 lần.",
             "topic": "Vật dẫn và tụ điện"
         },
         {
@@ -305,36 +305,36 @@
         },
         {
             "id": 13,
-            "question": "Một tụ có điện dung 2 μF. Khi đặt một hiệu điện thế 4 V vào 2 bản của tụ điện thì tụ tích được một điện lượng là",
+            "question": "Một tụ có điện dung 2 \\(\\mu\\)F. Khi đặt một hiệu điện thế 4 V vào 2 bản của tụ điện thì tụ tích được một điện lượng là",
             "options": [
                 {
                     "id": "A",
-                    "content": "2.10^-6 C."
+                    "content": "2.\\(10^{-6}\\) C."
                 },
                 {
                     "id": "B",
-                    "content": "16.10^-6"
+                    "content": "16.\\(10^{-6}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "C. 4.10^-6 C."
+                    "content": "C. 4.\\(10^{-6}\\) C."
                 },
                 {
                     "id": "D",
-                    "content": "8.10^-6 C."
+                    "content": "8.\\(10^{-6}\\) C."
                 }
             ],
             "answer": "D",
-            "explain": "C = 2 uF = 2.10^-6 F, U = 4 V. Điện lượng tích được: Q = C.U = 2.10^-6 * 4 = 8.10^-6 C.",
+            "explain": "C = 2 uF = 2.\\(10^{-6}\\) F, U = 4 V. Điện lượng tích được: Q = C.U = 2.\\(10^{-6}\\) * 4 = 8.\\(10^{-6}\\) C.",
             "topic": "Vật dẫn và tụ điện"
         },
         {
             "id": 14,
-            "question": "Đặt vào hai đầu tụ hiệu điện thế 10 V thì tụ tích được một điện lượng 20.10^-9 C. Điện dung của tụ là",
+            "question": "Đặt vào hai đầu tụ hiệu điện thế 10 V thì tụ tích được một điện lượng 20.\\(10^{-9}\\) C. Điện dung của tụ là",
             "options": [
                 {
                     "id": "A",
-                    "content": "2 μF."
+                    "content": "2 \\(\\mu\\)F."
                 },
                 {
                     "id": "B",
@@ -350,28 +350,28 @@
                 }
             ],
             "answer": "D",
-            "explain": "U = 10 V, Q = 20.10^-9 C. Điện dung của tụ: C = Q / U = 20.10^-9 / 10 = 2.10^-9 F = 2 nF.",
+            "explain": "U = 10 V, Q = 20.\\(10^{-9}\\) C. Điện dung của tụ: C = Q / U = 20.\\(10^{-9}\\) / 10 = 2.\\(10^{-9}\\) F = 2 nF.",
             "topic": "Vật dẫn và tụ điện"
         },
         {
             "id": 15,
-            "question": "Nếu đặt vào hai đầu tụ một hiệu điện thế 4 V thì tụ tích được một điện lượng 2 μC. Nếu đặt vào hai đầu tụ một hiệu điện thế 10 V thì tụ tích được một điện lượng",
+            "question": "Nếu đặt vào hai đầu tụ một hiệu điện thế 4 V thì tụ tích được một điện lượng 2 \\(\\mu\\)C. Nếu đặt vào hai đầu tụ một hiệu điện thế 10 V thì tụ tích được một điện lượng",
             "options": [
                 {
                     "id": "A",
-                    "content": "50 μC."
+                    "content": "50 \\(\\mu\\)C."
                 },
                 {
                     "id": "B",
-                    "content": "1 μC."
+                    "content": "1 \\(\\mu\\)C."
                 },
                 {
                     "id": "C",
-                    "content": "5 μC."
+                    "content": "5 \\(\\mu\\)C."
                 },
                 {
                     "id": "D",
-                    "content": "0,8 μC."
+                    "content": "0,8 \\(\\mu\\)C."
                 }
             ],
             "answer": "C",
@@ -405,7 +405,7 @@
         },
         {
             "id": 17,
-            "question": "Hai đầu tụ 20 μF có hiệu điện thế 5V thì năng lượng tụ tích được là",
+            "question": "Hai đầu tụ 20 \\(\\mu\\)F có hiệu điện thế 5V thì năng lượng tụ tích được là",
             "options": [
                 {
                     "id": "A",
@@ -421,11 +421,11 @@
                 },
                 {
                     "id": "D",
-                    "content": "50 μJ."
+                    "content": "50 \\(\\mu\\)J."
                 }
             ],
             "answer": "A",
-            "explain": "C = 20 uF = 20.10^-6 F, U = 5 V. Năng lượng tụ tích được: W = 1/2 C.U^2 = 0.5 * 20.10^-6 * 25 = 2.50.10^-4 J = 0.25 mJ.",
+            "explain": "C = 20 uF = 20.\\(10^{-6}\\) F, U = 5 V. Năng lượng tụ tích được: W = \\(\\frac{1}{2}\\) C.U^2 = 0.5 * 20.\\(10^{-6}\\) * 25 = 2.50.\\(10^{-4}\\) J = 0.25 mJ.",
             "topic": "Vật dẫn và tụ điện"
         },
         {
@@ -450,7 +450,7 @@
                 }
             ],
             "answer": "A",
-            "explain": "Năng lượng ban đầu W1 = 1/2 C.U1^2 = 10 mJ với U1 = 10V. Để W2 = 22.5 mJ, tỉ lệ W2 / W1 = 2.25 = (U2 / U1)^2 => U2 / U1 = 1.5 => U2 = 15 V.",
+            "explain": "Năng lượng ban đầu W1 = \\(\\frac{1}{2}\\) C.U1^2 = 10 mJ với U1 = 10V. Để W2 = 22.5 mJ, tỉ lệ W2 / W1 = 2.25 = (U2 / U1)^2 => U2 / U1 = 1.5 => U2 = 15 V.",
             "topic": "Vật dẫn và tụ điện"
         },
         {
@@ -575,7 +575,7 @@
                 }
             ],
             "answer": "B",
-            "explain": "Ở vật dẫn cân bằng tĩnh điện, điện tích chỉ phân bố ở bề mặt ngoài, mật độ điện tích lớn ở những chỗ lồi (đặc biệt là mũi nhọn) và nhỏ ở chỗ lõm. Phân bố không đều trừ phi vật có dạng hình cầu đối xứng.",
+            "explain": "Ở vật dẫn cân bằng tĩnh điện, điện tích chỉ phân bố ở bề mặt ngoài, mật độ điện tích lớn ở những chỗ lồi (đặc biệt là mũi nhọn) và nhỏ ở chỗ lõm. Phân bố không đều trừ \\(\\phi\\) vật có dạng hình cầu đối xứng.",
             "topic": "Vật dẫn và tụ điện"
         },
         {
@@ -609,7 +609,7 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "d S U QC 0.εε=="
+                    "content": "d S U QC 0.\\(\\varepsilon\\)\\(\\varepsilon\\)=="
                 },
                 {
                     "id": "B",
@@ -617,7 +617,7 @@
                 },
                 {
                     "id": "C",
-                    "content": "RC ..4 0εεπ="
+                    "content": "RC ..4 0\\(\\varepsilon\\)\\(\\varepsilon\\)\\(\\pi\\)="
                 },
                 {
                     "id": "D",
@@ -634,11 +634,11 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "RC ..4 0εεπ="
+                    "content": "RC ..4 0\\(\\varepsilon\\)\\(\\varepsilon\\)\\(\\pi\\)="
                 },
                 {
                     "id": "B",
-                    "content": "d S U QC 0.εε=="
+                    "content": "d S U QC 0.\\(\\varepsilon\\)\\(\\varepsilon\\)=="
                 },
                 {
                     "id": "C",
@@ -646,7 +646,7 @@
                 },
                 {
                     "id": "D",
-                    "content": "SQC ..ε="
+                    "content": "SQC ..\\(\\varepsilon\\)="
                 }
             ],
             "answer": "B",
@@ -684,23 +684,23 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2 0..2 1 Eεεω="
+                    "content": "2 0..2 1 E\\(\\varepsilon\\)\\(\\varepsilon\\)\\(\\omega\\)="
                 },
                 {
                     "id": "B",
-                    "content": "CQ.2 1=ω"
+                    "content": "CQ.2 1=\\(\\omega\\)"
                 },
                 {
                     "id": "C",
-                    "content": "2.2 1 UC=ω"
+                    "content": "2.2 1 UC=\\(\\omega\\)"
                 },
                 {
                     "id": "D",
-                    "content": "C Q2 2 1=ω"
+                    "content": "C Q2 2 1=\\(\\omega\\)"
                 }
             ],
             "answer": "A",
-            "explain": "Mật độ năng lượng điện trường trong tụ điện được xác định bằng công thức: w_e = 1/2 * e0 * e * E^2.",
+            "explain": "Mật độ năng lượng điện trường trong tụ điện được xác định bằng công thức: w_e = \\(\\frac{1}{2}\\) * e0 * e * E^2.",
             "topic": "Vật dẫn và tụ điện"
         },
         {
@@ -734,11 +734,11 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "R S U QC 0.εε=="
+                    "content": "R S U QC 0.\\(\\varepsilon\\)\\(\\varepsilon\\)=="
                 },
                 {
                     "id": "B",
-                    "content": "RC ..4 0εεπ="
+                    "content": "RC ..4 0\\(\\varepsilon\\)\\(\\varepsilon\\)\\(\\pi\\)="
                 },
                 {
                     "id": "C",
@@ -780,7 +780,7 @@
         },
         {
             "id": 32,
-            "question": "Điện dung của một tụ điện không khí phẳng thay đổi như thế nào khi tăng khoảng cách giữa hai bản 2 lần và đưa vào giữa hai bản một chất điện môi có hằng số điện môi là ε = 4?",
+            "question": "Điện dung của một tụ điện không khí phẳng thay đổi như thế nào khi tăng khoảng cách giữa hai bản 2 lần và đưa vào giữa hai bản một chất điện môi có hằng số điện môi là \\(\\varepsilon\\) = 4?",
             "options": [
                 {
                     "id": "A",

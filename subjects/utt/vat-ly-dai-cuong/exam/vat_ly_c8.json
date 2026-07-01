@@ -9,23 +9,23 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "0 4 IB R μμ π="
+                    "content": "0 4 IB R \\(\\mu\\)\\(\\mu\\) \\(\\pi\\)="
                 },
                 {
                     "id": "B",
-                    "content": "0 2 IB R μμ="
+                    "content": "0 2 IB R \\(\\mu\\)\\(\\mu\\)="
                 },
                 {
                     "id": "C",
-                    "content": "0 2 IB R μμ π="
+                    "content": "0 2 IB R \\(\\mu\\)\\(\\mu\\) \\(\\pi\\)="
                 },
                 {
                     "id": "D",
-                    "content": "0 4 IB R μμ="
+                    "content": "0 4 IB R \\(\\mu\\)\\(\\mu\\)="
                 }
             ],
             "answer": "C",
-            "explain": "Cảm ứng từ B do dòng điện thẳng dài vô hạn cường độ I gây ra tại điểm cách dây khoảng R trong môi trường điện môi: B = mu0.mu.I / (2pi.R).",
+            "explain": "Cảm ứng từ B do dòng điện thẳng dài vô hạn cường độ I gây ra tại điểm cách dây khoảng R trong môi trường điện môi: B = mu0.\\(\\mu\\).I / (2pi.R).",
             "topic": "Từ trường"
         },
         {
@@ -34,23 +34,23 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2.2 . R SIB π μμ="
+                    "content": "2.2 . R SIB \\(\\pi\\) \\(\\mu\\)\\(\\mu\\)="
                 },
                 {
                     "id": "B",
-                    "content": "0 2 ISB R μμ="
+                    "content": "0 2 ISB R \\(\\mu\\)\\(\\mu\\)="
                 },
                 {
                     "id": "C",
-                    "content": "3.2 . R SIB π μμ="
+                    "content": "3.2 . R SIB \\(\\pi\\) \\(\\mu\\)\\(\\mu\\)="
                 },
                 {
                     "id": "D",
-                    "content": "0 4 ISB R μμ="
+                    "content": "0 4 ISB R \\(\\mu\\)\\(\\mu\\)="
                 }
             ],
             "answer": "B",
-            "explain": "Cảm ứng từ B tại tâm của dòng điện tròn bán kính R, cường độ I: B = mu0.mu.I / (2R).",
+            "explain": "Cảm ứng từ B tại tâm của dòng điện tròn bán kính R, cường độ I: B = mu0.\\(\\mu\\).I / (2R).",
             "topic": "Từ trường"
         },
         {
@@ -59,7 +59,7 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2 nIH Rπ="
+                    "content": "2 nIH R\\(\\pi\\)="
                 },
                 {
                     "id": "B",
@@ -71,7 +71,7 @@
                 },
                 {
                     "id": "D",
-                    "content": "2 IH Rπ="
+                    "content": "2 IH R\\(\\pi\\)="
                 }
             ],
             "answer": "C",
@@ -134,23 +134,23 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "0 00 34 I dl Idl rdF r μμ π [  [ × × ] ]="
+                    "content": "0 00 34 I dl Idl rdF r \\(\\mu\\)\\(\\mu\\) \\(\\pi\\) [  [ × × ] ]="
                 },
                 {
                     "id": "B",
-                    "content": "0 00 3 . 4 I dl Idl rdF r μμ π [  × ]="
+                    "content": "0 00 3 . 4 I dl Idl rdF r \\(\\mu\\)\\(\\mu\\) \\(\\pi\\) [  × ]="
                 },
                 {
                     "id": "C",
-                    "content": "0 4 ooI dl Idl rd F r μμ π [  [ × × ] ]=  "
+                    "content": "0 4 ooI dl Idl rd F r \\(\\mu\\)\\(\\mu\\) \\(\\pi\\) [  [ × × ] ]=  "
                 },
                 {
                     "id": "D",
-                    "content": "0 4 ooI dl r Idld F r μμ π [  [ × × ] ]=  "
+                    "content": "0 4 ooI dl r Idld F r \\(\\mu\\)\\(\\mu\\) \\(\\pi\\) [  [ × × ] ]=  "
                 }
             ],
             "answer": "A",
-            "explain": "Định luật Ampere về lực tương tác giữa hai phần tử dòng điện: dF = [mu0.mu.I1.I2 / (4pi.r^3)] * [dl1 x [dl2 x r]].",
+            "explain": "Định luật Ampere về lực tương tác giữa hai phần tử dòng điện: dF = [mu0.\\(\\mu\\).I1.I2 / (4pi.r^3)] * [dl1 x [dl2 x r]].",
             "topic": "Từ trường"
         },
         {
@@ -159,28 +159,28 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "0 34 Idl rdB r μμ π [  × ]="
+                    "content": "0 34 Idl rdB r \\(\\mu\\)\\(\\mu\\) \\(\\pi\\) [  × ]="
                 },
                 {
                     "id": "B",
-                    "content": "0 24 Idl rd B r μμ π [  × ]= "
+                    "content": "0 24 Idl rd B r \\(\\mu\\)\\(\\mu\\) \\(\\pi\\) [  × ]= "
                 },
                 {
                     "id": "C",
-                    "content": "0 4 Idl rd B r μμ π [  × ]= "
+                    "content": "0 4 Idl rd B r \\(\\mu\\)\\(\\mu\\) \\(\\pi\\) [  × ]= "
                 },
                 {
                     "id": "D",
-                    "content": "0 34 r Idld B r μμ π [ × ]= "
+                    "content": "0 34 r Idld B r \\(\\mu\\)\\(\\mu\\) \\(\\pi\\) [ × ]= "
                 }
             ],
             "answer": "A",
-            "explain": "Công thức định luật Biot-Savart-Laplace cho cảm ứng từ dB của phần tử dòng điện Idl: dB = [mu0.mu / (4pi.r^3)] * [Idl x r].",
+            "explain": "Công thức định luật Biot-Savart-Laplace cho cảm ứng từ dB của phần tử dòng điện Idl: dB = [mu0.\\(\\mu\\) / (4pi.r^3)] * [Idl x r].",
             "topic": "Từ trường"
         },
         {
             "id": 8,
-            "question": "Đơn vị của cảm ứng từ B trong hệ SI là 2 NIH Rπ=",
+            "question": "Đơn vị của cảm ứng từ B trong hệ SI là 2 NIH R\\(\\pi\\)=",
             "options": [
                 {
                     "id": "A",
@@ -217,7 +217,7 @@
                 },
                 {
                     "id": "C",
-                    "content": "0 34 Idl rB r μμ π [  × ]= "
+                    "content": "0 34 Idl rB r \\(\\mu\\)\\(\\mu\\) \\(\\pi\\) [  × ]= "
                 },
                 {
                     "id": "D",
@@ -242,7 +242,7 @@
                 },
                 {
                     "id": "C",
-                    "content": "0 34 Idl rB r μμ π [  × ]= "
+                    "content": "0 34 Idl rB r \\(\\mu\\)\\(\\mu\\) \\(\\pi\\) [  × ]= "
                 },
                 {
                     "id": "D",
@@ -259,23 +259,23 @@
             "options": [
                 {
                     "id": "A",
-                    "content": ".md B dSφ ="
+                    "content": ".md B dS\\(\\phi\\) ="
                 },
                 {
                     "id": "B",
-                    "content": ".md B dSφ ="
+                    "content": ".md B dS\\(\\phi\\) ="
                 },
                 {
                     "id": "C",
-                    "content": ".md B dSφ ="
+                    "content": ".md B dS\\(\\phi\\) ="
                 },
                 {
                     "id": "D",
-                    "content": ".md B dSφ ="
+                    "content": ".md B dS\\(\\phi\\) ="
                 }
             ],
             "answer": "A",
-            "explain": "Từ thông (thông lượng cảm ứng từ) gửi qua diện tích vi phân dS được xác định bởi công thức: d_phi = B.dS = B.dS.cos(theta).",
+            "explain": "Từ thông (thông lượng cảm ứng từ) gửi qua diện tích vi phân dS được xác định bởi công thức: d_phi = B.dS = B.dS.cos(\\(\\theta\\)).",
             "topic": "Từ trường"
         },
         {
@@ -325,7 +325,7 @@
                 }
             ],
             "answer": "A",
-            "explain": "Từ trường tĩnh (không đổi) chỉ tác dụng lực lên hạt mang điện chuyển động (lực Lorentz F = q.v.B.sin(theta)). Khi hạt đứng yên (v = 0), lực Lorentz bằng 0. Vậy từ trường không tác dụng lên hạt tích điện đứng yên.",
+            "explain": "Từ trường tĩnh (không đổi) chỉ tác dụng lực lên hạt mang điện chuyển động (lực Lorentz F = q.v.B.sin(\\(\\theta\\))). Khi hạt đứng yên (v = 0), lực Lorentz bằng 0. Vậy từ trường không tác dụng lên hạt tích điện đứng yên.",
             "topic": "Từ trường"
         },
         {
@@ -525,7 +525,7 @@
                 }
             ],
             "answer": "B",
-            "explain": "Lực từ F = I.B.L.sin(theta). Khi B và I đều tăng gấp đôi thì lực từ F tăng gấp 2 * 2 = 4 lần.",
+            "explain": "Lực từ F = I.B.L.sin(\\(\\theta\\)). Khi B và I đều tăng gấp đôi thì lực từ F tăng gấp 2 * 2 = 4 lần.",
             "topic": "Từ trường"
         },
         {
@@ -550,7 +550,7 @@
                 }
             ],
             "answer": "D",
-            "explain": "Độ lớn lực Lorentz F_L = |q|.v.B.sin(theta), không phụ thuộc vào khối lượng của hạt mang điện.",
+            "explain": "Độ lớn lực Lorentz F_L = |q|.v.B.sin(\\(\\theta\\)), không phụ thuộc vào khối lượng của hạt mang điện.",
             "topic": "Từ trường"
         },
         {
@@ -571,7 +571,7 @@
                 },
                 {
                     "id": "D",
-                    "content": "k k(C) H d I → → =Σ∫ λ∇"
+                    "content": "k k(C) H d I → → =Σ∫ \\(\\lambda\\)∇"
                 }
             ],
             "answer": "A",
@@ -600,7 +600,7 @@
                 }
             ],
             "answer": "A",
-            "explain": "L = 1.5 m, I = 10 A, B = 1.2 T, vuông góc (theta=90). Lực từ tác dụng F = I.B.L = 10 * 1.2 * 1.5 = 18 N.",
+            "explain": "L = 1.5 m, I = 10 A, B = 1.2 T, vuông góc (\\(\\theta\\)=90). Lực từ tác dụng F = I.B.L = 10 * 1.2 * 1.5 = 18 N.",
             "topic": "Từ trường"
         },
         {
@@ -634,23 +634,23 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "5.10^-5T"
+                    "content": "5.\\(10^{-5}\\)T"
                 },
                 {
                     "id": "B",
-                    "content": "2.10^-5T"
+                    "content": "2.\\(10^{-5}\\)T"
                 },
                 {
                     "id": "C",
-                    "content": "4.10^-5T"
+                    "content": "4.\\(10^{-5}\\)T"
                 },
                 {
                     "id": "D",
-                    "content": "2π.10^-5T"
+                    "content": "2\\(\\pi\\).\\(10^{-5}\\)T"
                 }
             ],
             "answer": "A",
-            "explain": "I = 5 A, R = 2 cm = 0.02 m. Cảm ứng từ: B = 2.10^-7 * I / R = 2.10^-7 * 5 / 0.02 = 5.10^-5 T.",
+            "explain": "I = 5 A, R = 2 cm = 0.02 m. Cảm ứng từ: B = 2.\\(10^{-7}\\) * I / R = 2.\\(10^{-7}\\) * 5 / 0.02 = 5.\\(10^{-5}\\) T.",
             "topic": "Từ trường"
         },
         {
@@ -659,15 +659,15 @@
             "options": [
                 {
                     "id": "A",
-                    "content": " 1 2cos cos4 oIH R μμ θ θπ= -"
+                    "content": " 1 2cos cos4 oIH R \\(\\mu\\)\\(\\mu\\) \\(\\theta\\) \\(\\theta\\)\\(\\pi\\)= -"
                 },
                 {
                     "id": "B",
-                    "content": "4 oIH R μμ π="
+                    "content": "4 oIH R \\(\\mu\\)\\(\\mu\\) \\(\\pi\\)="
                 },
                 {
                     "id": "C",
-                    "content": "2 IH Rπ="
+                    "content": "2 IH R\\(\\pi\\)="
                 },
                 {
                     "id": "D",
@@ -700,7 +700,7 @@
                 }
             ],
             "answer": "D",
-            "explain": "Dòng điện I = 10 A chạy qua dây thẳng tiếp tuyến và vòng tròn R = 2 cm = 0.02 m. Tại tâm O: B = B_tron + B_thang = 2pi.10^-7 * I/R + 2.10^-7 * I/R = 2.10^-7 * (I/R) * (pi + 1) = 2.10^-7 * (10/0.02) * 4.1416 = 10^-4 * 4.14 = 4.14.10^-4 T.",
+            "explain": "Dòng điện I = 10 A chạy qua dây thẳng tiếp tuyến và vòng tròn R = 2 cm = 0.02 m. Tại tâm O: B = B_tron + B_thang = 2pi.\\(10^{-7}\\) * I/R + 2.\\(10^{-7}\\) * I/R = 2.\\(10^{-7}\\) * (I/R) * (\\(\\pi\\) + 1) = 2.\\(10^{-7}\\) * (10/0.02) * 4.1416 = \\(10^{-4}\\) * 4.14 = 4.14.\\(10^{-4}\\) T.",
             "topic": "Từ trường"
         },
         {
@@ -721,11 +721,11 @@
                 },
                 {
                     "id": "D",
-                    "content": "4π.10 -5A/m"
+                    "content": "4\\(\\pi\\).10 -5A/m"
                 }
             ],
             "answer": "A",
-            "explain": "I = 4 A, R = 2 cm = 0.02 m. Cường độ từ trường H = I / (2pi.R) = 4 / (2 * pi * 0.02) ≈ 31.8 A/m.",
+            "explain": "I = 4 A, R = 2 cm = 0.02 m. Cường độ từ trường H = I / (2pi.R) = 4 / (2 * \\(\\pi\\) * 0.02) ≈ 31.8 A/m.",
             "topic": "Từ trường"
         },
         {
@@ -734,7 +734,7 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "0,75.10^-5T"
+                    "content": "0,75.\\(10^{-5}\\)T"
                 },
                 {
                     "id": "B",
@@ -750,7 +750,7 @@
                 }
             ],
             "answer": "B",
-            "explain": "I = 3 A, R = 4 cm = 0.04 m. Cảm ứng từ B = 2.10^-7 * I / R = 2.10^-7 * 3 / 0.04 = 1.5.10^-5 T.",
+            "explain": "I = 3 A, R = 4 cm = 0.04 m. Cảm ứng từ B = 2.\\(10^{-7}\\) * I / R = 2.\\(10^{-7}\\) * 3 / 0.04 = 1.5.\\(10^{-5}\\) T.",
             "topic": "Từ trường"
         }
     ]

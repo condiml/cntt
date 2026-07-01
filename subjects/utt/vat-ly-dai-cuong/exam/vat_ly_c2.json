@@ -167,11 +167,11 @@
                 },
                 {
                     "id": "C",
-                    "content": "lkF Δ= ."
+                    "content": "lkF \\(\\Delta\\)= ."
                 },
                 {
                     "id": "D",
-                    "content": "NF μ= ."
+                    "content": "NF \\(\\mu\\)= ."
                 }
             ],
             "answer": "C",
@@ -234,19 +234,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "NF tmst μ= ."
+                    "content": "NF tmst \\(\\mu\\)= ."
                 },
                 {
                     "id": "B",
-                    "content": "NF tmst μ= ."
+                    "content": "NF tmst \\(\\mu\\)= ."
                 },
                 {
                     "id": "C",
-                    "content": "NF tmst μ= ."
+                    "content": "NF tmst \\(\\mu\\)= ."
                 },
                 {
                     "id": "D",
-                    "content": "NF tmst μ="
+                    "content": "NF tmst \\(\\mu\\)="
                 }
             ],
             "answer": "D",
@@ -259,7 +259,7 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "lkFht Δ= ."
+                    "content": "lkFht \\(\\Delta\\)= ."
                 },
                 {
                     "id": "B",
@@ -271,11 +271,11 @@
                 },
                 {
                     "id": "D",
-                    "content": "mgFht μ= ."
+                    "content": "mgFht \\(\\mu\\)= ."
                 }
             ],
             "answer": "C",
-            "explain": "Độ lớn lực hướng tâm F_ht = m * a_n = m * w^2 * r (hoặc m * v^2 / r).",
+            "explain": "Độ lớn lực hướng tâm F_ht = m * \\(a_n\\) = m * w^2 * r (hoặc m * v^2 / r).",
             "topic": "Động lực học"
         },
         {
@@ -325,7 +325,7 @@
                 }
             ],
             "answer": "B",
-            "explain": "Trọng lực P = mg giảm vì gia tốc rơi tự do g giảm khi độ cao tăng theo công thức g = GM/(R+h)^2.",
+            "explain": "Trọng lực \\(P = m g\\) giảm vì gia tốc rơi tự do g giảm khi độ cao tăng theo công thức g = GM/(R+h)^2.",
             "topic": "Động lực học"
         },
         {
@@ -400,7 +400,7 @@
                 }
             ],
             "answer": "A",
-            "explain": "Động lượng p = mv. Khi m giảm 1/2 và v tăng 2 lần thì p' = (m/2) * (2v) = mv (không đổi).",
+            "explain": "Động lượng p = mv. Khi m giảm \\(\\frac{1}{2}\\) và v tăng 2 lần thì p' = (m/2) * (2v) = mv (không đổi).",
             "topic": "Động lực học"
         },
         {
@@ -525,7 +525,7 @@
                 }
             ],
             "answer": "D",
-            "explain": "Lực ma sát là lực phi thế vì công của lực ma sát phụ thuộc vào dạng đường đi và luôn hao phí năng lượng.",
+            "explain": "Lực ma sát là lực \\(\\phi\\) thế vì công của lực ma sát phụ thuộc vào dạng đường đi và luôn hao phí năng lượng.",
             "topic": "Động lực học"
         },
         {
@@ -534,7 +534,7 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "Định luật II Newton F = ma áp dụng cho hệ chịu tác dụng của ngoại lực."
+                    "content": "Định luật II Newton \\(F = m a\\) áp dụng cho hệ chịu tác dụng của ngoại lực."
                 },
                 {
                     "id": "B",
@@ -750,7 +750,7 @@
                 }
             ],
             "answer": "C",
-            "explain": "Cầu nằm ngang nên áp lực nén xuống cầu đúng bằng trọng lượng của ô tô: N = P = mg = 1000 * 10 = 10000 N.",
+            "explain": "Cầu nằm ngang nên áp lực nén xuống cầu đúng bằng trọng lượng của ô tô: N = \\(P = m g\\) = 1000 * 10 = 10000 N.",
             "topic": "Động lực học"
         },
         {
@@ -775,7 +775,7 @@
                 }
             ],
             "answer": "D",
-            "explain": "Tại đáy chỗ lõm, lực hướng tâm hướng lên: N - mg = m.v^2/R => N = m(g + v^2/R) = 1000 * (10 + 10^2/100) = 11000 N.",
+            "explain": "Tại đáy chỗ lõm, lực hướng tâm hướng lên: N - mg = m.v^2/R => N = m(g + v^2/R) = 1000 * (10 + \\(10^{2}\\)/100) = 11000 N.",
             "topic": "Động lực học"
         },
         {
@@ -800,7 +800,7 @@
                 }
             ],
             "answer": "B",
-            "explain": "Tại đỉnh cầu lồi, lực hướng tâm hướng xuống: mg - N = m.v^2/R => N = m(g - v^2/R) = 1000 * (10 - 10^2/100) = 9000 N.",
+            "explain": "Tại đỉnh cầu lồi, lực hướng tâm hướng xuống: mg - N = m.v^2/R => N = m(g - v^2/R) = 1000 * (10 - \\(10^{2}\\)/100) = 9000 N.",
             "topic": "Động lực học"
         },
         {
@@ -850,7 +850,7 @@
                 }
             ],
             "answer": "B",
-            "explain": "Mômen động lượng L = m.v.r = m.w.r^2 = m.R^2 * (2pi/T) = 5 * 2^2 * (2*pi/10) = 4pi = 12.6 kg.m^2/s.",
+            "explain": "Mômen động lượng L = m.v.r = m.w.r^2 = m.R^2 * (2pi/T) = 5 * 2^2 * (2*\\(\\pi\\)/10) = 4pi = 12.6 kg.m^2/s.",
             "topic": "Động lực học"
         },
         {
@@ -905,15 +905,15 @@
         },
         {
             "id": 37,
-            "question": "Vật khối lượng m bị kéo bởi lực F và trượt trên sàn ngang như hình vẽ. Hệ số ma sát trượt giữa vật và mặt sàn là μ. Gia tốc của vật được tính bởi biểu thức nào sau đây?",
+            "question": "Vật khối lượng m bị kéo bởi lực F và trượt trên sàn ngang như hình vẽ. Hệ số ma sát trượt giữa vật và mặt sàn là \\(\\mu\\). Gia tốc của vật được tính bởi biểu thức nào sau đây?",
             "options": [
                 {
                     "id": "A",
-                    "content": "mmgFaμ-=cos"
+                    "content": "mmgFa\\(\\mu\\)-=cos"
                 },
                 {
                     "id": "B",
-                    "content": " mmgFaμμ-+=sincos"
+                    "content": " mmgFa\\(\\mu\\)\\(\\mu\\)-+=sincos"
                 },
                 {
                     "id": "C",
@@ -921,24 +921,24 @@
                 },
                 {
                     "id": "D",
-                    "content": " mmgFaμμ--=sincos"
+                    "content": " mmgFa\\(\\mu\\)\\(\\mu\\)--=sincos"
                 }
             ],
             "answer": "B",
-            "explain": "Lực kéo xiên góc alpha hướng lên. Phản lực N = mg - F.sin(alpha). Gia tốc a = [F.cos(alpha) - mu.N]/m = [F(cos(alpha) + mu.sin(alpha)) - mu.mg]/m.",
+            "explain": "Lực kéo xiên góc alpha hướng lên. Phản lực N = mg - F.sin(alpha). Gia tốc a = [F.cos(alpha) - \\(\\mu\\).N]/m = [F(cos(alpha) + \\(\\mu\\).sin(alpha)) - \\(\\mu\\).mg]/m.",
             "topic": "Động lực học"
         },
         {
             "id": 38,
-            "question": "Vật khối lượng m bị đẩy bởi lực F và trượt trên sàn ngang như hình vẽ. Hệ số ma sát trượt giữa vật và mặt sàn là μ. Gia tốc của vật đựoc tính bởi biểu thức nào sau đây?",
+            "question": "Vật khối lượng m bị đẩy bởi lực F và trượt trên sàn ngang như hình vẽ. Hệ số ma sát trượt giữa vật và mặt sàn là \\(\\mu\\). Gia tốc của vật đựoc tính bởi biểu thức nào sau đây?",
             "options": [
                 {
                     "id": "A",
-                    "content": " mFaμsincos+="
+                    "content": " mFa\\(\\mu\\)sincos+="
                 },
                 {
                     "id": "B",
-                    "content": "mgFasincosμ-="
+                    "content": "mgFasincos\\(\\mu\\)-="
                 },
                 {
                     "id": "C",
@@ -946,11 +946,11 @@
                 },
                 {
                     "id": "D",
-                    "content": " mmgFaμμ--=sincos ================================================ )  m m )  m m"
+                    "content": " mmgFa\\(\\mu\\)\\(\\mu\\)--=sincos ================================================ )  m m )  m m"
                 }
             ],
             "answer": "D",
-            "explain": "Lực đẩy xiên góc alpha hướng xuống. Phản lực N = mg + F.sin(alpha). Gia tốc a = [F.cos(alpha) - mu.N]/m = [F(cos(alpha) - mu.sin(alpha)) - mu.mg]/m.",
+            "explain": "Lực đẩy xiên góc alpha hướng xuống. Phản lực N = mg + F.sin(alpha). Gia tốc a = [F.cos(alpha) - \\(\\mu\\).N]/m = [F(cos(alpha) - \\(\\mu\\).sin(alpha)) - \\(\\mu\\).mg]/m.",
             "topic": "Động lực học"
         }
     ]

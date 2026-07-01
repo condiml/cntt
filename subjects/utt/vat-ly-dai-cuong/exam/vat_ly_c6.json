@@ -9,19 +9,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "1 4 o o qq rπεε"
+                    "content": "1 4 o o qq r\\(\\pi\\)\\(\\varepsilon\\)\\(\\varepsilon\\)"
                 },
                 {
                     "id": "B",
-                    "content": "3 1 4 o o qq r rπεε"
+                    "content": "3 1 4 o o qq r r\\(\\pi\\)\\(\\varepsilon\\)\\(\\varepsilon\\)"
                 },
                 {
                     "id": "C",
-                    "content": "1 4 o o qq r rπεε"
+                    "content": "1 4 o o qq r r\\(\\pi\\)\\(\\varepsilon\\)\\(\\varepsilon\\)"
                 },
                 {
                     "id": "D",
-                    "content": "2 1 4 o o qq r rπεε"
+                    "content": "2 1 4 o o qq r r\\(\\pi\\)\\(\\varepsilon\\)\\(\\varepsilon\\)"
                 }
             ],
             "answer": "B",
@@ -34,19 +34,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "24 q r r rπ"
+                    "content": "24 q r r r\\(\\pi\\)"
                 },
                 {
                     "id": "B",
-                    "content": "24 q r r rπ"
+                    "content": "24 q r r r\\(\\pi\\)"
                 },
                 {
                     "id": "C",
-                    "content": "24 o q r r rπε ε"
+                    "content": "24 o q r r r\\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)"
                 },
                 {
                     "id": "D",
-                    "content": "24 o q r r rπεε"
+                    "content": "24 o q r r r\\(\\pi\\)\\(\\varepsilon\\)\\(\\varepsilon\\)"
                 }
             ],
             "answer": "D",
@@ -75,7 +75,7 @@
                 }
             ],
             "answer": "A",
-            "explain": "Điện thông (thông lượng điện cảm) gửi qua diện tích S được định nghĩa bằng tích phân mặt của hình chiếu Dn lên pháp tuyến mặt S: phi = \\int_S Dn dS.",
+            "explain": "Điện thông (thông lượng điện cảm) gửi qua diện tích S được định nghĩa bằng tích phân mặt của hình chiếu Dn lên pháp tuyến mặt S: \\(\\phi\\) = \\int_S Dn dS.",
             "topic": "Điện trường"
         },
         {
@@ -84,19 +84,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2 2 1 1 4 o o M N qq r rπεε   -  "
+                    "content": "2 2 1 1 4 o o M N qq r r\\(\\pi\\)\\(\\varepsilon\\)\\(\\varepsilon\\)   -  "
                 },
                 {
                     "id": "B",
-                    "content": "2 2 1 1 4 o o M N qq r rπεε   +  "
+                    "content": "2 2 1 1 4 o o M N qq r r\\(\\pi\\)\\(\\varepsilon\\)\\(\\varepsilon\\)   +  "
                 },
                 {
                     "id": "C",
-                    "content": "1 1 4 o o M N qq r rπεε   +  "
+                    "content": "1 1 4 o o M N qq r r\\(\\pi\\)\\(\\varepsilon\\)\\(\\varepsilon\\)   +  "
                 },
                 {
                     "id": "D",
-                    "content": "1 1 4 o o M N qq r rπεε   -  "
+                    "content": "1 1 4 o o M N qq r r\\(\\pi\\)\\(\\varepsilon\\)\\(\\varepsilon\\)   -  "
                 }
             ],
             "answer": "D",
@@ -284,11 +284,11 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "1 2 1 2 2 2 . . .1 .4 o q q k q qF r rπε= ="
+                    "content": "1 2 1 2 2 2 . . .1 .4 o q q k q qF r r\\(\\pi\\)\\(\\varepsilon\\)= ="
                 },
                 {
                     "id": "B",
-                    "content": "1 2 1 2 2 2 . . .1 4 o q q k q qr rF r r r rπε= = "
+                    "content": "1 2 1 2 2 2 . . .1 4 o q q k q qr rF r r r r\\(\\pi\\)\\(\\varepsilon\\)= = "
                 },
                 {
                     "id": "C",
@@ -534,7 +534,7 @@
             "options": [
                 {
                     "id": "A",
-                    "content": ". kin i iS D d S qΦ = = Σ∫  "
+                    "content": ". kin i iS D d S q\\(\\Phi\\) = = Σ∫  "
                 },
                 {
                     "id": "B",
@@ -542,11 +542,11 @@
                 },
                 {
                     "id": "C",
-                    "content": ". kin i iS E d S qΦ = = Σ∫  "
+                    "content": ". kin i iS E d S q\\(\\Phi\\) = = Σ∫  "
                 },
                 {
                     "id": "D",
-                    "content": "i i qΦ =Σ"
+                    "content": "i i q\\(\\Phi\\) =Σ"
                 }
             ],
             "answer": "A",
@@ -625,12 +625,12 @@
                 }
             ],
             "answer": "A",
-            "explain": "Ta có công A = q.U => q = A / U = 3 / 6 = 0.5 C.",
+            "explain": "Ta có công \\(A = q U\\) => q = A / U = 3 / 6 = 0.5 C.",
             "topic": "Điện trường"
         },
         {
             "id": 26,
-            "question": "Có một điện tích điểm q = 5.10^-9C đặt tại điểm A trong chân không. Xác định cường độ điện trường tại điểm B cách A một khoảng 10cm?",
+            "question": "Có một điện tích điểm q = 5.\\(10^{-9}\\)C đặt tại điểm A trong chân không. Xác định cường độ điện trường tại điểm B cách A một khoảng 10cm?",
             "options": [
                 {
                     "id": "A",
@@ -650,12 +650,12 @@
                 }
             ],
             "answer": "B",
-            "explain": "Cường độ điện trường E = k.q / r^2 = 9.10^9 * 5.10^-9 / 0.1^2 = 45 / 0.01 = 4500 V/m.",
+            "explain": "Cường độ điện trường E = k.q / r^2 = 9.\\(10^{9}\\) * 5.\\(10^{-9}\\) / 0.1^2 = 45 / 0.01 = 4500 V/m.",
             "topic": "Điện trường"
         },
         {
             "id": 27,
-            "question": "Cho hai điện tích q1 = 5.10^-9C, điện tích q2 = -5.10^-9C đặt cách nhau 10cm. Xác định véctơ cường độ điện trường tại điểm M nằm trên đường thẳng đi qua hai điện tích đó và cách đều hai điện tích?",
+            "question": "Cho hai điện tích q1 = 5.\\(10^{-9}\\)C, điện tích q2 = -5.\\(10^{-9}\\)C đặt cách nhau 10cm. Xác định véctơ cường độ điện trường tại điểm M nằm trên đường thẳng đi qua hai điện tích đó và cách đều hai điện tích?",
             "options": [
                 {
                     "id": "A",
@@ -675,7 +675,7 @@
                 }
             ],
             "answer": "C",
-            "explain": "M nằm chính giữa đoạn nối q1 (dương) và q2 (âm). Hai vectơ điện trường E1 và E2 đều hướng từ q1 sang q2 nên cùng chiều: E = E1 + E2 = 2 * (k.q1 / r1^2) = 2 * 9.10^9 * 5.10^-9 / 0.05^2 = 36000 V/m.",
+            "explain": "M nằm chính giữa đoạn nối q1 (dương) và q2 (âm). Hai vectơ điện trường E1 và E2 đều hướng từ q1 sang q2 nên cùng chiều: E = E1 + E2 = 2 * (k.q1 / r1^2) = 2 * 9.\\(10^{9}\\) * 5.\\(10^{-9}\\) / 0.05^2 = 36000 V/m.",
             "topic": "Điện trường"
         },
         {
@@ -780,27 +780,27 @@
         },
         {
             "id": 32,
-            "question": "Cho điện tích điểm Q =5.10^-6C đặt trong không khí. Điểm M cách Q một khoảng 2cm. Tính công của lực điện trường khi dịch chuyển điện tích điểm q=10^-9C từ điểm M đến điểm N bất kỳ nằm trên mặt cầu có bán kính r2=5cm, có tâm ở điểm đặt điện tích Q. Cho k=9.10^9Nm2/C2",
+            "question": "Cho điện tích điểm Q =5.\\(10^{-6}\\)C đặt trong không khí. Điểm M cách Q một khoảng 2cm. Tính công của lực điện trường khi dịch chuyển điện tích điểm q=\\(10^{-9}\\)C từ điểm M đến điểm N bất kỳ nằm trên mặt cầu có bán kính r2=5cm, có tâm ở điểm đặt điện tích Q. Cho k=9.\\(10^{9}\\)Nm2/C2",
             "options": [
                 {
                     "id": "A",
-                    "content": "14,5.10^-4J"
+                    "content": "14,5.\\(10^{-4}\\)J"
                 },
                 {
                     "id": "B",
-                    "content": "16,5.10^-4J"
+                    "content": "16,5.\\(10^{-4}\\)J"
                 },
                 {
                     "id": "C",
-                    "content": "15,5.10^-4J"
+                    "content": "15,5.\\(10^{-4}\\)J"
                 },
                 {
                     "id": "D",
-                    "content": "13,5.10^-4J"
+                    "content": "13,5.\\(10^{-4}\\)J"
                 }
             ],
             "answer": "D",
-            "explain": "Công dịch chuyển điện tích q từ M cách Q khoảng r1 đến N bất kỳ trên mặt cầu r2: A = k.Q.q * (1/r1 - 1/r2) = 9.10^9 * 5.10^-6 * 10^-9 * (1/0.02 - 1/0.05) = 45.10^-6 * 30 = 13.5.10^-4 J.",
+            "explain": "Công dịch chuyển điện tích q từ M cách Q khoảng r1 đến N bất kỳ trên mặt cầu r2: A = k.Q.q * (1/r1 - 1/r2) = 9.\\(10^{9}\\) * 5.\\(10^{-6}\\) * \\(10^{-9}\\) * (1/0.02 - 1/0.05) = 45.\\(10^{-6}\\) * 30 = 13.5.\\(10^{-4}\\) J.",
             "topic": "Điện trường"
         },
         {
@@ -830,27 +830,27 @@
         },
         {
             "id": 34,
-            "question": "Hai điện tích điểm q1= +6.10^-8C và q2 = -6.10^-8C được đặt cố định tại hai điểm A và B cách nhau một khoảng 4cm, trong không khí. Tìm lực tác dụng lên một điện tích điểm q = +2.10^-9C đặt tại điểm O giữa A và B. Cho k=9.10^9Nm2/C2",
+            "question": "Hai điện tích điểm q1= +6.\\(10^{-8}\\)C và q2 = -6.\\(10^{-8}\\)C được đặt cố định tại hai điểm A và B cách nhau một khoảng 4cm, trong không khí. Tìm lực tác dụng lên một điện tích điểm q = +2.\\(10^{-9}\\)C đặt tại điểm O giữa A và B. Cho k=9.\\(10^{9}\\)Nm2/C2",
             "options": [
                 {
                     "id": "A",
-                    "content": "54.10^-3N"
+                    "content": "54.\\(10^{-3}\\)N"
                 },
                 {
                     "id": "B",
-                    "content": "54.10^4N"
+                    "content": "54.\\(10^{4}\\)N"
                 },
                 {
                     "id": "C",
-                    "content": "54.10^-2N"
+                    "content": "54.\\(10^{-2}\\)N"
                 },
                 {
                     "id": "D",
-                    "content": "54.10^-4N"
+                    "content": "54.\\(10^{-4}\\)N"
                 }
             ],
             "answer": "A",
-            "explain": "q1 = 6.10^-8 C (A), q2 = -6.10^-8 C (B), q = 2.10^-9 C đặt tại trung điểm O. Cả hai lực do q1 đẩy và q2 hút q đều hướng từ A sang B: F = F1 + F2 = 2 * k.q1.q / (d/2)^2 = 2 * 9.10^9 * 6.10^-8 * 2.10^-9 / 0.02^2 = 54.10^-3 N.",
+            "explain": "q1 = 6.\\(10^{-8}\\) C (A), q2 = -6.\\(10^{-8}\\) C (B), q = 2.\\(10^{-9}\\) C đặt tại trung điểm O. Cả hai lực do q1 đẩy và q2 hút q đều hướng từ A sang B: F = F1 + F2 = 2 * k.q1.q / (d/2)^2 = 2 * 9.\\(10^{9}\\) * 6.\\(10^{-8}\\) * 2.\\(10^{-9}\\) / 0.02^2 = 54.\\(10^{-3}\\) N.",
             "topic": "Điện trường"
         },
         {
@@ -859,19 +859,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "2 1 4 oV dV rE r r πε ε=∫ "
+                    "content": "2 1 4 oV dV rE r r \\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
                 },
                 {
                     "id": "B",
-                    "content": "2 . . k q rE r rε= "
+                    "content": "2 . . k q rE r r\\(\\varepsilon\\)= "
                 },
                 {
                     "id": "C",
-                    "content": "2 1 4 oL dl rE r r λ πε ε=∫ "
+                    "content": "2 1 4 oL dl rE r r \\(\\lambda\\) \\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
                 },
                 {
                     "id": "D",
-                    "content": "2 1 4 oS dS rE r r σ πε ε=∫ "
+                    "content": "2 1 4 oS dS rE r r \\(\\sigma\\) \\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
                 }
             ],
             "answer": "B",
@@ -880,52 +880,52 @@
         },
         {
             "id": 36,
-            "question": "Biểu thức cường độ điện trường do sợi dây mảnh tích điện với mật độ λ sinh ra là",
+            "question": "Biểu thức cường độ điện trường do sợi dây mảnh tích điện với mật độ \\(\\lambda\\) sinh ra là",
             "options": [
                 {
                     "id": "A",
-                    "content": "2 . . k q rE r rε= "
+                    "content": "2 . . k q rE r r\\(\\varepsilon\\)= "
                 },
                 {
                     "id": "B",
-                    "content": "2 1 4 oL dl rE r r λ πε ε=∫ "
+                    "content": "2 1 4 oL dl rE r r \\(\\lambda\\) \\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
                 },
                 {
                     "id": "C",
-                    "content": "2 1 4 oV dV rE r r πε ε=∫ "
+                    "content": "2 1 4 oV dV rE r r \\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
                 },
                 {
                     "id": "D",
-                    "content": "2 1 4 oS dS rE r r σ πε ε=∫ "
+                    "content": "2 1 4 oS dS rE r r \\(\\sigma\\) \\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
                 }
             ],
             "answer": "B",
-            "explain": "Cường độ điện trường do sợi dây mảnh tích điện mật độ lamda: E = 1/(4pi.e0.e) * \\int_L (lamda.dl / r^3) * r.",
+            "explain": "Cường độ điện trường do sợi dây mảnh tích điện mật độ \\(\\lambda\\): E = 1/(4pi.e0.e) * \\int_L (\\(\\lambda\\).dl / r^3) * r.",
             "topic": "Điện trường"
         },
         {
             "id": 37,
-            "question": "Biểu thức cường độ điện trường do mặt S tích điện với mật độ σ sinh ra là",
+            "question": "Biểu thức cường độ điện trường do mặt S tích điện với mật độ \\(\\sigma\\) sinh ra là",
             "options": [
                 {
                     "id": "A",
-                    "content": "2 1 4 oL dl rE r r λ πε ε=∫ "
+                    "content": "2 1 4 oL dl rE r r \\(\\lambda\\) \\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
                 },
                 {
                     "id": "B",
-                    "content": "2 1 4 oS dS rE r r σ πε ε=∫ "
+                    "content": "2 1 4 oS dS rE r r \\(\\sigma\\) \\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
                 },
                 {
                     "id": "C",
-                    "content": "2 1 4 oV dV rE r r πε ε=∫ "
+                    "content": "2 1 4 oV dV rE r r \\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
                 },
                 {
                     "id": "D",
-                    "content": "2 . . k q rE r rε= "
+                    "content": "2 . . k q rE r r\\(\\varepsilon\\)= "
                 }
             ],
             "answer": "B",
-            "explain": "Cường độ điện trường do mặt phẳng tích điện mật độ sigma: E = 1/(4pi.e0.e) * \\int_S (sigma.dS / r^3) * r.",
+            "explain": "Cường độ điện trường do mặt phẳng tích điện mật độ \\(\\sigma\\): E = 1/(4pi.e0.e) * \\int_S (\\(\\sigma\\).dS / r^3) * r.",
             "topic": "Điện trường"
         },
         {
@@ -934,19 +934,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "1 2 1 2 2 2 . . .1 4 o q q k q qr rF r r r rπε= = "
+                    "content": "1 2 1 2 2 2 . . .1 4 o q q k q qr rF r r r r\\(\\pi\\)\\(\\varepsilon\\)= = "
                 },
                 {
                     "id": "B",
-                    "content": "1 212 12 3 121, 2 1 4 oQ Q dq dqF r rπε ε= ∫∫ "
+                    "content": "1 212 12 3 121, 2 1 4 oQ Q dq dqF r r\\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)= ∫∫ "
                 },
                 {
                     "id": "C",
-                    "content": "1 1 2 3 1 4 oQ dq dqF r rπε ε=∫ "
+                    "content": "1 1 2 3 1 4 oQ dq dqF r r\\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)=∫ "
                 },
                 {
                     "id": "D",
-                    "content": "1 212 12 3 2 1 4 oQ dq dqF r rπε ε= ∫ "
+                    "content": "1 212 12 3 2 1 4 oQ dq dqF r r\\(\\pi\\)\\(\\varepsilon\\) \\(\\varepsilon\\)= ∫ "
                 }
             ],
             "answer": "B",
@@ -955,7 +955,7 @@
         },
         {
             "id": 39,
-            "question": "Hai điện tích điểm q1 = 2q2 = 3.10^-9C đặt cách nhau 10cm trong chân không. Hiệu điện thế tại hai điểm đặt hai điện tích là",
+            "question": "Hai điện tích điểm q1 = 2q2 = 3.\\(10^{-9}\\)C đặt cách nhau 10cm trong chân không. Hiệu điện thế tại hai điểm đặt hai điện tích là",
             "options": [
                 {
                     "id": "A",
@@ -975,12 +975,12 @@
                 }
             ],
             "answer": "B",
-            "explain": "Hiệu điện thế U12 = |V1 - V2|. Điện thế do q2 gây ra tại q1: V1 = k.q2/d = 9.10^9 * 1.5.10^-9 / 0.1 = 135 V. Điện thế do q1 gây ra tại q2: V2 = k.q1/d = 9.10^9 * 3.10^-9 / 0.1 = 270 V. Hiệu điện thế U12 = 270 - 135 = 135 V.",
+            "explain": "Hiệu điện thế U12 = |V1 - V2|. Điện thế do q2 gây ra tại q1: V1 = k.q2/d = 9.\\(10^{9}\\) * 1.5.\\(10^{-9}\\) / 0.1 = 135 V. Điện thế do q1 gây ra tại q2: V2 = k.q1/d = 9.\\(10^{9}\\) * 3.\\(10^{-9}\\) / 0.1 = 270 V. Hiệu điện thế U12 = 270 - 135 = 135 V.",
             "topic": "Điện trường"
         },
         {
             "id": 40,
-            "question": "Đem hai quả cầu nhỏ bằng kim loại có kích thước giống nhau, mang điện tích lúc đầu khác nhau, cho tiếp xúc với nhau rồi đem đặt trong chân không cách nhau 5cm. Tính lực tương tác điện giữa 2 quả cầu biết điện tích lúc đầu của hai quả cầu là q1 = 3.10- 6C, q2 = 10^-6C?",
+            "question": "Đem hai quả cầu nhỏ bằng kim loại có kích thước giống nhau, mang điện tích lúc đầu khác nhau, cho tiếp xúc với nhau rồi đem đặt trong chân không cách nhau 5cm. Tính lực tương tác điện giữa 2 quả cầu biết điện tích lúc đầu của hai quả cầu là q1 = 3.10- 6C, q2 = \\(10^{-6}\\)C?",
             "options": [
                 {
                     "id": "A",
@@ -1000,32 +1000,32 @@
                 }
             ],
             "answer": "B",
-            "explain": "Khi tiếp xúc, điện tích chia đều: q1' = q2' = (q1+q2)/2 = (3.10^-6 + 10^-6)/2 = 2.10^-6 C. Lực tương tác tĩnh điện: F = k.q1'.q2' / d^2 = 9.10^9 * (2.10^-6)^2 / 0.05^2 = 14.4 N.",
+            "explain": "Khi tiếp xúc, điện tích chia đều: q1' = q2' = (q1+q2)/2 = (3.\\(10^{-6}\\) + \\(10^{-6}\\))/2 = 2.\\(10^{-6}\\) C. Lực tương tác tĩnh điện: F = k.q1'.q2' / d^2 = 9.\\(10^{9}\\) * (2.\\(10^{-6}\\))^2 / 0.05^2 = 14.4 N.",
             "topic": "Điện trường"
         },
         {
             "id": 41,
-            "question": "Tính lực tương tác tĩnh điện giữa một êlectron và một prôtôn nếu khoảng cách giữa chúng bằng 5.10^-9 cm. Coi rằng êlectron và prôtôn là những điện tích điểm?",
+            "question": "Tính lực tương tác tĩnh điện giữa một êlectron và một prôtôn nếu khoảng cách giữa chúng bằng 5.\\(10^{-9}\\) cm. Coi rằng êlectron và prôtôn là những điện tích điểm?",
             "options": [
                 {
                     "id": "A",
-                    "content": "9,2.10^-8N"
+                    "content": "9,2.\\(10^{-8}\\)N"
                 },
                 {
                     "id": "B",
-                    "content": "9,2.10^-12N"
+                    "content": "9,2.\\(10^{-12}\\)N"
                 },
                 {
                     "id": "C",
-                    "content": "4,6.10^-18N"
+                    "content": "4,6.\\(10^{-18}\\)N"
                 },
                 {
                     "id": "D",
-                    "content": "9,2.10^-18N"
+                    "content": "9,2.\\(10^{-18}\\)N"
                 }
             ],
             "answer": "A",
-            "explain": "Lực tĩnh điện giữa electron và proton cách d = 5.10^-9 cm = 5.10^-11 m: F = k.e^2 / d^2 = 9.10^9 * (1.6.10^-19)^2 / (5.10^-11)^2 = 9.2.10^-8 N.",
+            "explain": "Lực tĩnh điện giữa electron và proton cách d = 5.\\(10^{-9}\\) cm = 5.\\(10^{-11}\\) m: F = k.e^2 / d^2 = 9.\\(10^{9}\\) * (1.6.\\(10^{-19}\\))^2 / (5.\\(10^{-11}\\))^2 = 9.2.\\(10^{-8}\\) N.",
             "topic": "Điện trường"
         }
     ]

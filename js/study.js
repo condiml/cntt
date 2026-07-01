@@ -339,6 +339,10 @@ function renderTopicDetail(topic) {
 
     // Scroll to top
     document.querySelector('.study-content')?.scrollTo(0, 0);
+
+    if (window.MathJax && window.MathJax.typesetPromise) {
+        window.MathJax.typesetPromise();
+    }
 }
 
 function getTopicQuestionCount(topic) {
