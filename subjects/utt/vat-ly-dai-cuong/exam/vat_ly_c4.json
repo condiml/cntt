@@ -155,23 +155,23 @@
         },
         {
             "id": 7,
-            "question": "Vật chuyển động trên đường ngang với vận tốc v, biết lực F không đổi, luôn tạo với phương ngang một góc  như hình vẽ. Công của lực F trên đoạn đường s được tính bằng biểu thức nào sau đây?",
+            "question": "Vật chuyển động trên đường ngang với vận tốc v, biết lực F không đổi, luôn tạo với phương ngang một góc \\(\\alpha\\) như hình vẽ. Công của lực F trên đoạn đường s được tính bằng biểu thức nào sau đây?",
             "options": [
                 {
                     "id": "A",
-                    "content": "cos..sFA="
+                    "content": "\\(A = F s \\cos\\alpha\\)"
                 },
                 {
                     "id": "B",
-                    "content": "cos..sFA -= FS F M M’ S"
+                    "content": "\\(A = - F s \\cos\\alpha\\)"
                 },
                 {
                     "id": "C",
-                    "content": "sin..sFA="
+                    "content": "\\(A = F s \\sin\\alpha\\)"
                 },
                 {
                     "id": "D",
-                    "content": " ∫-= s dsFA cos.."
+                    "content": "\\(A = \\int_0^s F \\cos\\alpha ds\\)"
                 }
             ],
             "answer": "A",
@@ -188,7 +188,7 @@
                 },
                 {
                     "id": "B",
-                    "content": "Luôn có biểu thức tính  ∫-= s msms dsFA ."
+                    "content": "Luôn có biểu thức tính \\(A_{ms} = -\\int_0^s F_{ms} ds\\)"
                 },
                 {
                     "id": "C",
@@ -434,15 +434,15 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "∫ \\(\\Delta\\)= \\(\\theta\\)  0 dMA"
+                    "content": "\\(A = \\int_0^\\theta M_{\\Delta} d\\varphi\\)"
                 },
                 {
                     "id": "B",
-                    "content": "∫ \\(\\Delta\\)= 2 1 .. t t dMA \\(\\omega\\)"
+                    "content": "\\(A = \\int_{t_1}^{t_2} M_{\\Delta} \\omega dt\\)"
                 },
                 {
                     "id": "C",
-                    "content": "122 1 \\(\\omega\\)\\(\\omega\\) -= \\(\\Delta\\)IA"
+                    "content": "\\(A = \\frac{1}{2} I_{\\Delta} (\\omega_2^2 - \\omega_1^2)\\)"
                 },
                 {
                     "id": "D",
@@ -509,19 +509,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": " 232 1 vmMEd +="
+                    "content": "\\(W_đ = \\frac{1}{2} (M + 6m) v^2\\)"
                 },
                 {
                     "id": "B",
-                    "content": " 222 1 vmMEd +="
+                    "content": "\\(W_đ = \\frac{1}{2} (M + 4m) v^2\\)"
                 },
                 {
                     "id": "C",
-                    "content": " 242 1 vmMEd +="
+                    "content": "\\(W_đ = \\frac{1}{2} (M + 8m) v^2\\)"
                 },
                 {
                     "id": "D",
-                    "content": " 262 1 vmMEd +="
+                    "content": "\\(W_đ = \\frac{1}{2} (M + 12m) v^2\\)"
                 }
             ],
             "answer": "D",

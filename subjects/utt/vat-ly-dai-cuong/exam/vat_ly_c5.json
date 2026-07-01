@@ -605,7 +605,7 @@
         },
         {
             "id": 25,
-            "question": "Một kmol khí được nung nóng đẳng áp từ 17˚C đến 75˚C. Công mà khí đã thực hiện được có giá trị xấp xỉ:",
+            "question": "Một kmol khí được nung nóng đẳng áp từ 17°C đến 75°C. Công mà khí đã thực hiện được có giá trị xấp xỉ:",
             "options": [
                 {
                     "id": "A",
@@ -846,7 +846,7 @@
                 },
                 {
                     "id": "D",
-                    "content": "12 /ln. VVnRTA="
+                    "content": "\\(A = n R T \\ln(V_2 / V_1)\\)"
                 }
             ],
             "answer": "D",

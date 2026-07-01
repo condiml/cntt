@@ -92,7 +92,7 @@
                 },
                 {
                     "id": "C",
-                    "content": "Độ tăng bước sóng được tính theo công thức ∆\\(\\lambda\\)= 2\\(\\lambda\\)஼ sin^2(\\(\\theta\\)/2)"
+                    "content": "\\(\\Delta\\lambda = 2\\lambda_C \\sin^2(\\theta/2)\\)"
                 },
                 {
                     "id": "D",
@@ -117,7 +117,7 @@
                 },
                 {
                     "id": "C",
-                    "content": "Trong mọi môi trường các photon truyền đi với cùng vận tốc c = 3. 10଼𝑚/𝑠"
+                    "content": "Trong mọi môi trường các photon truyền đi với cùng vận tốc \\(c = 3 \\cdot 10^8\\) m/s"
                 },
                 {
                     "id": "D",
@@ -305,7 +305,7 @@
         },
         {
             "id": 13,
-            "question": "Độ dài bước sóng của photon có năng lượng 3,2. \\(10^{-1}\\)ଽ𝐽 là:",
+            "question": "Độ dài bước sóng của photon có năng lượng \\(3,2 \\cdot 10^{-19}\\) J là:",
             "options": [
                 {
                     "id": "A",
@@ -880,7 +880,7 @@
         },
         {
             "id": 36,
-            "question": "Dựa vào định luật Stefan-Boltzmann, hãy xác định công suất phát xạ của mặt trời trong 1 giây. Biết nhiệt độ của bề mặt mặt trời khoảng 6000 𝐾. Và mặt trời có bán kính 6,95. 10଼𝑚. Coi mặt trời là vật đen tuyệt đối.",
+            "question": "Dựa vào định luật Stefan-Boltzmann, hãy xác định công suất phát xạ của mặt trời trong 1 giây. Biết nhiệt độ của bề mặt mặt trời khoảng 6000 𝐾. Và mặt trời có bán kính 6,95. \\(6,95 \\cdot 10^8\\) m. Coi mặt trời là vật đen tuyệt đối.",
             "options": [
                 {
                     "id": "A",
@@ -1134,19 +1134,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "3,52. \\(10^{-1}\\)ଽkg.𝑚/𝑠"
+                    "content": "\\(3,52 \\cdot 10^{-19}\\) kg.m/s"
                 },
                 {
                     "id": "B",
-                    "content": "10,1. \\(10^{-1}\\)ଽkg.𝑚/𝑠"
+                    "content": "\\(10,1 \\cdot 10^{-19}\\) kg.m/s"
                 },
                 {
                     "id": "C",
-                    "content": "2,2. \\(10^{-1}\\)ଽkg.𝑚/𝑠"
+                    "content": "\\(2,2 \\cdot 10^{-19}\\) kg.m/s"
                 },
                 {
                     "id": "D",
-                    "content": "6,3. \\(10^{-1}\\)ଽkg.𝑚/𝑠"
+                    "content": "\\(6,3 \\cdot 10^{-19}\\) kg.m/s"
                 }
             ],
             "answer": "A",

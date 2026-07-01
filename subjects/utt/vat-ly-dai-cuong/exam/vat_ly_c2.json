@@ -259,19 +259,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "lkFht \\(\\Delta\\)= ."
+                    "content": "\\(F_{ht} = k \\Delta l\\)"
                 },
                 {
                     "id": "B",
-                    "content": "mgFht = ."
+                    "content": "\\(F_{ht} = m g\\)"
                 },
                 {
                     "id": "C",
-                    "content": "rmFht 2= ."
+                    "content": "\\(F_{ht} = m \\omega^2 r\\)"
                 },
                 {
                     "id": "D",
-                    "content": "mgFht \\(\\mu\\)= ."
+                    "content": "\\(F_{ht} = \\mu m g\\)"
                 }
             ],
             "answer": "C",
@@ -546,7 +546,7 @@
                 },
                 {
                     "id": "D",
-                    "content": "Định luật I Newton là trường hợp riêng của định luật II Newton khi tổng hợp các ngoại lực tác dụng lên hệ bằng không (𝐹⃗= 0)"
+                    "content": "Định luật I Newton là trường hợp riêng của định luật II Newton khi tổng hợp các ngoại lực tác dụng lên hệ bằng không (\\(\\vec{F} = 0\\))"
                 }
             ],
             "answer": "C",
@@ -630,23 +630,23 @@
         },
         {
             "id": 26,
-            "question": "Vectơ động lượng 𝑃ሬ⃗ của chất điểm được định nghĩa bởi công thức nào sau đây? (𝑣⃗, a⃗, m tương ứng là vận tốc, gia tốc và khối lượng của chất điểm).",
+            "question": "Vectơ động lượng \\(\\vec{p}\\) của chất điểm được định nghĩa bởi công thức nào sau đây? (\\(\\vec{v}\\), \\(\\vec{a}\\), \\(m\\) tương ứng là vận tốc, gia tốc và khối lượng của chất điểm).",
             "options": [
                 {
                     "id": "A",
-                    "content": "𝑝=𝑚𝑣⃗"
+                    "content": "\\(p = m \\vec{v}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "𝑝⃗ =𝑚𝑣⃗"
+                    "content": "\\(\\vec{p} = m \\vec{v}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "𝑝⃗ =𝑚a⃗"
+                    "content": "\\(\\vec{p} = m \\vec{a}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "p = mv"
+                    "content": "\\(p = m v\\)"
                 }
             ],
             "answer": "B",
@@ -805,7 +805,7 @@
         },
         {
             "id": 33,
-            "question": "Khẩu pháo có khối lương M = 450 kg, nhả đạn theo phương hợp với phương ngang một góc =600. Đạn có khối lượng m = 10 kg, rời nòng với vận tốc v = 450 m/s. Khi bắn, pháo bị giật lùi về phía sau với vận tốc bao nhiêu? (coi nền đất tuyệt đối cứng).",
+            "question": "Khẩu pháo có khối lương M = 450 kg, nhả đạn theo phương hợp với phương ngang một góc \\(\\alpha = 60^\\circ\\). Đạn có khối lượng m = 10 kg, rời nòng với vận tốc v = 450 m/s. Khi bắn, pháo bị giật lùi về phía sau với vận tốc bao nhiêu? (coi nền đất tuyệt đối cứng).",
             "options": [
                 {
                     "id": "A",
@@ -909,19 +909,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "mmgFa\\(\\mu\\)-=cos"
+                    "content": "\\(a = \\frac{F \\cos\\alpha - \\mu m g}{m}\\)"
                 },
                 {
                     "id": "B",
-                    "content": " mmgFa\\(\\mu\\)\\(\\mu\\)-+=sincos"
+                    "content": "\\(a = \\frac{F(\\cos\\alpha + \\mu \\sin\\alpha) - \\mu m g}{m}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "mFacos="
+                    "content": "\\(a = \\frac{F \\cos\\alpha}{m}\\)"
                 },
                 {
                     "id": "D",
-                    "content": " mmgFa\\(\\mu\\)\\(\\mu\\)--=sincos"
+                    "content": "\\(a = \\frac{F(\\cos\\alpha - \\mu \\sin\\alpha) - \\mu m g}{m}\\)"
                 }
             ],
             "answer": "B",
@@ -934,19 +934,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": " mFa\\(\\mu\\)sincos+="
+                    "content": "\\(a = \\frac{F(\\cos\\alpha + \\mu \\sin\\alpha)}{m}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "mgFasincos\\(\\mu\\)-="
+                    "content": "\\(a = \\frac{F \\cos\\alpha - \\mu m g}{m}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "mFacos="
+                    "content": "\\(a = \\frac{F \\cos\\alpha}{m}\\)"
                 },
                 {
                     "id": "D",
-                    "content": " mmgFa\\(\\mu\\)\\(\\mu\\)--=sincos ================================================ )  m m )  m m"
+                    "content": "\\(a = \\frac{F(\\cos\\alpha - \\mu \\sin\\alpha) - \\mu m g}{m}\\)"
                 }
             ],
             "answer": "D",

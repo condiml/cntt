@@ -530,23 +530,23 @@
         },
         {
             "id": 22,
-            "question": "Dòng điện cảm ứng chạy trong một mạch kín có điện trở R, khi từ thông ф thay đổi thì cường độ dòng cảm ứng ở mỗi thời điểm xác định bằng công thức:",
+            "question": "Dòng điện cảm ứng chạy trong một mạch kín có điện trở R, khi từ thông \\(\\Phi\\) thay đổi thì cường độ dòng cảm ứng ở mỗi thời điểm xác định bằng công thức:",
             "options": [
                 {
                     "id": "A",
-                    "content": "di dt \\(\\Phi\\)= -"
+                    "content": "\\(i = -\\frac{d\\Phi}{dt}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "di dt \\(\\Phi\\)="
+                    "content": "\\(i = \\frac{d\\Phi}{dt}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "1 di R dt \\(\\Phi\\)="
+                    "content": "\\(i = \\frac{1}{R} \\frac{d\\Phi}{dt}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "1 di R dt \\(\\Phi\\)= -"
+                    "content": "\\(i = -\\frac{1}{R} \\frac{d\\Phi}{dt}\\)"
                 }
             ],
             "answer": "D",

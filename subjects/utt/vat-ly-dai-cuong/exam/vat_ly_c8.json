@@ -80,7 +80,7 @@
         },
         {
             "id": 4,
-            "question": "Hạt tích điện q chuyển động với vận tốc v trong từ trường B sẽ chịu tác dụng của lực Lorentz F q v B[ = × ]  . Lực này sẽ có tính chất nào sau đây:",
+            "question": "Hạt tích điện q chuyển động với vận tốc v trong từ trường B sẽ chịu tác dụng của lực Lorentz \\(\\vec{F} = q [\\vec{v} \\times \\vec{B}]\\)  . Lực này sẽ có tính chất nào sau đây:",
             "options": [
                 {
                     "id": "A",
@@ -559,19 +559,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "(S) Bd S 0 → → =∫∇"
+                    "content": "\\(\\oint_S \\vec{B} \\cdot d\\vec{S} = 0\\)"
                 },
                 {
                     "id": "B",
-                    "content": "(S) E d S 0 → → =∫∇"
+                    "content": "\\(\\oint_S \\vec{E} \\cdot d\\vec{S} = 0\\)"
                 },
                 {
                     "id": "C",
-                    "content": "i i(S) Bd S q → → =Σ∫∇"
+                    "content": "\\(\\oint_S \\vec{B} \\cdot d\\vec{S} = \\sum q_i\\)"
                 },
                 {
                     "id": "D",
-                    "content": "k k(C) H d I → → =Σ∫ \\(\\lambda\\)∇"
+                    "content": "\\(\\oint_C \\vec{H} \\cdot d\\vec{l} = \\sum I_k\\)"
                 }
             ],
             "answer": "A",
@@ -659,19 +659,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": " 1 2cos cos4 oIH R \\(\\mu\\)\\(\\mu\\) \\(\\theta\\) \\(\\theta\\)\\(\\pi\\)= -"
+                    "content": "\\(H = \\frac{I}{4\\pi R} (\\cos\\theta_1 - \\cos\\theta_2)\\)"
                 },
                 {
                     "id": "B",
-                    "content": "4 oIH R \\(\\mu\\)\\(\\mu\\) \\(\\pi\\)="
+                    "content": "\\(H = \\frac{I}{4\\pi R}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "2 IH R\\(\\pi\\)="
+                    "content": "\\(H = \\frac{I}{2\\pi R}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "2 IH R="
+                    "content": "\\(H = \\frac{I}{2R}\\)"
                 }
             ],
             "answer": "D",

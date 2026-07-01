@@ -509,15 +509,15 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "ta r \\(\\beta\\)[ = × ]"
+                    "content": "\\(\\vec{a}_t = [\\vec{\\beta} \\times \\vec{r}]\\)"
                 },
                 {
                     "id": "B",
-                    "content": "[]R v \\(\\omega\\)= ×"
+                    "content": "\\(\\vec{v} = [\\vec{\\omega} \\times \\vec{r}]\\)"
                 },
                 {
                     "id": "C",
-                    "content": "[]tr a\\(\\beta\\) = ×"
+                    "content": "\\(\\vec{a}_t = [\\vec{r} \\times \\vec{\\beta}]\\)"
                 },
                 {
                     "id": "D",
@@ -559,15 +559,15 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "[]v r \\(\\omega\\)= ×"
+                    "content": "\\(\\vec{v} = [\\vec{\\omega} \\times \\vec{r}]\\)"
                 },
                 {
                     "id": "B",
-                    "content": "ta r \\(\\beta\\)[ = × ]"
+                    "content": "\\(\\vec{a}_t = [\\vec{\\beta} \\times \\vec{r}]\\)"
                 },
                 {
                     "id": "C",
-                    "content": "kdt zdjdt ydidt xda ... 2 2 2 2 2 2 ++="
+                    "content": "\\(a^2 = a_x^2 + a_y^2 + a_z^2\\)"
                 },
                 {
                     "id": "D",
@@ -930,7 +930,7 @@
         },
         {
             "id": 38,
-            "question": "Chất điểm M chuyển động trên đường tròn bán kính R = 5m với phương trình: tts += 33 (hệ SI). Trong đó s là độ dài cung MO , O là điểm mốc trên đường tròn. Tính quãng đường chất điểm đã đi trong 2 giây đầu tiên.",
+            "question": "Chất điểm M chuyển động trên đường tròn bán kính R = 5m với phương trình: tts += 33 (hệ SI). Trong đó s là độ dài cung MO , O là điểm mốc trên đường tròn. Tính quãng đường chất điểm đã đi trong 2 giây đầu tiên.",
             "options": [
                 {
                     "id": "A",
