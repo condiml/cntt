@@ -13,6 +13,11 @@ let notebookBtn, practiceAllBtn;
 let sidebar, sidebarToggle;
 
 async function initStudy() {
+    studyTopics = [];
+    currentTopicIdx = null;
+    currentChapter = 'all';
+    ensureStudyOverlay();
+
     // Ensure subject config is loaded first
     await loadSubjectsList();
     await loadCurrentSubjectConfig();
@@ -70,6 +75,14 @@ async function initStudy() {
             }, 100);
         }
     }
+}
+
+function ensureStudyOverlay() {
+    if (document.querySelector('.sidebar-overlay')) return;
+
+    const overlay = document.createElement('div');
+    overlay.className = 'sidebar-overlay';
+    document.body.appendChild(overlay);
 }
 
 
@@ -138,12 +151,8 @@ function initStudyEventListeners() {
     });
 
     // Close sidebar on overlay click
-    document.addEventListener('click', (e) => {
-        if (e.target.classList.contains('sidebar-overlay')) {
-            sidebar?.classList.remove('active');
-            e.target.classList.remove('active');
-        }
-    });
+    document.removeEventListener('click', handleStudyOverlayClick);
+    document.addEventListener('click', handleStudyOverlayClick);
 
     // Close video
     document.getElementById('close-video')?.addEventListener('click', closeVideo);
@@ -159,6 +168,13 @@ function initStudyEventListeners() {
     document.getElementById('share-topic-btn')?.addEventListener('click', () => {
         if (currentTopicIdx !== null) shareTopic(currentTopicIdx);
     });
+}
+
+function handleStudyOverlayClick(e) {
+    if (e.target.classList.contains('sidebar-overlay')) {
+        sidebar?.classList.remove('active');
+        e.target.classList.remove('active');
+    }
 }
 
 function renderTopicList() {
@@ -464,10 +480,13 @@ function shareTopic(idx) {
 
 // Add sidebar overlay to body
 document.addEventListener('DOMContentLoaded', () => {
-    const overlay = document.createElement('div');
-    overlay.className = 'sidebar-overlay';
-    document.body.appendChild(overlay);
+    ensureStudyOverlay();
 });
+
+function teardownStudy() {
+    closeVideo();
+    document.removeEventListener('click', handleStudyOverlayClick);
+}
 
 // Initialize on load
 document.addEventListener('DOMContentLoaded', initStudy);

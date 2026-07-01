@@ -22,7 +22,23 @@ let reviewWrongBtn, modalRestartBtn, backToStudyBtn;
 // Practice mode flag
 let isPracticeMode = false;
 
+function getQuestionKey(q) {
+    if (!q) return '';
+    const source = q.file || q.chapter || '';
+    const id = q.id ?? q.text ?? q.question ?? '';
+    return `${source}:${id}`;
+}
+
 async function initExam() {
+    examQuestions = [];
+    examIndex = 0;
+    examAnswers = {};
+    examScore = 0;
+    wrongAnswers = [];
+    waitingForContinue = false;
+    hintUsed = false;
+    isPracticeMode = false;
+
     // Wait for common.js initialization to complete if possible, 
     // but better to just ensure we have data we need using the shared functions.
     // They handle being called multiple times generally (caching might be needed if they don't).
@@ -58,7 +74,7 @@ async function initExam() {
                     // Update title
                     const examTitle = document.getElementById('exam-title');
                     if (examTitle && practiceTopicName) {
-                        examTitle.innerHTML = `📝 Luyện tập: ${practiceTopicName}`;
+                        examTitle.textContent = `📝 Luyện tập: ${practiceTopicName}`;
                     }
                     // Hide chapter select in practice mode
                     if (examChapterSelect) {
@@ -194,6 +210,7 @@ function initExamEventListeners() {
     backToStudyBtn?.addEventListener('click', goBackToStudy);
 
     // Keyboard shortcuts
+    document.removeEventListener('keydown', handleKeyboard);
     document.addEventListener('keydown', handleKeyboard);
 }
 
@@ -284,14 +301,14 @@ function renderExamQuestion() {
     q._type = type; // Store for valid checking
 
     // Render Question Text
-    let questionHtml = q.text || q.question;
+    let questionText = q.text || q.question;
     // For fill in blank, we might need to modify the text if placeholders are distinct
     if (type === 'fill_blank' || type === 'rewrite') {
         // Automatically convert text like "______" or "..." into input fields if specifically marked??
         // Current JSON has "question" including placeholders.
     }
 
-    if (examQuestionText) examQuestionText.innerHTML = questionHtml;
+    if (examQuestionText) examQuestionText.textContent = questionText;
 
     const answered = examAnswers[examIndex] !== undefined;
     let optionsHtml = '';
@@ -478,7 +495,7 @@ function selectExamAnswer(answerInput) {
         examScore += 10;
         updateStats({ totalCorrect: 1 });
     } else {
-        wrongAnswers.push(q.question);
+        wrongAnswers.push(getQuestionKey(q));
         examQuestionContainer?.classList.add('shake');
         setTimeout(() => {
             examQuestionContainer?.classList.remove('shake');
@@ -578,10 +595,7 @@ function showResultModal() {
 
     // Save Progress
     const subjectId = getCurrentSubjectId();
-    const correctCount = Object.values(examAnswers).filter((ans, idx) => {
-        const q = examQuestions[idx];
-        return q && ans === q.correct;
-    }).length;
+    const correctCount = correct;
     const totalCount = examQuestions.length;
 
     if (isPracticeMode) {
@@ -636,7 +650,8 @@ function startReviewWrong() {
         return;
     }
 
-    examQuestions = examQuestions.filter(q => wrongAnswers.includes(q.question));
+    const wrongKeys = new Set(wrongAnswers);
+    examQuestions = examQuestions.filter(q => wrongKeys.has(getQuestionKey(q)));
     shuffleArray(examQuestions);
     examIndex = 0;
     examAnswers = {};
@@ -711,3 +726,8 @@ function updateExamProgress() {
 
 // Initialize on load
 document.addEventListener('DOMContentLoaded', initExam);
+
+function teardownExam() {
+    document.removeEventListener('keydown', handleKeyboard);
+    closeModal();
+}

@@ -35,7 +35,7 @@
     ],
     "simulationConfig": {
         "totalQuestions": 60,
-        "timeMinutes": 60,
+        "timeLimit": 60,
         "distribution": [
             {
                 "chapter": 1,

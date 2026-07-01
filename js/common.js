@@ -123,6 +123,10 @@ function updateColorThemeUI(activeTheme) {
 // ===== Subject Management (Multi-Subject Support) =====
 let subjectsData = [];
 let currentSubjectData = null;
+let subjectsListPromise = null;
+let currentSubjectConfigPromise = null;
+let currentSubjectConfigId = null;
+let loadedQuizDataSubjectId = null;
 
 // List of disabled subjects that should not be accessible
 const DISABLED_SUBJECTS = [];
@@ -148,22 +152,45 @@ function setCurrentSubject(subjectId) {
     }
 
     localStorage.setItem('current-subject', subjectId);
-    window.location.reload();
+    currentSubjectData = null;
+    currentSubjectConfigPromise = null;
+    currentSubjectConfigId = null;
+    loadedQuizDataSubjectId = null;
+    window.quizData.chapters = [];
+    window.quizData.questions = [];
+    window.quizData.studyTopics = [];
+
+    if (window.__clientRouterReady) {
+        navigateSpa(window.location.href, { replace: true });
+    } else {
+        window.location.reload();
+    }
 }
 
 async function loadSubjectsList() {
-    try {
-        const response = await fetch('subjects.json?v=' + Date.now());
-        subjectsData = await response.json();
-        return subjectsData;
-    } catch (error) {
-        console.error('Error loading subjects:', error);
-        return [];
-    }
+    if (subjectsListPromise) return subjectsListPromise;
+
+    subjectsListPromise = (async () => {
+        try {
+            const response = await fetch('subjects.json?v=' + Date.now());
+            subjectsData = await response.json();
+            return subjectsData;
+        } catch (error) {
+            console.error('Error loading subjects:', error);
+            subjectsListPromise = null;
+            return [];
+        }
+    })();
+
+    return subjectsListPromise;
 }
 
 async function loadCurrentSubjectConfig() {
     const subjectId = getCurrentSubjectId();
+
+    if (currentSubjectConfigPromise && currentSubjectConfigId === subjectId) {
+        return currentSubjectConfigPromise;
+    }
 
     // Additional check to block disabled subjects
     if (DISABLED_SUBJECTS.includes(subjectId)) {
@@ -171,16 +198,25 @@ async function loadCurrentSubjectConfig() {
         return null;
     }
 
+    await loadSubjectsList();
     const subject = subjectsData.find(s => s.id === subjectId);
     if (!subject) return null;
-    try {
-        const response = await fetch(`${subject.path}/subject.json?v=${Date.now()}`);
-        currentSubjectData = await response.json();
-        return currentSubjectData;
-    } catch (error) {
-        console.error('Error loading subject config:', error);
-        return null;
-    }
+
+    currentSubjectConfigId = subjectId;
+    currentSubjectConfigPromise = (async () => {
+        try {
+            const response = await fetch(`${subject.path}/subject.json?v=${Date.now()}`);
+            currentSubjectData = await response.json();
+            return currentSubjectData;
+        } catch (error) {
+            console.error('Error loading subject config:', error);
+            currentSubjectConfigPromise = null;
+            currentSubjectConfigId = null;
+            return null;
+        }
+    })();
+
+    return currentSubjectConfigPromise;
 }
 
 function getExamFilesPath() {
@@ -252,7 +288,15 @@ window.quizData = {
 };
 
 
-async function loadAllData() {
+async function loadAllData(forceReload = false) {
+    const subjectId = getCurrentSubjectId();
+    if (!forceReload && loadedQuizDataSubjectId === subjectId && window.quizData.questions.length > 0) {
+        return window.quizData;
+    }
+
+    window.quizData.chapters = [];
+    window.quizData.questions = [];
+
     const files = getChapterFiles();
     console.log('Loading files:', files);
 
@@ -315,12 +359,16 @@ async function loadAllData() {
         }
     }
 
+    loadedQuizDataSubjectId = subjectId;
     return window.quizData;
 }
 
 async function loadStudyData() {
     try {
-        const response = await fetch(`study_data.json?v=${new Date().getTime()}`);
+        await loadSubjectsList();
+        const subject = subjectsData.find(s => s.id === getCurrentSubjectId());
+        const studyDataPath = subject ? `${subject.path}/study_data.json` : 'study_data.json';
+        const response = await fetch(`${studyDataPath}?v=${new Date().getTime()}`);
         if (!response.ok) throw new Error('Failed to load study data');
         window.quizData.studyTopics = await response.json();
         return window.quizData.studyTopics;
@@ -436,12 +484,214 @@ function initMobileMenu() {
     }
 }
 
-// Initialize common functionality
-document.addEventListener('DOMContentLoaded', async () => {
+// ===== Lightweight Client-side Navigation =====
+const SPA_PAGE_INITIALIZERS = {
+    'index.html': 'initDashboard',
+    'study.html': 'initStudy',
+    'exam.html': 'initExam',
+    'simulation.html': 'initSimulation'
+};
+
+const SPA_PAGE_TEARDOWNS = {
+    'study.html': 'teardownStudy',
+    'exam.html': 'teardownExam',
+    'simulation.html': 'teardownSimulation'
+};
+
+const SPA_LOADED_SCRIPTS = new Set();
+const SPA_EXECUTED_INLINE_SCRIPTS = new Set();
+
+function getPageNameFromUrl(url = window.location.href) {
+    const parsed = new URL(url, window.location.href);
+    return parsed.pathname.split('/').pop() || 'index.html';
+}
+
+function getScriptKey(src) {
+    return new URL(src, window.location.href).pathname;
+}
+
+function markExistingScriptsAsLoaded() {
+    document.querySelectorAll('script[src]').forEach(script => {
+        SPA_LOADED_SCRIPTS.add(getScriptKey(script.src));
+    });
+}
+
+function markExistingInlineScriptsAsExecuted() {
+    const pageName = getPageNameFromUrl();
+    document.body.querySelectorAll('script:not([src])').forEach((script, index) => {
+        if (script.textContent.trim()) {
+            SPA_EXECUTED_INLINE_SCRIPTS.add(`${pageName}:${index}`);
+        }
+    });
+}
+
+function initCommonPageChrome() {
     initTheme();
     checkDailyReset();
     highlightCurrentNav();
     initMobileMenu();
+}
+
+function shouldHandleSpaLink(link) {
+    if (!link || link.target || link.hasAttribute('download')) return false;
+    const url = new URL(link.href, window.location.href);
+    if (url.origin !== window.location.origin) return false;
+    if (!url.pathname.endsWith('.html') && url.pathname !== '/' && url.pathname !== '') return false;
+    return true;
+}
+
+function ensurePageStyles(doc) {
+    const existing = new Set(
+        Array.from(document.querySelectorAll('link[rel="stylesheet"]'))
+            .map(link => new URL(link.href, window.location.href).pathname)
+    );
+
+    doc.querySelectorAll('link[rel="stylesheet"]').forEach(link => {
+        const href = link.getAttribute('href');
+        if (!href) return;
+
+        const key = new URL(href, window.location.href).pathname;
+        if (existing.has(key)) return;
+
+        const nextLink = document.createElement('link');
+        nextLink.rel = 'stylesheet';
+        nextLink.href = href;
+        document.head.appendChild(nextLink);
+        existing.add(key);
+    });
+}
+
+function syncPageMetadata(doc) {
+    const nextTitle = doc.querySelector('title');
+    if (nextTitle) document.title = nextTitle.textContent;
+
+    const nextDescription = doc.querySelector('meta[name="description"]');
+    const currentDescription = document.querySelector('meta[name="description"]');
+    if (nextDescription && currentDescription) {
+        currentDescription.setAttribute('content', nextDescription.getAttribute('content') || '');
+    }
+}
+
+function loadExternalScript(src) {
+    const key = getScriptKey(src);
+    if (SPA_LOADED_SCRIPTS.has(key)) return Promise.resolve();
+
+    return new Promise((resolve, reject) => {
+        const script = document.createElement('script');
+        script.src = src;
+        script.onload = () => {
+            SPA_LOADED_SCRIPTS.add(key);
+            resolve();
+        };
+        script.onerror = () => reject(new Error(`Failed to load script: ${src}`));
+        document.head.appendChild(script);
+    });
+}
+
+async function executePageScripts(doc, pageName) {
+    const scripts = Array.from(doc.body.querySelectorAll('script'));
+
+    for (let index = 0; index < scripts.length; index++) {
+        const script = scripts[index];
+        const src = script.getAttribute('src');
+
+        if (src) {
+            await loadExternalScript(src);
+            continue;
+        }
+
+        const code = script.textContent.trim();
+        const inlineKey = `${pageName}:${index}`;
+        if (!code || SPA_EXECUTED_INLINE_SCRIPTS.has(inlineKey)) continue;
+
+        SPA_EXECUTED_INLINE_SCRIPTS.add(inlineKey);
+        (0, eval)(code);
+    }
+}
+
+async function initializeSpaPage(pageName) {
+    initCommonPageChrome();
+
+    const initName = SPA_PAGE_INITIALIZERS[pageName];
+    if (initName && typeof window[initName] === 'function') {
+        await window[initName]();
+    }
+
+    if (pageName === 'settings.html') {
+        if (typeof window.renderSubjectSelector === 'function') await window.renderSubjectSelector();
+        if (typeof window.initColorThemeUI === 'function') window.initColorThemeUI();
+        if (typeof window.renderCustomColors === 'function') window.renderCustomColors();
+        if (typeof window.updateThemeUI === 'function') window.updateThemeUI();
+    }
+}
+
+function teardownCurrentSpaPage() {
+    const teardownName = SPA_PAGE_TEARDOWNS[getPageNameFromUrl()];
+    if (teardownName && typeof window[teardownName] === 'function') {
+        window[teardownName]();
+    }
+}
+
+async function navigateSpa(url, { replace = false } = {}) {
+    const targetUrl = new URL(url, window.location.href);
+    const pageName = getPageNameFromUrl(targetUrl.href);
+
+    try {
+        document.documentElement.classList.add('spa-loading');
+        const response = await fetch(`${targetUrl.pathname}${targetUrl.search}`);
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+
+        const html = await response.text();
+        const doc = new DOMParser().parseFromString(html, 'text/html');
+
+        teardownCurrentSpaPage();
+        ensurePageStyles(doc);
+        syncPageMetadata(doc);
+        document.body.className = doc.body.className;
+        document.body.innerHTML = doc.body.innerHTML;
+
+        await executePageScripts(doc, pageName);
+
+        if (replace) history.replaceState({ spa: true }, '', targetUrl.href);
+        else history.pushState({ spa: true }, '', targetUrl.href);
+
+        await initializeSpaPage(pageName);
+        window.scrollTo(0, 0);
+    } catch (error) {
+        console.error('SPA navigation failed, falling back to full load:', error);
+        window.location.href = targetUrl.href;
+    } finally {
+        document.documentElement.classList.remove('spa-loading');
+    }
+}
+
+function initClientRouter() {
+    markExistingScriptsAsLoaded();
+    markExistingInlineScriptsAsExecuted();
+    window.__clientRouterReady = true;
+    history.replaceState({ spa: true }, '', window.location.href);
+
+    document.addEventListener('click', (event) => {
+        const link = event.target.closest('a[href]');
+        if (!shouldHandleSpaLink(link)) return;
+
+        const url = new URL(link.href, window.location.href);
+        const current = new URL(window.location.href);
+        if (url.pathname === current.pathname && url.search === current.search) return;
+
+        event.preventDefault();
+        navigateSpa(url.href);
+    });
+
+    window.addEventListener('popstate', () => {
+        navigateSpa(window.location.href, { replace: true });
+    });
+}
+
+// Initialize common functionality
+document.addEventListener('DOMContentLoaded', async () => {
+    initCommonPageChrome();
+    initClientRouter();
 
     // Initialize multi-subject support (for data loading, not header display)
     await loadSubjectsList();
