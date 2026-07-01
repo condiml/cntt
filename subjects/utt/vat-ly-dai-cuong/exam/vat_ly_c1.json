@@ -659,19 +659,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "."
+                    "content": "\\(v = \\omega r\\) và \\(a_{ht} = v r^2\\)"
                 },
                 {
                     "id": "B",
-                    "content": "r varv ht 2 ; ==\\(\\omega\\) ."
+                    "content": "\\(v = \\frac{\\omega}{r}\\) và \\(a_{ht} = \\frac{v^2}{r}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "r varv ht 2 ;. ==\\(\\omega\\) ."
+                    "content": "\\(v = \\omega r\\) và \\(a_{ht} = \\frac{v^2}{r}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "r varv ht == ;.\\(\\omega\\)"
+                    "content": "\\(v = \\frac{\\omega}{r}\\) và \\(a_{ht} = v^2 r\\)"
                 }
             ],
             "answer": "C",

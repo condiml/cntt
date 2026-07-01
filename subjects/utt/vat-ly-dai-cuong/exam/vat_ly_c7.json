@@ -609,19 +609,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "d S U QC 0.\\(\\varepsilon\\)\\(\\varepsilon\\)=="
+                    "content": "\\(C = \\frac{\\varepsilon_0 \\varepsilon S}{d}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "U QC="
+                    "content": "\\(C = \\frac{Q}{U}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "RC ..4 0\\(\\varepsilon\\)\\(\\varepsilon\\)\\(\\pi\\)="
+                    "content": "\\(C = 4\\pi\\varepsilon_0\\varepsilon R\\)"
                 },
                 {
                     "id": "D",
-                    "content": "V QC="
+                    "content": "\\(C = \\frac{Q}{V}\\)"
                 }
             ],
             "answer": "B",
@@ -634,19 +634,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "RC ..4 0\\(\\varepsilon\\)\\(\\varepsilon\\)\\(\\pi\\)="
+                    "content": "\\(C = 4\\pi\\varepsilon_0\\varepsilon R\\)"
                 },
                 {
                     "id": "B",
-                    "content": "d S U QC 0.\\(\\varepsilon\\)\\(\\varepsilon\\)=="
+                    "content": "\\(C = \\frac{\\varepsilon_0 \\varepsilon S}{d}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "V QC="
+                    "content": "\\(C = \\frac{Q}{V}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "SQC ..\\(\\varepsilon\\)="
+                    "content": "\\(C = \\frac{Q}{U}\\)"
                 }
             ],
             "answer": "B",
@@ -734,19 +734,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "R S U QC 0.\\(\\varepsilon\\)\\(\\varepsilon\\)=="
+                    "content": "\\(C = \\frac{\\varepsilon_0 \\varepsilon S}{R}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "RC ..4 0\\(\\varepsilon\\)\\(\\varepsilon\\)\\(\\pi\\)="
+                    "content": "\\(C = 4\\pi\\varepsilon_0\\varepsilon R\\)"
                 },
                 {
                     "id": "C",
-                    "content": "U QC="
+                    "content": "\\(C = \\frac{Q}{U}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "RQC .="
+                    "content": "\\(C = Q R\\)"
                 }
             ],
             "answer": "B",

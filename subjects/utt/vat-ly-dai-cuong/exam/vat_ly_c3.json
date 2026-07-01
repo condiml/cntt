@@ -155,23 +155,23 @@
         },
         {
             "id": 7,
-            "question": "Gọi mi và iv là khối lượng và vận tốc của chất điểm thứ i. Vận tốc của khối tâm G của hệ n chất điểm được xác định bởi công thức nào sau đây?",
+            "question": "Gọi \\(m_i\\) và \\(\\vec{v}_i\\) là khối lượng và vận tốc của chất điểm thứ \\(i\\). Vận tốc của khối tâm \\(G\\) của hệ \\(n\\) chất điểm được xác định bởi công thức nào sau đây?",
             "options": [
                 {
                     "id": "A",
-                    "content": "Σ Σ = == n i i n i i G m v v 1 1"
+                    "content": "\\(\\vec{v}_G = \\frac{\\sum_{i=1}^n \\vec{v}_i}{\\sum_{i=1}^n m_i}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "Σ Σ = == n i i n i ii G m vm v 1 1"
+                    "content": "\\(\\vec{v}_G = \\frac{\\sum_{i=1}^n m_i \\vec{v}_i}{\\sum_{i=1}^n m_i}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "n v v n i i G Σ == 1"
+                    "content": "\\(\\vec{v}_G = \\sum_{i=1}^n m_i \\vec{v}_i\\)"
                 },
                 {
                     "id": "D",
-                    "content": "n vm v n i ii G Σ == 1  iirmΣ ir 2 iirmΣ ir 2 iirmΣ ir iirmΣ ir"
+                    "content": "\\(\\vec{v}_G = \\sum_{i=1}^n \\vec{v}_i\\)"
                 }
             ],
             "answer": "B",
@@ -609,19 +609,19 @@
             "options": [
                 {
                     "id": "A",
-                    "content": "12 2 2 2 mm gma +="
+                    "content": "\\(a = \\frac{2 m_2 g}{2 m_1 + 2 m_2}\\)"
                 },
                 {
                     "id": "B",
-                    "content": "12 2 2 mm gma +="
+                    "content": "\\(a = \\frac{2 m_2 g}{m_1 + 2 m_2}\\)"
                 },
                 {
                     "id": "C",
-                    "content": "12 22 mm gma +="
+                    "content": "\\(a = \\frac{2 m_2 g}{m_1 + m_2}\\)"
                 },
                 {
                     "id": "D",
-                    "content": "12 2 mm gma += ================================================"
+                    "content": "\\(a = \\frac{m_2 g}{m_1 + 2 m_2}\\)"
                 }
             ],
             "answer": "B",
