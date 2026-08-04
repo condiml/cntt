@@ -1,0 +1,1207 @@
+{
+    "title": "PHẦN 5: CÂU 201 - CÂU 250",
+    "chapter": 5,
+    "total_questions": 50,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Những khu vực có tiềm năng phát triễn Năng lượng địa nhiệt tại nước ta.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khu vực Tây Bắc: bao gồm khu vực Sông Mã, Sông Đà và núi lửa Tử Lê. Khu vực này có hệ thống đứt gãy chính theo hướng Tây Bắc – Đông Nam và thường xảy ra các hoạt động địa chấn. Tại đây, các nhà khoa học xác định được 86 suối nước nóng, trong số đó 17 suối có nhiệt độ trên 500C, 2 suối nước nóng chày dọc theo đứt gãy Điện Biên và Lai Châu có nhiệt độ trên 700C."
+                },
+                {
+                    "id": "B",
+                    "content": "Khu vực đồng bằng Bắc Bộ: khu vực Hà Nội. Về mặt kiến tạo, đây là hệ đứt gãy mở rộng về phía Vịnh Bắc Bộ với lớp trẩm tích dày đến 6 km trên bể mặt ... Có khoảng 20 mẫu giếng khoan cho thấy sự hiện diện của lưu chất nhiệt độ cao, trong đó 6 mẫu có nhiệt độ từ 1000- 148оC. Tuy nhiên trong khu vực này chỉ xác định được một suối nước nóng tự nhiên với nhiệt độ tương đối thấp là suối Văn Lợi (gần Hà Nội) vào khoảng 380C."
+                },
+                {
+                    "id": "C",
+                    "content": "Khu vực từ Đà Nẵng đến Vũng Tàu, với lịch sử địa chất phức tạp, các hoạt động kiến tạo và magma với một số các phun trào núi lửa trong quá khứ. Tại đây có 86 suối nước nóng, trong đó 35 suối có nhiệt độ trên 500C và 8 suối có nhiệt độ trên 700C. Theo các đánh giá của các chuyên gia Liên Hiệp Quốc, New Zealand và Việt Nam, có khoảng 8 địa điểm có khả năng khai triển địa nhiệt với các bể địa nhiệt có nhiệt độ từ 1300C trở lên, đặc biệt là tại Mộ Đức (1720C) với công suất ước tính là 300 kW."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 đáp án trên."
+        },
+        {
+            "id": 2,
+            "question": "Ưu điểm của nguồn năng lượng địa nhiệt.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí lắp đặt nhà máy thấp."
+                },
+                {
+                    "id": "B",
+                    "content": "Để tìm kiếm nhiệt lượng không đòi hỏi những kỹ thuật thăm dò và khai thác địa chất quá phức tạp."
+                },
+                {
+                    "id": "C",
+                    "content": "Đây là nguồn năng lượng sạch, thân thiện với môi trường. Hoạt động liên tục 24/24, không phụ thuộc vào các yếu tố khí hậu, có nguồn năng lượng là vô tận nên các nhà máy điện địa nhiệt hoạt động được lâu dài, xây dựng nhà máy tổn ít diện tích."
+                },
+                {
+                    "id": "D",
+                    "content": "Không thải ra khí CO2; H2S."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Không thải ra khí CO2; H2S."
+        },
+        {
+            "id": 3,
+            "question": "Nhược điểm của nguồn năng lượng địa nhiệt.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí lắp đặt nhà máy cao: Để có được năng lượng địa nhiệt, cần phải lắp đặt các nhà máy điện, để lấy hơi từ sâu trong lòng đất và điều này đòi hỏi phải đầu tư một lần rất lớn và cần phải thuê một người lắp đặt được chứng nhận và nhân viên lành nghể cẩn được tuyển dụng và chuyển đến vị trí của nhà máy. Hơn nữa, các tháp điện, trạm cần thiết lập để chuyễn nguồn điện từ nhà máy địa nhiệt sang người tiêu dùng."
+                },
+                {
+                    "id": "B",
+                    "content": "Nguồn năng lượng không phổ biến: Do loại năng lượng này không được sử dụng rộng rãi do đó không có thiết bị, nhân viên, cơ sở hạ t ng và đào tạo gây trở ngại cho việc lắp đặt các nhà máy địa nhiệt trên toàn cầu."
+                },
+                {
+                    "id": "C",
+                    "content": "Có thể hết hơi: Các vị trí địa nhiệt có thể hết hơi trong một khoảng thời gian do nhiệt độ giàm hoặc nếu bơm quá nhiều nước để làm mát đá và điều này có thể gây ra tổn thất lớn cho các công ty đã đầu tư nhiều vào các nhà máy này. Do yếu tổ này, các công ty phải thực hiện nghiên cứu ban đầu rộng, sâu trước khi thiết lập nhà máy."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 đáp án trên."
+        },
+        {
+            "id": 4,
+            "question": "Số Quyết định Về cơ chế hỗ trợ phát triển các dự án điện sinh khối tại Việt Nam?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Số: 24/2014/QĐ-TTg"
+                },
+                {
+                    "id": "B",
+                    "content": "Số: 17/2014/QĐ-TTg"
+                },
+                {
+                    "id": "C",
+                    "content": "Số: 24/2016/QĐ-TTg"
+                },
+                {
+                    "id": "D",
+                    "content": "Số: 17/2012/QĐ-TTg"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Số: 24/2014/QĐ-TTg"
+        },
+        {
+            "id": 5,
+            "question": "Trong vòng bao lâu Ủy ban Nhân dân cấp tinh có trách nhiệm xem xét thu hồi Giấy chứng nhận đầu tư theo quy định, báo cáo cơ quan nhà nước có thẩm quyền giao dự án cho nhà đầu tư khác thực hiện. Trừ trường hợp có lý do chính đáng và được cấp có thẩm quyền chấp nhận việc tạm ngừng dự án hoạch giãn tiến độ dự án:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "6 tháng kể từ khi được cấp Giấy chứng nhận đầu tư, Chủ đẩu tư không khởi công xây dựng hạng mục chính của công trình."
+                },
+                {
+                    "id": "B",
+                    "content": "6 tháng kể từ khi được cấp Giấy chứng nhận đẩu tư, Chủ đầu tư không khởi công xây dựng hạng mục chính của công trình hoặc tối đa 12 tháng kể từ ngày cam kết vận hành trong giấy chứng nhận đầu tư mà công trình dự án điện sinh khối không được đưa vào vận hành."
+                },
+                {
+                    "id": "C",
+                    "content": "12 tháng kể từ khi được cấp Giấy chứng nhận đầu tư, Chủ đầu tư không khởi công xây dựng hạng mục chính của công trình hoặc tối đa 24 tháng kể từ ngày cam kết vận hành trong giấy chứng nhận đầu tư mà công trình dự án điện sinh khối không được đưa vào vận hành."
+                },
+                {
+                    "id": "D",
+                    "content": "12 tháng kể từ khi được cấp Giấy chứng nhận đầu tư, Chủ đầu tư không khởi công xây dựng hạng mục chính của công trình hoặc tối đa 36 tháng kể từ ngày cam kết vận hành trong giấy chứng nhận đầu tư mà công trình dự án điện sinh khối không được đưa vào vận hành."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. 12 tháng kể từ khi được cấp Giấy chứng nhận đầu tư, Chủ đầu tư không khởi công xây dựng hạng mục chính của công trình hoặc tối đa 24 tháng kể từ ngày cam kết vận hành trong giấy chứng nhận đầu tư mà công trình dự án điện sinh khối không được đưa vào vận hành."
+        },
+        {
+            "id": 6,
+            "question": "Giá mua bán điện đối với dự án phát điện sử dụng chất thải rắn nối lưới. Đối với các dự án phát điện đốt khí thu hổi từ bãi chôn lấp chất thải rắn",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "6,2 UScents/kWh"
+                },
+                {
+                    "id": "B",
+                    "content": "6,82 UScents/kWh"
+                },
+                {
+                    "id": "C",
+                    "content": "7,28 UScents/kWh"
+                },
+                {
+                    "id": "D",
+                    "content": "7,56 UScents/kWh"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. 7,28 UScents/kWh"
+        },
+        {
+            "id": 7,
+            "question": "Điều 5 mục 1 – Chương II Thông tư quy định về phát triển dự án và hợp đồng mua bán điện mẫu áp dụng cho các dự án phát điện sử dụng chất thải rắn SỐ 32/2015/TT-BCT quy định Bổ sung quy hoạch dự án đầu tư phát điện sử dụng chất thải rắn thuộc Quy hoạch phát triển nguồn điện nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quy hoạch phát triển điện lực tinh."
+                },
+                {
+                    "id": "B",
+                    "content": "Quy hoạch phát triển điện lực tinh với công suất dưới 1 MW."
+                },
+                {
+                    "id": "C",
+                    "content": "Quy hoạch phát triển điện lực quốc gia trên 50MW."
+                },
+                {
+                    "id": "D",
+                    "content": "Quy hoạch phát triển điện lực quốc gia."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Quy hoạch phát triển điện lực quốc gia."
+        },
+        {
+            "id": 8,
+            "question": "Thông tư nào Quy định về phát triển dự án và hợp đồng mua bán điện mẫu áp dụng cho các dự án phát điện sử dụng chất thải rắn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Số: 31/2015/TT-BCт."
+                },
+                {
+                    "id": "B",
+                    "content": "Số: 32/2015/TT-BCТ."
+                },
+                {
+                    "id": "C",
+                    "content": "Số: 37/2015/TT-BCT."
+                },
+                {
+                    "id": "D",
+                    "content": "Số: 44/2015/TT-BCТ."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Số: 32/2015/TT-BCТ."
+        },
+        {
+            "id": 9,
+            "question": "Quyết định nào là Quyết định về cơ chế hỗ trợ phát triển các dự án phát điện sử dụng chất thải rắn tại Việt Nam?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Số: 31/2014/QĐ-TTg."
+                },
+                {
+                    "id": "B",
+                    "content": "Số: 31/2015/QĐ-TTg."
+                },
+                {
+                    "id": "C",
+                    "content": "Số: 32/2014/QĐ-TTg."
+                },
+                {
+                    "id": "D",
+                    "content": "Số: 32/2015/QĐ-TTg."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Số: 31/2014/QĐ-TTg."
+        },
+        {
+            "id": 10,
+            "question": "Tại điểu 5, Chương II, Thông tư 32/2015/TT-BCT, Nội dung dự án đầu tư phát điện sử dụng chất thải rắn theo quy định pháp luật về quản lý đầu tư xây dựng công trình, bổ sung thêm những nội dung chính gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đánh giá ảnh hưởng của phương án đấu nối dự án phát điện sử dụng chất thải rắn đối với hệ thống điện khu vực."
+                },
+                {
+                    "id": "B",
+                    "content": "Kế hoạch và phương án chi phí, kỹ thuật phục vụ tháo dỡ thiết bị nhà máy phát điện sử dụng chất thải sau khi kết thúc dự án."
+                },
+                {
+                    "id": "C",
+                    "content": "Kế hoạch và phương án chi phí, kỹ thuật phục vụ xử lý thiết bị nhà máy phát điện sử dụng chất thải sau khi kết thúc dự án."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 phương án trên đều đúng."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 phương án trên đều đúng."
+        },
+        {
+            "id": 11,
+            "question": "Theo quy hoạch điện 7 điều chinh, tổng công suất lắp đặt điện mặt trời cả nước vào năm 2020 sẽ đạt khoảng: (Theo QH số 4614/BCT-ĐL).",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "500 MW."
+                },
+                {
+                    "id": "B",
+                    "content": "850 MW."
+                },
+                {
+                    "id": "C",
+                    "content": "1000 MW."
+                },
+                {
+                    "id": "D",
+                    "content": "1150 MW."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. 850 MW."
+        },
+        {
+            "id": 12,
+            "question": "Trong thời hạn bao nhiêu ngày kể từ khi Bên bán điện có đẩy đủ hổ sơ và văn bản để nghị bán điện, Bên mua điện và Bên bán điện tiến hành ký kết hợp đồng mua bán điện theo quy định: (Theo QĐ số 11/2017/QĐ-TTg).",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "30 ngày."
+                },
+                {
+                    "id": "B",
+                    "content": "45 ngày."
+                },
+                {
+                    "id": "C",
+                    "content": "60 ngày."
+                },
+                {
+                    "id": "D",
+                    "content": "90 ngày."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. 30 ngày."
+        },
+        {
+            "id": 13,
+            "question": "Các nhà máy điện mặt trời có công suất nhỏ hơn hoặc bằng 50 MW được phê duyệt bồ sung quy hoạch bởi cấp nào? (Theo Thông tư số16/2017/TT-BCT).",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ủy ban nhân dân Tỉnh."
+                },
+                {
+                    "id": "B",
+                    "content": "Bộ Công Thương."
+                },
+                {
+                    "id": "C",
+                    "content": "Thủ tướng Chính phů."
+                },
+                {
+                    "id": "D",
+                    "content": "Sở Công Thương và Công ty Điện lực Tỉnh."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Bộ Công Thương."
+        },
+        {
+            "id": 14,
+            "question": "Cách lắp ghép hệ thống pin mặt trời nào tạo ra điện năng và điện áp cao?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các tấm pin mặt trời được mắc nối tiếp."
+                },
+                {
+                    "id": "B",
+                    "content": "Các tấm pin mặt trời được mắc song song."
+                },
+                {
+                    "id": "C",
+                    "content": "Các tấm pin mặt trời được mắc kết hợp nổi tiếp và song song."
+                },
+                {
+                    "id": "D",
+                    "content": "Hiện nay chưa nghiên cứu được cách lắp ghép tối ưu nhất."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Các tấm pin mặt trời được mắc kết hợp nổi tiếp và song song."
+        },
+        {
+            "id": 15,
+            "question": "(Khoàn 1-Điểu 12 QĐ số: 11/2017/QĐ-TTg) Bên mua điện có trách nhiệm mua toàn bộ sản lượng điện từ các dự án nối lưới với giá mua điện tại điểm giao nhận điện là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "9,35 UScents/kWh"
+                },
+                {
+                    "id": "B",
+                    "content": "8,35 UScents/kWh"
+                },
+                {
+                    "id": "C",
+                    "content": "7,35 UScents/kWh"
+                },
+                {
+                    "id": "D",
+                    "content": "6,35 UScents/kWh"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. 9,35 UScents/kWh"
+        },
+        {
+            "id": 16,
+            "question": "(Điểu 40 Thông tư 39/2015/TT-BCT) Nhà máy điện mặt trời phải có khả năng vận hành phát công suất tác dụng trong dải tần số bao nhiêu:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "50 Hz đến 51 Hz."
+                },
+                {
+                    "id": "B",
+                    "content": "48 Hz đến 49 Hz."
+                },
+                {
+                    "id": "C",
+                    "content": "49 Hz đến 51 Hz."
+                },
+                {
+                    "id": "D",
+                    "content": "48 Hz đến 51 Hz."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. 49 Hz đến 51 Hz."
+        },
+        {
+            "id": 17,
+            "question": "(Điểu 10- Thông tư 16/2017/TT-BCT) Tỷ lệ vốn chủ đẩu tư sở hữu của các dự án điện mặt trời nối lưới là bao nhiêu",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không được thấp hơn hai mươi phần trăm (20%) tổng mức đầu tư."
+                },
+                {
+                    "id": "B",
+                    "content": "Không được thấp hơn hai mươi lăm phẩn trăm (25%) tổng mức đầu tư"
+                },
+                {
+                    "id": "C",
+                    "content": "Không được thấp hơn ba mươi phẩn trăm (30%) tổng mức đầu tư."
+                },
+                {
+                    "id": "D",
+                    "content": "Không được thấp hơn ba mươi lăm phẩn trăm (35%) tổng mức đầu tư."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Không được thấp hơn hai mươi phần trăm (20%) tổng mức đầu tư."
+        },
+        {
+            "id": 18,
+            "question": "Kinh phí cho công tác lập Quy hoạch phát triển điện mặt trời địa phương lấy từ nguồn nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ngân sách tỉnh, thành phố trực thuộc trung ương cấp kinh phí để thực hiện nhiệm vụ lập, thẩm định, công bố và điều chình quy hoạch phát triển điện mặt trời địa phương. (Điều 6 QĐ số: 11/2017/QĐ-TTg)."
+                },
+                {
+                    "id": "B",
+                    "content": "Ngân sách trung ương cấp kinh phí để thực hiện nhiệm vụ lập, thẩm định, công bố và điều chỉnh quy hoạch phát triển điện mặt trời địa Phương."
+                },
+                {
+                    "id": "C",
+                    "content": "Ngân sách trung ương và ngân sách tỉnh, thành phố trực thuộc trung ương cấp kinh phí để thực hiện nhiệm vụ lập, thẩm định, công bố và điều chinh quy hoạch phát triển điện mặt trời địa phương."
+                },
+                {
+                    "id": "D",
+                    "content": "Kinh phí do các hộ dân tại địa phương tự chi trả."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Ngân sách tỉnh, thành phố trực thuộc trung ương cấp kinh phí để thực hiện nhiệm vụ lập, thẩm định, công bố và điều chình quy hoạch phát triển điện mặt trời địa phương. (Điều 6 QĐ số: 11/2017/QĐ-TTg)."
+        },
+        {
+            "id": 19,
+            "question": "Theo Thông tư 02/2019/TT-BCT ngày 15/01/2019 của Bộ Công thương, công trình điện gió phải nằm cách xa khu dân cư:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ít nhất 200m."
+                },
+                {
+                    "id": "B",
+                    "content": "ít nhất 300m."
+                },
+                {
+                    "id": "C",
+                    "content": "Ít nhất 400m."
+                },
+                {
+                    "id": "D",
+                    "content": "Ít nhất 500m."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. ít nhất 300m."
+        },
+        {
+            "id": 20,
+            "question": "Theo Thông tư số 02/2019/TT-BCT ngày 15/01/2019, suất sử dụng đất có thời hạn của dự án điện gió không quá:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "0,2 ha/MW."
+                },
+                {
+                    "id": "B",
+                    "content": "0,25 ha/MW."
+                },
+                {
+                    "id": "C",
+                    "content": "0,3 ha/MW."
+                },
+                {
+                    "id": "D",
+                    "content": "0,35 ha/MW."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 0,35 ha/MW."
+        },
+        {
+            "id": 21,
+            "question": "Theo Thông tư số 02/2019/TT-BCT ngày 15/01/2019, suất sử dụng đất tạm thời của dự án điện gió không quá:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "0,2 ha/MW."
+                },
+                {
+                    "id": "B",
+                    "content": "0,25 ha/MW."
+                },
+                {
+                    "id": "C",
+                    "content": "0,3 ha/MW."
+                },
+                {
+                    "id": "D",
+                    "content": "0,35 ha/MW."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. 0,3 ha/MW."
+        },
+        {
+            "id": 22,
+            "question": "Chênh lệch giá mua điện gió đất liền và giá mua điện gió trên biển theo Quyết định 39/2018/QĐ-TTg ngày 10/9/2018 của Thủ tướng Chính phủ là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "9,8 UScents/kWh."
+                },
+                {
+                    "id": "B",
+                    "content": "1,3 UScents/kWh."
+                },
+                {
+                    "id": "C",
+                    "content": "1,7 UScents/kWh."
+                },
+                {
+                    "id": "D",
+                    "content": "7,8 UScents/kWh."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. 1,3 UScents/kWh."
+        },
+        {
+            "id": 23,
+            "question": "Kế hoạch và mục tiêu cho điện gió theo Quyết định số 1208/QĐ-TTg ngày 21/07/2011 của Thủ tướng Chính phủ về việc phê duyệt quy hoạch phát triển điện lực giai đoạn 2011-2020 có xét đến năm 2030 là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đến năm 2020, phát triển điện gió đạt 800 MW và đến năm 2030 đạt 6000MW."
+                },
+                {
+                    "id": "B",
+                    "content": "Đến năm 2020, phát triển điện gió đạt 1.000 MW và đến năm 2030 đạt 6.200MW."
+                },
+                {
+                    "id": "C",
+                    "content": "Đến năm 2020, phát triển điện gió đạt 1.200 MW và đến năm 2030 đạt 6.400MW."
+                },
+                {
+                    "id": "D",
+                    "content": "Đến năm 2020, phát triển điện gió đạt 1.400 MW và đến năm 2030 đạt 6.600MW."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Đến năm 2020, phát triển điện gió đạt 1.000 MW và đến năm 2030 đạt 6.200MW."
+        },
+        {
+            "id": 24,
+            "question": "Theo Quyết định 1539/QĐ-TTg, dự án Quy hoạch phát triển điện gió Việt Nam với CHLB Đức có tổng mức đầu tư của dự án là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3.600.000 Euro."
+                },
+                {
+                    "id": "B",
+                    "content": "3.800.000 Euro."
+                },
+                {
+                    "id": "C",
+                    "content": "3.900.000 Euro."
+                },
+                {
+                    "id": "D",
+                    "content": "3.700.000 Euro."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. 3.600.000 Euro."
+        },
+        {
+            "id": 25,
+            "question": "Theo Quyết định 37/2011/ QĐ-TTg của Thủ tưởng Chính phủ về cơ chết phát triến điện gió tại Việt Nam. Trách nhiệm của Bộ Công Thương đối với các dự án điện gió là gi?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Có trách nhiệm tổ chức, hướng dẫn và phối hợp với Ủy ban Nhân dân các tỉnh, thành phố trực thuộc Trung ương kiểm tra giám sát việc thực hiện quyết định này."
+                },
+                {
+                    "id": "B",
+                    "content": "Ban hành Hợp đồng mua bán điện mẫu cho các dự án điện gió."
+                },
+                {
+                    "id": "C",
+                    "content": "Xây dựng và ban hành các tiêu chuẩn kỹ thuật về công nghiệ điện gió."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả ba đáp án đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả ba đáp án đều đúng"
+        },
+        {
+            "id": 26,
+            "question": "Theo Thông tư số 02/2019/ TT-BCТ dự án điện gió chỉ được khởi công và thi công xây dựng khi đáp ứng các điều kiện theo quy định pháp luật về quản lý đầu tư xây dựng, yêu cầu về bảo vệ môi trường và đảm bảo các điều kiện nào ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hồ sơ thiết kế xây dựng được thẩm định và phê duyệt theo quy định hiện hành."
+                },
+                {
+                    "id": "B",
+                    "content": "Hợp đồng bán điện đã ký với bên mua điện."
+                },
+                {
+                    "id": "C",
+                    "content": "Có hợp đồng cung cấp tài chính và cam kết nguồn vốn để đảm bảo tiến độ xây dựng công trình đúng với tiến độ đã được phê duyệt trong dự án đầu tư xây dựng công trình."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 đáp án trên."
+        },
+        {
+            "id": 27,
+            "question": "Một số khung chính sách phát triển Năng lượng tái tạo tại nước ta hiện nay.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Luật Bảo vệ Môi trường; Luật Điện lực 2004."
+                },
+                {
+                    "id": "B",
+                    "content": "Nghị định 102/2003/NĐ-CP của Chính phủ 03/9/2003 về sử dụng năng lượng tiết kiệm và hiệu quả."
+                },
+                {
+                    "id": "C",
+                    "content": "Chiến lược quốc gia về Bảo vệ môi trường đến 2010 và tẩm nhìn đến 2020 (Quyết định 256/2003/QĐ TTg của Thủ tướng Chính phủ ngày 2/12/2003)."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 đáp án trên."
+        },
+        {
+            "id": 28,
+            "question": "Phát biểu nào là không đúng về mục tiêu phát triển năng lượng của Việt Nam?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tổng tiêu thụ năng lượng cuối cùng đến năm 2030 đạt mức 105 - 115 tỉ TOE, năm 2045 đạt mức 160 - 190 tỉ TOE."
+                },
+                {
+                    "id": "B",
+                    "content": "Cường độ năng lượng sơ cấp năm 2030 đạt từ 420 - 460 kgTOE/1.000 USD GDP, năm 2045 từ 375-410 kgTOE/1.000 USD GDP."
+                },
+                {
+                    "id": "C",
+                    "content": "Xây dựng hệ thống lưới điện thông minh, hiệu quả, có khả năng kết nối khu vực."
+                },
+                {
+                    "id": "D",
+                    "content": "Đến năm 2030, độ tin cậy cung cấp điện năng thuộc tốp 4 nước dẫn đầu ASEAN, chi số tiếp cận điện năng thuộc tốp 3 nước dẫn đầu ASEAN."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Tổng tiêu thụ năng lượng cuối cùng đến năm 2030 đạt mức 105 - 115 tỉ TOE, năm 2045 đạt mức 160 - 190 tỉ TOE."
+        },
+        {
+            "id": 29,
+            "question": "Phát biểu nào là không đúng về mục tiêu phát triển năng lượng của Việt Nam?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các cơ sở lọc dầu đáp ứng tối thiểu 70% nhu cầu trong nước; bảo đảm mức dự trữ chiến lược xăng dầu đạt tối thiểu 90 ngày."
+                },
+                {
+                    "id": "B",
+                    "content": "Đủ năng lực nhập khẩu khí tự nhiên hóa lỏng (LNG) khoảng 8 tỉ mét khối vào năm 2030 và khoảng 15 tỉ mét khối vào năm 2045,"
+                },
+                {
+                    "id": "C",
+                    "content": "Xây dựng hệ thống lưới điện thông minh, hiệu quả, có khả năng kết nối khu vực."
+                },
+                {
+                    "id": "D",
+                    "content": "Giảm phát thải khí nhà kính từ hoạt động năng lượng so với kịch bản phát triển bình thường ở mức 60% vào năm 2030, lên mức 80% vào năm 2045."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Giảm phát thải khí nhà kính từ hoạt động năng lượng so với kịch bản phát triển bình thường ở mức 60% vào năm 2030, lên mức 80% vào năm 2045."
+        },
+        {
+            "id": 30,
+            "question": "Phát biểu nào là không đúng về tầm nhìn phát triển năng lượng của Việt Nam đến năm 2045?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bảo đảm vững chắc an ninh năng lượng quốc gia"
+                },
+                {
+                    "id": "B",
+                    "content": "Hình thành đồng bộ các yếu tố thị trường năng lượng cạnh tranh, minh bạch, phù hợp với thể chế kinh tế thị trường định hướng xã hội chủ nghĩa."
+                },
+                {
+                    "id": "C",
+                    "content": "Ngành năng lượng phát triển bền vững, sử dụng hiệu quả tài nguyên, không quan tâm đến bảo vệ môi trường và thích ứng với biến đổi khí hậu."
+                },
+                {
+                    "id": "D",
+                    "content": "Chất lượng nguồn nhân lực, trình độ khoa học- công nghệ và năng lực quản trị ngành năng lượng đạt trình độ tiên tiến của một nước công nghiệp phát triển hiện đại"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Ngành năng lượng phát triển bền vững, sử dụng hiệu quả tài nguyên, không quan tâm đến bảo vệ môi trường và thích ứng với biến đổi khí hậu."
+        },
+        {
+            "id": 31,
+            "question": "Phát biểu nào là không đúng về chính sách phát triển năng lượng của Việt Nam?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Về than: Xây dựng mới chiến lược phát triển ngành than gắn với nhiệm vụ đầu tư hiệu quả ra nước ngoài và xuất khẩu than dài hạn."
+                },
+                {
+                    "id": "B",
+                    "content": "Thực hiện dự trữ than phù hợp, đáp ứng yêu cầu cho các hoạt động sản xuất, đặc biệt là sản xuất điện"
+                },
+                {
+                    "id": "C",
+                    "content": "Đẩy mạnh khai thác than trong nước trên cơ sở bảo đảm an toàn, hiệu quả và tiết kiệm tài nguyên."
+                },
+                {
+                    "id": "D",
+                    "content": "Rà soát, đánh giá nhu cầu, xây dựng kế hoạch và tối ưu hóa các giải pháp cung cấp than ổn định cho sản xuất điện phù hợp với cơ chế thị trường."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Về than: Xây dựng mới chiến lược phát triển ngành than gắn với nhiệm vụ đầu tư hiệu quả ra nước ngoài và xuất khẩu than dài hạn."
+        },
+        {
+            "id": 32,
+            "question": "Phát biểu nào là không đúng về chính sách phát triển năng lượng của Việt Nam?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Về năng lượng tái tạo: Thúc đẩy phát triển mạnh mẽ các nguồn năng lượng tái tạo nhằm thay thế tối đa các nguồn năng lượng hóa thạch."
+                },
+                {
+                    "id": "B",
+                    "content": "Ưu tiên sử dụng năng lượng gió, mặt trời và than đá cho phát điện."
+                },
+                {
+                    "id": "C",
+                    "content": "Khuyến khích đầu tư xây dựng các nhà máy điện sử dụng rác thải đô thị, sinh khối và chất thải rắn đi đôi với công tác bảo vệ môi trường và phát triển kinh tế tuần hoàn."
+                },
+                {
+                    "id": "D",
+                    "content": "Hình thành và phát triển một số trung tâm năng lượng tái tạo tại các vùng và các địa phương có lợi thế"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Ưu tiên sử dụng năng lượng gió, mặt trời và than đá cho phát điện."
+        },
+        {
+            "id": 33,
+            "question": "Phát biểu nào là không đúng về chính sách phát triển năng lượng của Việt Nam?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nghiên cứu, đánh giá tổng thể về tiềm năng và xây dựng định hướng phát triển năng lượng địa nhiệt, sóng biến, thuỷ triều, hải lưu."
+                },
+                {
+                    "id": "B",
+                    "content": "Ưu tiên sử dụng năng lượng gió, mặt trời cho phát điện"
+                },
+                {
+                    "id": "C",
+                    "content": "Khuyến khích đầu tư xây dựng các nhà máy điện sử dụng than đá, sinh khối và chất thải rắn đi đôi với công tác bảo vệ môi trường và phát triển kinh tế tuần hoàn"
+                },
+                {
+                    "id": "D",
+                    "content": "Nghiên cứu công nghệ, xây dựng một số đề án thử nghiệm sản xuất và khuyến khích sử dụng năng lượng hydro phù hợp với xu thế chung của thế giới."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Khuyến khích đầu tư xây dựng các nhà máy điện sử dụng than đá, sinh khối và chất thải rắn đi đôi với công tác bảo vệ môi trường và phát triển kinh tế tuần hoàn"
+        },
+        {
+            "id": 34,
+            "question": "Tính lượng khí CO2 giải phóng ra môi trường sau khi đốt cháy 1 tấn than, cho biết năng suất tỏa nhiệt của than là 28.10^6 J/kg; hệ số phát thải khí CO2 của than là 27,8 kg/GJ.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "796.2 kg"
+                },
+                {
+                    "id": "B",
+                    "content": "237,6 kg"
+                },
+                {
+                    "id": "C",
+                    "content": "778,4 kg"
+                },
+                {
+                    "id": "D",
+                    "content": "967,2 kg"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. 778,4 kg"
+        },
+        {
+            "id": 35,
+            "question": "Chọn đáp án đúng. 1 Toe = a*Boe",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "a = 8,7"
+                },
+                {
+                    "id": "B",
+                    "content": "a = 6,8"
+                },
+                {
+                    "id": "C",
+                    "content": "a = 7,8"
+                },
+                {
+                    "id": "D",
+                    "content": "a = 8,6"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. a = 7,8"
+        },
+        {
+            "id": 36,
+            "question": "Chỉ số để đánh giá hiệu quả sử dụng điện đối với mỗi quốc gia là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Số điện tiêu thụ trên đầu người."
+                },
+                {
+                    "id": "B",
+                    "content": "Số điện tiêu thụ trên tổng thu nhập quốc dân."
+                },
+                {
+                    "id": "C",
+                    "content": "Lượng điện tiêu thụ của mỗi quốc gia"
+                },
+                {
+                    "id": "D",
+                    "content": "Số điện tiêu thụ tạo ra 1000$ đóng góp tổng thu nhập quốc dân."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Số điện tiêu thụ tạo ra 1000$ đóng góp tổng thu nhập quốc dân."
+        },
+        {
+            "id": 37,
+            "question": "Một nhà máy nhiệt điện chạy than mỗi năm tiêu thụ 14000 tấn than, hiệu suất của nhà máy là 65%. Biết năng suất tỏa nhiệt của than là 27,5.10€ J/kg. Công suất của nhà máy nhận giá trị nào sau đây:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "7,94 MW"
+                },
+                {
+                    "id": "B",
+                    "content": "6,16 kW"
+                },
+                {
+                    "id": "C",
+                    "content": "8,18 MW"
+                },
+                {
+                    "id": "D",
+                    "content": "8,18 kW"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. 7,94 MW"
+        },
+        {
+            "id": 38,
+            "question": "Cho công suất điện của một tổ máy phát điện một pha là 200 kW, hiệu điện thế một pha là 220 V, cường độ dòng điện pha là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "0,909 A"
+                },
+                {
+                    "id": "B",
+                    "content": "833 A"
+                },
+                {
+                    "id": "C",
+                    "content": "90,9 A"
+                },
+                {
+                    "id": "D",
+                    "content": "909 A"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 909 A"
+        },
+        {
+            "id": 39,
+            "question": "Xét một máy phát điện xoay chiều một pha. Biết hiệu điện thế một pha là 220 V, cường độ dòng ra là 60 A. Tính công suất điện của máy phát.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "40 kW"
+                },
+                {
+                    "id": "B",
+                    "content": "11 MW"
+                },
+                {
+                    "id": "C",
+                    "content": "13,2 kW"
+                },
+                {
+                    "id": "D",
+                    "content": "110 kW"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. 13,2 kW"
+        },
+        {
+            "id": 40,
+            "question": "Mục tiêu cắt giảm lớn lượng khí thải CO2 một cách nhanh chóng và bền vững, bao gồm giảm 45% lượng phát thải CO2 vào năm 2030 so với mức năm 2010 và về 0 vào giữa thế ký này, cũng như giảm sâu phát thải các khí nhà kính khác được nêu trong hội nghị nào:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "COP 3 năm 1997 tại Nhật Bản"
+                },
+                {
+                    "id": "B",
+                    "content": "COP 21 năm 2015 tại Pháp"
+                },
+                {
+                    "id": "C",
+                    "content": "COP 26 năm 2021 tại Anh"
+                },
+                {
+                    "id": "D",
+                    "content": "COP 27 năm 2022 tại Ai Cập."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. COP 26 năm 2021 tại Anh"
+        },
+        {
+            "id": 41,
+            "question": "Yếu tố trọng tâm để quá trình chuyển dịch năng lượng diễn ra thành công là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chính sách hỗ trợ"
+                },
+                {
+                    "id": "B",
+                    "content": "Mở cửa thị trường"
+                },
+                {
+                    "id": "C",
+                    "content": "Kinh tế cạnh tranh"
+                },
+                {
+                    "id": "D",
+                    "content": "Công nghệ"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Công nghệ"
+        },
+        {
+            "id": 42,
+            "question": "Đâu là xu hướng trong quá trình chuyển dịch năng lượng.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chuyên dịch các phương tiện sử dụng điện thay thế hoàn toàn phương tiện sử dụng xăng dầu."
+                },
+                {
+                    "id": "B",
+                    "content": "Chuyển dịch cơ cấu nguồn điện từ sử dụng nguồn năng lượng tái tạo thay thế hoàn toàn năng lượng hóa thạch."
+                },
+                {
+                    "id": "C",
+                    "content": "Nghiên cứu đẩy mạnh phát triển thủy điện."
+                },
+                {
+                    "id": "D",
+                    "content": "Chuyển dịch cơ cấu nguồn điện từ sử dụng nguồn năng lượng hóa thạch sang nguồn năng lượng tái tạo."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Chuyển dịch cơ cấu nguồn điện từ sử dụng nguồn năng lượng hóa thạch sang nguồn năng lượng tái tạo."
+        },
+        {
+            "id": 43,
+            "question": "Trong quy hoạch điện VIII của thủ tướng chính phủ. Mục tiêu đến năm 2045, công suất điện từ các nhà máy điện sử dụng nguồn năng lượng tái tạo ngoài thủy điện chiếm bao nhiêu % tổng công suất phát điện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khoảng 20%"
+                },
+                {
+                    "id": "B",
+                    "content": "Khoảng 30%"
+                },
+                {
+                    "id": "C",
+                    "content": "Khoảng 40%"
+                },
+                {
+                    "id": "D",
+                    "content": "Chưa xác định"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Khoảng 40%"
+        },
+        {
+            "id": 44,
+            "question": "Phát biểu nào không đúng về hệ thống lưới điện thông minh?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hệ thống lưới điện có khả năng giám sát và phản hồi với những thay đổi của mọi phần tử trong hệ thống từ nhà máy điện đến khách hàng sử dụng điện."
+                },
+                {
+                    "id": "B",
+                    "content": "Hệ thống lưới điện được tích hợp nhiều công nghệ hiện đại, giúp quản lý các quá trình sản xuất, truyền tái, phân phối và tiêu thụ điện được quản lý một các hợp lý dựa trên công nghệ trí tuệ nhân tạo."
+                },
+                {
+                    "id": "C",
+                    "content": "Hệ thống lưới điện được tích hợp nhiều công nghệ hiện đại, giúp quản lý các quá trình sản xuất, truyền tải, phân phối và tiêu thụ điện được quản lý một các hợp lý và thông minh hơn."
+                },
+                {
+                    "id": "D",
+                    "content": "Vận hành lưới điện thông minh sẽ an toàn và tin cậy hơn, khả năng tiết kiệm điện từ phía người dùng cuối được tăng cường và các nguồn năng lượng trong hệ thống được phân bổ hợp lý hơn"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Hệ thống lưới điện được tích hợp nhiều công nghệ hiện đại, giúp quản lý các quá trình sản xuất, truyền tái, phân phối và tiêu thụ điện được quản lý một các hợp lý dựa trên công nghệ trí tuệ nhân tạo."
+        },
+        {
+            "id": 45,
+            "question": "Các nhà máy điện mặt trời chủ yếu phát sinh chất thải nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không phát sinh chất thải"
+                },
+                {
+                    "id": "B",
+                    "content": "Chất thải rắn"
+                },
+                {
+                    "id": "C",
+                    "content": "Khí thải"
+                },
+                {
+                    "id": "D",
+                    "content": "Nước thải"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Chất thải rắn"
+        },
+        {
+            "id": 46,
+            "question": "Công suất phù hợp cho lò nướng có dung tích dưới 25 lít là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2000 (W)"
+                },
+                {
+                    "id": "B",
+                    "content": "1500-1800 (W)"
+                },
+                {
+                    "id": "C",
+                    "content": "Trên 2000 (W)"
+                },
+                {
+                    "id": "D",
+                    "content": "1300-1400 (W)"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 1300-1400 (W)"
+        },
+        {
+            "id": 47,
+            "question": "Chọn trình tự đúng quy trình công nghệ nhà máy nhiệt điện than ngưng hơi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Than được vận chuyển về cảng/ga => Nước đưa vào lò hơi, sôi sinh hơi và hơi quá nhiệt => Hơi nước làm quay tua bin, gắn với MPĐ phát ra điện => Hơi sau khi sinh công thì được ngưng tụ và bơm trở lại lò hơi →> Than được nghiền thành bột và phun vào lò hơi."
+                },
+                {
+                    "id": "B",
+                    "content": "Than được vận chuyển về cảng/ga => Nước đưa vào lò hơi, sôi sinh hơi và hơi quá nhiệt => Hơi nước làm quay tua bin, gắn với MPĐ phát ra điện → Than được nghiền thành bột và phun vào lò hơi →> Hơi sau khi sinh công thì được ngưng tụ và bơm trở lại lò hơi."
+                },
+                {
+                    "id": "C",
+                    "content": "Than được vận chuyển về cảng/ga => Than được nghiền thành bột và phun vào lò hơi -> Hơi nước làm quay tua bin, gắn với MPĐ phát ra điện => Hơi sau khi sinh công thì được ngưng tụ và bơm trở lại lò hơi => Nước đưa vào lò hơi, sôi sinh hơi và hơi quá nhiệt."
+                },
+                {
+                    "id": "D",
+                    "content": "Than được vận chuyển về cảng/ga → Than được nghiền thành bột và phun vào lò hơi => Nước đưa vào lò hơi, sôi sinh hơi và hơi quá nhiệt → Hơi nước làm quay tua bin, gắn với MPĐ phát ra điện => Hơi sau khi sinh công thì được ngưng tụ và bơm trở lại lò hơi."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Than được vận chuyển về cảng/ga → Than được nghiền thành bột và phun vào lò hơi => Nước đưa vào lò hơi, sôi sinh hơi và hơi quá nhiệt → Hơi nước làm quay tua bin, gắn với MPĐ phát ra điện => Hơi sau khi sinh công thì được ngưng tụ và bơm trở lại lò hơi."
+        },
+        {
+            "id": 48,
+            "question": "Phát biểu nào không đúng về công nghệ dự báo?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các mô hình dự báo phục vụ cho công tác lên kế hoạch điều độ, hạn chế tối đa việc cắt giảm công suất và góp phần xác định các điểm tắc nghẽn cục bộ trên lưới"
+                },
+                {
+                    "id": "B",
+                    "content": "Các mô hình dự báo có thể phân chia thành ngắn hạn, trung hạn, dài hạn và vĩnh viễn."
+                },
+                {
+                    "id": "C",
+                    "content": "Mô hình dự báo và dữ liệu đầu vào là 2 yếu tố quan trọng hàng đầu quyết định đến tính chính xác của kết quả dự báo, ngoài ra có thể sử dụng thêm dữ liệu thời tiết với các trọng số ảnh hưởng phù hợp."
+                },
+                {
+                    "id": "D",
+                    "content": "Công nghệ dự báo được dùng để dự báo trước các nguy cơ về bão (đối với điện gió) hay mây che, mưa dài ngày (đổi với điện mặt trời) và các nguy cơ về tắc nghẽn hệ thống để có thể đưa ra kịp thời các biện pháp"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Các mô hình dự báo có thể phân chia thành ngắn hạn, trung hạn, dài hạn và vĩnh viễn."
+        },
+        {
+            "id": 49,
+            "question": "Trong các yêu cầu về lưu trữ điện năng, đáp án nào không đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Có tính kinh tế"
+                },
+                {
+                    "id": "B",
+                    "content": "Có khả năng điều khiển những thay đổi nhỏ về tải"
+                },
+                {
+                    "id": "C",
+                    "content": "Nâng cao chất lượng điện năng"
+                },
+                {
+                    "id": "D",
+                    "content": "Phải thay thế được hoàn toàn điện lưới trong khoảng thời gian dài"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Phải thay thế được hoàn toàn điện lưới trong khoảng thời gian dài"
+        },
+        {
+            "id": 50,
+            "question": "Theo Quyết định số 2093/QĐ-BCT ngày 07 tháng 8 năm 2020 về Đề án Thiết kế mô hình thị trường bán lẻ điện cạnh tranh Việt Nam, có bao nhiêu phân khúc cho mô hình bán lẻ điện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "4"
+                },
+                {
+                    "id": "B",
+                    "content": "3"
+                },
+                {
+                    "id": "C",
+                    "content": "2"
+                },
+                {
+                    "id": "D",
+                    "content": "1"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. 3"
+        }
+    ]
+}

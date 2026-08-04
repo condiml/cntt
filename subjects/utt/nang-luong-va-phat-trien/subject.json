@@ -1,0 +1,111 @@
+{
+    "id": "nang-luong-va-phat-trien",
+    "name": "Năng lượng và phát triển",
+    "shortName": "NLPT",
+    "icon": "⚡",
+    "school": "Đại học Công nghệ GTVT",
+    "shortSchool": "UTT",
+    "examPath": "exam",
+    "chapters": [
+        {
+            "id": 1,
+            "name": "Phần 1: Câu 1 - Câu 50",
+            "file": "phan_1.json"
+        },
+        {
+            "id": 2,
+            "name": "Phần 2: Câu 51 - Câu 100",
+            "file": "phan_2.json"
+        },
+        {
+            "id": 3,
+            "name": "Phần 3: Câu 101 - Câu 150",
+            "file": "phan_3.json"
+        },
+        {
+            "id": 4,
+            "name": "Phần 4: Câu 151 - Câu 200",
+            "file": "phan_4.json"
+        },
+        {
+            "id": 5,
+            "name": "Phần 5: Câu 201 - Câu 250",
+            "file": "phan_5.json"
+        },
+        {
+            "id": 6,
+            "name": "Phần 6: Câu 251 - Câu 300",
+            "file": "phan_6.json"
+        },
+        {
+            "id": 7,
+            "name": "Phần 7: Câu 301 - Câu 350",
+            "file": "phan_7.json"
+        },
+        {
+            "id": 8,
+            "name": "Phần 8: Câu 351 - Câu 400",
+            "file": "phan_8.json"
+        },
+        {
+            "id": 9,
+            "name": "Phần 9: Câu 401 - Câu 450",
+            "file": "phan_9.json"
+        },
+        {
+            "id": 10,
+            "name": "Phần 10: Câu 451 - Câu 486",
+            "file": "phan_10.json"
+        }
+    ],
+    "simulationConfig": {
+        "totalQuestions": 50,
+        "timeLimit": 60,
+        "shuffleQuestions": true,
+        "shuffleAnswers": true,
+        "showAnswerImmediately": false,
+        "showAIExplanation": true,
+        "distribution": [
+            {
+                "chapter": 1,
+                "percent": 10
+            },
+            {
+                "chapter": 2,
+                "percent": 10
+            },
+            {
+                "chapter": 3,
+                "percent": 10
+            },
+            {
+                "chapter": 4,
+                "percent": 10
+            },
+            {
+                "chapter": 5,
+                "percent": 10
+            },
+            {
+                "chapter": 6,
+                "percent": 10
+            },
+            {
+                "chapter": 7,
+                "percent": 10
+            },
+            {
+                "chapter": 8,
+                "percent": 10
+            },
+            {
+                "chapter": 9,
+                "percent": 10
+            },
+            {
+                "chapter": 10,
+                "percent": 10
+            }
+        ]
+    }
+}

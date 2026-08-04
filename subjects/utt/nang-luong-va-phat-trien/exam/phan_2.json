@@ -1,0 +1,1207 @@
+{
+    "title": "PHẦN 2: CÂU 51 - CÂU 100",
+    "chapter": 2,
+    "total_questions": 50,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Vì sao phải tiết kiệm năng lượng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Để tiết kiệm chi phí"
+                },
+                {
+                    "id": "B",
+                    "content": "Bảo tồn các nguồn năng lượng không tái tạo"
+                },
+                {
+                    "id": "C",
+                    "content": "Góp phần giảm lượng chất thải và giảm ô nhiễm môi trường"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 phương án trên"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 phương án trên"
+        },
+        {
+            "id": 2,
+            "question": "Các biện pháp nào sau đây tiết kiệm năng lượng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sử dụng điện, nước hợp lý"
+                },
+                {
+                    "id": "B",
+                    "content": "Tiết kiệm nhiên liệu"
+                },
+                {
+                    "id": "C",
+                    "content": "Ưu tiên dùng các nguồn năng lượng tái tạo"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 phương án trên"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 phương án trên"
+        },
+        {
+            "id": 3,
+            "question": "Hoạt động nào dưới đây giúp tiết kiệm năng lượng trong gia đình?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ra khỏi phòng quá 10 phút không tắt điện"
+                },
+                {
+                    "id": "B",
+                    "content": "Bật tất cả các bóng đèn trong phòng khi ngồi ở bàn học"
+                },
+                {
+                    "id": "C",
+                    "content": "Bật bình nóng lạnh thật lâu trước khi tắm"
+                },
+                {
+                    "id": "D",
+                    "content": "Dùng ánh sáng tự nhiên và không bật đèn khi ngồi học cạnh cửa sổ"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Dùng ánh sáng tự nhiên và không bật đèn khi ngồi học cạnh cửa sổ"
+        },
+        {
+            "id": 4,
+            "question": "Hành động nào sau đây làm lãng phí điện năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tan học không tắt đèn, quạt trong phòng học"
+                },
+                {
+                    "id": "B",
+                    "content": "Bật đèn ở phòng tắm, phòng vệ sinh khi có nhu cầu"
+                },
+                {
+                    "id": "C",
+                    "content": "Khi đi xem tivi thì tắt đèn ở bàn học tập"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả ba hành động trên"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Tan học không tắt đèn, quạt trong phòng học"
+        },
+        {
+            "id": 5,
+            "question": "Trong các loại đèn dưới đây, loại đèn nào tiêu hao nhiều năng lượng nhất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đèn huỳnh quang (đèn tuýp, đèn ống)"
+                },
+                {
+                    "id": "B",
+                    "content": "Đèn LED"
+                },
+                {
+                    "id": "C",
+                    "content": "Đèn compact"
+                },
+                {
+                    "id": "D",
+                    "content": "Đèn sợi đốt"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Đèn sợi đốt"
+        },
+        {
+            "id": 6,
+            "question": "Hiện nay, trên thị trường có nhiều loại quạt khác nhau, trong đó có 6 loại quạt chính gồm: quạt hộp, quạt bàn, quạt đứng, quạt trần, quạt điều hoà, quạt phun sương. Trong các loại quạt trên, loại quạt nào phù hợp với không gian sử dụng có diện tích trên 25 mét vuông, không gian mở?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quạt treo tường"
+                },
+                {
+                    "id": "B",
+                    "content": "Quạt bàn, quạt treo tường"
+                },
+                {
+                    "id": "C",
+                    "content": "Quạt trần, quạt phun sương, quạt hơi nước"
+                },
+                {
+                    "id": "D",
+                    "content": "B hoặc C đều đúng"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Quạt trần, quạt phun sương, quạt hơi nước"
+        },
+        {
+            "id": 7,
+            "question": "Nếu chọn bình nước nóng càng lớn thì càng tiêu hao nhiều điện năng. Đối với gia đình chỉ có nhu cầu sử dụng bình nước nóng để rửa bát, tắm vòi sen hoặc không sử dụng bồn tắm thường xuyên thì nên lựa chọn bình nước nóng có dung tích bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dưới 10 lít"
+                },
+                {
+                    "id": "B",
+                    "content": "20 lít"
+                },
+                {
+                    "id": "C",
+                    "content": "30 lít"
+                },
+                {
+                    "id": "D",
+                    "content": "40 lít"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. 20 lít"
+        },
+        {
+            "id": 8,
+            "question": "Nên làm gì nếu thấy nước ngập lên các thiết bị điện trong nhà?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Để thiết bị điện tiếp xúc với nước để kiểm tra"
+                },
+                {
+                    "id": "B",
+                    "content": "Ngắt nguồn điện và di dời thiết bị điện khỏi khu vực nước ngập"
+                },
+                {
+                    "id": "C",
+                    "content": "Để thiết bị điện hoạt động bình thường"
+                },
+                {
+                    "id": "D",
+                    "content": "Cố gắng lau khô thiết bị điện bằng tay"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Ngắt nguồn điện và di dời thiết bị điện khỏi khu vực nước ngập"
+        },
+        {
+            "id": 9,
+            "question": "Thời điểm hợp lý để kiểm tra và bảo trì hệ thống điện khi thấy dự báo mưa, bão là khi nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trước khi mưa và bão đến"
+                },
+                {
+                    "id": "B",
+                    "content": "Trong khi bão đang xảy ra"
+                },
+                {
+                    "id": "C",
+                    "content": "Sau khi bão đã qua"
+                },
+                {
+                    "id": "D",
+                    "content": "Không cần kiểm tra"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Trước khi mưa và bão đến"
+        },
+        {
+            "id": 10,
+            "question": "Đối với gia đình có từ 3–4 thành viên, nên chọn máy sấy quần áo có khối lượng như thế nào để tiết kiệm điện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3–5 kg"
+                },
+                {
+                    "id": "B",
+                    "content": "5–7 kg"
+                },
+                {
+                    "id": "C",
+                    "content": "7–9 kg"
+                },
+                {
+                    "id": "D",
+                    "content": "9–11 kg"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. 5–7 kg"
+        },
+        {
+            "id": 11,
+            "question": "Hãy chỉ ra công suất điều hòa phù hợp cho diện tích phòng 15 mét vuông?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "9.000 BTU (~1 HP)"
+                },
+                {
+                    "id": "B",
+                    "content": "18.000 BTU (~2 HP)"
+                },
+                {
+                    "id": "C",
+                    "content": "12.000 BTU (~1.5 HP)"
+                },
+                {
+                    "id": "D",
+                    "content": "24.000 BTU (~2.5 HP)"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. 9.000 BTU (~1 HP)"
+        },
+        {
+            "id": 12,
+            "question": "EVN khuyến cáo người dân nên làm gì để đảm bảo an toàn điện khi mưa bão?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khi thấy trụ điện đổ hoặc dây điện đứt, cần nhanh chóng lại gần, kiểm tra dây điện để báo cho lực lượng chức năng"
+                },
+                {
+                    "id": "B",
+                    "content": "Ngắt cầu dao, cầu chì, aptomat... cắt nguồn điện vào nhà"
+                },
+                {
+                    "id": "C",
+                    "content": "Không di chuyển, đi lại bằng tàu, thuyền, bè... trong vùng ngập lụt có đường dây điện sát với mặt nước"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả hai đều đúng"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Ngắt cầu dao, cầu chì, aptomat... cắt nguồn điện vào nhà"
+        },
+        {
+            "id": 13,
+            "question": "Khi điện bị ngắt do bão lũ, điều quan trọng nhất cần lưu ý là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đánh giá thiệt hại và báo cáo ngay cho cơ quan điện"
+                },
+                {
+                    "id": "B",
+                    "content": "Tự ý khắc phục sự cố mà không thông báo"
+                },
+                {
+                    "id": "C",
+                    "content": "Tiếp tục sử dụng điện dù có sự cố"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên đều sai"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Đánh giá thiệt hại và báo cáo ngay cho cơ quan điện"
+        },
+        {
+            "id": 14,
+            "question": "Trong một giờ tắt đèn hưởng ứng Chiến dịch Giờ Trái đất năm 2024, cả nước đã tiết kiệm được lượng điện là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "428.000 kWh"
+                },
+                {
+                    "id": "B",
+                    "content": "284.000 kWh"
+                },
+                {
+                    "id": "C",
+                    "content": "842.000 kWh"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên đều sai"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. 428.000 kWh"
+        },
+        {
+            "id": 15,
+            "question": "Đối với gia đình có 2-3 thành viên thì nên chọn bình nước nóng có công suất bao nhiêu để tiết kiệm điện năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dưới 10 lít"
+                },
+                {
+                    "id": "B",
+                    "content": "20 lít"
+                },
+                {
+                    "id": "C",
+                    "content": "30 lít"
+                },
+                {
+                    "id": "D",
+                    "content": "40 lít"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. 20 lít"
+        },
+        {
+            "id": 16,
+            "question": "Đâu là cách sử dụng điều hòa an toàn, tiết kiệm điện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lắp đặt dàn nóng ở vị trí phù hợp. Tốt nhất nên chọn nơi có mái che và tránh bức xạ mặt trời trực tiếp, dàn nóng cách tường khoảng 15 cm để thoát khí nóng ra được; phía trước quạt dàn nóng không được có vật cản ở khoảng cách nhỏ hơn 1,5 m"
+                },
+                {
+                    "id": "B",
+                    "content": "Tránh gắn dàn lạnh trong các góc khuất (làm giảm khả năng đối lưu không khí), cục lạnh treo tường nên gắn ở độ cao từ 2,5 - 3 m;"
+                },
+                {
+                    "id": "C",
+                    "content": "Sử dụng thiết bị có nguồn nhiệt trong phòng chạy điều hòa như bàn là, máy sấy tóc cho đỡ nóng"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả ba đáp án trên đều sai"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Lắp đặt dàn nóng ở vị trí phù hợp. Tốt nhất nên chọn nơi có mái che và tránh bức xạ mặt trời trực tiếp, dàn nóng cách tường khoảng 15 cm để thoát khí nóng ra được; phía trước quạt dàn nóng không được có vật cản ở khoảng cách nhỏ hơn 1,5 m"
+        },
+        {
+            "id": 17,
+            "question": "Công suất phù hợp cho lò nướng có dung tích từ 45 - 50 lít là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2000 (W)"
+                },
+                {
+                    "id": "B",
+                    "content": "1300-1400 (W)"
+                },
+                {
+                    "id": "C",
+                    "content": "1500-1800 (W)"
+                },
+                {
+                    "id": "D",
+                    "content": "Trên 2000 (W)"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. 2000 (W)"
+        },
+        {
+            "id": 18,
+            "question": "Thương hiệu điều hòa nào sau đây có sản phẩm được Bộ Công Thương chứng nhận hiệu suất năng lượng cao nhất:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Panasonic"
+                },
+                {
+                    "id": "B",
+                    "content": "Daikin"
+                },
+                {
+                    "id": "C",
+                    "content": "Casper"
+                },
+                {
+                    "id": "D",
+                    "content": "Funiki"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Daikin"
+        },
+        {
+            "id": 19,
+            "question": "Ngày diễn ra sự kiện chính (đêm tắt đèn hưởng ứng) Chiến dịch Giờ Trái đất năm 2024 là ngày nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "25/3"
+                },
+                {
+                    "id": "B",
+                    "content": "23/3"
+                },
+                {
+                    "id": "C",
+                    "content": "29/3"
+                },
+                {
+                    "id": "D",
+                    "content": "30/3"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. 23/3"
+        },
+        {
+            "id": 20,
+            "question": "Chiến dịch Giờ Trái đất bắt đầu được khởi xướng bởi Tổ chức nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "UNICEF"
+                },
+                {
+                    "id": "B",
+                    "content": "WWF"
+                },
+                {
+                    "id": "C",
+                    "content": "UNESCO"
+                },
+                {
+                    "id": "D",
+                    "content": "FED"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. WWF"
+        },
+        {
+            "id": 21,
+            "question": "Luật sử dụng năng lượng tiết kiệm và hiệu quả áp dụng cho những đối tượng nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tổ chức sử dụng năng lượng tại Việt Nam"
+                },
+                {
+                    "id": "B",
+                    "content": "Hộ gia đình sử dụng năng lượng tại Việt Nam"
+                },
+                {
+                    "id": "C",
+                    "content": "Cá nhân sử dụng năng lượng tại Việt Nam"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đối tượng trên"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 đối tượng trên"
+        },
+        {
+            "id": 22,
+            "question": "Nhãn hiệu suất năng lượng cao nhất có ý nghĩa gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là nhãn dán xác nhận sản phẩm sử dụng năng lượng vượt trội"
+                },
+                {
+                    "id": "B",
+                    "content": "Là nhãn dán xác nhận sản phẩm tiết kiệm năng lượng vượt trội (trên mức 5 sao theo TCVN)"
+                },
+                {
+                    "id": "C",
+                    "content": "Là nhãn dán xác nhận sản phẩm có hiệu suất năng lượng cao hơn các sản phẩm cùng loại"
+                },
+                {
+                    "id": "D",
+                    "content": "Là nhãn dán xác nhận sản phẩm mức sử dụng năng lượng cao hơn các sản phẩm cùng loại"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Là nhãn dán xác nhận sản phẩm tiết kiệm năng lượng vượt trội (trên mức 5 sao theo TCVN)"
+        },
+        {
+            "id": 23,
+            "question": "Mẹo lựa chọn các thiết bị tiết kiệm điện năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ưu tiên lựa chọn các thiết bị có giá thành cao, mẫu mã đẹp"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn thiết bị có dán nhãn năng lượng"
+                },
+                {
+                    "id": "C",
+                    "content": "Chọn thiết bị có công suất phù hợp với nhu cầu sử dụng"
+                },
+                {
+                    "id": "D",
+                    "content": "Dùng thử trước khi mua"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Chọn thiết bị có dán nhãn năng lượng"
+        },
+        {
+            "id": 24,
+            "question": "Việt Nam tham gia cam kết đạt mức phát thải ròng bằng \"0\" vào năm 2050 tại sự kiện nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "COP24"
+                },
+                {
+                    "id": "B",
+                    "content": "COP25"
+                },
+                {
+                    "id": "C",
+                    "content": "COP26"
+                },
+                {
+                    "id": "D",
+                    "content": "COP27"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. COP26"
+        },
+        {
+            "id": 25,
+            "question": "Chương trình dán nhãn năng lượng bắt đầu được triển khai tại Việt Nam từ năm nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2007"
+                },
+                {
+                    "id": "B",
+                    "content": "2008"
+                },
+                {
+                    "id": "C",
+                    "content": "2009"
+                },
+                {
+                    "id": "D",
+                    "content": "2010"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. 2008"
+        },
+        {
+            "id": 26,
+            "question": "Loại nhãn năng lượng nào dưới đây có mức tiết kiệm năng lượng nhất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhãn 3 sao"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhãn 1 sao"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhãn 5 sao"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhãn 1 sao"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Nhãn 5 sao"
+        },
+        {
+            "id": 27,
+            "question": "Chương trình quốc gia về sử dụng năng lượng tiết kiệm và hiệu quả giai đoạn 2019 - 2030 được Chính phủ phê duyệt vào năm nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2017"
+                },
+                {
+                    "id": "B",
+                    "content": "2018"
+                },
+                {
+                    "id": "C",
+                    "content": "2019"
+                },
+                {
+                    "id": "D",
+                    "content": "2020"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. 2019"
+        },
+        {
+            "id": 28,
+            "question": "Chương trình dán nhãn năng lượng và quản lý hiệu suất năng lượng tối thiểu tại Việt Nam chưa áp dụng đối với sản phẩm nào dưới đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Điều hòa không khí"
+                },
+                {
+                    "id": "B",
+                    "content": ". Bếp từ/ Bếp hồng ngoại"
+                },
+                {
+                    "id": "C",
+                    "content": "Tủ lạnh"
+                },
+                {
+                    "id": "D",
+                    "content": "Đèn Led"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. . Bếp từ/ Bếp hồng ngoại"
+        },
+        {
+            "id": 29,
+            "question": "Khẩu hiệu \"Tiết kiệm điện - thành thói quen\" được sử dụng làm thông điệp của Chiến dịch Giờ Trái đất lần đầu tiên vào năm nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2021"
+                },
+                {
+                    "id": "B",
+                    "content": "2022"
+                },
+                {
+                    "id": "C",
+                    "content": "2023"
+                },
+                {
+                    "id": "D",
+                    "content": "2024"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. 2023"
+        },
+        {
+            "id": 30,
+            "question": "Cách nào dưới đây giúp xe máy tiêu thụ ít nhiên liệu hơn?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chạy đều ga"
+                },
+                {
+                    "id": "B",
+                    "content": "Hạn chế chờ nổ máy"
+                },
+                {
+                    "id": "C",
+                    "content": "Bảo dưỡng định kỳ"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 phương án trên"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 phương án trên"
+        },
+        {
+            "id": 31,
+            "question": "Một ấm đun nước bằng điện có dung tích 3,6 lít thường tiêu tốn bao nhiêu kWh điện mỗi tháng để đun sôi nước với tần suất 1 lần/ngày?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khoảng 9,78 kWh điện"
+                },
+                {
+                    "id": "B",
+                    "content": "Khoảng 12 kWh điện"
+                },
+                {
+                    "id": "C",
+                    "content": "Khoảng 6,72 kWh điện"
+                },
+                {
+                    "id": "D",
+                    "content": "Điện năng tiêu thụ không đáng kể"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Khoảng 12 kWh điện"
+        },
+        {
+            "id": 32,
+            "question": "Khi tăng nhiệt độ điều hòa lên 1 độ C sẽ giảm mức điện năng tiêu thụ xuống bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3%"
+                },
+                {
+                    "id": "B",
+                    "content": "4%"
+                },
+                {
+                    "id": "C",
+                    "content": "5%"
+                },
+                {
+                    "id": "D",
+                    "content": "6%"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. 3%"
+        },
+        {
+            "id": 33,
+            "question": "Vì sao cần sử dụng điện năng tiết kiệm, hiệu quả?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tiết kiệm chi phí cho chính người sử dụng, doanh nghiệp và ngân sách nhà nước"
+                },
+                {
+                    "id": "B",
+                    "content": "Tuân thủ quy định của pháp luật"
+                },
+                {
+                    "id": "C",
+                    "content": "Tiết kiệm tài nguyên thiên nhiên và bảo vệ môi trường"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 đáp án trên đều đúng"
+        },
+        {
+            "id": 34,
+            "question": "Để tăng khả năng tiết kiệm năng lượng trong sản phẩm điều hòa không khí, các nhà sản xuất đã ứng dụng công nghệ nào phổ biến nhất hiện nay?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Công nghệ tự động hóa"
+                },
+                {
+                    "id": "B",
+                    "content": "Công nghệ in vitro"
+                },
+                {
+                    "id": "C",
+                    "content": "Công nghệ trí tuệ nhân tạo"
+                },
+                {
+                    "id": "D",
+                    "content": "Công nghệ biến tần (inverter)"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Công nghệ biến tần (inverter)"
+        },
+        {
+            "id": 35,
+            "question": "Chương trình quốc gia về sử dụng năng lượng tiết kiệm và hiệu quả giai đoạn 2019 - 2030 (VNEEP3) đề ra mục tiêu đạt mức tiết kiệm bao nhiêu % tổng tiêu thụ năng lượng toàn quốc trong giai đoạn từ năm 2019 đến năm 2025?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "5-7%"
+                },
+                {
+                    "id": "B",
+                    "content": "8-10%"
+                },
+                {
+                    "id": "C",
+                    "content": "12-14%"
+                },
+                {
+                    "id": "D",
+                    "content": "15-17%"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. 5-7%"
+        },
+        {
+            "id": 36,
+            "question": "Biểu tượng Chương trình Giờ Trái đất dưới đây là của năm nào?\n60 EARTH HOUR",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2020"
+                },
+                {
+                    "id": "B",
+                    "content": "2021"
+                },
+                {
+                    "id": "C",
+                    "content": "2022"
+                },
+                {
+                    "id": "D",
+                    "content": "2023"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 2023"
+        },
+        {
+            "id": 37,
+            "question": "Lợi ích của năng lượng tái tạo?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là nguồn năng lượng sạch hoàn toàn, thân thiện với thiên nhiên và hạn chế tối đa ô nhiễm đến môi trường"
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lượng tái tạo có độ bền cao, chi phí bảo trì và bảo dưỡng thấp"
+                },
+                {
+                    "id": "C",
+                    "content": "Khi sử dụng sẽ giúp tiết kiệm điện năng cho hộ gia đình, doanh nghiệp, nhà máy,…"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Tất cả"
+        },
+        {
+            "id": 38,
+            "question": "Quyết định số 14/2023/QĐ-TTg ngày 24 tháng 5 năm 2023 của Thủ tướng Chính phủ ban hành Danh mục, lộ trình phương tiện, thiết bị sử dụng năng lượng hiệu suất thấp phải loại bỏ và các tổ máy phát điện hiện có hiệu suất thấp không được đi vào hoạt động áp dụng cho đối tượng nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các tiêu thương buôn bán các phương tiện, thiết bị sử dụng năng lượng có hiệu suất thấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Đảng viên"
+                },
+                {
+                    "id": "C",
+                    "content": "Cơ quan nhà nước, doanh nghiệp, tổ chức và cá nhân tham gia hoạt động nhập khẩu, sản xuất và kinh doanh hàng hóa sử dụng năng lượng hiệu suất thấp"
+                },
+                {
+                    "id": "D",
+                    "content": "Cựu chiến binh"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Cơ quan nhà nước, doanh nghiệp, tổ chức và cá nhân tham gia hoạt động nhập khẩu, sản xuất và kinh doanh hàng hóa sử dụng năng lượng hiệu suất thấp"
+        },
+        {
+            "id": 39,
+            "question": "Theo Quyết định số 14/2023/QĐ-TTg ngày 24 tháng 5 năm 2023 của Thủ tướng Chính phủ, các tổ máy phát điện bằng than, khí có hiệu suất bao nhiêu không được phép xây dựng mới?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "34,0%"
+                },
+                {
+                    "id": "B",
+                    "content": "38,0% và 39,0%"
+                },
+                {
+                    "id": "C",
+                    "content": "41,0% và 43,0%"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 đáp án trên đều đúng"
+        },
+        {
+            "id": 40,
+            "question": "Các biện pháp sử dụng năng lượng tiết kiệm và hiệu quả nào dưới đây được khuyến khích thực hiện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thiết kế nhà ở/ văn phòng tận dụng ánh sáng và thông gió tự nhiên"
+                },
+                {
+                    "id": "B",
+                    "content": "Hạn chế sử dụng thiết bị công suất lớn vào giờ cao điểm"
+                },
+                {
+                    "id": "C",
+                    "content": "Lựa chọn và sử dụng các thiết bị điện có dán nhãn năng lượng"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án trên"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Tất cả các đáp án trên"
+        },
+        {
+            "id": 41,
+            "question": "Theo Quyết định số 1881/QĐ-TTg ngày 9/11/2021 của Thủ tướng Chính phủ ban hành Danh sách cơ sở sử dụng năng lượng trọng điểm năm 2020, tổng số cơ sở sử dụng năng lượng trọng điểm năm 2020 trên toàn quốc là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2.661 cơ sở"
+                },
+                {
+                    "id": "B",
+                    "content": "2.761 cơ sở"
+                },
+                {
+                    "id": "C",
+                    "content": "2.861 cơ sở"
+                },
+                {
+                    "id": "D",
+                    "content": "2.961 cơ sở"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 2.961 cơ sở"
+        },
+        {
+            "id": 42,
+            "question": "Với máy sấy 2 nấc, sử dụng máy sấy ở mức 1 sẽ tiết kiệm bao nhiêu % điện năng so với sử dụng máy ở mức 2?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "10%"
+                },
+                {
+                    "id": "B",
+                    "content": "15%"
+                },
+                {
+                    "id": "C",
+                    "content": "20%"
+                },
+                {
+                    "id": "D",
+                    "content": "25%"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. 20%"
+        },
+        {
+            "id": 43,
+            "question": "Cơ sở sử dụng năng lượng trọng điểm trong lĩnh vực công nghiệp là cơ sở có mức sử dụng năng lượng hàng năm như thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Từ 1.000 TOE (tấn dầu quy đổi) trở lên"
+                },
+                {
+                    "id": "B",
+                    "content": "Từ 2.000 TOE (tấn dầu quy đổi) trở lên"
+                },
+                {
+                    "id": "C",
+                    "content": "Từ 3.000 TOE (tấn dầu quy đổi) trở lên"
+                },
+                {
+                    "id": "D",
+                    "content": "Từ 4.000 TOE (tấn dầu quy đổi) trở lên"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Từ 1.000 TOE (tấn dầu quy đổi) trở lên"
+        },
+        {
+            "id": 44,
+            "question": "Trong gia đình có sử dụng bếp điện, mức tiêu thụ điện của sản phẩm này chiếm bao nhiêu % tổng lượng điện bình quân hàng tháng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hơn 8%"
+                },
+                {
+                    "id": "B",
+                    "content": "Gần 15%"
+                },
+                {
+                    "id": "C",
+                    "content": "Gần 11%"
+                },
+                {
+                    "id": "D",
+                    "content": "Hơn 20%"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Hơn 8%"
+        },
+        {
+            "id": 45,
+            "question": "Đâu là mức phát thải CO2 vào môi trường/năm của bình nước nóng điện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "780 kg CO2/năm"
+                },
+                {
+                    "id": "B",
+                    "content": "820 kg CO2/năm"
+                },
+                {
+                    "id": "C",
+                    "content": "860 kg CO2/năm"
+                },
+                {
+                    "id": "D",
+                    "content": "900 kg CO2/năm"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. 780 kg CO2/năm"
+        },
+        {
+            "id": 46,
+            "question": "Với bình nước nóng có công suất tiêu thụ từ 1500 - 5000 Watt, có thể tiêu thụ bao nhiêu % lượng điện năng tiêu thụ trong gia đình?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "18%"
+                },
+                {
+                    "id": "B",
+                    "content": "20%"
+                },
+                {
+                    "id": "C",
+                    "content": "22%"
+                },
+                {
+                    "id": "D",
+                    "content": "24%"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. 18%"
+        },
+        {
+            "id": 47,
+            "question": "Với gia đình có sử dụng máy hút bụi, mức độ tiêu thụ điện trung bình hàng tháng của sản phẩm này là bao nhiêu %?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "4,5%"
+                },
+                {
+                    "id": "B",
+                    "content": "5,5%"
+                },
+                {
+                    "id": "C",
+                    "content": "6,5%"
+                },
+                {
+                    "id": "D",
+                    "content": "7,5%"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. 5,5%"
+        },
+        {
+            "id": 48,
+            "question": "Biểu tượng 60+ tượng trưng cho Chiến dịch nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chiến dịch Giờ Trái đất"
+                },
+                {
+                    "id": "B",
+                    "content": "Ngày Môi trường thế giới"
+                },
+                {
+                    "id": "C",
+                    "content": "Chiến dịch Chung tay giảm chất thải nhựa"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Chiến dịch Giờ Trái đất"
+        },
+        {
+            "id": 49,
+            "question": "Khi mất điện, đối với gia đình chỉ có nhu cầu sử dụng các thiết bị điện tiêu thụ ít điện năng như đèn chiếu sáng, quạt, TV,… nên lựa chọn máy phát điện có công suất nào cho phù hợp?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2 - 4 kW"
+                },
+                {
+                    "id": "B",
+                    "content": "4 - 6 kW"
+                },
+                {
+                    "id": "C",
+                    "content": "5 - 7 kW"
+                },
+                {
+                    "id": "D",
+                    "content": "8 - 10 kW"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. 2 - 4 kW"
+        },
+        {
+            "id": 50,
+            "question": "Khi chọn mua máy phát điện, nên chọn máy phát có công suất lớn hơn bao nhiêu % so với công suất tiêu thụ thực tế của các thiết bị điện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Từ 5 - 10%"
+                },
+                {
+                    "id": "B",
+                    "content": "Từ 10 - 25%"
+                },
+                {
+                    "id": "C",
+                    "content": "Từ 20 - 25%"
+                },
+                {
+                    "id": "D",
+                    "content": "Từ 30 - 45%"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Từ 10 - 25%"
+        }
+    ]
+}

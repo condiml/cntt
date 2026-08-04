@@ -137,11 +137,11 @@ function getCurrentSubjectId() {
     // Block access to disabled subjects (e.g., KTH)
     if (storedSubject && DISABLED_SUBJECTS.includes(storedSubject)) {
         console.warn(`Subject '${storedSubject}' is disabled and cannot be accessed`);
-        localStorage.setItem('current-subject', 'triet-mac-lenin');
-        return 'triet-mac-lenin';
+        localStorage.setItem('current-subject', 'ung-dung-cntt-co-ban');
+        return 'ung-dung-cntt-co-ban';
     }
 
-    return storedSubject || 'triet-mac-lenin';
+    return storedSubject || 'ung-dung-cntt-co-ban';
 }
 
 function setCurrentSubject(subjectId) {

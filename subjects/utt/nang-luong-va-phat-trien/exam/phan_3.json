@@ -1,0 +1,1207 @@
+{
+    "title": "PHẦN 3: CÂU 101 - CÂU 150",
+    "chapter": 3,
+    "total_questions": 50,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Nếu tăng cường mở rộng hệ thống cửa sổ, tận dụng hiệu quả ánh sáng tự nhiên, có thể giúp giảm mức tiêu thụ điện cho chiếu sáng bao nhiêu % mỗi năm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Từ 5 - 8%"
+                },
+                {
+                    "id": "B",
+                    "content": "Từ 10 - 20%"
+                },
+                {
+                    "id": "C",
+                    "content": "Từ 18 - 28%"
+                },
+                {
+                    "id": "D",
+                    "content": "Từ 30 - 40%"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Từ 18 - 28%"
+        },
+        {
+            "id": 2,
+            "question": "So với bóng đèn huỳnh quang thông thường, bóng đèn CFL (đèn huỳnh quang compact) có khả năng tiết kiệm hơn bao nhiêu % năng lượng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khoảng 30 - 50% năng lượng"
+                },
+                {
+                    "id": "B",
+                    "content": "Khoảng 40 - 60% năng lượng"
+                },
+                {
+                    "id": "C",
+                    "content": "Khoảng 50 - 70% năng lượng"
+                },
+                {
+                    "id": "D",
+                    "content": "Khoảng 60 - 80% năng lượng"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Khoảng 30 - 50% năng lượng"
+        },
+        {
+            "id": 3,
+            "question": "Có mấy biện pháp sử dụng năng lượng trong gia đình tiết kiệm và hiệu quả dưới đây?\nLựa chọn thiết bị gia dụng tiết kiệm năng lượng\nTăng cường sử dụng năng lượng tái tạo\nLắp đặt, sử dụng, bảo dưỡng thiết bị gia dụng đúng hướng dẫn của nhà sản xuất\nXây dựng thói quen sử dụng tiết kiệm năng lượng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1"
+                },
+                {
+                    "id": "B",
+                    "content": "2"
+                },
+                {
+                    "id": "C",
+                    "content": "3"
+                },
+                {
+                    "id": "D",
+                    "content": "4"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 4"
+        },
+        {
+            "id": 4,
+            "question": "Quãng đường di chuyển hàng ngày của một người là khoảng 80 km/ngày. Người đó có một ô tô đi được trong thành phố là 20 km/kg. Nếu người đó đổi chiếc xe hybrid mới với quãng đường đi trong thành phố là 30 km/kg. Biết chi phí xăng trung bình là 4,50 đôla/kg, hãy tính lượng nhiên liệu và số tiền tiết kiệm được với chiếc xe mới mỗi năm.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "387 kg nhiên liệu và 1.190 đôla mỗi năm"
+                },
+                {
+                    "id": "B",
+                    "content": "487 kg nhiên liệu và 2.190 đôla mỗi năm"
+                },
+                {
+                    "id": "C",
+                    "content": "587 kg nhiên liệu và 3.190 đôla mỗi năm"
+                },
+                {
+                    "id": "D",
+                    "content": "687 kg nhiên liệu và 4.190 đôla mỗi năm"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. 487 kg nhiên liệu và 2.190 đôla mỗi năm"
+        },
+        {
+            "id": 5,
+            "question": "Khi đốt cháy nhiên liệu hydrocacbon, hầu như toàn bộ cacbon trong nhiên liệu bị đốt cháy hoàn toàn tạo thành CO₂ (cacbon dioxit), là khí nguyên nhân gây ra hiệu ứng nhà kính và do đó làm biến đổi khí hậu toàn cầu. Trung bình, 0,59 kg CO₂ sinh ra ứng với mỗi kWh điện được tạo ra từ một nhà máy điện khí đốt tự nhiên. Một hộ gia đình điển hình sử dụng khoảng 700 kWh điện mỗi năm. Xác định lượng CO₂ sinh ra trong một thành phố có 10.000 hộ gia đình.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1.130 tấn CO₂ mỗi năm"
+                },
+                {
+                    "id": "B",
+                    "content": "4.130 tấn CO₂ mỗi năm"
+                },
+                {
+                    "id": "C",
+                    "content": "2.130 tấn CO₂ mỗi năm"
+                },
+                {
+                    "id": "D",
+                    "content": "3.130 tấn CO₂ mỗi năm"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. 4.130 tấn CO₂ mỗi năm"
+        },
+        {
+            "id": 6,
+            "question": "Một phòng máy tính công cộng lớn hoạt động từ Thứ Hai đến Thứ Bảy, ở đó các máy tính đang được sử dụng liên tục hoặc vẫn hoạt động cho đến khi người dùng tiếp theo đến. Mỗi máy tính cần khoảng 240 W. Nếu phòng máy tính chứa 53 máy tính và mỗi máy hoạt động trong 12 giờ/ngày, thì trong suốt một năm nhà máy điện than địa phương sẽ thải bao nhiêu tấn CO₂ vào khí quyển để giữ cho máy tính chạy? (Biết 1 MWh = 3600 MJ, giá trị nhiệt của than = 32 MJ/kg, khối lượng nguyên tử C = 12, O = 16)",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "17,6 tấn CO₂ mỗi năm"
+                },
+                {
+                    "id": "B",
+                    "content": "18,6 tấn CO₂ mỗi năm"
+                },
+                {
+                    "id": "C",
+                    "content": "19,6 tấn CO₂ mỗi năm"
+                },
+                {
+                    "id": "D",
+                    "content": "20,6 tấn CO₂ mỗi năm"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. 19,6 tấn CO₂ mỗi năm"
+        },
+        {
+            "id": 7,
+            "question": "Một số người thích bật tivi khi đang ngủ. TV thường sẽ chạy mỗi ngày khoảng 8 giờ và tốn khoảng 30-40 W. Với chi phí điện là 0,20 đôla/kWh, hãy tính sẽ phải trả thêm bao nhiêu tiền điện nếu làm việc này trong 5 ngày một tuần và trong cả năm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "141,4 đôla mỗi năm"
+                },
+                {
+                    "id": "B",
+                    "content": "211,4 đôla mỗi năm"
+                },
+                {
+                    "id": "C",
+                    "content": "341,1 đôla mỗi năm"
+                },
+                {
+                    "id": "D",
+                    "content": "441,4 đôla mỗi năm"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. 141,4 đôla mỗi năm"
+        },
+        {
+            "id": 8,
+            "question": "Năng lượng tái tạo (NLTT) là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là loại năng lượng có nguồn liên tục, có thể tái sử dụng vô hạn lần theo chuẩn mực hiện tại."
+                },
+                {
+                    "id": "B",
+                    "content": "Là loại năng lượng có nguồn liên tục, không thể tái sử dụng vô hạn lần."
+                },
+                {
+                    "id": "C",
+                    "content": "Là loại năng lượng có nguồn không liên tục."
+                },
+                {
+                    "id": "D",
+                    "content": "Là loại năng lượng tổn tại có giới hạn, có thể cạn kiệt vì sự sử dụng của con người."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Là loại năng lượng có nguồn liên tục, có thể tái sử dụng vô hạn lần theo chuẩn mực hiện tại."
+        },
+        {
+            "id": 9,
+            "question": "Các dạng Năng lượng tái tạo (NLTT) phổ biến nhất hiện nay?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng lượng mặt trời, gió, thủy điện."
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lượng địa nhiệt, thủy triều."
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lượng sinh khối, khí sinh học."
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án trên."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Năng lượng mặt trời, gió, thủy điện."
+        },
+        {
+            "id": 10,
+            "question": "Vai trò của Năng lượng tái tạo?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các nguồn tài nguyên khoáng sản theo ước tính sẽ cạn kiệt trong khoảng 80 -100 năm nữa.Năng lượng tái tạo chính là nguồn năng lượng thay thế. Đây là nguồn năng lượng mà chúng ta có thể thể dành cho con cháu vì chúng không bao giờ cạn kiệt năng lượng tái tạo."
+                },
+                {
+                    "id": "B",
+                    "content": "Không gây ô nhiễm môi trường, giúp làm giảm lượng khí CO2 thải ra môi trường gây hiệu ứng nhà kính."
+                },
+                {
+                    "id": "C",
+                    "content": "Tiết kiệm ngân sách khắc phục thiệt hại do ô nhiễm môi trường gây nên, mang lại nhiểu lợi ích sinh thái. Phát triển kinh tế bển vững, đem lại nhiều công ăn việc làm cho người lao động. Giúp các quốc gia tự chủ về nguồn năng lượng, không tạo ra khủng hoảng năng lượng, giảm mức sản xuất phóng xạ và sự lan rộng của vũ khí nguyên tử, tránh xung đột gây ra chiến tranh."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án khác đều đúng."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 đáp án khác đều đúng."
+        },
+        {
+            "id": 11,
+            "question": "Hiện nay lượng tiêu",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "60%."
+                },
+                {
+                    "id": "B",
+                    "content": "50%"
+                },
+                {
+                    "id": "C",
+                    "content": "35%."
+                },
+                {
+                    "id": "D",
+                    "content": "Khoảng 16%."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Khoảng 16%."
+        },
+        {
+            "id": 12,
+            "question": "Tại sao các nguồn NLTT ở nước ta phát triển còn hạn chế?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không ổn định."
+                },
+                {
+                    "id": "B",
+                    "content": "Không ổn định; Mật độ năng lượng thấp; Kỹ thuật khai thác phức tạp, đòi hỏi công nghệ cao."
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí vận hành bảo dưỡng cao."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 đáp án trên"
+        },
+        {
+            "id": 13,
+            "question": "Những nước nào tiêu thụ NLTT trên 10 triệu TOE (không kể thủy điện, số liệu thống kê tính đền năm 2017)",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trung Quốc; Mỹ ; Đức; Nhật Bản; Brazil; Ấn Độ; Anh; Thụy Điển; Pháp; Canada."
+                },
+                {
+                    "id": "B",
+                    "content": "Trung Quốc; Mỹ ; Đức; Nhật Bản; Brazil; Ấn Độ; Anh; Thụy Điển; Pháp; Italy."
+                },
+                {
+                    "id": "C",
+                    "content": "Trung Quốc; Mỹ; Đức; Nhật Bản; Brazil; Ấn Độ; Anh; Úc; Pháp; Canada."
+                },
+                {
+                    "id": "D",
+                    "content": "Trung Quốc; Mỹ; Đức; Nhật Bản; Brazil; Ấn Độ; Anh; Thụy Điển; Italy; Canada."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Trung Quốc; Mỹ; Đức; Nhật Bản; Brazil; Ấn Độ; Anh; Thụy Điển; Italy; Canada."
+        },
+        {
+            "id": 14,
+            "question": "Sản lượng điện của Việt Nam tính đến năm 2017 (không bao gồm Thủy điện với công suất lớn hơn 30MW) là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2,55 tỷ kWh."
+                },
+                {
+                    "id": "B",
+                    "content": "1,5 tỷ kWh."
+                },
+                {
+                    "id": "C",
+                    "content": "0,55 tỷ kWh."
+                },
+                {
+                    "id": "D",
+                    "content": "3 tỷ kWh."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. 0,55 tỷ kWh."
+        },
+        {
+            "id": 15,
+            "question": "Việc phát triển NLTT nói chung, từng loại NLTT nói riêng cũng như phát triển điện năng từ nguồn NLTT của mỗi Quốc gia hoàn toàn tùy thuộc vào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Diện tích địa lý của từng Quốc gia."
+                },
+                {
+                    "id": "B",
+                    "content": "Nguồn vốn của từng Quốc gia."
+                },
+                {
+                    "id": "C",
+                    "content": "Khả năng phát triển nguồn nhân lực phục vụ cho NLTT."
+                },
+                {
+                    "id": "D",
+                    "content": "Phụ thuộc vào tiểm năng và lợi thế của từng nguồn tài nguyên năng lượng sẵn có trong nước, bao gồm cả các loại NLTT và khả năng tiếp cận các nguồn cung năng lượng từ bên ngoài của từng Quốc gia."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Phụ thuộc vào tiểm năng và lợi thế của từng nguồn tài nguyên năng lượng sẵn có trong nước, bao gồm cả các loại NLTT và khả năng tiếp cận các nguồn cung năng lượng từ bên ngoài của từng Quốc gia."
+        },
+        {
+            "id": 16,
+            "question": "Tính tương đối tốc độ gió ở độ cao 60m với các dữ liệu: Tốc độ gió ở độ cao 10m (v10=3 m/s), hệ số Hellman (=0,1)?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3,1 m/s"
+                },
+                {
+                    "id": "B",
+                    "content": "5,6 m/s"
+                },
+                {
+                    "id": "C",
+                    "content": "4,5 m/s"
+                },
+                {
+                    "id": "D",
+                    "content": "3,6 m/s"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 3,6 m/s"
+        },
+        {
+            "id": 17,
+            "question": "Tính tương đối tốc độ gió ở độ cao 80m với các dữ liệu: Tốc độ gió ở độ cao 10m (v10=3 m/s), hệ số Hellman (=0,1)?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3,1 m/s"
+                },
+                {
+                    "id": "B",
+                    "content": "5,6 m/s"
+                },
+                {
+                    "id": "C",
+                    "content": "4,5 m/s"
+                },
+                {
+                    "id": "D",
+                    "content": "3,7 m/s"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 3,7 m/s"
+        },
+        {
+            "id": 18,
+            "question": "Tính tương đối tốc độ gió ở độ cao 70m với các dữ liệu: Tốc độ gió ở độ cao 10m (v10=4 m/s), hệ số Hellman (=0,1)?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3,1 m/s"
+                },
+                {
+                    "id": "B",
+                    "content": "5,6 m/s"
+                },
+                {
+                    "id": "C",
+                    "content": "4,5 m/s"
+                },
+                {
+                    "id": "D",
+                    "content": "4,9 m/s"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 4,9 m/s"
+        },
+        {
+            "id": 19,
+            "question": "Tính công suất lý thuyết của tuabin gió theo cơ năng của định luật Betz với các dữ liệu: mật độ không khí (=1,225 kg/m3), tốc độ gió (v=6 m/s), độ dài cánh gió (R=25m)?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "300 kW"
+                },
+                {
+                    "id": "B",
+                    "content": "400 kW"
+                },
+                {
+                    "id": "C",
+                    "content": "359 kW"
+                },
+                {
+                    "id": "D",
+                    "content": "260 kW"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 260 kW"
+        },
+        {
+            "id": 20,
+            "question": "Tính công suất lý thuyết của tuabin gió theo cơ năng của định luật Betz với các dữ liệu: mật độ không khí (=1,225 kg/m3), tốc độ gió (v=13 m/s), độ dài cánh gió (R=25m)?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2,54 MW"
+                },
+                {
+                    "id": "B",
+                    "content": "400 kW"
+                },
+                {
+                    "id": "C",
+                    "content": "359 kW"
+                },
+                {
+                    "id": "D",
+                    "content": "2,64 MW"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 2,64 MW"
+        },
+        {
+            "id": 21,
+            "question": "Tính công suất lý thuyết của tuabin gió theo cơ năng của định luật Betz với các dữ liệu: mật độ không khí (=1,225 kg/m3), tốc độ gió (v=13 m/s), độ dài cánh gió (R=30m)?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2,54 MW"
+                },
+                {
+                    "id": "B",
+                    "content": "2,65 kW"
+                },
+                {
+                    "id": "C",
+                    "content": "756 kW"
+                },
+                {
+                    "id": "D",
+                    "content": "887 kW"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 887 kW"
+        },
+        {
+            "id": 22,
+            "question": "Tính công suất lý thuyết của tuabin gió theo cơ năng của định luật Betz với các dữ liệu: mật độ không khí (=1,225 kg/m3), tốc độ gió (v=8 m/s), độ dài cánh gió (R=30m)?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2,54 MW"
+                },
+                {
+                    "id": "B",
+                    "content": "2,65 kW"
+                },
+                {
+                    "id": "C",
+                    "content": "3,52 kW"
+                },
+                {
+                    "id": "D",
+                    "content": "3,80 MW"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 3,80 MW"
+        },
+        {
+            "id": 23,
+            "question": "Tính công suất lý thuyết của tuabin gió theo cơ năng của định luật Betz với các dữ liệu: mật độ không khí (=1,225 kg/m3), tốc độ gió (v=10 m/s), độ dài cánh gió (R=35m)?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2,54 MW"
+                },
+                {
+                    "id": "B",
+                    "content": "2,65 kW"
+                },
+                {
+                    "id": "C",
+                    "content": "3,52 kW"
+                },
+                {
+                    "id": "D",
+                    "content": "2,36 MW"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 2,36 MW"
+        },
+        {
+            "id": 24,
+            "question": "Khái niệm về năng lượng gió?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là thế năng của gió áp thấp cao trên cực xích đạo"
+                },
+                {
+                    "id": "B",
+                    "content": "Phần lớn phụ thuộc hướng chuyển động của mặt trời so với mặt trăng"
+                },
+                {
+                    "id": "C",
+                    "content": "Là động năng của khối không khí di chuyển do sự chênh lệch nhiệt độ"
+                },
+                {
+                    "id": "D",
+                    "content": "Không thể chuyển đổi thành năng lượng điện"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Là động năng của khối không khí di chuyển do sự chênh lệch nhiệt độ"
+        },
+        {
+            "id": 25,
+            "question": "Các loại gió chính trên trái đất:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Gió Đông, Gió Tây, Gió Nam, Gió Bắc"
+                },
+                {
+                    "id": "B",
+                    "content": "Gió Đông cực đới, Gió Tín Phong, Gió Tây ôn đới"
+                },
+                {
+                    "id": "C",
+                    "content": "Gió Lào, Gió rãnh thấp xích đạo, Gió Đông cực đới"
+                },
+                {
+                    "id": "D",
+                    "content": "Gió Đông nam, Gió Bắc, Gió Tây ôn đới"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Gió Đông cực đới, Gió Tín Phong, Gió Tây ôn đới"
+        },
+        {
+            "id": 26,
+            "question": "Trên nửa Bắc bán cầu, do sự vận động tự quay của trái đất, gió thổi lệch về bên:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trái"
+                },
+                {
+                    "id": "B",
+                    "content": "Phải"
+                },
+                {
+                    "id": "C",
+                    "content": "Không xác định, phụ thuộc mùa"
+                },
+                {
+                    "id": "D",
+                    "content": "Không xác định, phụ thuộc nhiệt độ"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Phải"
+        },
+        {
+            "id": 27,
+            "question": "Gió Tín Phong là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dòng khí ổn định thổi từ xích đạo về hai cực bán cầu"
+                },
+                {
+                    "id": "B",
+                    "content": "Dòng khí ổn định thổi từ vùng cao áp cận nhiệt về phía xích đạo"
+                },
+                {
+                    "id": "C",
+                    "content": "Dòng khí ổn định thổi từ biển vào đất liền theo rãnh thấp xích đạo"
+                },
+                {
+                    "id": "D",
+                    "content": "Dòng khí ổn định thổi từ đất liền ra biển theo rãnh thấp xích đạo"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Dòng khí ổn định thổi từ vùng cao áp cận nhiệt về phía xích đạo"
+        },
+        {
+            "id": 28,
+            "question": "Trong các hệ thống gió mặt đất, hệ thống nào ổn định nhất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Gió Đông"
+                },
+                {
+                    "id": "B",
+                    "content": "Gió Tín phong"
+                },
+                {
+                    "id": "C",
+                    "content": "Gió Lào"
+                },
+                {
+                    "id": "D",
+                    "content": "Gió Tây ôn đới"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Gió Tín phong"
+        },
+        {
+            "id": 29,
+            "question": "Gió đất-biển có hướng như thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Gió Biển thổi ban đêm vào đất liền, gió đất thổi ban ngày ra biển"
+                },
+                {
+                    "id": "B",
+                    "content": "Gió Biển thổi ban ngày vào đất liển, gió đất thổi ban đêm ra biển"
+                },
+                {
+                    "id": "C",
+                    "content": "Gió biển và gió đất thổi tuần hoàn theo từng giờ trong ngày"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có câu nào đúng trong 3 câu còn lại"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Gió Biển thổi ban ngày vào đất liển, gió đất thổi ban đêm ra biển"
+        },
+        {
+            "id": 30,
+            "question": "Khái niệm hiện tượng Phơn (Foehn)?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Gió mát thổi từng đợt trong mùa xuân từ biển vào đất liền"
+                },
+                {
+                    "id": "B",
+                    "content": "Gió khô nóng, thổi từng đợt, từng lúc một từ núi xuống thung lũng"
+                },
+                {
+                    "id": "C",
+                    "content": "Gió Lào thổi vào Việt Nam"
+                },
+                {
+                    "id": "D",
+                    "content": "Gió Tây ôn đới thổi vào Việt Nam"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Gió khô nóng, thổi từng đợt, từng lúc một từ núi xuống thung lũng"
+        },
+        {
+            "id": 31,
+            "question": "Thang gió Bôpho (Beaufort) có mấy cấp gió?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "11"
+                },
+                {
+                    "id": "B",
+                    "content": "12"
+                },
+                {
+                    "id": "C",
+                    "content": "13"
+                },
+                {
+                    "id": "D",
+                    "content": "10"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. 13"
+        },
+        {
+            "id": 32,
+            "question": "Trong Thang gió Bôpho (Beaufort), cấp gió 3 ứng với:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Gió thoảng nhẹ, lá cây đu đưa, tốc độ gió: 1,6-3,3 m/s"
+                },
+                {
+                    "id": "B",
+                    "content": "Gió yếu, lá cây reo và cành cây nhỏ bắt đầu rung, tốc độ gió: 3,4-5,4 m/s"
+                },
+                {
+                    "id": "C",
+                    "content": "Gió mạnh, người ngại đi ra đường, tốc độ gió: 10-12 m/s"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các câu đều đúng"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Gió yếu, lá cây reo và cành cây nhỏ bắt đầu rung, tốc độ gió: 3,4-5,4 m/s"
+        },
+        {
+            "id": 33,
+            "question": "Trong Thang gió Bôpho (Beaufort), cấp gió 4 ứng với:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tốc độ gió: 2,3-7,9 m/s"
+                },
+                {
+                    "id": "B",
+                    "content": "Tốc độ gió: 5,5-7,9 m/s"
+                },
+                {
+                    "id": "C",
+                    "content": "Tốc độ gió: 10-12 m/s"
+                },
+                {
+                    "id": "D",
+                    "content": "Tốc độ gió: 5,5-12,1 m/s"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Tốc độ gió: 5,5-7,9 m/s"
+        },
+        {
+            "id": 34,
+            "question": "Khái niệm Hệ số Heoman (Hellman Exponential Coefficient) trong công thức phổ biển tính tương đối vận tốc gió:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hệ số mũ dự đoán về sự tăng cường gió trong mùa hè"
+                },
+                {
+                    "id": "B",
+                    "content": "Hệ số mũ dự đoán về lớp ma sát của khí quyền tuỳ theo địa hình"
+                },
+                {
+                    "id": "C",
+                    "content": "Hệ số mũ dự đoán về sự suy giàm gió trong mùa đông"
+                },
+                {
+                    "id": "D",
+                    "content": "Hệ số mũ dự đoán về lớp ma sát của gió Tín phong"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Hệ số mũ dự đoán về lớp ma sát của khí quyền tuỳ theo địa hình"
+        },
+        {
+            "id": 35,
+            "question": "Giả sử trong một điểu kiện nào đó, một tế bào PV lý tưởng sản xuất được 3 W trong khi điện áp đầu ra là 0,5 V. Hãy tính công suất đầu ra của mô đun pin mặt trời bao gồm 3 dãy tế bào kết nối song song (mỗi dãy gồm 10 tế bào PV ghép nối tiếp).",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "100W"
+                },
+                {
+                    "id": "B",
+                    "content": "80W"
+                },
+                {
+                    "id": "C",
+                    "content": "70W"
+                },
+                {
+                    "id": "D",
+                    "content": "90 W"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 90 W"
+        },
+        {
+            "id": 36,
+            "question": "Giả sử trong một điểu kiện nào đó, một tế bào PV lý tưởng sản xuất được 3 W trong khi điện áp đầu ra là 0,5 V. Hãy tính điện áp đầu ra của mô đun pin mặt trời bao gồm 3 dãy tế bào kết nối song song (mỗi dãy gồm 10 tế bào PV ghép nối tiếp).",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "50 V"
+                },
+                {
+                    "id": "B",
+                    "content": "24 V"
+                },
+                {
+                    "id": "C",
+                    "content": "12 V"
+                },
+                {
+                    "id": "D",
+                    "content": "5 V"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 5 V"
+        },
+        {
+            "id": 37,
+            "question": "Giả sử trong một điểu kiện nào đó, một tế bào PV lý tưởng sản xuất được 3 W trong khi điện áp đầu ra là 0,5 V. Hãy tính dòng điện đầu ra của mô đun pin mặt trời bao gồm 3 dãy tế bào kết nối song song (mỗi dãy gồm 10 tế bào PV ghép nối tiếp).",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "15 A"
+                },
+                {
+                    "id": "B",
+                    "content": "20 A"
+                },
+                {
+                    "id": "C",
+                    "content": "25 A"
+                },
+                {
+                    "id": "D",
+                    "content": "18 A"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 18 A"
+        },
+        {
+            "id": 38,
+            "question": "Già sử trong một điểu kiện nào đó, một tế bào PV lý tưởng sản xuất được 3 W trong khi điện áp đầu ra là 0,5 V. Hãy tính điện áp đầu ra của mô đun pin mặt trời bao gồm 5 dãy tế bào kết nối song song (mỗi dãy gồm 20 tế bào PV ghép nối tiếp).",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "15V"
+                },
+                {
+                    "id": "B",
+                    "content": "24V"
+                },
+                {
+                    "id": "C",
+                    "content": "12V"
+                },
+                {
+                    "id": "D",
+                    "content": "10V"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 10V"
+        },
+        {
+            "id": 39,
+            "question": "Già sử trong một điểu kiện nào đó, một tế bào PV lý tưởng sản xuất được 3 W trong khi điện áp đầu ra là 0,5 V. Hãy tính công suất đẩu ra của mô đun pin mặt trời bao gồm 5 dãy tế bào kết nối song song (mỗi dãy gồm 20 tế bào PV ghép nối tiếp).",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "100W"
+                },
+                {
+                    "id": "B",
+                    "content": "200W"
+                },
+                {
+                    "id": "C",
+                    "content": "330W"
+                },
+                {
+                    "id": "D",
+                    "content": "300W"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 300W"
+        },
+        {
+            "id": 40,
+            "question": "Giả sử trong một điều kiện nào đó, một tế bào PV lý tường sản xuất được 3 W trong khi điện áp đầu ra là 0,5 V. Hãy tính dòng điện đầu ra của mô đun pin mặt trời bao gồm 5 dãy tế bào kết nối song song (mỗi dãy gồm 20 tế bào PV ghép nối tiếp).",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "15A"
+                },
+                {
+                    "id": "B",
+                    "content": "25A"
+                },
+                {
+                    "id": "C",
+                    "content": "40A"
+                },
+                {
+                    "id": "D",
+                    "content": "30A"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 30A"
+        },
+        {
+            "id": 41,
+            "question": "Giả sử trong một điều kiện nào đó, một tế bào PV lý tưởng sản xuất được 3 W trong khi điện áp đầu ra là 0,5 V. Hãy tính điện áp đầu ra của mô đun pin mặt trời bao gồm 6 dãy tế bào kết nối song song (mỗi dãy gồm 15 tế bào PV ghép nối tiếp).",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "15V"
+                },
+                {
+                    "id": "B",
+                    "content": "12,5V"
+                },
+                {
+                    "id": "C",
+                    "content": "5,5V"
+                },
+                {
+                    "id": "D",
+                    "content": "7,5V"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 7,5V"
+        },
+        {
+            "id": 42,
+            "question": "Già sử trong một điểu kiện nào đó, một tế bào PV lý tưởng sản xuất được 3 W trong khi điện áp đầu ra là 0,5 V. Hãy tính công suất đầu ra của mô đun pin mặt trời bao gồm 6 dãy tế bào kết nối song song (mỗi dãy gồm 15 tế bào PV ghép nối tiếp).",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "100W"
+                },
+                {
+                    "id": "B",
+                    "content": "200W"
+                },
+                {
+                    "id": "C",
+                    "content": "330W"
+                },
+                {
+                    "id": "D",
+                    "content": "270W"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 270W"
+        },
+        {
+            "id": 43,
+            "question": "Giả sử trong một điều kiện nào đó, một tế bào PV lý tưởng sản xuất được 3 W trong khi điện áp đầu ra là 0,5 V. Hãy tính dòng điện đầu ra của mô đun pin mặt trời bao gồm 6 dãy tế bào kết nối song song (mỗi dãy gồm 15 tế bào PV ghép nối tiếp).",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "15A"
+                },
+                {
+                    "id": "B",
+                    "content": "25A"
+                },
+                {
+                    "id": "C",
+                    "content": "40A"
+                },
+                {
+                    "id": "D",
+                    "content": "36A"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 36A"
+        },
+        {
+            "id": 44,
+            "question": "Một dãy pin mặt trời tạo ra điện áp 50 V và dòng điện 20 A. Tính công suất điện dãy pin này tạo ra:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "1000 kW"
+                },
+                {
+                    "id": "B",
+                    "content": "2,5 kW"
+                },
+                {
+                    "id": "C",
+                    "content": "25 W"
+                },
+                {
+                    "id": "D",
+                    "content": "1000 W"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 1000 W"
+        },
+        {
+            "id": 45,
+            "question": "Một hệ thống điện mặt trời có hiệu suất chuyển đổi từ bức xạ thành dòng 1 chiều DC là 10%. Già sử các tổn thất kết cấu không đáng kể. Hãy tính diện tích mái nhà cần để lắp đặt 2 kW công suất điện 1 chiều với điều kiện bức xạ đình 1000 W/m2:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "10 m2"
+                },
+                {
+                    "id": "B",
+                    "content": "35 m2"
+                },
+                {
+                    "id": "C",
+                    "content": "30 m2"
+                },
+                {
+                    "id": "D",
+                    "content": "20 m2"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 20 m2"
+        },
+        {
+            "id": 46,
+            "question": "Một hệ thống điện mặt trời có hiệu suất chuyển đổi từ bức xạ thành dòng 1 chiều DC là 12%. Giả sử các tổn thất kết cấu không đáng kể. Hãy tính diện tích mái nhà cần để lắp đặt 3 kW công suất điện 1 chiều với điều kiện bức xạ đỉnh 1000 W/m2:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "10 m2"
+                },
+                {
+                    "id": "B",
+                    "content": "35 m2"
+                },
+                {
+                    "id": "C",
+                    "content": "30 m2"
+                },
+                {
+                    "id": "D",
+                    "content": "25 m2"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 25 m2"
+        },
+        {
+            "id": 47,
+            "question": "Một hệ thống điện mặt trời có hiệu suất chuyển đổi từ bức xạ thành dòng 1 chiểu DC là 12%. Già sử các tổn thất kết cấu không đáng kể. Hãy tính diện tích mái nhà cẩn để lắp đặt 6 kW công suất điện 1 chiều với điểu kiện bức xạ đỉnh 1000 W/m2:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "10 m2"
+                },
+                {
+                    "id": "B",
+                    "content": "35 m2"
+                },
+                {
+                    "id": "C",
+                    "content": "60 m2"
+                },
+                {
+                    "id": "D",
+                    "content": "50 m2"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 50 m2"
+        },
+        {
+            "id": 48,
+            "question": "Trong dài bức xạ điện từ, dài phổ nào tập trung phẩn lớn năng lượng mặt trời?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dải bước sóng 0,38-0,78 µm"
+                },
+                {
+                    "id": "B",
+                    "content": "Dải bước sóng 106-108 µm"
+                },
+                {
+                    "id": "C",
+                    "content": "Dải bước sóng 10-102 µm"
+                },
+                {
+                    "id": "D",
+                    "content": "Dải bước sóng 1-10 um"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Dải bước sóng 0,38-0,78 µm"
+        },
+        {
+            "id": 49,
+            "question": "Chùm tia truyển thẳng từ Mặt trời gọi là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tán xạ"
+                },
+                {
+                    "id": "B",
+                    "content": "Trực xạ"
+                },
+                {
+                    "id": "C",
+                    "content": "Tổng xạ"
+                },
+                {
+                    "id": "D",
+                    "content": "Thực xạ"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Trực xạ"
+        },
+        {
+            "id": 50,
+            "question": "Hằng số mặt trời thể hiện tương đối cường độ bức xạ trực xạ lý thuyết lên một đơn vị diện tích bể mặt trái đất và có giá trị khoảng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2000 W/m2"
+                },
+                {
+                    "id": "B",
+                    "content": "2500 W/m2"
+                },
+                {
+                    "id": "C",
+                    "content": "1635 W/m2"
+                },
+                {
+                    "id": "D",
+                    "content": "1353 W/m2"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 1353 W/m2"
+        }
+    ]
+}

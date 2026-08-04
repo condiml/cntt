@@ -1,0 +1,1207 @@
+{
+    "title": "PHẦN 7: CÂU 301 - CÂU 350",
+    "chapter": 7,
+    "total_questions": 50,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Kỹ sư ngành Cơ điện tử của trường Đại học Điện lực ra trường có thể mở rộng, học nâng cao để đảm nhiệm các công việc gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cổ vấn, giảng viên hay nhà nghiên cứu chuyển giao công nghệ thuộc lĩnh vực công nghệ cơ điện tử."
+                },
+                {
+                    "id": "B",
+                    "content": "Chuyên viên quản lý chuyên vận hành bảo trì các hệ thống điện tử công nghiệp, robot công nghiệp trong các dãy chuyên sản xuất tự động."
+                },
+                {
+                    "id": "C",
+                    "content": "Tất cả các việc nêu trên."
+                },
+                {
+                    "id": "D",
+                    "content": "Quản lý, giám sát kỹ thuật tại các doanh nghiệp."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Tất cả các việc nêu trên."
+        },
+        {
+            "id": 2,
+            "question": "Hậu quả của sự gia tăng nồng độ các khí nhà kính?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "làm giảm bức xạ hồng ngoại thoát từ mặt đất ra ngoài vũ trụ, làm tăng nhiệt lượng tích lũy của Trái đất và dẫn đến sự ấm lên của hệ thống khí hậu."
+                },
+                {
+                    "id": "B",
+                    "content": "làm giảm bức xạ hồng ngoại thoát từ mặt đất ra ngoài vũ trụ, làm giảm nhiệt lượng tích lũy của Trái đất vì dẫn đến sự ấm lên của hệ thống khí hậu."
+                },
+                {
+                    "id": "C",
+                    "content": "làm tăng bức xạ hồng ngoại thoát từ mặt đất ra ngoài vũ trụ, làm tăng nhiệt lượng tích lũy của Trái đất và dẫn đến sự ấm lên của hệ thống khí hậu."
+                },
+                {
+                    "id": "D",
+                    "content": "làm tăng bức xạ hồng ngoại thoát tử mặt đất ra ngoài vũ trụ, lầm tăng nhiệt lượng tích lũy của Trái đất và dẫn đến sự ấm lên của hệ thống khí hậu."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. làm giảm bức xạ hồng ngoại thoát từ mặt đất ra ngoài vũ trụ, làm tăng nhiệt lượng tích lũy của Trái đất và dẫn đến sự ấm lên của hệ thống khí hậu."
+        },
+        {
+            "id": 3,
+            "question": "Muốn cho pin Mặt trời phát điện phải có điều kiện gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phải có một nguồn điện"
+                },
+                {
+                    "id": "B",
+                    "content": "Phải có một nam châm điện"
+                },
+                {
+                    "id": "C",
+                    "content": "Phải có ánh sáng chiếu vào nó"
+                },
+                {
+                    "id": "D",
+                    "content": "Phải rung nóng nó lên"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Phải có ánh sáng chiếu vào nó"
+        },
+        {
+            "id": 4,
+            "question": "Quả trình chuyển dịch năng lượng.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi diễn ra ở nhóm nước đang phát triển"
+                },
+                {
+                    "id": "B",
+                    "content": "Diễn ra trên phạm vi toàn cầu."
+                },
+                {
+                    "id": "C",
+                    "content": "Chi diễn ra ở nhóm nước không có hoặc có ít nguồn năng lượng hóa thạch."
+                },
+                {
+                    "id": "D",
+                    "content": "Chi diễn ra ở nhóm nước phát triển"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Diễn ra trên phạm vi toàn cầu."
+        },
+        {
+            "id": 5,
+            "question": "Quá trình cháy của nhiên liệu là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là quá trình phản ứng hóa học giữa các nguyên tố hóa học của nhiên liệu với lưu huỳnh và sinh ra nhiệt."
+                },
+                {
+                    "id": "B",
+                    "content": "Là quá trình phản ứng hóa học giữa các nguyên tố hóa học của nhiên liệu với oxi và sinh ra nhiệt."
+                },
+                {
+                    "id": "C",
+                    "content": "Là quá trình phản ứng hóa học giữa các nguyên tố hóa học của nhiên liệu với nito và sinh ra nhiệt."
+                },
+                {
+                    "id": "D",
+                    "content": "Là quá trình phần ứng hóa học giữa các nguyên tố hóa học của nhiên liệu với hydro và sinh ra nhiệt."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Là quá trình phản ứng hóa học giữa các nguyên tố hóa học của nhiên liệu với oxi và sinh ra nhiệt."
+        },
+        {
+            "id": 6,
+            "question": "Đặc điểm của nhà máy nhiệt điện than trích hơi là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xây dựng gần hộ tiêu thụ nhiệt; cần vận chuyển nhiên liệu từ xa đến; hiệu xuất của nhà máy: (30 %- 40%); thời gian khởi động lâu, 3h đến 10h."
+                },
+                {
+                    "id": "B",
+                    "content": "Xây dựng không gần hộ tiêu thụ nhiệt; cần vận chuyển nhiên liệu từ xa đến; hiệu xuất của nhà máy: (60 %-70%); thời gian khởi động lâu, 3h đến 10h."
+                },
+                {
+                    "id": "C",
+                    "content": "Xây dựng gần hộ tiêu thụ nhiệt; cần vận chuyển nhiên liệu từ xa đến; hiệu xuất của nhà máy: (60 %-70%); thời gian khởi động lâu, 3h đến 10h."
+                },
+                {
+                    "id": "D",
+                    "content": "Xây dựng gần hộ tiêu thụ nhiệt; cần vận chuyển nhiên liệu từ xa đến; hiệu xuất của nhà máy: (60 %-70%); thời gian khởi động 15' đến 30’."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Xây dựng gần hộ tiêu thụ nhiệt; cần vận chuyển nhiên liệu từ xa đến; hiệu xuất của nhà máy: (60 %-70%); thời gian khởi động lâu, 3h đến 10h."
+        },
+        {
+            "id": 7,
+            "question": "Hệ thống sản xuất năng lượng nào gây ở nhiễm môi trường không khí lớn nhất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Điện gió"
+                },
+                {
+                    "id": "B",
+                    "content": "Điện mặt trời"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhiệt điện"
+                },
+                {
+                    "id": "D",
+                    "content": "Thủy điện"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Nhiệt điện"
+        },
+        {
+            "id": 8,
+            "question": "Công nghệ xử lý khói thải gồm những gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khử khử bụi tĩnh điện, khí NOₓ và hơi H20;"
+                },
+                {
+                    "id": "B",
+                    "content": "Khử khử bụi tĩnh điện, khi NOₓ và khi SO2"
+                },
+                {
+                    "id": "C",
+                    "content": "Khử khử bụi tĩnh điện, khí NOₓ và khí CO2:"
+                },
+                {
+                    "id": "D",
+                    "content": "Khử khử bụi tĩnh điện, khí NOₓ và khí SO2"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Khử khử bụi tĩnh điện, khí NOₓ và khí SO2"
+        },
+        {
+            "id": 9,
+            "question": "Tác nhân gây biến đổi khí hậu từ con người?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Con người sử dụng các nguồn năng lượng hóa thạch gió, dầu, khí đốt..., qua đó đã phát thải vào khí quyển các khí gây hiệu ứng nhà kính."
+                },
+                {
+                    "id": "B",
+                    "content": "Con người sử dụng các nguồn nhiên liệu than, dầu, khí đốt..., qua đó đã phát thải vào khí quyển các khí gây hiệu ứng nhà kính."
+                },
+                {
+                    "id": "C",
+                    "content": "Con người sử dụng các nguồn năng lượng hóa thạch than, dầu, thủy điện..., qua đó đã phát thải vào khí quyển các khí gây hiệu ứng nhà kính."
+                },
+                {
+                    "id": "D",
+                    "content": "Con người sử dụng các nguồn năng lượng than, dầu, mặt trời..., qua đó đã phát thải vào khí quyền các khí gây hiệu ứng nhà kính."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Con người sử dụng các nguồn nhiên liệu than, dầu, khí đốt..., qua đó đã phát thải vào khí quyển các khí gây hiệu ứng nhà kính."
+        },
+        {
+            "id": 10,
+            "question": "Phát biểu nào là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nguồn năng lượng sơ cấp như than đá, xăng, dầu, khí hóa lỏng khi đốt sẽ tạo ra các chất gây ô nhiễm môi trường, biến đổi khí hậu, chẳng hạn như CO2, CH4."
+                },
+                {
+                    "id": "B",
+                    "content": "Nguồn năng lượng hạt nhân đang được sử dụng chủ yếu là Uranium. Khi sử dụng nguồn năng lượng hạt nhân sẽ không tạo ra các chất gây ô nhiễm môi trường, biến đổi khí hậu, chẳng hạn như CO2, CH4."
+                },
+                {
+                    "id": "C",
+                    "content": "Nguồn năng lượng hạt nhân đang được sử dụng chủ yếu là Uranium. Khi sử dụng nguồn năng lượng hạt nhân sẽ tạo ra các chất gây ô nhiễm môi trường, biến đổi khí hậu, chẳng hạn như CO2, CH4."
+                },
+                {
+                    "id": "D",
+                    "content": "Nguồn năng lượng thứ cấp như năng lượng gió, năng lượng mặt trời, năng lượng sinh khối  khi sử dụng sẽ không tạo ra các chất gây ô nhiễm môi trường, biến đổi khí hậu, chẳng hạn như CO2, CH4."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Nguồn năng lượng sơ cấp như than đá, xăng, dầu, khí hóa lỏng khi đốt sẽ tạo ra các chất gây ô nhiễm môi trường, biến đổi khí hậu, chẳng hạn như CO2, CH4."
+        },
+        {
+            "id": 11,
+            "question": "Kỹ sư ngành Điện tử viễn thông của trường Đại học Điện lực ra trường có thể làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phân tích dữ liệu, trí tuệ nhân tạo/học máy; phát triển vận hành thiết bị điện tử y tế."
+                },
+                {
+                    "id": "B",
+                    "content": "Thiết kế vận hành, tối ưu mạng máy tính và mạng truyền thông;"
+                },
+                {
+                    "id": "C",
+                    "content": "Thiết kế, sản xuất thiết bị điện tử, vi mạch bán dẫn; Phát triển phần mềm; thiết kế lập trình các máy tính"
+                },
+                {
+                    "id": "D",
+                    "content": "Thiết kế, sản xuất thiết bị điện tử, vi mạch bán dẫn; phát triển phần mềm; thiết kế lập trình các máy tính nhúng; thiết kế vận hành, tối ưu mạng máy tính và mạng truyền thông; phân tích dữ liệu, trí tuệ nhân tạo/học máy; phát triển vận hành thiết bị điện tử y tế."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Thiết kế, sản xuất thiết bị điện tử, vi mạch bán dẫn; phát triển phần mềm; thiết kế lập trình các máy tính nhúng; thiết kế vận hành, tối ưu mạng máy tính và mạng truyền thông; phân tích dữ liệu, trí tuệ nhân tạo/học máy; phát triển vận hành thiết bị điện tử y tế."
+        },
+        {
+            "id": 12,
+            "question": "Cấp độ 1 của thị trường điện được phê duyệt theo Quyết định 63/2013/QĐ-TTg ngày 08/11/2013 của Thủ tướng Chính phủ là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thị trường bán buôn điện cạnh tranh (VWEM) Cấp 2"
+                },
+                {
+                    "id": "B",
+                    "content": "Thị trường phát điện cạnh tranh (VCGM)"
+                },
+                {
+                    "id": "C",
+                    "content": "Tập đoàn Điện lực Việt Nam độc quyền kinh doanh điện."
+                },
+                {
+                    "id": "D",
+                    "content": "Thị trường bán lẻ điện cạnh tranh (VREM) cấp 3"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Thị trường phát điện cạnh tranh (VCGM)"
+        },
+        {
+            "id": 13,
+            "question": "Phát biểu nào là không đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nguồn năng lượng sơ cấp là các nguồn nhiên liệu, năng lượng thu được trực tiếp từ tự nhiên để sử dụng ngay hoặc biến đổi thành các dạng năng lượng khác."
+                },
+                {
+                    "id": "B",
+                    "content": "Nguồn năng lượng cuối cùng là dạng nguồn năng lượng mà người tiêu dùng nhận được hoặc mua được trước khi chúng bị khai thác cạn kiệt."
+                },
+                {
+                    "id": "C",
+                    "content": "Nguồn năng lượng thứ cấp là các nguồn năng lượng thu được sau quá trình sản xuất, chế biến, biến đổi từ nguồn năng lượng sơ cấp"
+                },
+                {
+                    "id": "D",
+                    "content": "Nguồn năng lượng cuối cùng là dạng nguồn năng lượng mà người tiêu dùng nhận được hoặc mua được để sử dụng. Năng lượng cuối cùng phổ biến hiện nay là than đá, xăng, dầu, điện."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Nguồn năng lượng cuối cùng là dạng nguồn năng lượng mà người tiêu dùng nhận được hoặc mua được trước khi chúng bị khai thác cạn kiệt."
+        },
+        {
+            "id": 14,
+            "question": "Kỹ sư ngành Kỹ thuật điện tại trường Đại học Điện lực có thể mở rộng công việc tại đâu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các nhà thầu cơ điện tòa nhà; Các công ty làm tủ, bảng điện; Quản lý điện cho các tòa nhà chung cư, văn phòng, khách sạn; Quản lý điện cho các nhà máy, khu công nghiệp; Các viện về năng lượng."
+                },
+                {
+                    "id": "B",
+                    "content": "Các nhà thầu cơ điện tòa nhà; Các công ty làm tủ, bảng điện; Quản lý điện cho các tòa nhà  chung cư, văn phòng, khách sạn; Quản lý điện cho các nhà máy, khu công nghiệp; Các viện,  trung tâm nghiên cứu về năng lượng."
+                },
+                {
+                    "id": "C",
+                    "content": "Các nhà thầu cơ điện tòa nhà; Quản lý điện cho các tòa nhà chung cư, văn phòng, khách sạn; Quản lý điện cho các nhà máy, khu công nghiệp; Các viện, trung tâm nghiên cứu về năng lượng."
+                },
+                {
+                    "id": "D",
+                    "content": "Các nhà thầu cơ điện tòa nhà; Các công ty làm tủ, bảng điện; Quản lý điện cho văn phòng, khách sạn; Quản lý điện cho các nhà máy, khu công nghiệp; Các viện, trung tâm nghiên cứu về năng lượng."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Các nhà thầu cơ điện tòa nhà; Các công ty làm tủ, bảng điện; Quản lý điện cho các tòa nhà  chung cư, văn phòng, khách sạn; Quản lý điện cho các nhà máy, khu công nghiệp; Các viện,  trung tâm nghiên cứu về năng lượng."
+        },
+        {
+            "id": 15,
+            "question": "Phát biểu nào là không đúng liên quan đến động năng, thế năng, và định luật bảo toàn năng lượng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng lượng không tự nhiên được sinh ra, cũng không tự nhiên bị mất đi, mà năng lượng chỉ chuyển hóa từ dạng này sang dạng khác."
+                },
+                {
+                    "id": "B",
+                    "content": "Động năng là dạng năng lượng trong trạng thái được lưu trữ của các vật thể, phân tử, nguyên tử, điện tử hoặc của các sóng."
+                },
+                {
+                    "id": "C",
+                    "content": "Thể năng là dạng năng lượng trong trạng thái được lưu trữ hoặc năng lượng có thể được sinh ra do sự chênh lệch về vị trí"
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lượng chuyển động là dạng năng lượng được sinh ra trong quá trình chuyển động của vật thể, vật thể chuyển động càng nhanh thì càng có ít năng lượng hơn."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Năng lượng chuyển động là dạng năng lượng được sinh ra trong quá trình chuyển động của vật thể, vật thể chuyển động càng nhanh thì càng có ít năng lượng hơn."
+        },
+        {
+            "id": 16,
+            "question": "Cấp độ 3 của thị trường điện được phê duyệt theo Quyết định 63/2013/QĐ-TTg ngày 08/11/2013 của Thủ tướng Chính phủ là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thị trường bán buôn điện cạnh tranh (VWEM)"
+                },
+                {
+                    "id": "B",
+                    "content": "Thị trường bán lẻ điện cạnh tranh (VREM)"
+                },
+                {
+                    "id": "C",
+                    "content": "Thị trường phát điện cạnh tranh (VCGM)"
+                },
+                {
+                    "id": "D",
+                    "content": "Tập đoàn Điện lực Việt Nam độc quyền kinh doanh điện."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Thị trường bán lẻ điện cạnh tranh (VREM)"
+        },
+        {
+            "id": 17,
+            "question": "Phát biểu nào đúng nhất về ưu điểm của các nhà máy điện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà máy nhiệt điện than có thể vận hành công suất với độ ổn định cao và ít phát thải ra các chất gây ô nhiễm môi trường, biến đổi khí hậu."
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà máy điện gió có thể vận hành công suất với độ ổn định cao và ít phát thải ra các chất gây ô nhiễm môi trường, biến đổi khí hậu."
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà máy thủy điện có thể vận hành công suất với độ ổn định cao và ít phát thải ra các chất gây ô nhiễm môi trường, biến đổi khí hậu."
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà máy điện mặt trời có thể vận hành công suất với độ ổn định cao và ít phát thải ra các chất gây ô nhiễm môi trường, biến đổi khí hậu."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Nhà máy thủy điện có thể vận hành công suất với độ ổn định cao và ít phát thải ra các chất gây ô nhiễm môi trường, biến đổi khí hậu."
+        },
+        {
+            "id": 18,
+            "question": "Các vấn đề về xử lý môi trường với nhà máy nhiệt điện than bao gồm:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xử lý khói thải, xử lý than, xử lý nước thải, kiểm soát phát thải của toàn nhà máy."
+                },
+                {
+                    "id": "B",
+                    "content": "Xử lý khói thải, xử lý tro xỉ, xử lý nước cấp, kiểm soát phát thải của toàn nhà máy."
+                },
+                {
+                    "id": "C",
+                    "content": "Xử lý khói thải, xử lý tro xỉ, xử lý nước thải, kiểm soát chất thải rắn."
+                },
+                {
+                    "id": "D",
+                    "content": "Xử lý khói thải, xử lý tro xỉ, xử lý nước thải, kiểm soát phát thải của toàn nhà máy."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Xử lý khói thải, xử lý tro xỉ, xử lý nước thải, kiểm soát phát thải của toàn nhà máy."
+        },
+        {
+            "id": 19,
+            "question": "Thứ tự công suất của các công nghệ lưu trữ điện năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bánh đà quay > Ắc quy > Thủy điện tích năng"
+                },
+                {
+                    "id": "B",
+                    "content": "Bánh đà quay > Thủy điện tích năng > Ắc quy"
+                },
+                {
+                    "id": "C",
+                    "content": "Thủy điện tích năng > Bánh đà quay > Ắc quy"
+                },
+                {
+                    "id": "D",
+                    "content": "Ắc quy > Bánh đà quay > Thủy điện tích năng"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Thủy điện tích năng > Bánh đà quay > Ắc quy"
+        },
+        {
+            "id": 20,
+            "question": "Phát biểu nào là không đúng về một số dạng năng lượng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng lượng hạt nhân là dạng năng lượng được lưu trữ trong các hạt nhân của nguyên tử, đây chính là năng lượng để giữ các hạt nhân liên kết với nhau trong nguyên tử."
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lượng hóa học là dạng năng lượng được lưu trữ trong các mạng liên kết của các phân tử và nguyên tử"
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lượng gió là động năng của không khí khi dòng không khí di chuyển từ nơi có áp suất cao hơn đến nơi có áp suất thấp hơn. Năng lượng gió có nguồn gốc gián tiếp từ năng lượng mặt trời."
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lượng hấp dẫn là dạng năng lượng được lưu trữ theo độ cao của vật thể, các đối tượng được đặt ở vị trí cao hơn thì sẽ có ít năng lượng hấp dẫn hơn."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Năng lượng hấp dẫn là dạng năng lượng được lưu trữ theo độ cao của vật thể, các đối tượng được đặt ở vị trí cao hơn thì sẽ có ít năng lượng hấp dẫn hơn."
+        },
+        {
+            "id": 21,
+            "question": "Hành động nào sau đây làm lãng phí điện năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cả ba hành động trên."
+                },
+                {
+                    "id": "B",
+                    "content": "Tan học không tắt đèn, quạt trong phòng học."
+                },
+                {
+                    "id": "C",
+                    "content": "Bật đèn ở phòng tắm, phòng vệ sinh khi có nhu cầu."
+                },
+                {
+                    "id": "D",
+                    "content": "Khi đi xem ti vi tắt đèn ở bàn học tập."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Tan học không tắt đèn, quạt trong phòng học."
+        },
+        {
+            "id": 22,
+            "question": "Cấu tạo cơ bản của nhà máy điện hạt nhân?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các tòa tháp làm lạnh, tháp chứa nhiên liệu; Lò hơi, Hệ thống nhiên liệu; Máy sinh hơi nước; Tua-bin chạy bằng hơi nước; Máy phát điện."
+                },
+                {
+                    "id": "B",
+                    "content": "Các tòa tháp làm lạnh, tháp chứa nhiên liệu; Lò phản ứng, Nhiên liệu tự nhiên; Máy sinh hơi nước; Tua-bin chạy bằng hơi nước; Máy phát điện."
+                },
+                {
+                    "id": "C",
+                    "content": "Các tòa tháp làm lạnh, tháp chứa nhiên liệu; Lò phản ứng, Hệ thống nhiên liệu; Máy sinh hơi nước;Tua-bin chạy bằng hơi nước; Máy phát điện."
+                },
+                {
+                    "id": "D",
+                    "content": "Các tòa tháp làm lạnh, tháp chứa nhiên liệu; Lò phản ứng, Hệ thống nhiên liệu; Máy ngưng hơi nước; Tua-bin chạy bằng hơi nước; Máy phát điện."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Các tòa tháp làm lạnh, tháp chứa nhiên liệu; Lò phản ứng, Hệ thống nhiên liệu; Máy sinh hơi nước;Tua-bin chạy bằng hơi nước; Máy phát điện."
+        },
+        {
+            "id": 23,
+            "question": "Phát biểu nào đúng nhất về nguyên lý hoạt động của nhà máy điện gió?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khi gió đập vào cánh quạt, động năng của gió sẽ chuyển thành động năng quay của rotor. Trục tốc độ thấp, hộp số, và trục tốc độ cao sẽ chuyển cơ năng quay của rotor thành cơ năng quay của máy phát điện và sau đó chuyển thành điện năng."
+                },
+                {
+                    "id": "B",
+                    "content": "Khi gió đập vào cánh quạt, thế năng của gió sẽ chuyển thành động năng quay của rotor. Trục tốc độ thấp, hộp số, và trục tốc độ cao sẽ chuyển cơ năng quay của rotor thành cơ năng quay của tuabin và sau đó chuyển thành điện năng."
+                },
+                {
+                    "id": "C",
+                    "content": "Khi gió đập vào cánh quạt, thế năng của gió sẽ chuyển thành động năng quay của rotor. Trục tốc độ thấp, hộp số, và trục tốc độ cao sẽ chuyển cơ năng quay của rotor thành cơ năng quay của máy phát điện và sau đó chuyển thành điện năng."
+                },
+                {
+                    "id": "D",
+                    "content": "Khi gió đập vào cánh quạt, động năng của gió sẽ chuyển thành động năng quay của rotor. Trục tốc độ thấp, hộp số, và trục tốc độ cao sẽ chuyển cơ năng quay của rotor thành cơ năng quay của tuabin và sau đó chuyển thành điện năng."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Khi gió đập vào cánh quạt, động năng của gió sẽ chuyển thành động năng quay của rotor. Trục tốc độ thấp, hộp số, và trục tốc độ cao sẽ chuyển cơ năng quay của rotor thành cơ năng quay của máy phát điện và sau đó chuyển thành điện năng."
+        },
+        {
+            "id": 24,
+            "question": "Nhiệt độ bên ngoài là 32 độ C, nhiệt độ cài đặt cao nhất của điều hòa không khí nên là bao nhiêu sẽ tiết kiệm điện năng tiêu thụ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "26 - 28 độ C"
+                },
+                {
+                    "id": "B",
+                    "content": "25 - 27 độ C"
+                },
+                {
+                    "id": "C",
+                    "content": "24 - 26 độ C"
+                },
+                {
+                    "id": "D",
+                    "content": "27 - 29 độ C"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. 26 - 28 độ C"
+        },
+        {
+            "id": 25,
+            "question": "Chọn trình tự đúng quy trình công nghệ nhà máy nhiệt điện than trích hơi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Than được vận chuyển về cảng/ga => Than được nghiền thành bột và phun vào lò hơi => Nước đưa vào lò hơi, sôi sinh hơi và hơi quá nhiệt => Một phần hơi nước làm quay tua bin, gắn với MPĐ phát ra điện =>Hơi sau khi sinh công thì được ngưng tụ và bơm trở lại lò hơi => Một phần hơi được cung cấp cho phụ tải"
+                },
+                {
+                    "id": "B",
+                    "content": "Than được vận chuyển về cảng/ga => Than được nghiền thành bột và phun vào lò hơi => Nước đưa vào lò hơi, sôi sinh hơi và hơi quá nhiệt = Một phân hơi nước làm quay tua bin, gắn với MPĐ phát ra điện =>Một phân hơi được cung cấp cho phụ tải nhiệt Hơi sau khi sinh công thì được ngưng tụ và bơm trở lại lò"
+                },
+                {
+                    "id": "C",
+                    "content": ". Than được vận chuyển về cảng/ga => Than được nghiền thành bột và phun vào lò hơi => Một phần hơi nước làm quay tua bin, gắn với MPĐ phát ra điện = Nước đưa vào lò hơi, sôi sinh hơi và hơi quá nhiệt =Một phần hơi được cung cấp cho phụ tải nhiệt => Hơi sau khi sinh công thì được ngưng tụ và bơm trở lại lò"
+                },
+                {
+                    "id": "D",
+                    "content": "Than được vận chuyển về cảng/ga => Nước đưa vào lò hơi, sôi sinh hơi và hơi quá nhiệt => Than được nghiền thành bột và phun vào lò hơi => Một phần hơi nước làm quay tua bin, gắn với MPĐ phát ra điện =>Một phần hơi được cung cấp cho phụ tải nhiệt => Hơi sau khi sinh công thì được ngưng tụ và bơm trở lại lò hơi."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Than được vận chuyển về cảng/ga => Than được nghiền thành bột và phun vào lò hơi => Nước đưa vào lò hơi, sôi sinh hơi và hơi quá nhiệt => Một phần hơi nước làm quay tua bin, gắn với MPĐ phát ra điện =>Hơi sau khi sinh công thì được ngưng tụ và bơm trở lại lò hơi => Một phần hơi được cung cấp cho phụ tải"
+        },
+        {
+            "id": 26,
+            "question": "Thành phần cháy quan trọng trong nhiên liệu nhà máy nhiệt điện than là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lưu huỳnh là thành phần cháy quan trọng trong nhiên liệu ( chiếm tối đa 10%)."
+                },
+                {
+                    "id": "B",
+                    "content": "Carbon là thành phần cháy quan trọng trong nhiên liệu ( chiếm tối đa 10%)."
+                },
+                {
+                    "id": "C",
+                    "content": "Nito là thành phần cháy quan trọng trong nhiên liệu ( chiếm tối đa 10%)."
+                },
+                {
+                    "id": "D",
+                    "content": "Hydro là thành phần cháy quan trọng trong nhiên liệu ( chiếm tối đa 10%)."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Carbon là thành phần cháy quan trọng trong nhiên liệu ( chiếm tối đa 10%)."
+        },
+        {
+            "id": 27,
+            "question": "Hệ thống năng lượng điện của Việt Nam được phân thành những vùng nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bắc Bộ, Bắc Trung Bộ, Trung Trung Bộ, Nam Trung Bộ, Tây Nguyên, Nam Bộ."
+                },
+                {
+                    "id": "B",
+                    "content": "Bắc Trung Bộ, Trung Trung Bộ, Nam Trung Bộ, Tây Nguyên, Nam Bộ."
+                },
+                {
+                    "id": "C",
+                    "content": "Bắc Bộ, Đông Bắc Bộ, Bắc Trung Bộ, Nam Trung Bộ, Tây Nguyên, Nam Bộ."
+                },
+                {
+                    "id": "D",
+                    "content": "Đông Bắc Bộ, Trung Trung Bộ, Nam Trung Bộ, Tây Nguyên, Nam Bộ."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Bắc Bộ, Bắc Trung Bộ, Trung Trung Bộ, Nam Trung Bộ, Tây Nguyên, Nam Bộ."
+        },
+        {
+            "id": 28,
+            "question": "Trong một giờ tất đèn hưởng ứng Chiến dịch Giờ Trái đất năm 2024, cả nước đã tiết kiệm được lượng điện là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cả 3 đáp án trên đều sai"
+                },
+                {
+                    "id": "B",
+                    "content": "284.000 kWh"
+                },
+                {
+                    "id": "C",
+                    "content": "842.000 kWh"
+                },
+                {
+                    "id": "D",
+                    "content": "428.000 kWh"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 428.000 kWh"
+        },
+        {
+            "id": 29,
+            "question": "Động năng của một vật chất được định nghĩa là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng lượng trong trạng thái chuyển động của các vật thể, phân từ, nguyên tử, điện tử hoặc của các sóng."
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lượng trong trạng thái đứng im hoặc chuyển động của các vật thể, phân từ, nguyên tử, điện từ hoặc của các sóng."
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lượng của một vật chất khi đứng im hoặc khi chuyển động."
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lượng trong trạng thái đứng im của các vật thể, phân từ, nguyên tử, điện tử hoặc của các sóng."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Năng lượng trong trạng thái chuyển động của các vật thể, phân từ, nguyên tử, điện tử hoặc của các sóng."
+        },
+        {
+            "id": 30,
+            "question": "Phát biểu nào là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nguồn năng lượng thứ cấp như năng lượng gió, năng lượng mặt trời, năng lượng sinh khối khi sử dụng sẽ không tạo ra các chất gây ô nhiễm môi trường, biến đổi khí hậu, chẳng hạn như CO2, CH4."
+                },
+                {
+                    "id": "B",
+                    "content": "Nguồn năng lượng hạt nhân đang được sử dụng chủ yếu là Uranium. Khi sử dụng nguồn năng lượng hạt nhân sẽ không tạo ra các chất gây ô nhiễm môi trường, biến đổi khí hậu, chẳng hạn như CO2, CH4."
+                },
+                {
+                    "id": "C",
+                    "content": "Nguồn năng lượng hạt nhân đang được sử dụng chủ yếu là Uranium. Khi sử dụng nguồn năng lượng hạt nhân sẽ tạo ra các chất gây ô nhiễm môi trường, biến đổi khí hậu, chẳng hạn như CO2, CH4."
+                },
+                {
+                    "id": "D",
+                    "content": "Nguồn năng lượng sơ cấp như than đá, xăng, dầu, khí hóa lỏng khi đốt sẽ tạo ra các chất gây ô nhiễm môi trường, biến đổi khí hậu, chẳng hạn như CO2, CH4."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Nguồn năng lượng hạt nhân đang được sử dụng chủ yếu là Uranium. Khi sử dụng nguồn năng lượng hạt nhân sẽ không tạo ra các chất gây ô nhiễm môi trường, biến đổi khí hậu, chẳng hạn như CO2, CH4."
+        },
+        {
+            "id": 31,
+            "question": "Điểm khác nhau cơ bản giữa Ắc quy và Siêu tụ điện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Siêu tụ điện có mật độ năng lượng ngang bằng Ác quy"
+                },
+                {
+                    "id": "B",
+                    "content": "Siêu tụ điện có mật độ năng lượng cao hơn Ác quy"
+                },
+                {
+                    "id": "C",
+                    "content": "Siêu tụ điện có mật độ năng lượng thấp hơn Ác quy"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên đều sai"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Siêu tụ điện có mật độ năng lượng thấp hơn Ác quy"
+        },
+        {
+            "id": 32,
+            "question": "Hệ thống khí hậu là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "là hệ thống phức hợp bao gồm 5 thành phần chính: khí quyển, lưu vực, băng quyển, thạch quyển và sinh quyển, sự tương tác giữa chúng."
+                },
+                {
+                    "id": "B",
+                    "content": "là hệ thống phức hợp bao gồm 5 thành phần chính: khí quyển, thủy quyển, băng quyển, trầm tích và sinh quyền, sự tương tác giữa chúng."
+                },
+                {
+                    "id": "C",
+                    "content": "là hệ thống phức hợp bao gồm 5 thành phần chính: khí quyển, thủy quyển, băng quyển, thạch quyển và sinh quyền, sự tương tác giữa chúng."
+                },
+                {
+                    "id": "D",
+                    "content": "là hệ thống phức hợp bao gồm 5 thành phần chính: khí quyển, thủy quyển, băng quyển, thạch quyển và sinh quyển, sự đối kháng giữa chúng."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. là hệ thống phức hợp bao gồm 5 thành phần chính: khí quyển, thủy quyển, băng quyển, thạch quyển và sinh quyền, sự tương tác giữa chúng."
+        },
+        {
+            "id": 33,
+            "question": "So sánh chi phí đầu tư ban đầu cho một lò phản ứng nước áp lực (PWR) và lò phản ứng nước sôi (BWR) có cùng công suất điện trong cùng điều kiện thực tế?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chi phí đầu tư ban đầu cho PWR thấp hơn."
+                },
+                {
+                    "id": "B",
+                    "content": "Chi phí đầu tư ban đầu cho PWR cao hon."
+                },
+                {
+                    "id": "C",
+                    "content": "Chi phí đầu tư ban đầu cho PWR tương đương BWR."
+                },
+                {
+                    "id": "D",
+                    "content": "Không đủ cơ sở để so sánh."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Chi phí đầu tư ban đầu cho PWR cao hon."
+        },
+        {
+            "id": 34,
+            "question": "Kỹ thuật kịch bản để mô tả những yếu tố nào có tác động đến nhu cầu năng lượng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "sự biển động của dân số, cầu trúc dân số, cấu trúc của GDP,..."
+                },
+                {
+                    "id": "B",
+                    "content": "sự biến động của dân số, cấu trúc dân số, thu nhập bình quân người dân,..."
+                },
+                {
+                    "id": "C",
+                    "content": "sự biến động của dân số, cấu trúc dân số, cấu trúc của GNH,..."
+                },
+                {
+                    "id": "D",
+                    "content": "sự biển động của dân số, cấu trúc dân số, bình đẳng giới,..."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. sự biển động của dân số, cầu trúc dân số, cấu trúc của GDP,..."
+        },
+        {
+            "id": 35,
+            "question": "Thành phần cháy quan trọng trong nhiên liệu nhà máy nhiệt điện than là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Carbon là thành phần cháy quan trọng trong nhiên liệu ( chiếm tổi đa 10%)."
+                },
+                {
+                    "id": "B",
+                    "content": "Hydro là thành phần cháy quan trọng trong nhiên liệu ( chiếm tối đa 10%)."
+                },
+                {
+                    "id": "C",
+                    "content": "Nito là thành phần cháy quan trọng trong nhiên liệu ( chiểm tổi đa 10%)."
+                },
+                {
+                    "id": "D",
+                    "content": "Lưu huỳnh là thành phần cháy quan trọng trong nhiên liệu ( chiếm tối đa 10%)."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Hydro là thành phần cháy quan trọng trong nhiên liệu ( chiếm tối đa 10%)."
+        },
+        {
+            "id": 36,
+            "question": "Khí SO2 phát sinh từ đốt than gây ra hiện tượng môi trường nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hiệu ứng nhà kính trực tiếp"
+                },
+                {
+                    "id": "B",
+                    "content": "Axit hóa đất và nước"
+                },
+                {
+                    "id": "C",
+                    "content": "Thủng tâng ozone"
+                },
+                {
+                    "id": "D",
+                    "content": "Sương mù quang hóa"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Axit hóa đất và nước"
+        },
+        {
+            "id": 37,
+            "question": "Cơ năng không chuyển hóa trực tiếp thành điện năng ở",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà máy thủy điện"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà máy điện mặt trời"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà máy điện gió"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà máy nhiệt điện"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Nhà máy điện mặt trời"
+        },
+        {
+            "id": 38,
+            "question": "Theo Luật Điện lực số 61/2024/QH15, khách hàng sử dụng điện không có quyền sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Yêu cầu bên bán điện kiểm tra chất lượng dịch vụ điện, tính chính xác của thiết bị đo đếm điện, số tiền điện phải thanh toán."
+                },
+                {
+                    "id": "B",
+                    "content": "Được lựa chọn bên bán điện trong thị trường bán lẻ điện cạnh tranh."
+                },
+                {
+                    "id": "C",
+                    "content": "Yêu cầu bên bán điện kịp thời khôi phục việc cấp điện sau khi mất điện và bồi thường thiệt hại theo yêu cầu vì sự cố mất điện."
+                },
+                {
+                    "id": "D",
+                    "content": "Được cung cấp đủ số lượng công suất, điện năng, bảo đảm chất lượng điện đã được thỏa thuận trong hợp đồng."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Yêu cầu bên bán điện kịp thời khôi phục việc cấp điện sau khi mất điện và bồi thường thiệt hại theo yêu cầu vì sự cố mất điện."
+        },
+        {
+            "id": 39,
+            "question": "Năng lượng sơ cấp là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng lượng cuối cùng người dùng tiêu thụ"
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lượng lấy trực tiếp từ tự nhiên"
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lượng đã qua chể biến"
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lượng hữu ích sau tổn thất"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Năng lượng lấy trực tiếp từ tự nhiên"
+        },
+        {
+            "id": 40,
+            "question": "Theo Luật Điện lực số 61/2024/QH15, điều nào không đúng về chính sách phát triển điện năng lượng tái tạo, điện năng lượng mới?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Có cơ chể uu đãi, hỗ trợ cho từng loại hình nguồn điện, trong đó có các dự án thủy điện nhỏ được xác định theo quy định của pháp luật, phù hợp với yêu cầu phát triển kinh tế - xã hội trong từng thời kỳ."
+                },
+                {
+                    "id": "B",
+                    "content": "Phát triên phù hợp với khả năng bảo đảm an toàn hệ thống điện với giá thành điện năng hợp lý, đồng bộ với phát triển lưới điện và quy hoạch phát triển điện lực, phù hợp với trình độ công nghệ, nguồn nhân lực, đáp ứng mục tiêu giảm phát thải của Việt Nam trong từng thời kỳ."
+                },
+                {
+                    "id": "C",
+                    "content": "Có chính sách ưu đãi, hỗ trợ và cơ chể đột phá cho phát triển điện gió ngoài khơi; khuyến khích đầu tư các dự án tham gia thị trường điện cạnh tranh."
+                },
+                {
+                    "id": "D",
+                    "content": "Phát triển tổi đa với khả năng bảo đảm an toàn hệ thống điện với giá thành điện năng hợp lý, đồng bộ với phát triển lưới điện và quy hoạch phát triển điện lực, phủ hợp với trình độ công nghệ, nguồn nhân lực, đáp ứng mục tiêu giảm phát thải của Việt Nam trong từng thời kỳ."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Phát triển tổi đa với khả năng bảo đảm an toàn hệ thống điện với giá thành điện năng hợp lý, đồng bộ với phát triển lưới điện và quy hoạch phát triển điện lực, phủ hợp với trình độ công nghệ, nguồn nhân lực, đáp ứng mục tiêu giảm phát thải của Việt Nam trong từng thời kỳ."
+        },
+        {
+            "id": 41,
+            "question": "Hiện tượng “đảo nhiệt đô thị” tăng lên một phần do việc sử dụng năng lượng nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Điện gió"
+                },
+                {
+                    "id": "B",
+                    "content": "Thủy điện"
+                },
+                {
+                    "id": "C",
+                    "content": "Điều hòa không khí tiêu thụ điện từ hóa thạch"
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lượng mặt trời"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Điều hòa không khí tiêu thụ điện từ hóa thạch"
+        },
+        {
+            "id": 42,
+            "question": "Nhà máy điện nào không sử dụng nguồn năng lượng tái tạo trong các nguồn sau:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà máy điện gió"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhà máy thủy điện"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhà máy điện từ Hydrogen"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhà máy điện hạt nhân"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Nhà máy điện hạt nhân"
+        },
+        {
+            "id": 43,
+            "question": "Việt Nam có những nguồn điện sau?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nguồn điện, lưới điện, phụ tải điện, điện gió, và các loại nguồn khác"
+                },
+                {
+                    "id": "B",
+                    "content": "Nguồn điện, lưới điện, phụ tải điện, điện khí, và các loại nguồn khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Nguồn điện, lưới điện, phụ tải điện, điện mặt trời"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhiệt điện, thuỷ điện, điện mặt trời, điện gió, và các loại nguồn khác"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Nhiệt điện, thuỷ điện, điện mặt trời, điện gió, và các loại nguồn khác"
+        },
+        {
+            "id": 44,
+            "question": "Xu hướng không phù hợp trong chuyền dịch năng lượng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xu hướng sử dụng năng lượng hiệu quả nhưng không cần tiết kiệm."
+                },
+                {
+                    "id": "B",
+                    "content": "Xu hướng sử dụng các phương tiện sử dụng điện thay thế hoàn toàn các phương tiện sử dụng xăng dầu."
+                },
+                {
+                    "id": "C",
+                    "content": "Xu hướng sử dụng nguồn năng lượng tái tạo thay thể dần nguồn năng lượng hóa thạch"
+                },
+                {
+                    "id": "D",
+                    "content": "Xu hướng sử dụng nguồn năng lượng tái tạo thay thế hoàn toàn nguồn năng lượng hóa thạch"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Xu hướng sử dụng năng lượng hiệu quả nhưng không cần tiết kiệm."
+        },
+        {
+            "id": 45,
+            "question": "Phát biểu nào là không đúng liên quan đến động năng, thế năng, và định luật bảo toàn năng lượng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thể năng là dạng năng lượng trong trạng thái được lưu trữ hoặc năng lượng có thể được sinh ra do sự chênh lệch về vị trí."
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lượng không tự nhiên được sinh ra, cũng không tự nhiên bị mất đi, mà năng lượng chỉ chuyển hóa từ dạng này sang dạng khác."
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lượng chuyển động là dạng năng lượng được sinh ra trong quá trình chuyển động của vật thể, vật thể chuyển động càng nhanh thì càng có ít năng lượng hơn."
+                },
+                {
+                    "id": "D",
+                    "content": "Động năng là dạng năng lượng trong trạng thái được lưu trữ của các vật thể, phân tử, nguyên tử, điện tử hoặc của các sóng."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Năng lượng chuyển động là dạng năng lượng được sinh ra trong quá trình chuyển động của vật thể, vật thể chuyển động càng nhanh thì càng có ít năng lượng hơn."
+        },
+        {
+            "id": 46,
+            "question": "Các bộ phận chính của một nhà máy thủy điện gồm ống dẫn nước, tua bin và máy phát điện. Hãy cho biết năng lượng của nước biến đổi lần lượt tử dạng nào sang dạng nào qua các bộ phận đó?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Động năng → thế năng → điện năng."
+                },
+                {
+                    "id": "B",
+                    "content": "Thế năng → động năng → điện năng"
+                },
+                {
+                    "id": "C",
+                    "content": "Động năng → điện năng"
+                },
+                {
+                    "id": "D",
+                    "content": "Thế năng → điện năng"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Thế năng → động năng → điện năng"
+        },
+        {
+            "id": 47,
+            "question": "Hiểu biết cơ bản về lĩnh vực năng lượng là ưu thế của sinh viên trường ĐH Điện lực khi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "làm việc trong tất cả các ngành trên."
+                },
+                {
+                    "id": "B",
+                    "content": "làm việc trong nhà máy, công ty, cơ quan quản lý nhà nước ở các ngành Kinh tế quản lý, Điện tử viễn thông, Công nghệ thông tin..."
+                },
+                {
+                    "id": "C",
+                    "content": "làm việc trong các ngành liên quan tới năng lượng;"
+                },
+                {
+                    "id": "D",
+                    "content": "làm việc trong nhà máy, công ty, cơ quan quản lý nhà nước ở các ngành Kinh tế quản lý, Tự động hóa, Công nghệ thông tin..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. làm việc trong các ngành liên quan tới năng lượng;"
+        },
+        {
+            "id": 48,
+            "question": "Để tăng khả năng tiết kiệm năng lượng trong sản phẩm điều hòa không khí, các nhà sản xuất đã ứng dụng công nghệ nào phổ biến nhất hiện nay?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Công nghệ tự động hóa"
+                },
+                {
+                    "id": "B",
+                    "content": "Công nghệ trí tuệ nhân tạo"
+                },
+                {
+                    "id": "C",
+                    "content": "Công nghệ biến tần (inverter)"
+                },
+                {
+                    "id": "D",
+                    "content": "Công nghệ in vitro"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Công nghệ biến tần (inverter)"
+        },
+        {
+            "id": 49,
+            "question": "Khu vực nào của Việt Nam được đánh giá chịu rủi ro cao nhất do nước biển dâng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đông Nam Bộ"
+                },
+                {
+                    "id": "B",
+                    "content": "Tây Nguyên"
+                },
+                {
+                    "id": "C",
+                    "content": "Trung du miền núi phía bắc"
+                },
+                {
+                    "id": "D",
+                    "content": "Đồng bằng sông Cửu Long"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Đồng bằng sông Cửu Long"
+        },
+        {
+            "id": 50,
+            "question": "Phát biểu nào đúng nhất về nguyên lý hoạt động của nhà máy điện hạt nhân nước áp lực?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhiên liệu Uranium sẽ hấp thụ nơ tron nhanh và tạo ra phản ứng phân hạch dây truyền. Mỗi phân hạch sẽ tạo ra năng lượng nhiệt và nhiều hạt nhân khác nhỏ hơn. Nước sẽ hấp thụ năng lượng nhiệt này và trao đổi nhiệt với nước ở vòng thứ cấp. Nước ở vòng thứ cấp sẽ nhận nhiệt và chuyển thành hơi nước. Hơi nước được dẫn đến tuabin, làm quay tuabin, quay máy phát điện và tạo ra năng lượng điện."
+                },
+                {
+                    "id": "B",
+                    "content": "Nhiên liệu Uranium sẽ hâp thụ nơ tron nhiệt và tạo ra phản ứng phân hạch dây truyển. Mỗi phân hạch sẽ tạo ra năng lượng nhiệt và nhiều hạt nhân khác nhỏ hơn. Nước sẽ hấp thụ năng lượng nhiệt này và trao đổi nhiệt với nước ở vòng thứ cấp. Nước ở vòng thứ cấp sẽ nhận nhiệt và chuyển thành hơi nước. Hơi nước được dẫn đến tuabin, làm quay tuabin, quay máy phát điện và tạo ra năng lượng điện."
+                },
+                {
+                    "id": "C",
+                    "content": "Nhiên liệu Uranium sẽ hấp thụ nơ tron nhiệt và tạo ra phản ứng phân hạch dây truyền. Mỗi phân hạch sẽ tạo ra năng lượng nhiệt và nhiều hạt nhân khác nhỏ hơn. Nước sẽ hấp thụ năng lượng nhiệt này và chuyển thành hơi nước. Hơi nước được dẫn đến tuabin, làm quay tuabin, quay máy phát điện và tạo ra năng lượng điện. sẽ"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhiên liệu Uranium sẽ hấp thụ nơ tron nhanh và tạo ra phản ứng phân hạch dây truyền. Mỗi phân hạch tạo ra năng lượng nhiệt và nhiểu hạt nhân khác nhỏ hơn. Nước sẽ hấp thụ năng lượng nhiệt này và chuyển thành hơi nước. Hơi nước được dẫn đến tuabin, làm quay tuabin, quay máy phát điện và tạo ra năng lượng điện."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Nhiên liệu Uranium sẽ hâp thụ nơ tron nhiệt và tạo ra phản ứng phân hạch dây truyển. Mỗi phân hạch sẽ tạo ra năng lượng nhiệt và nhiều hạt nhân khác nhỏ hơn. Nước sẽ hấp thụ năng lượng nhiệt này và trao đổi nhiệt với nước ở vòng thứ cấp. Nước ở vòng thứ cấp sẽ nhận nhiệt và chuyển thành hơi nước. Hơi nước được dẫn đến tuabin, làm quay tuabin, quay máy phát điện và tạo ra năng lượng điện."
+        }
+    ]
+}
