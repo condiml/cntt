@@ -25,5 +25,14 @@
         "school": "Đại học Công nghệ GTVT",
         "shortSchool": "UTT",
         "path": "subjects/utt/nang-luong-va-phat-trien"
+    },
+    {
+        "id": "chu-nghia-xa-hoi-khoa-hoc",
+        "name": "Chủ nghĩa xã hội khoa học",
+        "shortName": "CNXH",
+        "icon": "🏛️",
+        "school": "Đại học Công nghệ GTVT",
+        "shortSchool": "UTT",
+        "path": "subjects/utt/chu-nghia-xa-hoi-khoa-hoc"
     }
 ]

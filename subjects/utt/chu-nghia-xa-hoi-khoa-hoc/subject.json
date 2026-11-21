@@ -1,0 +1,84 @@
+{
+    "id": "chu-nghia-xa-hoi-khoa-hoc",
+    "name": "Chủ nghĩa xã hội khoa học",
+    "shortName": "CNXH",
+    "icon": "🏛️",
+    "school": "Đại học Công nghệ GTVT",
+    "shortSchool": "UTT",
+    "examPath": "exam",
+    "chapters": [
+        {
+            "id": 1,
+            "name": "Nhập môn Chủ nghĩa xã hội khoa học",
+            "file": "chuong_1.json"
+        },
+        {
+            "id": 2,
+            "name": "Sứ mệnh lịch sử của giai cấp công nhân",
+            "file": "chuong_2.json"
+        },
+        {
+            "id": 3,
+            "name": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+            "file": "chuong_3.json"
+        },
+        {
+            "id": 4,
+            "name": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+            "file": "chuong_4.json"
+        },
+        {
+            "id": 5,
+            "name": "Cơ cấu xã hội - giai cấp và liên minh giai cấp, tầng lớp",
+            "file": "chuong_5.json"
+        },
+        {
+            "id": 6,
+            "name": "Vấn đề dân tộc và tôn giáo trong thời kỳ quá độ lên CNXH",
+            "file": "chuong_6.json"
+        },
+        {
+            "id": 7,
+            "name": "Vấn đề gia đình trong thời kỳ quá độ lên CNXH",
+            "file": "chuong_7.json"
+        }
+    ],
+    "simulationConfig": {
+        "totalQuestions": 50,
+        "timeLimit": 60,
+        "shuffleQuestions": true,
+        "shuffleAnswers": true,
+        "showAnswerImmediately": false,
+        "showAIExplanation": true,
+        "distribution": [
+            {
+                "chapter": 1,
+                "percent": 8
+            },
+            {
+                "chapter": 2,
+                "percent": 16
+            },
+            {
+                "chapter": 3,
+                "percent": 18
+            },
+            {
+                "chapter": 4,
+                "percent": 18
+            },
+            {
+                "chapter": 5,
+                "percent": 12
+            },
+            {
+                "chapter": 6,
+                "percent": 17
+            },
+            {
+                "chapter": 7,
+                "percent": 11
+            }
+        ]
+    }
+}

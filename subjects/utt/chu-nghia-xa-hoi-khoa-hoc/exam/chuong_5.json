@@ -1,0 +1,895 @@
+{
+    "title": "CHƯƠNG 5: CƠ CẤU XÃ HỘI - GIAI CẤP VÀ LIÊN MINH GIAI CẤP, TẦNG LỚP",
+    "chapter": 5,
+    "total_questions": 37,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Môn chủ nghĩa xã hội khoa học tập trung nghiên cứu loại cơ cấu xã hội nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "cơ cấu xã hội - dân cư"
+                },
+                {
+                    "id": "B",
+                    "content": "cơ cấu xã hội - giai cấp"
+                },
+                {
+                    "id": "C",
+                    "content": "cơ cấu xã hội - dân tộc"
+                },
+                {
+                    "id": "D",
+                    "content": "cơ cấu xã hội - nghề nghiệp"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: cơ cấu xã hội - giai cấp"
+        },
+        {
+            "id": 2,
+            "question": "Trong xã hội có giai cấp, cơ cấu xã hội có vị trí quyết định nhất, chi phối các loại hình cơ cấu xã hội khác là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cơ cấu xã hội - giai cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Cơ cấu xã hội - dân số"
+                },
+                {
+                    "id": "C",
+                    "content": "Cơ cấu xã hội - dân tộc"
+                },
+                {
+                    "id": "D",
+                    "content": "Cơ cấu xã hội - nghề nghiệp"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Cơ cấu xã hội - giai cấp"
+        },
+        {
+            "id": 3,
+            "question": "Sự biến đổi của cơ cấu xã hội - giai cấp gắn liền và được quy định bởi sự biến động của cơ cấu nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cơ cấu xã hội - dân tộc"
+                },
+                {
+                    "id": "B",
+                    "content": "Cơ cấu xã hội - dân cư"
+                },
+                {
+                    "id": "C",
+                    "content": "Cơ cấu xã hội - dân số"
+                },
+                {
+                    "id": "D",
+                    "content": "Cơ cấu xã hội - kinh tế"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Cơ cấu xã hội - kinh tế"
+        },
+        {
+            "id": 4,
+            "question": "Sự biến đổi phức tạp, đa dạng của cơ cấu xã hội - giai cấp dẫn đến xuất hiện điều gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các giai cấp mới"
+                },
+                {
+                    "id": "B",
+                    "content": "Tầng lớp mới"
+                },
+                {
+                    "id": "C",
+                    "content": "Tầng lớp xã hội mới"
+                },
+                {
+                    "id": "D",
+                    "content": "Các nhóm xã hội mới"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: Tầng lớp xã hội mới"
+        },
+        {
+            "id": 5,
+            "question": "Cơ cấu xã hội - giai cấp biến đổi trong mối quan hệ như thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vừa đấu tranh, vừa hợp tác"
+                },
+                {
+                    "id": "B",
+                    "content": "Vừa đấu tranh, vừa gắn bó"
+                },
+                {
+                    "id": "C",
+                    "content": "Vừa đấu tranh, vừa liên hệ"
+                },
+                {
+                    "id": "D",
+                    "content": "Vừa đấu tranh, vừa liên minh"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Vừa đấu tranh, vừa liên minh"
+        },
+        {
+            "id": 6,
+            "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, giai cấp công nhân có vai trò như thế nào trong cơ cấu xã hội - giai cấp?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "chủ đạo, định hướng"
+                },
+                {
+                    "id": "B",
+                    "content": "chủ đạo, tiên phong"
+                },
+                {
+                    "id": "C",
+                    "content": "chủ đạo, dẫn đường"
+                },
+                {
+                    "id": "D",
+                    "content": "chủ đạo, đi đầu"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: chủ đạo, tiên phong"
+        },
+        {
+            "id": 7,
+            "question": "Ở thời kỳ quá độ lên chủ nghĩa xã hội, trong cơ cấu xã hội - giai cấp, giai cấp nào là lực lượng tiêu biểu cho phương thức sản xuất mới giữ vai trò chủ đạo, tiên phong trong quá trình công nghiệp hóa, hiện đại hóa đất nước, cải tạo xã hội cũ, xây dựng xã hội mới?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giai cấp vô sản"
+                },
+                {
+                    "id": "B",
+                    "content": "Giai cấp công nhân"
+                },
+                {
+                    "id": "C",
+                    "content": "Tất cả các đáp án đều sai"
+                },
+                {
+                    "id": "D",
+                    "content": "Giai cấp nông dân"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Giai cấp công nhân"
+        },
+        {
+            "id": 8,
+            "question": "Trong một chế độ xã hội nhất định, cuộc đấu tranh giai cấp của các giai cấp có lợi ích đối lập nhau đặt ra nhu cầu tất yếu khách quan mỗi giai cấp đứng ở vị trí trung tâm đều phải tìm cách làm gì với các giai cấp, tầng lớp xã hội khác?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Liên kết"
+                },
+                {
+                    "id": "B",
+                    "content": "Hợp tác"
+                },
+                {
+                    "id": "C",
+                    "content": "Liên minh"
+                },
+                {
+                    "id": "D",
+                    "content": "Đoàn kết"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: Liên minh"
+        },
+        {
+            "id": 9,
+            "question": "V.I.Lênin đã xem liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp xã hội khác trong bước đầu của thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là một hình thức liên kết đặc biệt"
+                },
+                {
+                    "id": "B",
+                    "content": "Là một hình thức liên hệ đặc biệt"
+                },
+                {
+                    "id": "C",
+                    "content": "Là một hình thức liên doanh đặc biệt"
+                },
+                {
+                    "id": "D",
+                    "content": "Là một hình thức liên minh đặc biệt"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Là một hình thức liên minh đặc biệt"
+        },
+        {
+            "id": 10,
+            "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, cơ cấu xã hội - giai cấp có mấy đặc điểm cơ bản?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "5 đặc điểm"
+                },
+                {
+                    "id": "B",
+                    "content": "3 đặc điểm"
+                },
+                {
+                    "id": "C",
+                    "content": "2 đặc điểm"
+                },
+                {
+                    "id": "D",
+                    "content": "4 đặc điểm"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: 2 đặc điểm"
+        },
+        {
+            "id": 11,
+            "question": "Trong quá trình xây dựng chủ nghĩa xã hội, liên minh giữa giai cấp công nhân, giai cấp nông dân và tầng lớp trí thức dưới góc độ nào giữ vai trò quyết định?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Văn hoá"
+                },
+                {
+                    "id": "B",
+                    "content": "Tư tưởng"
+                },
+                {
+                    "id": "C",
+                    "content": "Chính trị"
+                },
+                {
+                    "id": "D",
+                    "content": "Kinh tế"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Kinh tế"
+        },
+        {
+            "id": 12,
+            "question": "Có mấy phương hướng cơ bản để xây dựng cơ cấu xã hội - giai cấp và tăng cường liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "7 phương hướng"
+                },
+                {
+                    "id": "B",
+                    "content": "4 phương hướng"
+                },
+                {
+                    "id": "C",
+                    "content": "6 phương hướng"
+                },
+                {
+                    "id": "D",
+                    "content": "5 phương hướng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: 5 phương hướng"
+        },
+        {
+            "id": 13,
+            "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội giai cấp là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hệ thống các giai cấp, nhóm cá nhân"
+                },
+                {
+                    "id": "B",
+                    "content": "Hệ thống các giai cấp, nhóm nghề nghiệp"
+                },
+                {
+                    "id": "C",
+                    "content": "Tổng thể các giai cấp, tầng lớp, các nhóm xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Hệ thống các giai cấp, tầng lớp"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: Tổng thể các giai cấp, tầng lớp, các nhóm xã hội"
+        },
+        {
+            "id": 14,
+            "question": "Cơ cấu xã hội giai cấp biến đổi như thế nào trong thời kỳ quá độ lên chủ nghĩa xã hội?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cơ cấu xã hội - giai cấp biến đổi gắn liền và bị quy định bởi cơ cấu kinh tế của thời kỳ quá độ lên chủ nghĩa xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Cơ cấu xã hội - giai cấp biến đổi gắn liền và bị tác động bởi thành phần kinh tế của thời kỳ quá độ lên chủ nghĩa xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Cơ cấu xã hội - giai cấp biến đổi gắn liền và bị chi phối bởi thể chế kinh tế của thời kỳ quá độ lên chủ nghĩa xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Cơ cấu xã hội - giai cấp biến đổi gắn liền và bị ảnh hưởng bởi ngành kinh tế của thời kỳ quá độ lên chủ nghĩa xã hội"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Cơ cấu xã hội - giai cấp biến đổi gắn liền và bị quy định bởi cơ cấu kinh tế của thời kỳ quá độ lên chủ nghĩa xã hội"
+        },
+        {
+            "id": 15,
+            "question": "Theo C.Mác và Ph.Ăngghen, nguyên nhân dẫn đến thất bại trong cuộc đấu tranh của giai cấp công nhân chống lại sự áp bức, bóc lột của giai cấp tư sản ở châu Âu là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Do giai cấp công nhân “đơn độc” vì đã không tổ chức liên kết với “người bạn đồng minh tự nhiên” của mình là giai cấp tiểu tư sản"
+                },
+                {
+                    "id": "B",
+                    "content": "Do giai cấp công nhân “đơn độc” vì đã không tổ chức liên minh với “người bạn đồng minh tự nhiên” của mình là giai cấp nông dân"
+                },
+                {
+                    "id": "C",
+                    "content": "Do giai cấp vô sản “đơn độc” vì đã không tổ chức đoàn kết với “người bạn đồng minh tự nhiên” của mình là giai cấp nông dân"
+                },
+                {
+                    "id": "D",
+                    "content": "Do giai cấp công nhân “đơn độc” vì đã không tổ chức hợp tác với “người bạn liên minh tự nhiên” của mình là giai cấp tư sản"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Do giai cấp công nhân “đơn độc” vì đã không tổ chức liên minh với “người bạn đồng minh tự nhiên” của mình là giai cấp nông dân"
+        },
+        {
+            "id": 16,
+            "question": "Xét từ góc độ kinh tế, trong thời kỳ quá độ lên chủ nghĩa xã hội, việc hình thành khối liên minh giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức xuất phát từ đâu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xuất phát từ chính nhu cầu và ích lợi kinh tế của họ"
+                },
+                {
+                    "id": "B",
+                    "content": "Xuất phát từ chính nhu cầu và quyền lợi kinh tế của họ"
+                },
+                {
+                    "id": "C",
+                    "content": "Xuất phát từ chính nhu cầu và lợi ích kinh tế của họ"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều sai"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: Xuất phát từ chính nhu cầu và lợi ích kinh tế của họ"
+        },
+        {
+            "id": 17,
+            "question": "V.I.Lênin đã chủ trương mở rộng khối liên minh giữa giai cấp công nhân với giai cấp, tầng lớp nào trong bước đầu của thời kỳ quá độ lên chủ nghĩa xã hội?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giai cấp tư sản và các tầng lớp xã hội khác"
+                },
+                {
+                    "id": "B",
+                    "content": "Tầng lớp trí thức và các tầng lớp xã hội khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Giai cấp nông dân và các tầng lớp xã hội khác"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều sai"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: Giai cấp nông dân và các tầng lớp xã hội khác"
+        },
+        {
+            "id": 18,
+            "question": "V.I.Lênin đã coi chuyên chính vô sản là gì trong liên minh giai cấp giữa giai cấp vô sản, đội tiền phong của những người lao động, vớí đông đảo những tầng lớp lao động không phải vô sản?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mối liên hệ đặc biệt"
+                },
+                {
+                    "id": "B",
+                    "content": "Hình thái đặc biệt"
+                },
+                {
+                    "id": "C",
+                    "content": "Hình thức đặc biệt"
+                },
+                {
+                    "id": "D",
+                    "content": "Trạng thái đặc biệt"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: Hình thức đặc biệt"
+        },
+        {
+            "id": 19,
+            "question": "Yếu tố quyết định sự liên minh giữa giai cấp công nhân, giai cấp nông dân và tầng lớp trí thức là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Do có những lợi ích cơ bản thống nhất với nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Do có cùng một kẻ thù là giai cấp tư sản"
+                },
+                {
+                    "id": "C",
+                    "content": "Do mục tiêu về chính trị của giai cấp công nhân"
+                },
+                {
+                    "id": "D",
+                    "content": "Do giai cấp công nhân mong muốn"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Do có những lợi ích cơ bản thống nhất với nhau"
+        },
+        {
+            "id": 20,
+            "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, các nhà kinh điển của chủ nghĩa Mác - Lênin đã coi nhân tố quyết định nhất cho sự thắng lợi hoàn toàn của chủ nghĩa xã hội là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "tính tất yếu văn hóa của liên minh"
+                },
+                {
+                    "id": "B",
+                    "content": "tính tất yếu kinh tế của liên minh"
+                },
+                {
+                    "id": "C",
+                    "content": "tính tất yếu chính trị của liên minh"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều sai"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: tính tất yếu kinh tế của liên minh"
+        },
+        {
+            "id": 21,
+            "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, hình thành liên minh giữa giai cấp công nhân với giai cấp nông dân và tầng lớp trí thức là do:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Yêu cầu của trí thức"
+                },
+                {
+                    "id": "B",
+                    "content": "Yêu cầu của nông dân"
+                },
+                {
+                    "id": "C",
+                    "content": "Do mong muốn của công nhân"
+                },
+                {
+                    "id": "D",
+                    "content": "Do đòi hỏi khách quan của cả công nhân, nông dân và trí thức"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Do đòi hỏi khách quan của cả công nhân, nông dân và trí thức"
+        },
+        {
+            "id": 22,
+            "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, yếu tố đã và đang từng bước thúc đẩy tăng cường khối liên minh giữa giai cấp công nhân với giai cấp nông dân, đội ngũ trí thức và các tầng lớp xã hội khác là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Những biến đổi trong cơ cấu giai cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Những biến đổi trong cơ cấu kinh tế"
+                },
+                {
+                    "id": "C",
+                    "content": "Những biến đổi trong cơ cấu nghề nghiệp"
+                },
+                {
+                    "id": "D",
+                    "content": "Những biến đổi trong cơ cấu dân cư"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Những biến đổi trong cơ cấu kinh tế"
+        },
+        {
+            "id": 23,
+            "question": "Trong liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội, giai cấp công nhân có vai trò:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là giai cấp nòng cốt"
+                },
+                {
+                    "id": "B",
+                    "content": "Là giai cấp lãnh đạo"
+                },
+                {
+                    "id": "C",
+                    "content": "Là giai cấp đi đầu"
+                },
+                {
+                    "id": "D",
+                    "content": "Là giai cấp tiên phong"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Là giai cấp lãnh đạo"
+        },
+        {
+            "id": 24,
+            "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam hiện nay, đội ngũ trí thức là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lao động sáng tạo đặc biệt quan trọng"
+                },
+                {
+                    "id": "B",
+                    "content": "Lao động sáng tạo cá nhân"
+                },
+                {
+                    "id": "C",
+                    "content": "Lao động có hàm lượng trí tuệ cao"
+                },
+                {
+                    "id": "D",
+                    "content": "Lao động sáng tạo đỉnh cao"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Lao động sáng tạo đặc biệt quan trọng"
+        },
+        {
+            "id": 25,
+            "question": "Hiện nay, ở Việt Nam đội ngũ doanh nhân phát triển như thế nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phát triển mạnh mẽ về số lượng, chất lượng với vai trò không ngừng tăng lên"
+                },
+                {
+                    "id": "B",
+                    "content": "Phát triển nhanh về số lượng và quy mô với vai trò không ngừng tăng lên"
+                },
+                {
+                    "id": "C",
+                    "content": "Phát triển thần tốc về số lượng với vai trò không ngừng tăng lên"
+                },
+                {
+                    "id": "D",
+                    "content": "Phát triển mạnh về đội ngũ và chất lượng với vai trò không ngừng tăng lên"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Phát triển nhanh về số lượng và quy mô với vai trò không ngừng tăng lên"
+        },
+        {
+            "id": 26,
+            "question": "Nội dung cơ bản quyết định nhất, là cơ sở vật chất - kỹ thuật của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam hiện nay là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nội dung kinh tế của liên minh"
+                },
+                {
+                    "id": "B",
+                    "content": "Tất cả các đáp án đều đúng"
+                },
+                {
+                    "id": "C",
+                    "content": "Nội dung chính trị của liên minh"
+                },
+                {
+                    "id": "D",
+                    "content": "Nội dung văn hóa - xã hội của liên minh"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Nội dung kinh tế của liên minh"
+        },
+        {
+            "id": 27,
+            "question": "Đặc điểm cơ cấu xã hội - giai cấp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sự biến đổi cơ cấu xã hội - giai cấp vừa đảm bảo tính quy luật phổ biến vừa mang tính đặc thù của xã hội Việt Nam"
+                },
+                {
+                    "id": "B",
+                    "content": "Tất cả các đáp án đều sai"
+                },
+                {
+                    "id": "C",
+                    "content": "Trong sự biến đổi của cơ cấu xã hội - giai cấp, vị trí, vai trò của các giai cấp, tầng lớp xã hội ngày càng được khẳng định"
+                },
+                {
+                    "id": "D",
+                    "content": "Sự biến đổi cơ cấu xã hội - giai cấp vừa đảm bảo tính quy luật phổ biến vừa mang tính đặc thù của xã hội Việt Nam; Trong sự biến đổi của cơ cấu xã hội - giai cấp, vị trí, vai trò của các giai cấp, tầng lớp xã hội ngày càng được khẳng định"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Sự biến đổi cơ cấu xã hội - giai cấp vừa đảm bảo tính quy luật phổ biến vừa mang tính đặc thù của xã hội Việt Nam; Trong sự biến đổi của cơ cấu xã hội - giai cấp, vị trí, vai trò của các giai cấp, tầng lớp xã hội ngày càng được khẳng định"
+        },
+        {
+            "id": 28,
+            "question": "Ở nước ta, nội dung chính trị của liên minh thể hiện:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thể hiện ở việc giữ vững hệ tư tưởng chính trị - tư tưởng của giai cấp công nhân, đồng thời giữ vững vai trò lãnh đạo của Đảng Cộng sản Việt Nam đối với khối liên minh và đối với toàn xã hội…"
+                },
+                {
+                    "id": "B",
+                    "content": "Thể hiện ở việc giữ vững tư tưởng chính trị - tư tưởng của giai cấp công nhân, đồng thời giữ vững vai trò lãnh đạo của Đảng Cộng sản Việt Nam đối với khối liên minh và đối với toàn xã hội…"
+                },
+                {
+                    "id": "C",
+                    "content": "Thể hiện ở việc giữ vững lập trường chính trị - tư tưởng của giai cấp công nhân, đồng thời giữ vững vai trò lãnh đạo của Đảng Cộng sản Việt Nam đối với khối liên minh và đối với toàn xã hội…"
+                },
+                {
+                    "id": "D",
+                    "content": "Thể hiện ở việc giữ vững quan điểm chính trị - tư tưởng của giai cấp công nhân, đồng thời giữ vững vai trò lãnh đạo của Đảng Cộng sản Việt Nam đối với khối liên minh và đối với toàn xã hội…"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: Thể hiện ở việc giữ vững lập trường chính trị - tư tưởng của giai cấp công nhân, đồng thời giữ vững vai trò lãnh đạo của Đảng Cộng sản Việt Nam đối với khối liên minh và đối với toàn xã hội…"
+        },
+        {
+            "id": 29,
+            "question": "Trong các nội dung của liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội, nội dung nào được coi là nội dung cơ bản, lâu dài tạo điều kiện cho liên minh giai cấp, tầng lớp phát triển bền vững?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nội dung quốc phòng và an ninh"
+                },
+                {
+                    "id": "B",
+                    "content": "Nội dung kinh tế"
+                },
+                {
+                    "id": "C",
+                    "content": "Nội dung chính trị"
+                },
+                {
+                    "id": "D",
+                    "content": "Nội dung văn hóa - xã hội"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Nội dung văn hóa - xã hội"
+        },
+        {
+            "id": 30,
+            "question": "Chọn từ thích hợp điền vào chỗ trống trong câu sau: “Sự biến đổi …………… tất yếu sẽ ảnh hưởng đến sự biến đổi của các cơ cấu xã hội khác và tác động đến sự biến đổi của toàn bộ cơ cấu xã hội”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "cơ cấu xã hội - kinh tế"
+                },
+                {
+                    "id": "B",
+                    "content": "cơ cấu xã hội nghề nghiệp"
+                },
+                {
+                    "id": "C",
+                    "content": "cơ cấu xã hội - dân tộc"
+                },
+                {
+                    "id": "D",
+                    "content": "cơ cấu xã hội giai cấp"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: cơ cấu xã hội giai cấp"
+        },
+        {
+            "id": 31,
+            "question": "Hãy điền vào chỗ trống nhằm làm rõ một trong những nội dung về sự biến đổi có tính quy luật của cơ cấu xã hội - giai cấp: “Cơ cấu xã hội - giai cấp biến đổi trong mối quan hệ vừa ……. vừa ……., từng bước xóa bỏ bất bình đẳng xã hội dẫn đến sự xích lại gần nhau”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "đấu tranh…hợp tác"
+                },
+                {
+                    "id": "B",
+                    "content": "mâu thuẫn…liên minh"
+                },
+                {
+                    "id": "C",
+                    "content": "đấu tranh...liên minh"
+                },
+                {
+                    "id": "D",
+                    "content": "đấu tranh…liên hiệp"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: đấu tranh...liên minh"
+        },
+        {
+            "id": 32,
+            "question": "Hãy hoàn thành câu sau: “V.I.Lênin cũng khẳng định…………………là vấn đề mang tính nguyên tắc để đảm bảo cho thắng lợi của cuộc cách mạng xã hội chủ nghĩa Tháng Mười Nga năm 1917”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "gắn kết công, nông"
+                },
+                {
+                    "id": "B",
+                    "content": "liên minh công, nông"
+                },
+                {
+                    "id": "C",
+                    "content": "liên kết công, nông"
+                },
+                {
+                    "id": "D",
+                    "content": "đoàn kết"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: liên minh công, nông"
+        },
+        {
+            "id": 33,
+            "question": "Hãy điền vào chỗ trống để hoàn thành câu sau của V.I.Lênin: “Nguyên tắc cao nhất của chuyên chính là duy trì khối …… giữa giai cấp vô sản và nông dân để giai cấp vô sản có thể giữ được vai trò lãnh đạo và chính quyền nhà nước”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "liên minh"
+                },
+                {
+                    "id": "B",
+                    "content": "hợp tác"
+                },
+                {
+                    "id": "C",
+                    "content": "liên kết"
+                },
+                {
+                    "id": "D",
+                    "content": "đoàn kết"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: liên minh"
+        },
+        {
+            "id": 34,
+            "question": "Chọn từ thích hợp điền vào chỗ trống trong câu sau: “C.Mác và Ph.Ăngghen cho rằng, cách mạng ………… phải tiến hành triệt để”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "chủ nghĩa xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "xã hội chủ nghĩa"
+                },
+                {
+                    "id": "C",
+                    "content": "vô sản"
+                },
+                {
+                    "id": "D",
+                    "content": "chuyên chính vô sản"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: xã hội chủ nghĩa"
+        },
+        {
+            "id": 35,
+            "question": "Hãy hoàn thành câu sau của V.I.Lênin: “Trước sự liên minh của các …………, giai cấp vô sản và giới kỹ thuật, không một thế lực đen tối nào đứng vững được”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "nhà khoa học"
+                },
+                {
+                    "id": "B",
+                    "content": "nhà nghiên cứu khoa học"
+                },
+                {
+                    "id": "C",
+                    "content": "đại biểu khoa học"
+                },
+                {
+                    "id": "D",
+                    "content": "chuyên gia khoa học"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: đại biểu khoa học"
+        },
+        {
+            "id": 36,
+            "question": "Hãy điền vào chỗ trống: “Giai cấp nông dân cùng với nông nghiệp, nông thôn có vị trí chiến lược trong sự nghiệp …………… nông nghiệp, nông thôn gắn với xây dựng nông thôn mới, góp phần xây dựng và bảo vệ Tổ quốc”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "phát triển"
+                },
+                {
+                    "id": "B",
+                    "content": "xây dựng"
+                },
+                {
+                    "id": "C",
+                    "content": "đổi mới"
+                },
+                {
+                    "id": "D",
+                    "content": "công nghiệp hóa, hiện đại hóa"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: công nghiệp hóa, hiện đại hóa"
+        },
+        {
+            "id": 37,
+            "question": "Hãy hoàn thiện câu sau: “Xây dựng và thực hiện hệ thống chính sách xã hội tổng thể nhằm tạo sự biến đổi tích cực cơ cấu xã hội, nhất là các chính sách liên quan đến ……………”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "cơ cấu xã hội giai cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Tất cả các đáp án đều sai"
+                },
+                {
+                    "id": "C",
+                    "content": "cơ cấu xã hội - dân tộc"
+                },
+                {
+                    "id": "D",
+                    "content": "cơ cấu xã hội - kinh tế"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: cơ cấu xã hội giai cấp"
+        }
+    ]
+}

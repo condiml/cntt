@@ -1,0 +1,1303 @@
+{
+    "title": "CHƯƠNG 6: VẤN ĐỀ DÂN TỘC VÀ TÔN GIÁO TRONG THỜI KỲ QUÁ ĐỘ LÊN CNXH",
+    "chapter": 6,
+    "total_questions": 54,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Dân tộc được hiểu theo mấy nghĩa cơ bản:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hai"
+                },
+                {
+                    "id": "B",
+                    "content": "Ba"
+                },
+                {
+                    "id": "C",
+                    "content": "Bốn"
+                },
+                {
+                    "id": "D",
+                    "content": "Một"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Hai"
+        },
+        {
+            "id": 2,
+            "question": "Khái niệm dân tộc được hiểu theo nghĩa:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nghĩa chung nhất"
+                },
+                {
+                    "id": "B",
+                    "content": "Nghĩa rộng; nghĩa hẹp"
+                },
+                {
+                    "id": "C",
+                    "content": "Nghĩa hẹp"
+                },
+                {
+                    "id": "D",
+                    "content": "Nghĩa rộng"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Nghĩa rộng; nghĩa hẹp"
+        },
+        {
+            "id": 3,
+            "question": "Dân tộc hay quốc gia dân tộc có mấy đặc trưng cơ bản?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "5 đặc trưng"
+                },
+                {
+                    "id": "B",
+                    "content": "2 đặc trưng"
+                },
+                {
+                    "id": "C",
+                    "content": "4 đặc trưng"
+                },
+                {
+                    "id": "D",
+                    "content": "3 đặc trưng"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: 5 đặc trưng"
+        },
+        {
+            "id": 4,
+            "question": "Các dân tộc ở Việt Nam phân bố chủ yếu ở địa bàn có vị trí chiến lược quan trọng là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thiểu số"
+                },
+                {
+                    "id": "B",
+                    "content": "Miền Nam"
+                },
+                {
+                    "id": "C",
+                    "content": "Miền Bắc"
+                },
+                {
+                    "id": "D",
+                    "content": "Miền Trung"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Thiểu số"
+        },
+        {
+            "id": 5,
+            "question": "Đối với các Đảng Cộng sản trên thế giới, Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cơ sở lý thuyết quan trọng"
+                },
+                {
+                    "id": "B",
+                    "content": "Cơ sở thực tiễn quan trọng"
+                },
+                {
+                    "id": "C",
+                    "content": "Vừa là cơ sở lý luận vừa là cơ sở thực tiễn quan trọng"
+                },
+                {
+                    "id": "D",
+                    "content": "Là cơ sở lý luận quan trọng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Là cơ sở lý luận quan trọng"
+        },
+        {
+            "id": 6,
+            "question": "Dân tộc ở Việt Nam có bao nhiêu đặc điểm cơ bản?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "7 đặc điểm"
+                },
+                {
+                    "id": "B",
+                    "content": "4 đặc điểm"
+                },
+                {
+                    "id": "C",
+                    "content": "6 đặc điểm"
+                },
+                {
+                    "id": "D",
+                    "content": "5 đặc điểm"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: 6 đặc điểm"
+        },
+        {
+            "id": 7,
+            "question": "Tính chất chính trị của tôn giáo chỉ xuất hiện khi nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khi xã hội có mâu thuẫn giai cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Khi xã hội có áp bức giai cấp"
+                },
+                {
+                    "id": "C",
+                    "content": "Khi xã hội chưa phân chia giai cấp"
+                },
+                {
+                    "id": "D",
+                    "content": "Khi xã hội đã phân chia giai cấp"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Khi xã hội đã phân chia giai cấp"
+        },
+        {
+            "id": 8,
+            "question": "Có bao nhiêu nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "5 nguyên tắc"
+                },
+                {
+                    "id": "B",
+                    "content": "6 nguyên tắc"
+                },
+                {
+                    "id": "C",
+                    "content": "4 nguyên tắc"
+                },
+                {
+                    "id": "D",
+                    "content": "3 nguyên tắc"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: 4 nguyên tắc"
+        },
+        {
+            "id": 9,
+            "question": "Tôn giáo ở Việt Nam có mấy đặc điểm cơ bản?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "6 đặc điểm"
+                },
+                {
+                    "id": "B",
+                    "content": "3 đặc điểm"
+                },
+                {
+                    "id": "C",
+                    "content": "4 đặc điểm"
+                },
+                {
+                    "id": "D",
+                    "content": "7 đặc điểm"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: 6 đặc điểm"
+        },
+        {
+            "id": 10,
+            "question": "Nội dung cốt lõi của công tác tôn giáo là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vận động đồng bào"
+                },
+                {
+                    "id": "B",
+                    "content": "Vận động nhân dân"
+                },
+                {
+                    "id": "C",
+                    "content": "Vận động các giai cấp, tầng lớp"
+                },
+                {
+                    "id": "D",
+                    "content": "Vận động quần chúng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Vận động quần chúng"
+        },
+        {
+            "id": 11,
+            "question": "Hàng ngũ chức sắc các tôn giáo có vai trò, vị trí như thế nào trong Giáo hội?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "To lớn"
+                },
+                {
+                    "id": "B",
+                    "content": "Quan trọng"
+                },
+                {
+                    "id": "C",
+                    "content": "Đặc biệt"
+                },
+                {
+                    "id": "D",
+                    "content": "Rất quan trọng"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Quan trọng"
+        },
+        {
+            "id": 12,
+            "question": "Quan hệ dân tộc và tôn giáo ở Việt Nam có bao nhiêu đặc điểm cơ bản?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "5 đặc điểm"
+                },
+                {
+                    "id": "B",
+                    "content": "4 đặc điểm"
+                },
+                {
+                    "id": "C",
+                    "content": "6 đặc điểm"
+                },
+                {
+                    "id": "D",
+                    "content": "3 đặc điểm"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: 3 đặc điểm"
+        },
+        {
+            "id": 13,
+            "question": "Chính sách dân tộc ở Việt Nam hiện nay tập trung ở mấy nội dung cơ bản?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "6 nội dung"
+                },
+                {
+                    "id": "B",
+                    "content": "4 nội dung"
+                },
+                {
+                    "id": "C",
+                    "content": "5 nội dung"
+                },
+                {
+                    "id": "D",
+                    "content": "7 nội dung"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: 5 nội dung"
+        },
+        {
+            "id": 14,
+            "question": "Các thế lực thù địch thường xuyên lợi dụng vấn đề dân tộc và vấn đề tôn giáo nhằm thực hiện “diễn biến hòa bình”, tập trung ở mấy khu vực trọng điểm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "5 khu vực"
+                },
+                {
+                    "id": "B",
+                    "content": "3 khu vực"
+                },
+                {
+                    "id": "C",
+                    "content": "2 khu vực"
+                },
+                {
+                    "id": "D",
+                    "content": "4 khu vực"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: 4 khu vực"
+        },
+        {
+            "id": 15,
+            "question": "Công tác tôn giáo là trách nhiệm của tổ chức nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhà nước xã hội chủ nghĩa"
+                },
+                {
+                    "id": "B",
+                    "content": "Hệ thống chính trị"
+                },
+                {
+                    "id": "C",
+                    "content": "Đảng Cộng sản"
+                },
+                {
+                    "id": "D",
+                    "content": "Mặt trận Tổ quốc"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Hệ thống chính trị"
+        },
+        {
+            "id": 16,
+            "question": "Có bao nhiêu định hướng giải quyết mối quan hệ dân tộc và tôn giáo ở Việt Nam hiện nay?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "5 dịnh hướng"
+                },
+                {
+                    "id": "B",
+                    "content": "2 định hưởng"
+                },
+                {
+                    "id": "C",
+                    "content": "3 định hướng"
+                },
+                {
+                    "id": "D",
+                    "content": "4 định hướng"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: 3 định hướng"
+        },
+        {
+            "id": 17,
+            "question": "Nội dung Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin gồm:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các dân tộc hoàn toàn bình đẳng, các dân tộc được quyền tự quyết, liên hiệp công nhân tất cả các dân tộc"
+                },
+                {
+                    "id": "B",
+                    "content": "Các dân tộc hoàn toàn bình đẳng, các dân tộc được quyền tự quyết"
+                },
+                {
+                    "id": "C",
+                    "content": "Tất cả các đáp án đều sai"
+                },
+                {
+                    "id": "D",
+                    "content": "Liên hiệp công nhân tất cả các dân tộc"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Các dân tộc hoàn toàn bình đẳng, các dân tộc được quyền tự quyết, liên hiệp công nhân tất cả các dân tộc"
+        },
+        {
+            "id": 18,
+            "question": "Một trong những đặc điểm nổi bật dân tộc Việt Nam là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các dân tộc ở Việt Nam có trình độ phát triển không đều"
+                },
+                {
+                    "id": "B",
+                    "content": "Các dân tộc ở Việt Nam có trình độ phát triển đồng đều"
+                },
+                {
+                    "id": "C",
+                    "content": "Có sự chênh lệch về số dân giữa các tộc người"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có sự chênh lệch về số dân giữa các tộc người"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: Có sự chênh lệch về số dân giữa các tộc người"
+        },
+        {
+            "id": 19,
+            "question": "Nội dung nào trong Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin vừa là nội dung chủ yếu, vừa là giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tất cả các đáp án đều sai"
+                },
+                {
+                    "id": "B",
+                    "content": "Các dân tộc hoàn toàn bình đẳng"
+                },
+                {
+                    "id": "C",
+                    "content": "Liên hiệp công nhân tất cả các dân tộc"
+                },
+                {
+                    "id": "D",
+                    "content": "Các dân tộc được quyền tự quyết"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: Liên hiệp công nhân tất cả các dân tộc"
+        },
+        {
+            "id": 20,
+            "question": "Một trong những đặc điểm dân tộc ở Việt Nam là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các dân tộc cư trú đan xen vào nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Các dân tộc cư trú xen kẽ nhau"
+                },
+                {
+                    "id": "C",
+                    "content": "Các dân tộc cư trú đan cài vào nhau"
+                },
+                {
+                    "id": "D",
+                    "content": "Các dân tộc cư trú hòa lẫn vào nhau"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Các dân tộc cư trú xen kẽ nhau"
+        },
+        {
+            "id": 21,
+            "question": "Mỗi dân tộc ở Việt Nam có điểm gì riêng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Văn hóa đời sống"
+                },
+                {
+                    "id": "B",
+                    "content": "Đời sống tinh thần"
+                },
+                {
+                    "id": "C",
+                    "content": "Phong tục tập quán"
+                },
+                {
+                    "id": "D",
+                    "content": "Bản sắc văn hóa"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Bản sắc văn hóa"
+        },
+        {
+            "id": 22,
+            "question": "Chính sách dân tộc cơ bản của Đảng và Nhà nước ta hiện nay được thể hiện cụ thể ở những nội dung nào sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Về chính trị, về kinh tế, về văn hóa, xã hội, về an ninh quốc phòng"
+                },
+                {
+                    "id": "B",
+                    "content": "Về an ninh quốc phòng"
+                },
+                {
+                    "id": "C",
+                    "content": "Về chính trị"
+                },
+                {
+                    "id": "D",
+                    "content": "Về kinh tế"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Về chính trị, về kinh tế, về văn hóa, xã hội, về an ninh quốc phòng"
+        },
+        {
+            "id": 23,
+            "question": "Chủ nghĩa Mác - Lênin có quan điểm như thế nào về bản chất của tôn giáo?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tôn giáo là một hiện tượng tự nhiên"
+                },
+                {
+                    "id": "B",
+                    "content": "Tôn giáo là một hiện tượng xã hội - văn hoá do con người sáng tạo ra"
+                },
+                {
+                    "id": "C",
+                    "content": "Tôn giáo do tự nhiên tạo ra"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều sai"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Tôn giáo là một hiện tượng xã hội - văn hoá do con người sáng tạo ra"
+        },
+        {
+            "id": 24,
+            "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, nhân tố quyết định sự tồn tại và phát triển của các hình thái ý thức xã hội, trong đó có tôn giáo là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhu cầu vật chất, các quan hệ kinh tế"
+                },
+                {
+                    "id": "B",
+                    "content": "Đời sống vật chất, các quan hệ kinh tế"
+                },
+                {
+                    "id": "C",
+                    "content": "Mức thụ hưởng vật chất, các quan hệ kinh tế"
+                },
+                {
+                    "id": "D",
+                    "content": "Sản xuất vật chất, các quan hệ kinh tế"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Sản xuất vật chất, các quan hệ kinh tế"
+        },
+        {
+            "id": 25,
+            "question": "Hãy chọn đáp án đúng về tín ngưỡng và tôn giáo:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tôn giáo và tín ngưỡng không đồng nhất, nhưng có giao thoa nhất định"
+                },
+                {
+                    "id": "B",
+                    "content": "Tôn giáo và tín ngưỡng không có giao thoa"
+                },
+                {
+                    "id": "C",
+                    "content": "Tôn giáo và tín ngưỡng đồng nhất"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều sai"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Tôn giáo và tín ngưỡng không đồng nhất, nhưng có giao thoa nhất định"
+        },
+        {
+            "id": 26,
+            "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, mê tín dị đoan là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín, dẫn đến những hành vi cực đoan, sai lệch quá mức, trái với các giá trị văn hóa, đạo đức, pháp luật; Gây tổn hại cho cá nhân, xã hội và cộng đồng"
+                },
+                {
+                    "id": "B",
+                    "content": "Gây tổn hại cho cá nhân, xã hội và cộng đồng"
+                },
+                {
+                    "id": "C",
+                    "content": "Không gây tổn hại cho cá nhân, xã hội và cộng đồng"
+                },
+                {
+                    "id": "D",
+                    "content": "Niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín, dẫn đến những hành vi cực đoan, sai lệch quá mức, trái với các giá trị văn hóa, đạo đức, pháp luật"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín, dẫn đến những hành vi cực đoan, sai lệch quá mức, trái với các giá trị văn hóa, đạo đức, pháp luật; Gây tổn hại cho cá nhân, xã hội và cộng đồng"
+        },
+        {
+            "id": 27,
+            "question": "Tính lịch sử của tôn giáo, tính quần chúng của tôn giáo và tính chính trị của tôn giáo thuộc nội dung nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nguồn gốc của tôn giáo"
+                },
+                {
+                    "id": "B",
+                    "content": "Tính chất của tôn giáo"
+                },
+                {
+                    "id": "C",
+                    "content": "Tất cả các đáp án đều sai"
+                },
+                {
+                    "id": "D",
+                    "content": "Đặc điểm của tôn giáo"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Tính chất của tôn giáo"
+        },
+        {
+            "id": 28,
+            "question": "Tôn giáo là sản phẩm của những điều kiện kinh tế - xã hội, phản ánh lợi ích, nguyện vọng của các giai cấp khác nhau trong cuộc đấu tranh giai cấp, đấu tranh dân tộc, vì vậy:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tôn giáo không có tính lịch sử"
+                },
+                {
+                    "id": "B",
+                    "content": "Tôn giáo mang tính quần chúng"
+                },
+                {
+                    "id": "C",
+                    "content": "Tôn giáo mang tính chính trị"
+                },
+                {
+                    "id": "D",
+                    "content": "Tôn giáo không mang tính quần chúng"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: Tôn giáo mang tính chính trị"
+        },
+        {
+            "id": 29,
+            "question": "Một trong những nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phân biệt hai mặt chính trị và tư tưởng; tín ngưỡng, tôn giáo và lợi dụng tín ngưỡng, tôn giáo trong quá trình giải quyết vấn đề tôn giáo"
+                },
+                {
+                    "id": "B",
+                    "content": "Chỉ phân biệt mặt chính trị"
+                },
+                {
+                    "id": "C",
+                    "content": "Không phân biệt hai mặt chính trị và tư tưởng; tín ngưỡng, tôn giáo và lợi dụng tín ngưỡng, tôn giáo trong quá trình giải quyết vấn đề tôn giáo"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều sai"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Phân biệt hai mặt chính trị và tư tưởng; tín ngưỡng, tôn giáo và lợi dụng tín ngưỡng, tôn giáo trong quá trình giải quyết vấn đề tôn giáo"
+        },
+        {
+            "id": 30,
+            "question": "Nội dung: Cần có quan điểm lịch sử cụ thể trong giải quyết vấn đề tín ngưỡng, tôn giáo thuộc một trong những:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Tính chất tôn giáo"
+                },
+                {
+                    "id": "C",
+                    "content": "Nguồn gốc tôn giáo"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều sai"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội"
+        },
+        {
+            "id": 31,
+            "question": "Nội dung: Tôn giáo ở Việt Nam đa dạng, đan xen, chung sống hòa bình và không có xung đột, chiến tranh tôn giáo là một trong những:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đặc điểm tôn giáo ở Việt Nam"
+                },
+                {
+                    "id": "B",
+                    "content": "Đặc trưng tôn giáo ở Việt Nam"
+                },
+                {
+                    "id": "C",
+                    "content": "Nguồn gốc tôn giáo"
+                },
+                {
+                    "id": "D",
+                    "content": "Nguyên tắc giải quyết tôn giáo"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Đặc điểm tôn giáo ở Việt Nam"
+        },
+        {
+            "id": 32,
+            "question": "Trong quan điểm, chính sách của Đảng và Nhà nước Việt Nam, tín ngưỡng, tôn giáo là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhu cầu vật chất"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhu cầu tinh thần của một bộ phận nhân dân, đang và sẽ tồn tại cùng dân tộc trong quá trình xây dựng chủ nghĩa xã hội ở nước ta"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhu cầu tinh thần của một bộ phận nhân dân không tồn tại trong quá trình xây dựng chủ nghĩa xã hội ở nước ta"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả đáp án đều sai"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Nhu cầu tinh thần của một bộ phận nhân dân, đang và sẽ tồn tại cùng dân tộc trong quá trình xây dựng chủ nghĩa xã hội ở nước ta"
+        },
+        {
+            "id": 33,
+            "question": "Đảng, Nhà nước thực hiện nhất quán chính sách đại đoàn kết dân tộc, nghĩa là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không có đáp án đúng"
+                },
+                {
+                    "id": "B",
+                    "content": "Đoàn kết đồng bào theo các tôn giáo khác nhau; đoàn kết đồng bào theo tôn giáo và đồng bào không theo tôn giáo"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ đoàn kết đồng bào không theo tôn giáo"
+                },
+                {
+                    "id": "D",
+                    "content": "Chỉ đoàn kết đồng bào theo tôn giáo"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Đoàn kết đồng bào theo các tôn giáo khác nhau; đoàn kết đồng bào theo tôn giáo và đồng bào không theo tôn giáo"
+        },
+        {
+            "id": 34,
+            "question": "Quan hệ dân tộc và tôn giáo được biểu hiện dưới:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhiều cấp độ, hình thức; Phạm vi khác nhau"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhiều cấp độ, hình thức"
+                },
+                {
+                    "id": "C",
+                    "content": "Mức độ, phạm vi"
+                },
+                {
+                    "id": "D",
+                    "content": "Phạm vi khác nhau"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Nhiều cấp độ, hình thức; Phạm vi khác nhau"
+        },
+        {
+            "id": 35,
+            "question": "Việt Nam là một quốc gia đa dân tộc, đa tôn giáo; quan hệ dân tộc và tôn giáo được thiết lập và củng cố trên cơ sở:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cuộc đấu tranh giữa cơ sở hạ tầng và kiến trúc thượng tầng."
+                },
+                {
+                    "id": "B",
+                    "content": "Cộng đồng quốc gia - dân tộc thống nhất"
+                },
+                {
+                    "id": "C",
+                    "content": "Tất cả các đáp án đều đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Cuộc đấu tranh giữa lực lượng sản xuất và quan hệ sản xuất."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Cộng đồng quốc gia - dân tộc thống nhất"
+        },
+        {
+            "id": 36,
+            "question": "Quan hệ dân tộc và tôn giáo ở Việt Nam chịu sự chi phối mạnh mẽ bởi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Biến đổi của lịch sử"
+                },
+                {
+                    "id": "B",
+                    "content": "Tín ngưỡng truyền thống"
+                },
+                {
+                    "id": "C",
+                    "content": "Thói quen"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều sai"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Tín ngưỡng truyền thống"
+        },
+        {
+            "id": 37,
+            "question": "Các hiện tượng tôn giáo mới có xu hướng phát triển mạnh làm ảnh hưởng đến:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Trật tự an toàn xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Khối đại đoàn kết toàn dân tộc"
+                },
+                {
+                    "id": "C",
+                    "content": "Đời sống cộng đồng"
+                },
+                {
+                    "id": "D",
+                    "content": "Đời sống cộng đồng; Khối đại đoàn kết toàn dân tộc"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Đời sống cộng đồng; Khối đại đoàn kết toàn dân tộc"
+        },
+        {
+            "id": 38,
+            "question": "Tăng cường mối quan hệ tốt đẹp giữa dân tộc và tôn giáo, củng cố khối đại đoàn kết toàn dân tộc và đoàn kết tôn giáo là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tất cả các đáp án đều sai"
+                },
+                {
+                    "id": "B",
+                    "content": "Vấn đề chiến lược, cơ bản, lâu dài; Cấp bách của cách mạng Việt Nam"
+                },
+                {
+                    "id": "C",
+                    "content": "Vấn đề chiến lược, cơ bản, lâu dài"
+                },
+                {
+                    "id": "D",
+                    "content": "Cấp bách của cách mạng Việt Nam"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Vấn đề chiến lược, cơ bản, lâu dài; Cấp bách của cách mạng Việt Nam"
+        },
+        {
+            "id": 39,
+            "question": "Một trong những khu vực trọng điểm các thế lực thù địch thường xuyên lợi dụng vấn đề dân tộc và vấn đề tôn giáo nhằm thực hiện “diễn biến hòa bình” là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tây Bắc, Nam Trung Bộ"
+                },
+                {
+                    "id": "B",
+                    "content": "Tây Bắc"
+                },
+                {
+                    "id": "C",
+                    "content": "Nam Trung Bộ"
+                },
+                {
+                    "id": "D",
+                    "content": "Bắc Trung Bộ"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Tây Bắc"
+        },
+        {
+            "id": 40,
+            "question": "Một trong những khu vực trọng điểm các thế lực thù địch thường xuyên lợi dụng vấn đề dân tộc và vấn đề tôn giáo nhằm thực hiện “diễn biến hòa bình” là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tây Nguyên"
+                },
+                {
+                    "id": "B",
+                    "content": "Tây Nam Bộ"
+                },
+                {
+                    "id": "C",
+                    "content": "Bắc Trung Bộ"
+                },
+                {
+                    "id": "D",
+                    "content": "Không có đáp án đúng"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Tây Nguyên"
+        },
+        {
+            "id": 41,
+            "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, tôn trọng tự do, tín ngưỡng cũng chính là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tôn trọng quyền bình đẳng giới, thể hiện bản chất ưu việt của chế độ xã hội chủ nghĩa"
+                },
+                {
+                    "id": "B",
+                    "content": "Tôn trọng quyền công dân, thể hiện bản chất ưu việt của chế độ xã hội chủ nghĩa"
+                },
+                {
+                    "id": "C",
+                    "content": "Tôn trọng quyền con người, thể hiện bản chất ưu việt của chế độ xã hội chủ nghĩa"
+                },
+                {
+                    "id": "D",
+                    "content": "Tôn trọng quyền trẻ em, thể hiện bản chất ưu việt của chế độ xã hội chủ nghĩa"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: Tôn trọng quyền con người, thể hiện bản chất ưu việt của chế độ xã hội chủ nghĩa"
+        },
+        {
+            "id": 42,
+            "question": "Quan điểm của chủ nghĩa Mác - Lênin cho rằng, trong xã hội công xã nguyên thủy, tín ngưỡng, tôn giáo chỉ biểu hiện thuần túy về:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ý thức"
+                },
+                {
+                    "id": "B",
+                    "content": "Tư tưởng"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhận thức"
+                },
+                {
+                    "id": "D",
+                    "content": "Tinh thần"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Tư tưởng"
+        },
+        {
+            "id": 43,
+            "question": "Chọn từ thích hợp điền vào chỗ trống: “Dân tộc - …… là cộng đồng người được hình thành lâu dài trong lịch sử và có ba đặc trưng cơ bản: cộng đồng về ngôn ngữ; cộng đồng về văn hóa và ý thức tự giác tộc người”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tất cả các đáp án đều sai"
+                },
+                {
+                    "id": "B",
+                    "content": "quốc gia"
+                },
+                {
+                    "id": "C",
+                    "content": "tộc người"
+                },
+                {
+                    "id": "D",
+                    "content": "thiểu số"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: tộc người"
+        },
+        {
+            "id": 44,
+            "question": "Chọn từ thích hợp điền vào chỗ trống trong câu sau để làm rõ xu hướng khách quan của sự phát triển dân tộc: “Cộng đồng dân cư muốn………để hình thành cộng đồng……….độc lập”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "nhập vào….tộc người"
+                },
+                {
+                    "id": "B",
+                    "content": "tách ra….dân tộc"
+                },
+                {
+                    "id": "C",
+                    "content": "liên hiệp lại….dân tộc"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án đều sai"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: tách ra….dân tộc"
+        },
+        {
+            "id": 45,
+            "question": "Chọn từ thích hợp điền vào chỗ trống trong câu sau để làm rõ một trong những quan điểm của Đảng ta về vấn đề dân tộc: “Vấn đề dân tộc và đoàn kết dân tộc là vấn đề ………………. đồng thời cũng là vấn đề câp bách hiện nay của cách mạng Việt Nam”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "chiến lược, cơ bản, lâu dài"
+                },
+                {
+                    "id": "B",
+                    "content": "chiến lược, chủ yếu, lâu dài"
+                },
+                {
+                    "id": "C",
+                    "content": "sách lược, chủ yếu, trước mắt"
+                },
+                {
+                    "id": "D",
+                    "content": "sách lược, cơ bản, trước mắt"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: chiến lược, cơ bản, lâu dài"
+        },
+        {
+            "id": 46,
+            "question": "Chọn từ thích hợp điền vào chỗ trống trong câu sau: “Các ……… trong từng quốc gia, thậm chí các dân tộc ở nhiều quốc gia muốn ……… với nhau”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "dân tộc….tách ra"
+                },
+                {
+                    "id": "B",
+                    "content": "tộc người….nhập vào"
+                },
+                {
+                    "id": "C",
+                    "content": "dân tộc….liên hiệp lại"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả đáp án trên đều sai"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: dân tộc….liên hiệp lại"
+        },
+        {
+            "id": 47,
+            "question": "Hãy hoàn thành câu sau: “Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin là …………. quan trọng để các Đảng Cộng sản vận dụng thực hiện chính sách dân tộc trong quá trình đấu tranh giành độc lập dân tộc và xây dựng chủ nghĩa xã hội”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "nền tảng lý luận"
+                },
+                {
+                    "id": "B",
+                    "content": "cơ sở lý luận"
+                },
+                {
+                    "id": "C",
+                    "content": "nền tảng lý thuyết"
+                },
+                {
+                    "id": "D",
+                    "content": "nguồn gốc lý luận"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: cơ sở lý luận"
+        },
+        {
+            "id": 48,
+            "question": "Hãy điền vào chỗ trống trong câu sau: “Hai xu hướng khách quan của sự phát triển dân tộc có ……………. với nhau trong tiến trình phát triển của mỗi quốc gia và của toàn nhân loại”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "sự thống nhất tuyệt đối"
+                },
+                {
+                    "id": "B",
+                    "content": "sự thống nhất biện chứng"
+                },
+                {
+                    "id": "C",
+                    "content": "mối quan hệ mật thiết"
+                },
+                {
+                    "id": "D",
+                    "content": "mối quan hệ tác động qua lại"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: sự thống nhất biện chứng"
+        },
+        {
+            "id": 49,
+            "question": "Chọn từ thích hợp điền vào chỗ trống để hoàn thành câu sau: Việt Nam “có sự ………… về số dân giữa các ……..”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "cách biệt….dân tộc"
+                },
+                {
+                    "id": "B",
+                    "content": "khác nhau….tộc người"
+                },
+                {
+                    "id": "C",
+                    "content": "chênh lệch….tộc người"
+                },
+                {
+                    "id": "D",
+                    "content": "khác biệt….dân tộc"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: chênh lệch….tộc người"
+        },
+        {
+            "id": 50,
+            "question": "Hãy điền vào chỗ trống để hoàn thành câu sau: “các dân tộc Việt Nam có truyền thống ……., gắn bó lâu đời trong cộng đồng …………..”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "cố kết cộng đồng….dân tộc - tộc người"
+                },
+                {
+                    "id": "B",
+                    "content": "yêu nước….dân tộc - tộc người"
+                },
+                {
+                    "id": "C",
+                    "content": "đấu tranh anh dũng….quốc gia"
+                },
+                {
+                    "id": "D",
+                    "content": "đoàn kết….dân tộc - quốc gia"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: đoàn kết….dân tộc - quốc gia"
+        },
+        {
+            "id": 51,
+            "question": "Chọn từ thích hợp điền vào chỗ trống trong câu sau: “Tăng cường công tác………….. đối với các tôn giáo và đấu tranh với hoạt động ……….. gây phương hại đến lợi ích Tổ quốc và dân tộc”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "quản lý nhà nước….lợi dụng tôn giáo"
+                },
+                {
+                    "id": "B",
+                    "content": "quản lý….chia rẽ tôn giáo"
+                },
+                {
+                    "id": "C",
+                    "content": "quản lý nhà nước….đội lốt tôn giáo"
+                },
+                {
+                    "id": "D",
+                    "content": "kiểm soát nhà nước…..kích động tôn giáo"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: quản lý nhà nước….lợi dụng tôn giáo"
+        },
+        {
+            "id": 52,
+            "question": "Hãy điền vào chỗ trống hoàn thành câu sau: “Quan hệ dân tộc và tôn giáo ở Việt Nam chịu sự chi phối mạnh mẽ bởi ...............”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "đạo đức truyền thống"
+                },
+                {
+                    "id": "B",
+                    "content": "tôn giáo truyền thống"
+                },
+                {
+                    "id": "C",
+                    "content": "tín ngưỡng truyền thống"
+                },
+                {
+                    "id": "D",
+                    "content": "văn hóa truyền thống"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: tín ngưỡng truyền thống"
+        },
+        {
+            "id": 53,
+            "question": "Hãy điền vào chỗ trống để hoàn thành câu sau: “Giải quyết mối quan hệ dân tộc và tôn giáo phải đặt trong mối .............. với cộng đồng quốc gia - dân tộc thống nhất, theo ........... xã hội chủ nghĩa”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "liên hệ....con đường"
+                },
+                {
+                    "id": "B",
+                    "content": "liên lạc.....mục tiêu"
+                },
+                {
+                    "id": "C",
+                    "content": "gắn kết....định hướng"
+                },
+                {
+                    "id": "D",
+                    "content": "quan hệ....định hướng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: quan hệ....định hướng"
+        },
+        {
+            "id": 54,
+            "question": "Chọn từ thích hợp điền vào chỗ trống để hoàn thành câu sau: “Khắc phục dần những ảnh hưởng ………… của tôn giáo phải gắn liền với quá trình ……………, xây dựng xã hội mới”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tất cả các đáp án đều sai"
+                },
+                {
+                    "id": "B",
+                    "content": "xấu…..cải biến xã hội cũ"
+                },
+                {
+                    "id": "C",
+                    "content": "tích cực….cải cách xã hội cũ"
+                },
+                {
+                    "id": "D",
+                    "content": "tiêu cực….cải tạo xã hội cũ"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: tiêu cực….cải tạo xã hội cũ"
+        }
+    ]
+}
