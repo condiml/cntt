@@ -1,0 +1,607 @@
+{
+    "title": "CHƯƠNG 1: NHẬP MÔN CHỦ NGHĨA XÃ HỘI KHOA HỌC",
+    "chapter": 1,
+    "total_questions": 25,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Chủ nghĩa xã hội khoa học ra đời dựa trên những điều kiện nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tiền đề khoa học tự nhiên và tư tưởng lý luận"
+                },
+                {
+                    "id": "B",
+                    "content": "Điều kiện kinh tế - xã hội; Tiền đề khoa học tự nhiên và tư tưởng lý luận"
+                },
+                {
+                    "id": "C",
+                    "content": "Điều kiện kinh tế - xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Điều kiện văn hóa - con người"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Điều kiện kinh tế - xã hội; Tiền đề khoa học tự nhiên và tư tưởng lý luận"
+        },
+        {
+            "id": 2,
+            "question": "Tiền đề khoa học tự nhiên có tính cách mạng cho sự ra đời của chủ nghĩa xã hội khoa học là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Học thuyết tiến hóa"
+                },
+                {
+                    "id": "B",
+                    "content": "Học thuyết tế bào"
+                },
+                {
+                    "id": "C",
+                    "content": "Định luật bảo toàn và chuyển hóa năng lượng"
+                },
+                {
+                    "id": "D",
+                    "content": "Học thuyết tiến hóa; Định luật bảo toàn và chuyển hóa năng lượng; Học thuyết tế bào"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Học thuyết tiến hóa; Định luật bảo toàn và chuyển hóa năng lượng; Học thuyết tế bào"
+        },
+        {
+            "id": 3,
+            "question": "Tiền đề tư tưởng lý luận cho sự ra đời của chủ nghĩa xã hội khoa học là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Triết học cổ điển Đức, Kinh tế chính trị học cổ điển Anh, Chủ nghĩa xã hội không tưởng phê phán"
+                },
+                {
+                    "id": "B",
+                    "content": "Chủ nghĩa xã hội không tưởng phê phán"
+                },
+                {
+                    "id": "C",
+                    "content": "Triết học cổ điển Đức"
+                },
+                {
+                    "id": "D",
+                    "content": "Kinh tế chính trị học cổ điển Anh"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Triết học cổ điển Đức, Kinh tế chính trị học cổ điển Anh, Chủ nghĩa xã hội không tưởng phê phán"
+        },
+        {
+            "id": 4,
+            "question": "Tác phẩm Tuyên ngôn của Đảng Cộng sản do C.Mác và Ph.Ăngghen soạn thảo và công bố trước toàn thế giới vào năm nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năm 1847"
+                },
+                {
+                    "id": "B",
+                    "content": "Năm 1850"
+                },
+                {
+                    "id": "C",
+                    "content": "Năm 1849"
+                },
+                {
+                    "id": "D",
+                    "content": "Năm 1848"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Năm 1848"
+        },
+        {
+            "id": 5,
+            "question": "C.Mác và Ph.Ăngghen phát triển chủ nghĩa xã hội khoa học qua các thời kỳ nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thời kỳ sau Công xã Pari đến năm 1895"
+                },
+                {
+                    "id": "B",
+                    "content": "Thời kỳ từ 1848 đến năm 1852"
+                },
+                {
+                    "id": "C",
+                    "content": "Thời kỳ từ năm 1848 đến Công xã Pari (1871); Thời kỳ sau Công xã Pari đến năm 1895"
+                },
+                {
+                    "id": "D",
+                    "content": "Thời kỳ từ năm 1848 đến Công xã Pari (1871)"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: Thời kỳ từ năm 1848 đến Công xã Pari (1871); Thời kỳ sau Công xã Pari đến năm 1895"
+        },
+        {
+            "id": 6,
+            "question": "Từ khi ra đời (1848) đến nay, chủ nghĩa xã hội khoa học phát triển qua bao nhiêu giai đoạn chủ yếu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2 giai đoạn"
+                },
+                {
+                    "id": "B",
+                    "content": "4 giai đoạn"
+                },
+                {
+                    "id": "C",
+                    "content": "3 giai đoạn"
+                },
+                {
+                    "id": "D",
+                    "content": "5 giai đoạn"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: 3 giai đoạn"
+        },
+        {
+            "id": 7,
+            "question": "V.I.Lênin vận dụng và phát triển chủ nghĩa xã hội khoa học trong điều kiện mới ở thời kỳ nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thời kỳ từ sau Cách mạng Tháng 10 Nga (1917) đến năm 1921"
+                },
+                {
+                    "id": "B",
+                    "content": "Thời kỳ trước cách mạng Tháng Mười Nga"
+                },
+                {
+                    "id": "C",
+                    "content": "Thời kỳ trước cách mạng Tháng Mười Nga; Thời kỳ từ sau cách mạng Tháng Mười Nga (1917) đến năm 1924"
+                },
+                {
+                    "id": "D",
+                    "content": "Thời kỳ từ sau Cách mạng Tháng 10 Nga (1917) đến năm 1924"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: Thời kỳ trước cách mạng Tháng Mười Nga; Thời kỳ từ sau cách mạng Tháng Mười Nga (1917) đến năm 1924"
+        },
+        {
+            "id": 8,
+            "question": "Theo V.I.Lê nin, tác phẩm nào của C.Mác là tác phẩm: trình bày chủ yếu và cơ bản chủ nghĩa xã hội khoa học?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phê phán Cương lĩnh Gôta"
+                },
+                {
+                    "id": "B",
+                    "content": "Hệ Tư tưởng Đức"
+                },
+                {
+                    "id": "C",
+                    "content": "Bộ Tư bản"
+                },
+                {
+                    "id": "D",
+                    "content": "Tuyên ngôn của Đảng Cộng sản"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: Bộ Tư bản"
+        },
+        {
+            "id": 9,
+            "question": "Ba phát kiến vĩ đại của C.Mác và Ph.Ăngghen là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chủ nghĩa duy vật lịch sử; Học thuyết về giá trị thặng dư; Quan điểm của chủ nghĩa Mác về mối quan hệ giữa dân tộc và giai cấp"
+                },
+                {
+                    "id": "B",
+                    "content": "Học thuyết về giá trị thặng dư; Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân; Thời kỳ quá độ lên chủ nghĩa xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Chủ nghĩa duy vật biện chứng; Học thuyết về giá trị thặng dư; Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân"
+                },
+                {
+                    "id": "D",
+                    "content": "Chủ nghĩa duy vật lịch sử; Học thuyết về giá trị thặng dư; Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Chủ nghĩa duy vật lịch sử; Học thuyết về giá trị thặng dư; Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân"
+        },
+        {
+            "id": 10,
+            "question": "Tác phẩm kinh điển nào của C.Mác và Ăngghen đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tuyên ngôn của Đảng Cộng sản"
+                },
+                {
+                    "id": "B",
+                    "content": "Đấu tranh giai cấp ở Pháp"
+                },
+                {
+                    "id": "C",
+                    "content": "Bộ Tư bản"
+                },
+                {
+                    "id": "D",
+                    "content": "Phê phán Cương lĩnh Gôta"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Tuyên ngôn của Đảng Cộng sản"
+        },
+        {
+            "id": 11,
+            "question": "Phong trào cộng sản và công nhân quốc tế coi tác phẩm Tuyên ngôn của Đảng Cộng sản là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cương lĩnh chính trị"
+                },
+                {
+                    "id": "B",
+                    "content": "Cương lĩnh đấu tranh"
+                },
+                {
+                    "id": "C",
+                    "content": "Tuyên ngôn đấu tranh"
+                },
+                {
+                    "id": "D",
+                    "content": "Tuyên ngôn chính trị"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: Cương lĩnh chính trị"
+        },
+        {
+            "id": 12,
+            "question": "Phạm trù nào được coi là cơ bản nhất, là xuất phát điểm của chủ nghĩa xã hội khoa học?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chuyên chính vô sản"
+                },
+                {
+                    "id": "B",
+                    "content": "Xã hội chủ nghĩa"
+                },
+                {
+                    "id": "C",
+                    "content": "Giai cấp công nhân"
+                },
+                {
+                    "id": "D",
+                    "content": "Sứ mệnh lịch sử của giai cấp công nhân"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Sứ mệnh lịch sử của giai cấp công nhân"
+        },
+        {
+            "id": 13,
+            "question": "Theo V.I.Lê nin, chuyên chính vô sản là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là một hình thức dân chủ mới"
+                },
+                {
+                    "id": "B",
+                    "content": "Là một hình thức chính quyền mới"
+                },
+                {
+                    "id": "C",
+                    "content": "Là một hình thức nhà nước mới"
+                },
+                {
+                    "id": "D",
+                    "content": "Là một hình thức quyền lực mới"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: Là một hình thức nhà nước mới"
+        },
+        {
+            "id": 14,
+            "question": "Công lao của V.I.Lênin là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xây dựng chủ nghĩa xã hội trong thực tại, được đánh dấu bằng sự ra đời của Nhà nước dân chủ xã hội chủ nghĩa đầu tiên trên thế giới - Nhà nước Xô Viết năm 1917"
+                },
+                {
+                    "id": "B",
+                    "content": "Xây dựng chủ nghĩa xã hội hiện thực, được đánh dấu bằng sự ra đời của Nhà nước xã hội chủ nghĩa đầu tiên trên thế giới - Nhà nước Xô Viết năm 1917"
+                },
+                {
+                    "id": "C",
+                    "content": "Xây dựng chủ nghĩa xã hội trong thực tế, được đánh dấu bằng sự ra đời của Nhà nước vô sản đầu tiên trên thế giới - Nhà nước Xô Viết năm 1917"
+                },
+                {
+                    "id": "D",
+                    "content": "Xây dựng chủ nghĩa xã hội trong thực tiễn, được đánh dấu bằng sự ra đời của Nhà nước chuyên chính vô sản đầu tiên trên thế giới - Nhà nước Xô Viết năm 1917"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: Xây dựng chủ nghĩa xã hội hiện thực, được đánh dấu bằng sự ra đời của Nhà nước xã hội chủ nghĩa đầu tiên trên thế giới - Nhà nước Xô Viết năm 1917"
+        },
+        {
+            "id": 15,
+            "question": "Hãy chọn đáp án đúng làm rõ quan điểm của V.I.Lênin về thời kỳ quá độ lên chủ nghĩa xã hội ở nước Nga sau cách mạng Tháng Mười:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cần có những thời kỳ quá độ nhỏ trong thời kỳ quá độ nói chung lên chủ nghĩa xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Cần có những khoảng quá độ nhỏ trong thời kỳ quá độ nói chung lên chủ nghĩa xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Cần có những giai đoạn quá độ nhỏ trong thời kỳ quá độ nói chung lên chủ nghĩa xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Cần có những bước quá độ nhỏ trong thời kỳ quá độ nói chung lên chủ nghĩa xã hội"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Cần có những bước quá độ nhỏ trong thời kỳ quá độ nói chung lên chủ nghĩa xã hội"
+        },
+        {
+            "id": 16,
+            "question": "Phương pháp nghiên cứu có tính đặc thù của chủ nghĩa xã hội là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Các phương pháp có tính liên ngành"
+                },
+                {
+                    "id": "B",
+                    "content": "Phương pháp kết hợp lịch sử và logic"
+                },
+                {
+                    "id": "C",
+                    "content": "Phương pháp so sánh"
+                },
+                {
+                    "id": "D",
+                    "content": "Phương pháp khảo sát và phân tích về mặt chính trị - xã hội dựa trên các điều kiện kinh tế - xã hội cụ thể"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Phương pháp khảo sát và phân tích về mặt chính trị - xã hội dựa trên các điều kiện kinh tế - xã hội cụ thể"
+        },
+        {
+            "id": 17,
+            "question": "Việc nghiên cứu chủ nghĩa xã hội khoa học có ý nghĩa gì?:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ý nghĩa về mặt khoa học"
+                },
+                {
+                    "id": "B",
+                    "content": "Ý nghĩa về mặt thực tiễn"
+                },
+                {
+                    "id": "C",
+                    "content": "Ý nghĩa về mặt lý luận; Ý nghĩa về mặt thực tiễn"
+                },
+                {
+                    "id": "D",
+                    "content": "Ý nghĩa về mặt lý luận"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: Ý nghĩa về mặt lý luận; Ý nghĩa về mặt thực tiễn"
+        },
+        {
+            "id": 18,
+            "question": "Các nhà kinh điển của chủ nghĩa Mác - Lênin coi chủ nghĩa xã hội khoa học là gì của giai cấp công nhân hiện đại?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Công cụ lý luận"
+                },
+                {
+                    "id": "B",
+                    "content": "Cơ sở lý luận"
+                },
+                {
+                    "id": "C",
+                    "content": "Nền tảng lý luận"
+                },
+                {
+                    "id": "D",
+                    "content": "Vũ khí lý luận"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Vũ khí lý luận"
+        },
+        {
+            "id": 19,
+            "question": "Hãy chọn đáp án đúng về ý nghĩa của chủ nghĩa xã hội khoa học:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chủ nghĩa xã hội khoa học góp phần quan trọng trong việc giáo dục niềm tin lý tưởng cho nhân dân vào mục tiêu, lý tưởng xã hội chủ nghĩa và con đường đi lên chủ nghĩa xã hội"
+                },
+                {
+                    "id": "B",
+                    "content": "Chủ nghĩa xã hội khoa học góp phần quan trọng trong việc giáo dục niềm tin tất thắng cho nhân dân vào mục tiêu, lý tưởng xã hội chủ nghĩa và con đường đi lên chủ nghĩa xã hội"
+                },
+                {
+                    "id": "C",
+                    "content": "Chủ nghĩa xã hội khoa học góp phần quan trọng trong việc giáo dục niềm tin cách mạng cho nhân dân vào mục tiêu, lý tưởng xã hội chủ nghĩa và con đường đi lên chủ nghĩa xã hội"
+                },
+                {
+                    "id": "D",
+                    "content": "Chủ nghĩa xã hội khoa học góp phần quan trọng trong việc giáo dục niềm tin khoa học cho nhân dân vào mục tiêu, lý tưởng xã hội chủ nghĩa và con đường đi lên chủ nghĩa xã hội"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: Chủ nghĩa xã hội khoa học góp phần quan trọng trong việc giáo dục niềm tin khoa học cho nhân dân vào mục tiêu, lý tưởng xã hội chủ nghĩa và con đường đi lên chủ nghĩa xã hội"
+        },
+        {
+            "id": 20,
+            "question": "Hãy điền vào chỗ trống: Phát kiến vĩ đại thứ nhất C.Mác và Ph.Ăng ghen: “là sự khẳng định về mặt triết học sự .............. của chủ nghĩa tư bản và sự ............. của chủ nghĩa xã hội đều tất yếu như nhau”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "tan vỡ.....chiến thắng"
+                },
+                {
+                    "id": "B",
+                    "content": "thất bại.....chiến thắng"
+                },
+                {
+                    "id": "C",
+                    "content": "sụp đổ.....thành công"
+                },
+                {
+                    "id": "D",
+                    "content": "sụp đổ.....thắng lợi"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: sụp đổ.....thắng lợi"
+        },
+        {
+            "id": 21,
+            "question": "Chọn từ thích hợp điền vào chỗ trống để hoàn thành câu sau: “Tuyên ngôn của Đảng Cộng sản là tác phẩm....................của chủ nghĩa xã hội khoa học”",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "kinh điển chủ yếu"
+                },
+                {
+                    "id": "B",
+                    "content": "kinh điển cơ bản"
+                },
+                {
+                    "id": "C",
+                    "content": "kinh điển quan trọng"
+                },
+                {
+                    "id": "D",
+                    "content": "kinh điển tiêu biểu"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: kinh điển chủ yếu"
+        },
+        {
+            "id": 22,
+            "question": "Chọn từ thích hợp điền vào chỗ trống để hoàn thành câu sau: “Những người cộng sản phải tiến hành ..................... nhưng phải có chiến lược, sách lược khôn khéo và kiên quyết”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "cách mạng liên tiếp"
+                },
+                {
+                    "id": "B",
+                    "content": "cách mạng không dừng"
+                },
+                {
+                    "id": "C",
+                    "content": "cách mạng liên tục"
+                },
+                {
+                    "id": "D",
+                    "content": "cách mạng không ngừng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là: cách mạng không ngừng"
+        },
+        {
+            "id": 23,
+            "question": "Chọn từ thích hợp điền vào chỗ trống để hoàn thành câu sau làm rõ quan điểm của V.I.Lênin về chế độ dân chủ: “Chỉ có …………….., không có dân chủ thuần túy hay dân chủ nói chung”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "dân chủ tư sản hoặc dân chủ cộng sản"
+                },
+                {
+                    "id": "B",
+                    "content": "dân chủ tư sản hoặc dân chủ vô sản"
+                },
+                {
+                    "id": "C",
+                    "content": "dân chủ tư sản hoặc dân chủ xã hội chủ nghĩa"
+                },
+                {
+                    "id": "D",
+                    "content": "dân chủ tư bản hoặc dân chủ vô sản"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là: dân chủ tư sản hoặc dân chủ vô sản"
+        },
+        {
+            "id": 24,
+            "question": "Chọn từ thích hợp điền vào trống để làm rõ quan điểm của Ph.Ăngghen về nhiệm vụ của chủ nghĩa xã hội khoa học: “Thực hiện sự nghiệp giải phóng thế giới ấy - đó là sứ mệnh lịch sử của .................”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "giai cấp vô sản hiện đại"
+                },
+                {
+                    "id": "B",
+                    "content": "giai cấp công nhân hiện đại"
+                },
+                {
+                    "id": "C",
+                    "content": "giai cấp công nhân"
+                },
+                {
+                    "id": "D",
+                    "content": "giai cấp vô sản"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là: giai cấp vô sản hiện đại"
+        },
+        {
+            "id": 25,
+            "question": "Chọn từ thích hợp điền vào chỗ trống để hoàn thành câu sau: “Độc lập dân tộc gắn liền với chủ nghĩa xã hội là............của cách mạng Việt Nam, trong điều kiện thời đại ngày nay”.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "tất yếu"
+                },
+                {
+                    "id": "B",
+                    "content": "tất yếu lịch sử"
+                },
+                {
+                    "id": "C",
+                    "content": "quy luật"
+                },
+                {
+                    "id": "D",
+                    "content": "quy luật khách quan"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là: quy luật"
+        }
+    ]
+}

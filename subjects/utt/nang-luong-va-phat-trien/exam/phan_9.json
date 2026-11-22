@@ -1,0 +1,1207 @@
+{
+    "title": "PHẦN 9: CÂU 401 - CÂU 450",
+    "chapter": 9,
+    "total_questions": 50,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Phát biểu nào là đúng về định nghĩa nặng lượng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng lượng là động năng của một vật chất khi đứng im"
+                },
+                {
+                    "id": "B",
+                    "content": "Thế năng của một vật chất khi chuyển động"
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lượng là một đại lượng cố định, không thay đổi của một vật chất"
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lượng là một đại lượng không cố định, luôn thay đổi của một vật chất"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Năng lượng là một đại lượng không cố định, luôn thay đổi của một vật chất"
+        },
+        {
+            "id": 2,
+            "question": "Phát biểu nào đúng nhất về hệ thống lưới điện thông minh?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hệ thống lưới điện được tích hợp nhiều công nghệ hiện đại, giúp quản lý các quá trình sản xuất, truyền tải, phân phối và tiêu thụ điện được quản lý một các hợp lý dựa trên công nghệ trí tuệ nhân tạo."
+                },
+                {
+                    "id": "B",
+                    "content": "Hệ thống lưới điện truyền thống có tích hợp thêm trí tuệ nhân tạo."
+                },
+                {
+                    "id": "C",
+                    "content": "Hệ thống lưới điện được tích hợp nhiều công nghệ hiện đại, giúp quản lý các quá trình sản xuất, truyền tải, phân phối và tiêu thụ điện được quản lý một các hợp lý và thông minh hơn."
+                },
+                {
+                    "id": "D",
+                    "content": "Hệ thống lưới điện được tích hợp công nghệ trí tuệ nhân tạo."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Hệ thống lưới điện được tích hợp nhiều công nghệ hiện đại, giúp quản lý các quá trình sản xuất, truyền tải, phân phối và tiêu thụ điện được quản lý một các hợp lý và thông minh hơn."
+        },
+        {
+            "id": 3,
+            "question": "Phát biểu nào là không đúng về các tiêu chí dự báo phụ tải?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đánh giá đầy đủ tác động của các yếu tố sử dụng năng lượng tiết kiệm hiệu quả, các công nghệ sản xuất điện phân tắn, các công nghệ sử dụng điện mới."
+                },
+                {
+                    "id": "B",
+                    "content": "Áp đụng duy nhất một phương pháp dự báo để thực hiện dự báo phụ tải."
+                },
+                {
+                    "id": "C",
+                    "content": "Dự báo sản lượng, công suất và biểu đồ sử dụng điện theo các miền, vùng và các tỉnh thành phố nhằm cung cấp điện đầy đủ, tin cậy cho phát triển kinh tế xã hội của các địa phương và toàn quốc."
+                },
+                {
+                    "id": "D",
+                    "content": "Áp dụng các phương pháp dự báo khác nhau để thực hiện kiểm chứng kết quả dự báo."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Áp đụng duy nhất một phương pháp dự báo để thực hiện dự báo phụ tải."
+        },
+        {
+            "id": 4,
+            "question": "Chọn từ thích hợp điền vào chỗ trống trong câu sau: Tấm Pin mặt trời biến đổi...........thành điện năng.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quang năng"
+                },
+                {
+                    "id": "B",
+                    "content": "Thế năng"
+                },
+                {
+                    "id": "C",
+                    "content": "Hóa năng"
+                },
+                {
+                    "id": "D",
+                    "content": "Nhiệt năng"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Quang năng"
+        },
+        {
+            "id": 5,
+            "question": "Theo Luật Điện lực số 61/2024/QH15, đơn vị phát điện không có quyền sau đây?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đề nghị cơ quan nhà nước có thẩm quyền sửa đổi, bổ sung quy chuẩn kỹ thuật, định mức kinh tế - kỹ thuật có liên quan."
+                },
+                {
+                    "id": "B",
+                    "content": "Tự quyết định giá bán điện."
+                },
+                {
+                    "id": "C",
+                    "content": "Bán điện cho bên mua điện theo hợp đồng mua bán điện."
+                },
+                {
+                    "id": "D",
+                    "content": "Đấu nối vào hệ thống điện quốc gia khi đáp ứng điều kiện và yêu cầu kỹ thuật."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Tự quyết định giá bán điện."
+        },
+        {
+            "id": 6,
+            "question": "Công nghệ giúp giảm phát thải CO2 từ nhà máy điện than là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm diện tích bãi thải"
+                },
+                {
+                    "id": "B",
+                    "content": "Tăng công suất phát điện"
+                },
+                {
+                    "id": "C",
+                    "content": "Thu giữ và lưu trữ carbon"
+                },
+                {
+                    "id": "D",
+                    "content": "Xả thẳng khí thải cao hơn"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Thu giữ và lưu trữ carbon"
+        },
+        {
+            "id": 7,
+            "question": "Các công nghệ nào có khả năng áp dụng chủ yếu cho hệ thống lưới điện thông minh tại Việt Nam?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hệ thống giám sát diện rộng có tích hợp thêm trí tuệ nhân tạo."
+                },
+                {
+                    "id": "B",
+                    "content": "Công nghệ dự báo năng lượng tái tạo, bộ biến tần thông minh và quản lý nhu cầu điện."
+                },
+                {
+                    "id": "C",
+                    "content": "Công nghệ nhà máy điện ảo, biến tần thông minh, lưới điện siêu nhỏ."
+                },
+                {
+                    "id": "D",
+                    "content": "Công nghệ như SCADA/EMS, hệ thống trạm biến áp không người trực, hệ thống giám sát diện rộng, hệ thống định vị sự cố."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Công nghệ như SCADA/EMS, hệ thống trạm biến áp không người trực, hệ thống giám sát diện rộng, hệ thống định vị sự cố."
+        },
+        {
+            "id": 8,
+            "question": "Kỹ sư ngành Điện tử viễn thông của trường Đại học Điện lực ra trường có thể làm gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thiết kế vận hành, tối ưu mạng máy tính và mạng truyền thông;"
+                },
+                {
+                    "id": "B",
+                    "content": "Thiết kế, sản xuất thiết bị điện tử, vi mạch bán dẫn; Phát triển phần mềm; thiết kế lập trình các máy tính nhúng nhúng;"
+                },
+                {
+                    "id": "C",
+                    "content": "Thiết thiết kế, kể sản vận xuất hành, thiết bị điện t , vi mạch bán dẫn; phát triển phần mềm; thiết kế lập trình các máy tính tổi ưu mạng máy tính và mạng truyền thông;phân tích dữ liệu, trí tuệ nhân tạo/học máy; phát triển vận hành thiết bị điện tử y tế."
+                },
+                {
+                    "id": "D",
+                    "content": "Phân tích dữ liệu, trí tuệ nhân tạo/học máy; phát triển vận hành thiết bị điện tử y tế."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Thiết thiết kế, kể sản vận xuất hành, thiết bị điện t , vi mạch bán dẫn; phát triển phần mềm; thiết kế lập trình các máy tính tổi ưu mạng máy tính và mạng truyền thông;phân tích dữ liệu, trí tuệ nhân tạo/học máy; phát triển vận hành thiết bị điện tử y tế."
+        },
+        {
+            "id": 9,
+            "question": "Miền Trung nối với miền Nam qua các mạch 500 kV, một trong số đó là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đaknong-Cần Thơ"
+                },
+                {
+                    "id": "B",
+                    "content": "Đacknong-Thành phố Hồ Chí Minh"
+                },
+                {
+                    "id": "C",
+                    "content": "Hà Tĩnh-Sóc Trăng"
+                },
+                {
+                    "id": "D",
+                    "content": "ĐakNong-Cầu Bông"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. ĐakNong-Cầu Bông"
+        },
+        {
+            "id": 10,
+            "question": "Cho công suất điện của một tổ máy phát điện một pha là 200 kW, hiệu điện thế một pha là 220 V, cường độ dòng điện pha là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "909A"
+                },
+                {
+                    "id": "B",
+                    "content": "0,909A"
+                },
+                {
+                    "id": "C",
+                    "content": "90,9A"
+                },
+                {
+                    "id": "D",
+                    "content": "9090A"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. 909A"
+        },
+        {
+            "id": 11,
+            "question": "Chiến dịch Giờ Trái đất bắt đầu được khởi xướng bởi Tổ chức nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "WWF"
+                },
+                {
+                    "id": "B",
+                    "content": "UNICEF"
+                },
+                {
+                    "id": "C",
+                    "content": "FED"
+                },
+                {
+                    "id": "D",
+                    "content": "UNESCO"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. WWF"
+        },
+        {
+            "id": 12,
+            "question": "Theo Luật Điện lực số 61/2024/QH15, dr án điện gió ngoài khơi là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dự án điện gió ngoài khơi có toàn bộ tua bin được xây dựng ngoài vùng biển 07 hải lý tính từ đường mép nước biển thấp nhất trung bình trong nhiều năm của đất liền về phía biển."
+                },
+                {
+                    "id": "B",
+                    "content": "Dự án điện gió ngoài khơi có toàn bộ tua bin được xây dựng ngoài vùng biển 08 hải lý tính từ đường mép nước biển thấp nhất trung bình trong nhiều năm của đất liền về phía biển."
+                },
+                {
+                    "id": "C",
+                    "content": "Dự ản điện gió ngoài khơi có toàn bộ tua bin được xây dựng ngoài vùng biển 05 hải lý tính từ đường mép nước biển thấp nhất trung bình trong nhiều năm của đất liền về phía biển."
+                },
+                {
+                    "id": "D",
+                    "content": "Dự án điện gió ngoài khơi có toàn bộ tua bin được xây dựng ngoài vùng biển 06 hải lý tính từ đường mép nước biển thấp nhất trung bình trong nhiều năm của đất liền về phía biển."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Dự án điện gió ngoài khơi có toàn bộ tua bin được xây dựng ngoài vùng biển 06 hải lý tính từ đường mép nước biển thấp nhất trung bình trong nhiều năm của đất liền về phía biển."
+        },
+        {
+            "id": 13,
+            "question": "Trong gia đình, những thiết bị nào sau đây tiêu thụ nhiều điện năng nhất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Điều hòa không khí, tủ lạnh, máy giặt, tivi"
+                },
+                {
+                    "id": "B",
+                    "content": "Ấm đun nước, máy sấy tóc, tủ lạnh, đèn học"
+                },
+                {
+                    "id": "C",
+                    "content": "Máy giặt, máy sấy tóc, đèn ngủ, bàn là"
+                },
+                {
+                    "id": "D",
+                    "content": "Ấm đun nước, tivi, máy sấy tóc, máy hút bụi"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Điều hòa không khí, tủ lạnh, máy giặt, tivi"
+        },
+        {
+            "id": 14,
+            "question": "Sinh viên ngành Quản lý Công nghiệp và Năng lượng tại trường Đại học Điện lực sẽ được tham gia các khóa học kiến thức chuyên môn gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Vận hành kinh tể hệ thống điện, Thị trường điện, Dự báo nhu cầu điện năng, Tiết kiệm năng lượng, Kiểm toán năng lượng, Sử dụng năng lượng tiết kiệm và hiệu quả..."
+                },
+                {
+                    "id": "B",
+                    "content": "Vận hành kinh tế hệ thống điện, Thị trường điện, Quy hoạch phát triển hệ thống điện, Tiết kiệm năng lượng, Kiểm toán năng lượng, Sử dụng năng lượng tiết kiệm và hiệu quả..."
+                },
+                {
+                    "id": "C",
+                    "content": "Vận hành kinh tế hệ thống điện, Thị trường điện, Dự báo nhu cầu điện năng, Quy hoạch phát triển hệ thống điện, Tiết kiệm năng lượng, Kiểm toán năng lượng, Sử dụng năng lượng tiết kiệm và hiệu quả."
+                },
+                {
+                    "id": "D",
+                    "content": "Vận hành kinh tế hệ thống điện, Thị trường điện, Dự báo nhu cầu điện năng, Quy hoạch phát triển hệ thống điện, Tiết kiệm năng lượng, Sử dụng năng lượng tiết kiệm và hiệu quả..."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Vận hành kinh tế hệ thống điện, Thị trường điện, Dự báo nhu cầu điện năng, Quy hoạch phát triển hệ thống điện, Tiết kiệm năng lượng, Kiểm toán năng lượng, Sử dụng năng lượng tiết kiệm và hiệu quả."
+        },
+        {
+            "id": 15,
+            "question": "Ưu điểm của cân bằng năng lượng bằng biểu đồ Sankey?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không cần sử dụng phần mềm thiết lập, hình thức đẹp, thống tin chi tiết hơn so với bảng cân bằng năng lượng."
+                },
+                {
+                    "id": "B",
+                    "content": "Có hình thức đẹp và thông tin đầy đủ, chỉ tiết hơn so với bảng cân bằng năng lượng."
+                },
+                {
+                    "id": "C",
+                    "content": "Giúp người đọc dễ dàng nắm bắt được dòng chảy từ các nguồn, điểm đến và các bước trung gian trong quá trình dì chuyển."
+                },
+                {
+                    "id": "D",
+                    "content": "Thiết lập biểu đồ dễ, không cần sử dụng phần mềm."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Giúp người đọc dễ dàng nắm bắt được dòng chảy từ các nguồn, điểm đến và các bước trung gian trong quá trình dì chuyển."
+        },
+        {
+            "id": 16,
+            "question": "So sánh hiệu suất chuyển đổi năng lượng trong lò phản ứng nước áp lực (PWR) và lò phản ứng nước sôi (BWR) có cùng công suất điện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hiệu suất chuyển đổi năng lượng của PWR cao hon."
+                },
+                {
+                    "id": "B",
+                    "content": "Hiệu suất chuyển đổi năng lượng của PWR tượng đương BWR."
+                },
+                {
+                    "id": "C",
+                    "content": "Hiệu suất chuyển đổi năng lượng của PWR thấp hon."
+                },
+                {
+                    "id": "D",
+                    "content": "Không đủ cơ sở để so sánh."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Hiệu suất chuyển đổi năng lượng của PWR thấp hon."
+        },
+        {
+            "id": 17,
+            "question": "Hệ thống năng lượng điện của khu vực Bắc Bộ được cung cấp nguồn điện chủ yếu từ loại hình nhà máy điện nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thủy điện và nhiệt điện than."
+                },
+                {
+                    "id": "B",
+                    "content": "Thủy điện và nhiệt điện khí."
+                },
+                {
+                    "id": "C",
+                    "content": "Điện mặt trời và nhiệt điện than."
+                },
+                {
+                    "id": "D",
+                    "content": "Điện gió và nhiệt điện than."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Thủy điện và nhiệt điện than."
+        },
+        {
+            "id": 18,
+            "question": "Việc khai thác dầu khí thường gây tác động chính nào lên môi trường biển?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nước biển dâng"
+                },
+                {
+                    "id": "B",
+                    "content": "Axit hóa đại dương"
+                },
+                {
+                    "id": "C",
+                    "content": "Ô nhiễm do tràn dầu"
+                },
+                {
+                    "id": "D",
+                    "content": "Xói lở bờ biển"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Ô nhiễm do tràn dầu"
+        },
+        {
+            "id": 19,
+            "question": "Hành động nào sau đây làm lãng phí điện năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cả ba hành động trên."
+                },
+                {
+                    "id": "B",
+                    "content": "Tan học không tắt đèn, quạt trong phòng học."
+                },
+                {
+                    "id": "C",
+                    "content": "Khi đi xem ti vi tắt đèn ở bàn học tập."
+                },
+                {
+                    "id": "D",
+                    "content": "Bật đèn ở phòng tắm, phòng vệ sinh khi có nhu cầu."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Tan học không tắt đèn, quạt trong phòng học."
+        },
+        {
+            "id": 20,
+            "question": "Phát biều nào là không đúng về chính sách phát triển năng lượng của Việt Nam?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cơ cầu lại, đổi mới và nâng cao hiệu quả hoạt động của các doanh nghiệp nhà nước trong lĩnh vực năng lượng; không khuyển khích kinh tế tư nhân tham gia xã hội hoá phát triển năng lượng."
+                },
+                {
+                    "id": "B",
+                    "content": "Thực thỉ chính sách bảo vệ môi trường ngành năng lượng găn với mục tiêu giảm phát thải khí nhà kính, thúc đẩy kinh tế tuần hoàn và phát triển bền vũng."
+                },
+                {
+                    "id": "C",
+                    "content": "Đổi mới cơ chế, chính sách, phát triển thị trường năng lượng đồng bộ, liên thông, hiện đại và hiệu quả, phủ hợp với kinh tế thị trường định hướng xã hội chủ nghĩa."
+                },
+                {
+                    "id": "D",
+                    "content": "Tăng cường sự lãnh đạo của Đảng; nâng cao hiệu lực, hiệu quả quản lý của Nhà nước; phát huy quyền làm chủ của nhân dân và vai trò của Mặt trận Tổ quốc Việt Nam, các tổ chức chính trị - xã hội trong phát triển ngành năng lượng."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Cơ cầu lại, đổi mới và nâng cao hiệu quả hoạt động của các doanh nghiệp nhà nước trong lĩnh vực năng lượng; không khuyển khích kinh tế tư nhân tham gia xã hội hoá phát triển năng lượng."
+        },
+        {
+            "id": 21,
+            "question": "Thời gian khởi động của các nhà máy nhiệt điện than?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khoảng vài phút."
+                },
+                {
+                    "id": "B",
+                    "content": "Khoảng vài ngày."
+                },
+                {
+                    "id": "C",
+                    "content": "Khoảng vài giờ."
+                },
+                {
+                    "id": "D",
+                    "content": "Khoảng vài tuần."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Khoảng vài giờ."
+        },
+        {
+            "id": 22,
+            "question": "Theo Luật Điện lực số 61/2024/QH15, đối với lĩnh vực phát điện, truyền tải điện, phân phối điện, tổ chức được cấp giấy phép hoạt động điện lực phải đáp ứng điều kiện nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Có hạng mục công trình, công trình phát điện, truyền tải điện, phân phối điện phù hợp với quy hoạch phát triển điện lực, phương án phát triển mạng lưới cấp điện trong quy hoạch tỉnh, kế hoạch thực hiện quy hoạch phát triển điện lực, kế hoạch thực hiện quy hoạch tỉnh trong đó có nội dung về phương án phát triển mạng lưới cấp điện và các quyết định điều chỉnh (nếu có); được xây dựng, lắp đặt theo thiết kế được phê duyệt, đáp ứng điều kiện đưa hạng mục công trình, công trình vào khai thác, sử dụng."
+                },
+                {
+                    "id": "B",
+                    "content": "Có hạng mục công trình, công trình phát điện, truyền tải điện, phân phối điện phù hợp với quy hoạch phát triển điện lực, phương án phát triển mạng lưới cấp điện trong quy hoạch địa phương, kế hoạch thực hiện quy hoạch phát triển điện lực, kế hoạch thực hiện quy hoạch địa phương trong đó có nội dung về phương án phát triển mạng lưới cấp điện và các quyết định điều chinh (nếu có); được xây dựng, lắp đặt theo thiết kế được phê duyệt, đáp ứng điều kiện đưa hạng mục công trình, công trình vào khai thác, sử dụng."
+                },
+                {
+                    "id": "C",
+                    "content": "Có dự án, công trình phát điện, truyền tải điện, phân phối điện được xây dựng, lắp đặt tuân thủ quy định của pháp luật về biển, pháp luật về đất đai, pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ, pháp luật về bảo vệ môi trường."
+                },
+                {
+                    "id": "D",
+                    "content": "Có dự án, công trình phát điện, truyền tải điện, phân phối điện được xây dựng, lắp đặt tuân thủ quy định của pháp luật về đất đai, pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ, pháp luật về bảo vệ môi trường và quy định khác của pháp luật có liên quan."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Có hạng mục công trình, công trình phát điện, truyền tải điện, phân phối điện phù hợp với quy hoạch phát triển điện lực, phương án phát triển mạng lưới cấp điện trong quy hoạch tỉnh, kế hoạch thực hiện quy hoạch phát triển điện lực, kế hoạch thực hiện quy hoạch tỉnh trong đó có nội dung về phương án phát triển mạng lưới cấp điện và các quyết định điều chỉnh (nếu có); được xây dựng, lắp đặt theo thiết kế được phê duyệt, đáp ứng điều kiện đưa hạng mục công trình, công trình vào khai thác, sử dụng."
+        },
+        {
+            "id": 23,
+            "question": "Các dạng năng lượng thuộc nhóm động năng là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhiệt năng, năng lượng sóng âm, năng lượng chuyển động, năng lượng bức xạ, năng lượng điện."
+                },
+                {
+                    "id": "B",
+                    "content": "Cơ năng, nhiệt năng, hóa năng, năng lượng chuyển động, năng lượng hấp dẫn, năng lượng điện."
+                },
+                {
+                    "id": "C",
+                    "content": "Nhiệt năng, hóa năng, năng lượng chuyển động, năng lượng bức xạ, năng lượng hấp dẫn, năng lượng điện."
+                },
+                {
+                    "id": "D",
+                    "content": "Nhiệt năng, hóa năng, năng lượng chuyển động, thế năng, năng lượng hấp dẫn, năng lượng điện."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Nhiệt năng, năng lượng sóng âm, năng lượng chuyển động, năng lượng bức xạ, năng lượng điện."
+        },
+        {
+            "id": 24,
+            "question": "Hệ thống sản xuất năng lượng n o gây ô nhiễm môi trường không khi lớn nhất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhiệt điện"
+                },
+                {
+                    "id": "B",
+                    "content": "Thủy điện"
+                },
+                {
+                    "id": "C",
+                    "content": "Điện mặt trời"
+                },
+                {
+                    "id": "D",
+                    "content": "Điện giỏ"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Nhiệt điện"
+        },
+        {
+            "id": 25,
+            "question": "Đặc điểm của nhà máy nhiệt điện tuabin khí:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thời gian xây dựng nhanh hơn NĐ than/thủy điện; khởi động nhanh, làm việc chỉ với phần phụ tải đinh của đồ thị phụ tải điện; chỉ phí nhiên liệu đắt, cũng có vấn đề với khí thải."
+                },
+                {
+                    "id": "B",
+                    "content": "Thời gian xây dựng nhanh hơn NĐ than/thủy điện; khởi động nhanh, làm việc với mọi loại đồ thị phụ tải điện khác nhau; chỉ phí nhiên liệu đắt, không có vấn đề với khí thải."
+                },
+                {
+                    "id": "C",
+                    "content": "Thời gian xây dựng nhanh hơn NĐ than/thủy điện; khởi động nhanh, làm việc với mọi loại đồ thị phụ tải điện khác nhau; chỉ phí nhiên liệu đắt, cũng có vấn đề với khí thải."
+                },
+                {
+                    "id": "D",
+                    "content": "Thời gian xây dựng chậm hơn NĐ than/thủy điện; khởi động nhanh, làm việc với mọi loại đồ thị phụ tải điện khác nhau; chỉ phí nhiên liệu đắt, cũng có vấn đề với khí thải."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Thời gian xây dựng nhanh hơn NĐ than/thủy điện; khởi động nhanh, làm việc chỉ với phần phụ tải đinh của đồ thị phụ tải điện; chỉ phí nhiên liệu đắt, cũng có vấn đề với khí thải."
+        },
+        {
+            "id": 26,
+            "question": "Các đặc tính của công nghệ thủy điện tích năng bao gồm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thường tận dụng địa hình đặc biệt (có hồ thương lưu và hạ lưu có sẵn)"
+                },
+                {
+                    "id": "B",
+                    "content": "Công suất lớn so với các công nghệ lưu trữ điện năng khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Dùng nước hồ chứa để phát điện"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 đáp án trên đều đúng"
+        },
+        {
+            "id": 27,
+            "question": "Nguồn nhiên liệu hóa thạch là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "là loại nhiên liệu chứa hàm lượng cao hydrocarbon và nito, được hình thành trong quá trình phân hủy kỵ khí của xác sinh vật được chôn vùi dưới lớp vỏ Trái Đất trong hàng triệu năm, không tái tạo."
+                },
+                {
+                    "id": "B",
+                    "content": "là hỗn hợp hợp chất được tạo thành từ tàn tích động, thực vật hóa thạch từ hàng triệu năm trước, tái tạo được."
+                },
+                {
+                    "id": "C",
+                    "content": "là loại nhiên liệu chứa hàm lượng cao hydrocarbon và carbon, được hình thành trong quá trình phân hủy kỵ khí của xác sinh vật được chôn vùi dưới lớp vỏ Trái Đất trong hàng triệu năm, tái tạo được."
+                },
+                {
+                    "id": "D",
+                    "content": "là hỗn hợp hợp chất được tạo thành từ tàn tích động, thực vật hóa thạch từ hàng triệu năm trước, không tái tạo."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. là hỗn hợp hợp chất được tạo thành từ tàn tích động, thực vật hóa thạch từ hàng triệu năm trước, không tái tạo."
+        },
+        {
+            "id": 28,
+            "question": "Thông thường, ắc quy nào có mật độ dòng điện lớn nhất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ắc quy Ni-Cd"
+                },
+                {
+                    "id": "B",
+                    "content": "Ắc quy Na-S"
+                },
+                {
+                    "id": "C",
+                    "content": "Ắc quy Li-ion"
+                },
+                {
+                    "id": "D",
+                    "content": "Ắc quy chì - axit"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Ắc quy Li-ion"
+        },
+        {
+            "id": 29,
+            "question": "Yếu tố trọng tâm để quá trình chuyển dịch năng lượng diễn ra thành công là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Mở cửa thị trường"
+                },
+                {
+                    "id": "B",
+                    "content": "Kinh tế cạnh tranh"
+                },
+                {
+                    "id": "C",
+                    "content": "Công nghệ"
+                },
+                {
+                    "id": "D",
+                    "content": "Chính sách hỗ trợ"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Công nghệ"
+        },
+        {
+            "id": 30,
+            "question": "Phát biểu nào là không đúng về một số dạng năng lượng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng lượng hóa học là dạng năng lượng được lưu trữ trong các mạng liên kết của các phân tử và nguyên tử."
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lượng gió là động năng của không khí khi dòng không khí di chuyển từ nơi có áp suất cao hơn đến nơi có áp suất thấp hơn. Năng lượng gió có nguồn gốc gián tiếp từ năng lượng mặt trời."
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lượng hạt nhân là dạng năng lượng được lưu trữ trong các hạt nhân của nguyên từ, đây chính là năng lượng để giữ các hạt nhân liên kết với nhau trong nguyên tử."
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lượng hấp dẫn là dạng năng lượng được lưu trữ theo độ cao của vật thể, các đối tượng được đặt ở vị trí cao hơn thì sẽ có ít năng lượng hấp dẫn hơn."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Năng lượng hấp dẫn là dạng năng lượng được lưu trữ theo độ cao của vật thể, các đối tượng được đặt ở vị trí cao hơn thì sẽ có ít năng lượng hấp dẫn hơn."
+        },
+        {
+            "id": 31,
+            "question": "Cho đến đầu năm 2025, tại Việt Nam, các tuabin điện gió trục ngang đang sử dụng phổ biến nhất loại máy phát điện (MPĐ) nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "MPĐ đồng bộ, tốc độ điều chỉnh một nửa sử dụng động cơ dây quấn (WRIG)."
+                },
+                {
+                    "id": "B",
+                    "content": "MPĐ không đồng bộ, sử dụng rotor lồng sóc (SCIG)."
+                },
+                {
+                    "id": "C",
+                    "content": "MPĐ không đồng bộ, nguồn kép (DFIG)."
+                },
+                {
+                    "id": "D",
+                    "content": "MPĐ đồng bộ biến đổi hoàn toàn (FCWT)."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. MPĐ không đồng bộ, nguồn kép (DFIG)."
+        },
+        {
+            "id": 32,
+            "question": "Cơ chế quốc tế về biến đổi khí hậu được thông qua tại COP21 là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nghị định thư Kyoto"
+                },
+                {
+                    "id": "B",
+                    "content": "Hiệp ước khí hậu Glasgow"
+                },
+                {
+                    "id": "C",
+                    "content": "Hiệp ước Montreal"
+                },
+                {
+                    "id": "D",
+                    "content": "Thỏa thuận Paris"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Thỏa thuận Paris"
+        },
+        {
+            "id": 33,
+            "question": "Theo Luật Điện lực số 61/2024/QH15, dự án điện gió gần bờ là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dự án điện gió gần bờ có toàn bộ tua bin được xây dựng trong vùng biển 06 hải lý tính từ đường mép nước biển thấp nhất trung bình trong nhiều năm của đất liền về phía biển."
+                },
+                {
+                    "id": "B",
+                    "content": "Dự án điện gió gần bờ có toàn bộ tua bin được xây dựng trong vùng biển 05 hải lý tính từ đường mép nước biển thấp nhất trung bình trong nhiều năm của đất liền về phía biển."
+                },
+                {
+                    "id": "C",
+                    "content": "Dự án điện gió gần bờ có toàn bộ tua bin được xây dựng trong vùng biển 07 hải lý tính từ đường mép nước biển thấp nhất trung bình trong nhiều năm của đất liền về phía biển."
+                },
+                {
+                    "id": "D",
+                    "content": "Dự án điện gió gần bờ có toàn bộ tua bin được xây dựng trong vùng biển 04 hải lý tính từ đường mép nước biển thấp nhất trung bình trong nhiều năm của đất liền về phía biển."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Dự án điện gió gần bờ có toàn bộ tua bin được xây dựng trong vùng biển 06 hải lý tính từ đường mép nước biển thấp nhất trung bình trong nhiều năm của đất liền về phía biển."
+        },
+        {
+            "id": 34,
+            "question": "Các nhà máy điện gió gây tác động tiêu cực nào tới môi trường?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cả 3 đáp án trên"
+                },
+                {
+                    "id": "B",
+                    "content": "Chiếm diện tích đất"
+                },
+                {
+                    "id": "C",
+                    "content": "Ảnh hưởng tới sinh thái biển"
+                },
+                {
+                    "id": "D",
+                    "content": "Tác động tới các loài chim"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Cả 3 đáp án trên"
+        },
+        {
+            "id": 35,
+            "question": "Phát biểu nào không đúng về công nghệ dự báo?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Công nghệ dự báo được dùng để dự báo trước các nguy cơ về bão (đối với điện gió) hay mây che, mưa dài ngày (đối với điện mặt trời) và các nguy cơ tắc nghẽn hệ thống để có thể đưa ra kịp thời các biện pháp dự phòng/cắt giảm."
+                },
+                {
+                    "id": "B",
+                    "content": "Mô hình dự báo và dữ liệu đầu vào là 2 yếu tố quan trọng hàng đầu quyết định đến tỉnh chính xác của kết quả dự báo, ngoài ra có thể sử dụng thêm dữ liệu thời tiết với các trọng số ảnh hưởng phù hợp."
+                },
+                {
+                    "id": "C",
+                    "content": "Các mô hình dự báo phục vụ cho công tác lên kể hoạch điều độ, han chế tối đa việc cắt giảm công suất và góp phần các điểm tắc nghẽn cục bộ trên lưới."
+                },
+                {
+                    "id": "D",
+                    "content": "Các mô hình xác định dự báo có thể phân chia thành ngắn hạn, trung hạn, dài hạn và vĩnh viễn."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Các mô hình xác định dự báo có thể phân chia thành ngắn hạn, trung hạn, dài hạn và vĩnh viễn."
+        },
+        {
+            "id": 36,
+            "question": "Theo Quy hoạch điện VIII, sẽ có sự chuyển dịch năng lượng, giảm quy mô điện than, tăng điện khí và các nguồn năng lượng tái tạo với mục tiêu chính là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nguồn cung than đá trên thế giới đã cạn kiệt"
+                },
+                {
+                    "id": "B",
+                    "content": "Giảm phát thải khí nhà kính"
+                },
+                {
+                    "id": "C",
+                    "content": "Cà 3 đáp án trên đều sai"
+                },
+                {
+                    "id": "D",
+                    "content": "Sản xuất được nhiều điện hơn"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Giảm phát thải khí nhà kính"
+        },
+        {
+            "id": 37,
+            "question": "Phát biểu nào đúng nhất về nguyên lý hoạt động của nhà máy điện thủy triều?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khi dòng thủy triều đập vào cánh quạt tuabin, thế năng của dòng thủy triểu sẽ chuyển thành động năng quay của tuabin. Hệ cơ khí sẽ chuyển cơ năng quay của tuabin thành cơ năng quay của máy phát điện và sau đó chuyển thành điện năng."
+                },
+                {
+                    "id": "B",
+                    "content": "Khi dòng thủy triều đập vào cánh quạt tuabin, động năng của dòng thủy triều sẽ chuyển thành động năng quay của máy phát điện và sau đó chuyển thành điện năng."
+                },
+                {
+                    "id": "C",
+                    "content": "Khi dòng thủy triều đập vào cánh quạt tuabin, thế năng của dòng thùy triều sẽ chuyển thành động năng quay của máy phát điện và sau đó chuyển thành điện năng."
+                },
+                {
+                    "id": "D",
+                    "content": "Khi dòng thủy triểu đập vào cánh quạt tuabin, động năng của dòng thủy triều sẽ chuyển thành động năng quay của tuabin. Hệ cơ khí sẽ chuyển cơ năng quay của tuabin thẳnh cơ năng quay của máy phát điện và sau đó chuyển thành điện năng."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Khi dòng thủy triểu đập vào cánh quạt tuabin, động năng của dòng thủy triều sẽ chuyển thành động năng quay của tuabin. Hệ cơ khí sẽ chuyển cơ năng quay của tuabin thẳnh cơ năng quay của máy phát điện và sau đó chuyển thành điện năng."
+        },
+        {
+            "id": 38,
+            "question": "Lưới điện 500 kV của Việt Nam kéo dài?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Từ Bắc vào Nam Trung Bộ"
+                },
+                {
+                    "id": "B",
+                    "content": "Từ Bắc vào Nam"
+                },
+                {
+                    "id": "C",
+                    "content": "Từ Lào Cai vào Huế"
+                },
+                {
+                    "id": "D",
+                    "content": "Làm tăng lượng SO2 trong khí quyển"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Từ Bắc vào Nam"
+        },
+        {
+            "id": 39,
+            "question": "Dạng năng lượng nào sau đây thuộc thế năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng lượng ánh sáng"
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lượng nhiệt"
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lượng hóa học"
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lượng dòng chảy"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Năng lượng hóa học"
+        },
+        {
+            "id": 40,
+            "question": "Chọn trình tự đúng quy trình công nghệ nhà máy nhiệt điện tuabin khí:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khí đốt được nén và đưa vào buổng đốt => khí đốt co hẹp biển đổi nhiệt năng thành cơ năng cho động cơ gồm ba bộ phận chính là khối máy nén khí dạng rotor, buổng đốt đẳng áp loại hở và khối tua bin khí rotor => Tua bin khí kéo máy phát điện => phát ra điện."
+                },
+                {
+                    "id": "B",
+                    "content": "Từ buồng đốt đẩy ra khí đốt => khí đốt giãn nở biến đổi nhiệt năng thành cơ năng cho động cơ gồm ba bộ phận chính là khối máy nén khí dạng rotor, buồng đốt đẳng áp loại hở và khối tua bin khí rotor => Tua bin khí kéo MPĐ => phát ra điện."
+                },
+                {
+                    "id": "C",
+                    "content": "Khí đốt được nén và đưa vào buồng đốt => khí đốt giãn nở biến đổi nhiệt năng thành cơ năng cho động cơ gồm ba bộ phận chính là khối máy nén khí dạng rotor, buồng đốt đẳng áp loại hở và khối tua bin khí rotor => Tua bin khí kéo MPĐ => phát ra điện."
+                },
+                {
+                    "id": "D",
+                    "content": "Khí đốt được nén và đưa vào buồng đốt => khí đốt giãn nở biến đổi nhiệt năng thành cơ năng cho động cơ gồm ba bộ phận chính là khối máy nén khí dạng rotor, buồng đốt đẳng áp loại hở và khối tua bin khí rotor => máy phát điện kéo Tua bin khí => phát ra điện."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Khí đốt được nén và đưa vào buồng đốt => khí đốt giãn nở biến đổi nhiệt năng thành cơ năng cho động cơ gồm ba bộ phận chính là khối máy nén khí dạng rotor, buồng đốt đẳng áp loại hở và khối tua bin khí rotor => Tua bin khí kéo MPĐ => phát ra điện."
+        },
+        {
+            "id": 41,
+            "question": "Chất thải nào của các nhà máy điện mặt trời có thể tái chế được?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khung nhôm"
+                },
+                {
+                    "id": "B",
+                    "content": "Cả 3 đáp án trên"
+                },
+                {
+                    "id": "C",
+                    "content": "Thủy tỉnh"
+                },
+                {
+                    "id": "D",
+                    "content": "Kim loại nặng"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Cả 3 đáp án trên"
+        },
+        {
+            "id": 42,
+            "question": "Theo Quyết định số 2093/QĐ-BCT ngày 07 tháng 8 năm 2020 về Đề án Thiết kế mô hình thị trường bán lẻ điện cạnh tranh Việt Nam, có bao nhiêu phân khúc cho mô hình bán lè điện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3"
+                },
+                {
+                    "id": "B",
+                    "content": "4"
+                },
+                {
+                    "id": "C",
+                    "content": "1"
+                },
+                {
+                    "id": "D",
+                    "content": "2"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 2"
+        },
+        {
+            "id": 43,
+            "question": "Phát biểu nào là không đúng liên quan đến các dạng năng lượng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng lượng hấp dẫn là dạng năng lượng được lưu trữ theo độ cao của vật thể, các đối tượng được đặt ở vị trí cao hơn thì sẽ càng có nhiều năng lượng hấp dẫn hơn."
+                },
+                {
+                    "id": "B",
+                    "content": "Nguồn năng lượng sinh khổi là các nguốn năng lượng sinh ra từ xác động vật, thực vật và các nguồn rác thải từ lâm nghiệp, nông nghiệp và sinh hoạt của con người."
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lượng chuyển động là dạng năng lượng được sinh ra trong quá trình chuyển động của vật thế, vật thể chuyển động càng nhanh thì càng có ít năng lượng hơn."
+                },
+                {
+                    "id": "D",
+                    "content": "Động năng là dạng năng lượng trong trạng thải chuyển động của các vật thế, phân tử, nguyên tử, điện tử hoặc của các sóng."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Năng lượng chuyển động là dạng năng lượng được sinh ra trong quá trình chuyển động của vật thế, vật thể chuyển động càng nhanh thì càng có ít năng lượng hơn."
+        },
+        {
+            "id": 44,
+            "question": "Ngành nào ở Việt Nam chịu tác động mạnh nhất từ biến đổi khí hậu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nông nghiệp"
+                },
+                {
+                    "id": "B",
+                    "content": "Bưu chính - viễn thông"
+                },
+                {
+                    "id": "C",
+                    "content": "Dịch vụ tài chính"
+                },
+                {
+                    "id": "D",
+                    "content": "Công nghiệp nặng"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Nông nghiệp"
+        },
+        {
+            "id": 45,
+            "question": "Chương trình quốc gia về sử dụng năng lượng tiết kiệm và hiệu quả giai đoạn 2019 - 2030 được Chính phủ phê duyệt vào năm nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2017"
+                },
+                {
+                    "id": "B",
+                    "content": "2020"
+                },
+                {
+                    "id": "C",
+                    "content": "2018"
+                },
+                {
+                    "id": "D",
+                    "content": "2019"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 2019"
+        },
+        {
+            "id": 46,
+            "question": "Sau năm 1973, trên thế giới đã có những thay đổi gì trong hành vi sử dụng năng lượng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "các giải pháp sử dụng năng lượng tiết kiệm và hiệu quả đã được triển khai rộng khắp."
+                },
+                {
+                    "id": "B",
+                    "content": "phát triển những ngành tiêu tốn nhiều năng lượng như luyện kim, hóa chất, sản xuất vật liệu xây dựng."
+                },
+                {
+                    "id": "C",
+                    "content": "hạn chế những ngành nghề, lĩnh vực sử dụng ít năng lượng."
+                },
+                {
+                    "id": "D",
+                    "content": "ưa thích sử dụng năng lượng xanh trong công nghiệp và giao thông vận tải."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. các giải pháp sử dụng năng lượng tiết kiệm và hiệu quả đã được triển khai rộng khắp."
+        },
+        {
+            "id": 47,
+            "question": "Các khái niệm gắn liền với sự ra đời của phương pháp phân tích kinh tế - kỹ thuật các hệ thống tiêu thụ năng lượng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhu cầu kinh tế - xã hội, Năng lượng hữu ích, Năng lượng cuối cùng, Giao thông vận tải,..."
+                },
+                {
+                    "id": "B",
+                    "content": "Nhu cầu kinh tế - xã hội, Năng lượng hữu ích, Năng lượng cuối cùng, Mô đun năng lượng,..."
+                },
+                {
+                    "id": "C",
+                    "content": "Nhu cầu kinh tế - xã hội, Năng lượng hữu ích, Năng lượng cuối cùng, Công nghiệp,..."
+                },
+                {
+                    "id": "D",
+                    "content": "Nhu cầu kinh tế - xã hội, Năng lượng hữu ích, Năng lượng cuối cùng, Thương mại,..."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Nhu cầu kinh tế - xã hội, Năng lượng hữu ích, Năng lượng cuối cùng, Mô đun năng lượng,..."
+        },
+        {
+            "id": 48,
+            "question": "Trong các gia đình có sử dụng máy hút bụi, trung bình mỗi tháng máy hút bụi tiêu tốn khoảng 5,5% điện năng tiêu thụ. Vậy, làm cách nào để tiết kiệm điện năng cho thiết bị này?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Kiểm tra túi lọc và các vị trí khớp nổi giữa các đoạn ống hút, đầu hút để đảm bảo chúng được lắp khít và không có các mảnh rác lớn cản trở luồng khí."
+                },
+                {
+                    "id": "B",
+                    "content": "Tận dụng máy hút bụi để hút các rác thải nặng, có kích thước lớn như: đá, sỏi, kể cả chất lỏng hay bùn."
+                },
+                {
+                    "id": "C",
+                    "content": "Đổi với loại bụi/rác nào cũng bật chế độ hút lớn để rút ngắn thời gian hoạt động."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên đều đúng."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Kiểm tra túi lọc và các vị trí khớp nổi giữa các đoạn ống hút, đầu hút để đảm bảo chúng được lắp khít và không có các mảnh rác lớn cản trở luồng khí."
+        },
+        {
+            "id": 49,
+            "question": "Thời gian khởi động của các nhà máy điện hạt nhân?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khoảng vài ngày."
+                },
+                {
+                    "id": "B",
+                    "content": "Khoảng vài giờ."
+                },
+                {
+                    "id": "C",
+                    "content": "Khoảng vài tuần."
+                },
+                {
+                    "id": "D",
+                    "content": "Khoảng vài phút."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Khoảng vài ngày."
+        },
+        {
+            "id": 50,
+            "question": "Chỉ số để đánh giá hiệu quả sử dụng điện đối với mỗi quốc gia là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sổ điện tiêu thụ trên tổng thu nhập quốc dân."
+                },
+                {
+                    "id": "B",
+                    "content": "Số điện tiêu thụ tạo ra 1000$ đóng góp tổng thu nhập quốc dân."
+                },
+                {
+                    "id": "C",
+                    "content": "Số điện tiêu thụ trên đầu người."
+                },
+                {
+                    "id": "D",
+                    "content": "Lượng điện tiêu thụ của mỗi quốc gia"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Số điện tiêu thụ tạo ra 1000$ đóng góp tổng thu nhập quốc dân."
+        }
+    ]
+}

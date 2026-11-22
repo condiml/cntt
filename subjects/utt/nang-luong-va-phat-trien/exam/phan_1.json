@@ -1,0 +1,1207 @@
+{
+    "title": "PHẦN 1: CÂU 1 - CÂU 50",
+    "chapter": 1,
+    "total_questions": 50,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Năng lượng của một vật chất được định nghĩa là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Động năng của một vật chất khi đứng im."
+                },
+                {
+                    "id": "B",
+                    "content": "Thế năng của một vật chất khi chuyển động."
+                },
+                {
+                    "id": "C",
+                    "content": "Cơ năng của một vật chất khi chuyển động."
+                },
+                {
+                    "id": "D",
+                    "content": "Khả năng để thực hiện một hành động hoặc công việc nói chung."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Khả năng để thực hiện một hành động hoặc công việc nói chung."
+        },
+        {
+            "id": 2,
+            "question": "Phát biểu nào là đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng lượng là một đại lượng cố định, không thay đổi của một vật chất"
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lượng là một đại lượng không cố định, luôn thay đổi của một vật chất"
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lượng là động năng của một vật chất khí đứng im"
+                },
+                {
+                    "id": "D",
+                    "content": "Thế năng của một vật chất khi chuyển động"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Năng lượng là một đại lượng không cố định, luôn thay đổi của một vật chất"
+        },
+        {
+            "id": 3,
+            "question": "Các dạng năng lượng thông dụng được con người sử dụng là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cơ năng, nhiệt năng, hóa năng, năng lượng chuyển động, năng lương hấp dẫn, năng lượng diễn"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhiệt năng, hóa năng, năng lượng chuyển động, thế năng, năng lượng hấp dẫn, năng lượng điện"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhiệt năng, hóa năng, năng lượng chuyển động, năng lượng bức xạ, năng lượng hấp dẫn, năng lượng điện."
+                },
+                {
+                    "id": "D",
+                    "content": "Cơ năng, nhiệt năng, hóa năng, động năng, năng lượng hấp dẫn, năng lượng điện"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Nhiệt năng, hóa năng, năng lượng chuyển động, năng lượng bức xạ, năng lượng hấp dẫn, năng lượng điện."
+        },
+        {
+            "id": 4,
+            "question": "Động năng của một vật chất được định nghĩa là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng lượng của một vật chất khi đứng im hoặc khi chuyển động."
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lượng trong trạng thái chuyển động của các vật thể, phân tử, nguyên tử, điện tử hoặc của các sóng."
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lượng trong trạng thái đứng im hoặc chuyển động của các vật thể, phân tử, nguyên tử, điện tử hoặc của các sóng."
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lượng trong trạng thái đứng im của các vật thể, phân tử, nguyên tử, điện tử hoặc của các sóng."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Năng lượng trong trạng thái chuyển động của các vật thể, phân tử, nguyên tử, điện tử hoặc của các sóng."
+        },
+        {
+            "id": 5,
+            "question": "Các dạng năng lượng thuộc nhóm động năng là?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cơ năng, nhiệt năng, hóa năng, năng lượng chuyển động, năng lượng hấp dẫn, năng lượng diện."
+                },
+                {
+                    "id": "B",
+                    "content": "Nhiệt năng, hóa năng, năng lượng chuyển động, thế năng, năng lượng hấp dẫn, năng lượng điện."
+                },
+                {
+                    "id": "C",
+                    "content": "Nhiệt năng, hóa năng, năng lượng chuyển động, năng lượng bức xạ, năng lương hấp dẫn, năng lượng điện."
+                },
+                {
+                    "id": "D",
+                    "content": "Nhiệt năng, năng lượng sóng âm, năng lượng chuyển động, năng lượng bức xạ, năng lượng điện"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Nhiệt năng, năng lượng sóng âm, năng lượng chuyển động, năng lượng bức xạ, năng lượng điện"
+        },
+        {
+            "id": 6,
+            "question": "Thế năng của một vật chất được định nghĩa là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng lượng của một vật chất khi đứng im hoặc khi chuyển động."
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lượng trong trạng thái đứng im hoặc chuyển động của các vật thể, phân từ, nguyên tử, điện từ hoặc của các sóng."
+                },
+                {
+                    "id": "C",
+                    "content": "Thế năng là dạng năng lượng trong trạng thái được lưu trữ hoặc năng lượng có thể được sinh ra do sự chênh lệch về vị trí."
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lượng trong trạng thái chuyển động của các vật thể, phân tử, nguyên điện từ hoặc của sóng"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Thế năng là dạng năng lượng trong trạng thái được lưu trữ hoặc năng lượng có thể được sinh ra do sự chênh lệch về vị trí."
+        },
+        {
+            "id": 7,
+            "question": "Các dạng năng lượng thuộc nhóm thế năng là",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cơ năng, năng lượng hạt nhân, hóa năng, năng lượng hấp dẫn."
+                },
+                {
+                    "id": "B",
+                    "content": "Nhiệt năng, hóa năng, năng lượng chuyển động, năng lượng hấp dẫn, năng lượng điện"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhiệt năng, hóa năng, năng lượng chuyển động,năng lượng bức xạ, năng lượng hấp dẫn."
+                },
+                {
+                    "id": "D",
+                    "content": "Nhiệt năng, năng lượng sóng âm, năng lượng chuyển động, năng lượng bức xạ"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Cơ năng, năng lượng hạt nhân, hóa năng, năng lượng hấp dẫn."
+        },
+        {
+            "id": 8,
+            "question": "Phát biểu nào là không đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng lượng mặt trời là năng lượng của các bức xạ được sinh ra từ mặt trời, chẳng hạn như bức xạ cực tím, bức xạ nhìn thấy và bức xạ hồng ngoại."
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lượng hóa học là dạng năng lượng được lưu trữ trong các mạng liên kết của các hạt nhân và nguyên tử."
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lượng hạt nhân là dạng năng lượng được lưu trữ trong các hạt nhân của nguyên tử, đây chính là năng lượng để giữ các hạt nhân liên kết với nhau trong nguyên tử"
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lượng hấp dẫn là dạng năng lượng được lưu trữ theo độ cao của vật thể, các đối tượng được đặt ở vị trí cao hơn thì sẽ càng có nhiều năng lượng hấp dẫn hơn."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Năng lượng hóa học là dạng năng lượng được lưu trữ trong các mạng liên kết của các hạt nhân và nguyên tử."
+        },
+        {
+            "id": 9,
+            "question": "Phát biểu nào là không đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng lượng gió là động năng của không khí khi dòng không khí di chuyển từ nơi có áp suất cao hơn đến nơi có áp suất thấp hơn. Năng lượng gió có nguồn gốc gián tiếp từ năng lượng mặt trời."
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lượng hóa học là dạng năng lượng được lưu trữ trong các mạng liên kết của các phân tử và nguyên tử."
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lượng hạt nhân là dạng năng lượng được lưu trữ trong các hạt nhân của nguyên tử, đây chính là năng lượng để giữ các hạt nhân liên kết với nhau trong nguyên tử."
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lượng hấp dẫn là dạng năng lượng được lưu trữ theo độ cao của vật thể, các đối tượng được đặt ở vị trí cao hơn thì sẽ có ít năng lượng hấp dẫn hơn."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Năng lượng hấp dẫn là dạng năng lượng được lưu trữ theo độ cao của vật thể, các đối tượng được đặt ở vị trí cao hơn thì sẽ có ít năng lượng hấp dẫn hơn."
+        },
+        {
+            "id": 10,
+            "question": "Phát biểu nào là không đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nguồn năng lượng sinh khối là các nguồn năng lượng sinh ra từ xác động vật, thực vật và các nguồn rác thải từ lâm nghiệp, nông nghiệp và sinh hoạt của con người."
+                },
+                {
+                    "id": "B",
+                    "content": "Động năng là dạng năng lượng trong trạng thái chuyển động của các vật thể, phân tử, nguyên tử, điện tử hoặc của các sóng."
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lượng chuyển động là dạng năng lượng được sinh ra trong quá trình chuyển động của vật thể, vật thể chuyển động càng nhanh thì càng có ít năng lượng hơn."
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lượng hấp dẫn là dạng năng lượng được lưu trữ theo độ cao của vật thể, các đối tượng được đặt ở vị trí cao hơn thì sẽ càng có nhiều năng lượng hấp dẫn hơn."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Năng lượng chuyển động là dạng năng lượng được sinh ra trong quá trình chuyển động của vật thể, vật thể chuyển động càng nhanh thì càng có ít năng lượng hơn."
+        },
+        {
+            "id": 11,
+            "question": "Phát biểu nào là không đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thế năng là dạng năng lượng trong trạng thái được lưu trữ hoặc năng lượng có thể được sinh ra do sự chênh lệch về vị trí."
+                },
+                {
+                    "id": "B",
+                    "content": "Động năng là dạng năng lượng trong trạng thái được lưu trữ của các vật thể, phân tử, nguyên tử, điện tử hoặc của các sóng."
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lượng chuyển động là dạng năng lượng được sinh ra trong quá trình chuyển động của vật thể, vật thể chuyển động càng nhanh thì càng có ít năng lượng hơn."
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lượng không tự nhiên được sinh ra, cũng không tự nhiên bị mất đi, mà năng lương chỉ chuyển hóa từ dạng này sang dạng khác."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Năng lượng chuyển động là dạng năng lượng được sinh ra trong quá trình chuyển động của vật thể, vật thể chuyển động càng nhanh thì càng có ít năng lượng hơn."
+        },
+        {
+            "id": 12,
+            "question": "Phát biểu nào là không đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nguồn năng lượng hay còn gọi là nguồn nhiên liệu có thể được chia làm hai nhóm là nhóm nguồn năng lượng tái tạo và nhóm nguồn năng lượng không thể tái tạo."
+                },
+                {
+                    "id": "B",
+                    "content": "Nguồn năng lượng tái tạo là các nguồn có thể được bổ sung lại một cách dễ dàng sau khi sử dụng."
+                },
+                {
+                    "id": "C",
+                    "content": "Nguồn năng lượng không thể tái tạo là nguồn không thể bổ sung lại sau khi đã sử dụng chúng. Phần lớn các nguồn năng lượng đang tồn tại trên trái đất là nguồn năng lượng không tái tạo."
+                },
+                {
+                    "id": "D",
+                    "content": "Các nguồn năng lượng không tái tạo hay còn được gọi là nguồn năng lượng truyền thống có thể kể đến như: xăng dầu, năng lượng mặt trời, than đá và hạt nhân."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Các nguồn năng lượng không tái tạo hay còn được gọi là nguồn năng lượng truyền thống có thể kể đến như: xăng dầu, năng lượng mặt trời, than đá và hạt nhân."
+        },
+        {
+            "id": 13,
+            "question": "Phát biểu nào là không đúng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nguồn năng lượng sơ cấp là các nguồn nhiên liệu, năng lượng thu được trực tiếp từ tự nhiên để sử dụng ngay hoặc biến đổi thành các dạng năng lượng khác."
+                },
+                {
+                    "id": "B",
+                    "content": "Nguồn năng lượng sơ cấp là các nguồn nhiên liệu, năng lượng thu được gián tiếp thông qua các quá trình biến đổi từ các dạng nguồn năng lượng khác."
+                },
+                {
+                    "id": "C",
+                    "content": "Các nguồn năng lượng sơ cấp như thủy điện, năng lượng mặt trời, năng lượng gió, than đá, dầu mỏ."
+                },
+                {
+                    "id": "D",
+                    "content": "Nguồn năng lượng thứ cấp là các nguồn năng lượng thu được sau quá trình sản xuất, chế biến, biến đổi từ nguồn năng lượng sơ cấp."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Nguồn năng lượng sơ cấp là các nguồn nhiên liệu, năng lượng thu được gián tiếp thông qua các quá trình biến đổi từ các dạng nguồn năng lượng khác."
+        },
+        {
+            "id": 14,
+            "question": "Một trong những mục tiêu của Chỉ thị số 20/CT-TTg ngày 08/6/2023 về việc tăng cường tiết kiệm điện giai đoạn 2023 - 2025 và các năm tiếp theo là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đến hết năm 2025, phấn đấu 100% chiếu sáng đường phố được bật xuyên đêm"
+                },
+                {
+                    "id": "B",
+                    "content": "Đến hết năm 2025, phấn đấu 100% chiếu sáng đường phố sử dụng đèn LED."
+                },
+                {
+                    "id": "C",
+                    "content": "Đến hết năm 2025, phấn đấu 100% chiếu sáng đường phố chỉ hoạt động đến 20h hằng ngày"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án trên đều đúng"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Đến hết năm 2025, phấn đấu 100% chiếu sáng đường phố sử dụng đèn LED."
+        },
+        {
+            "id": 15,
+            "question": "Đâu là cách sử dụng bàn là gây lãng phí điện năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lau sạch bề mặt kim loại của bàn là trước khi sử dụng"
+                },
+                {
+                    "id": "B",
+                    "content": "Cài đặt nhiệt độ của bàn là thích hợp cho từng loại vải"
+                },
+                {
+                    "id": "C",
+                    "content": "Là quần áo khi còn đang ướt"
+                },
+                {
+                    "id": "D",
+                    "content": "Tập trung tất cả đồ cần là một lần và phân loại quần áo trước khi là để tận dụng sức nóng liên tục của bàn là"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Là quần áo khi còn đang ướt"
+        },
+        {
+            "id": 16,
+            "question": "Để sử dụng máy in tiết kiệm điện, cần lưu ý những gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bật cài đặt chế độ ngủ cho máy. Chỉ sử dụng máy khi cần thiết"
+                },
+                {
+                    "id": "B",
+                    "content": "Nên chọn chế độ in sao 2 mặt để tiết kiệm 50% nguồn nguyên liệu nếu tài liệu không yêu cầu về mặt hình thức quá cao"
+                },
+                {
+                    "id": "C",
+                    "content": "Nên tắt nguồn điện nếu không sử dụng máy nhiều ngày"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 đáp án trên đều đúng"
+        },
+        {
+            "id": 17,
+            "question": "Ngoài việc nên lựa chọn điều hoà có công suất phù hợp với diện tích phòng, cần ưu tiên những tiêu chí gì khi chọn mua điều hoà để tiết kiệm điện năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn điều hòa dùng gas R32 - loại gas đơn chất và có hiệu suất lạnh cao giúp tiết kiệm năng lượng cho máy điều hoà và thân thiện hơn với môi trường"
+                },
+                {
+                    "id": "B",
+                    "content": "Lựa chọn điều hoà không khí có nhiều sao, tốt nhất là 5 sao năng lượng để tiết kiệm điện."
+                },
+                {
+                    "id": "C",
+                    "content": "Nên chọn mua điều hoà không khí sử dụng các công nghệ tiết kiệm điện như: công nghệ Inverter, mắt thần thông minh, công nghệ ECO."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 đáp án trên đều đúng"
+        },
+        {
+            "id": 18,
+            "question": "Hãy chỉ ra công suất điều hoà phù hợp cho diện tích phòng từ 25 - 35 mét vuông?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "9.000 BTU (~1 HP)"
+                },
+                {
+                    "id": "B",
+                    "content": "18.000 BTU (~2 HP)"
+                },
+                {
+                    "id": "C",
+                    "content": "12.000 BTU (~1.5 HP)"
+                },
+                {
+                    "id": "D",
+                    "content": "24.000 U (~2.5 HP)"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. 18.000 BTU (~2 HP)"
+        },
+        {
+            "id": 19,
+            "question": "Từ 01/7/2023, loại phương tiện nào không bắt buộc phải dán nhãn năng lượng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xe con 9 chỗ"
+                },
+                {
+                    "id": "B",
+                    "content": "Xe mô tô hybrid điện, xe gắn máy thuần điện"
+                },
+                {
+                    "id": "C",
+                    "content": "Xe mô tô 3 bánh"
+                },
+                {
+                    "id": "D",
+                    "content": "Xe xích lô"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Xe xích lô"
+        },
+        {
+            "id": 20,
+            "question": "Công suất phù hợp cho lò nướng có dung tích dưới 2.5 lít là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2000 (W)"
+                },
+                {
+                    "id": "B",
+                    "content": "1300-1400 (W)"
+                },
+                {
+                    "id": "C",
+                    "content": "1500-1800 (W)"
+                },
+                {
+                    "id": "D",
+                    "content": "Trên 2000 (W)"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. 1300-1400 (W)"
+        },
+        {
+            "id": 21,
+            "question": "Để sử dụng bếp từ an toàn, tiết kiệm và hiệu quả cần lưu ý những gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không nên để bếp gần các nơi nóng, có hơi nước; nhiệt độ môi trường đặt bếp từ nên trong khoảng 10 độ C đến 40 độ C"
+                },
+                {
+                    "id": "B",
+                    "content": "Sử dụng dây dẫn điện phải phù hợp với công suất bếp từ, phải dùng các phích cắm và ổ cắm riêng. Với các bếp từ công suất lớn, cần có dây nối đất cho bếp từ"
+                },
+                {
+                    "id": "C",
+                    "content": "Khi dùng bếp điện từ phải đặt nồi trong phạm vi quy định rồi mới bật công tắc điện và điều chỉnh nhiệt áp công suất đến mức tương ứng."
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án trên"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Tất cả các đáp án trên"
+        },
+        {
+            "id": 22,
+            "question": "Trên thị trường hiện nay có nhiều loại tivi với các công nghệ khác nhau. Người tiêu dùng nên lựa chọn tivi có công nghệ nào để tiết kiệm điện năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Công nghệ Plasma"
+                },
+                {
+                    "id": "B",
+                    "content": "Công nghệ LCD"
+                },
+                {
+                    "id": "C",
+                    "content": "Công nghệ LED"
+                },
+                {
+                    "id": "D",
+                    "content": "Công nghệ OLED"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Công nghệ LED"
+        },
+        {
+            "id": 23,
+            "question": "Theo Quyết định số 1480/QĐ-TTg ban hành Danh sách cơ sở sử dụng năng lượng trọng điểm năm 2021, tổng số cơ sở sử dụng năng lượng trọng điểm năm 2021 trên toàn quốc là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "3.066"
+                },
+                {
+                    "id": "B",
+                    "content": "3.067"
+                },
+                {
+                    "id": "C",
+                    "content": "3.068"
+                },
+                {
+                    "id": "D",
+                    "content": "3.069"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. 3.068"
+        },
+        {
+            "id": 24,
+            "question": "Trong các gia đình có sử dụng máy hút bụi, trung bình mỗi tháng máy hút bụi tiêu tốn khoảng 5,5% điện năng tiêu thụ. Vậy, làm cách nào để tiết kiệm điện năng cho thiết bị này?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tận dụng máy hút bụi để hút các rác thải nặng, có kích thước lớn như đá, sỏi, kể cả chất lỏng hay bùn."
+                },
+                {
+                    "id": "B",
+                    "content": "Kiểm tra túi lọc và các vị trí khớp nối giữa các đoạn ống hút, đầu hút để đảm bảo chúng được lắp khít và không có các mảnh rác lớn cản trở luồng khí."
+                },
+                {
+                    "id": "C",
+                    "content": "Đối với loại bụi/rác nào cũng bật chế độ hút lớn để rút ngắn thời gian hoạt động."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên đều đúng."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Kiểm tra túi lọc và các vị trí khớp nối giữa các đoạn ống hút, đầu hút để đảm bảo chúng được lắp khít và không có các mảnh rác lớn cản trở luồng khí."
+        },
+        {
+            "id": 25,
+            "question": "Chỉ thị số 20/CT-TTg ngày 08/6/2023 về việc tăng cường tiết kiệm điện giai đoạn 2023–2025 và các năm tiếp theo, Thủ tướng Chính phủ yêu cầu những gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phấn đấu hàng năm tiết kiệm tối thiểu 2,0% tổng điện năng tiêu thụ"
+                },
+                {
+                    "id": "B",
+                    "content": "Hạn chế số ca nhiễm mới Covid-19"
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm tổn thất điện năng trên toàn hệ thống điện xuống dưới 6% vào năm 2025"
+                },
+                {
+                    "id": "D",
+                    "content": "Đưa phát thải khí nhà kính về 0"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Phấn đấu hàng năm tiết kiệm tối thiểu 2,0% tổng điện năng tiêu thụ"
+        },
+        {
+            "id": 26,
+            "question": "Trong gia đình, những thiết bị nào sau đây tiêu thụ nhiều điện năng nhất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Điều hòa không khí, tủ lạnh, máy giặt, tivi"
+                },
+                {
+                    "id": "B",
+                    "content": "Ấm đun nước, máy sấy tóc, tủ lạnh, đèn học"
+                },
+                {
+                    "id": "C",
+                    "content": "Máy giặt, máy sấy tóc, đèn ngủ, bàn là"
+                },
+                {
+                    "id": "D",
+                    "content": "Ấm đun nước, tivi, máy sấy tóc, máy hút bụi"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Điều hòa không khí, tủ lạnh, máy giặt, tivi"
+        },
+        {
+            "id": 27,
+            "question": "Quyết định số 14/2023/QĐ-TTg ngày 24 tháng 5 năm 2023 của Thủ tướng Chính phủ quy định những nhóm thiết bị hiệu suất thấp nào cần phải loại bỏ?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nhóm thiết bị gia dụng"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhóm thiết bị văn phòng và thương mại"
+                },
+                {
+                    "id": "C",
+                    "content": "Nhóm thiết bị công nghiệp"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án trên đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Tất cả các đáp án trên đều đúng"
+        },
+        {
+            "id": 28,
+            "question": "Nên nấu cơm bằng nồi cơm điện trước khi ăn bao lâu để tiết kiệm điện năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Nên nấu trước khoảng 30–45 phút"
+                },
+                {
+                    "id": "B",
+                    "content": "Nấu trước bao lâu cũng được vì cơm đã chín không tiêu thụ điện năng"
+                },
+                {
+                    "id": "C",
+                    "content": "Nấu trước khoảng 2 tiếng để đảm bảo độ chín của cơm"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên đều sai"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Nên nấu trước khoảng 30–45 phút"
+        },
+        {
+            "id": 29,
+            "question": "VNEEP 3 là viết tắt của Chương trình quốc gia về sử dụng năng lượng tiết kiệm và hiệu quả giai đoạn nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2019–2025"
+                },
+                {
+                    "id": "B",
+                    "content": "2019–2030"
+                },
+                {
+                    "id": "C",
+                    "content": "2019–2035"
+                },
+                {
+                    "id": "D",
+                    "content": "2019–2040"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. 2019–2030"
+        },
+        {
+            "id": 30,
+            "question": "Trong những ngành dưới đây, ngành nào tiêu thụ năng lượng nhiều nhất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Công nghiệp, xây dựng"
+                },
+                {
+                    "id": "B",
+                    "content": "Nông, lâm, ngư nghiệp"
+                },
+                {
+                    "id": "C",
+                    "content": "Thương mại, dịch vụ"
+                },
+                {
+                    "id": "D",
+                    "content": "Quản lý tiêu dùng"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Công nghiệp, xây dựng"
+        },
+        {
+            "id": 31,
+            "question": "Màn hình là một trong những bộ phận gây hao tốn điện năng nhất của máy tính, nếu cần lựa chọn màn hình có kích thước phù hợp với nhu cầu sử dụng để tiết kiệm điện. Đối với nhu cầu đồ hoạ, nên lựa chọn màn hình có kích thước bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "24-27 inch"
+                },
+                {
+                    "id": "B",
+                    "content": "20-30 inch"
+                },
+                {
+                    "id": "C",
+                    "content": "22-27 inch"
+                },
+                {
+                    "id": "D",
+                    "content": "19-21 inch"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. 22-27 inch"
+        },
+        {
+            "id": 32,
+            "question": "Ngay sau khi Quyết định 51/2011/QĐ-TTg quy định danh mục phương tiện, thiết bị phải dán nhãn năng lượng, áp dụng mức tiêu suất năng lượng tối thiểu và lộ trình thực hiện được ban hành, loại bóng đèn nào đã bị loại ra khỏi thị trường chiếu sáng dân dụng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đèn huỳnh quang (đèn tuýp, đèn ống)"
+                },
+                {
+                    "id": "B",
+                    "content": "Đèn LED"
+                },
+                {
+                    "id": "C",
+                    "content": "Đèn compact"
+                },
+                {
+                    "id": "D",
+                    "content": "Đèn sợi đốt"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Đèn sợi đốt"
+        },
+        {
+            "id": 33,
+            "question": "Đâu là cách sử dụng ấm siêu tốc an toàn, tiết kiệm điện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Đun nước liên tục để tận dụng nhiệt độ của mâm nhiệt"
+                },
+                {
+                    "id": "B",
+                    "content": "Trước khi đun không cần vệ sinh ấm sạch sẽ"
+                },
+                {
+                    "id": "C",
+                    "content": "Đun nước trước lượng gió quạt"
+                },
+                {
+                    "id": "D",
+                    "content": "Khi đun nên đậy nắp thật kín và chỉ nên đun lượng nước đủ dùng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Khi đun nên đậy nắp thật kín và chỉ nên đun lượng nước đủ dùng"
+        },
+        {
+            "id": 34,
+            "question": "Những thiết bị gia dụng nào không được phép nhập khẩu, sản xuất và kinh doanh từ ngày 01/4/2025 theo Quyết định số 14/2023/QĐ-TTg ban hành Danh mục, lộ trình phương tiện, thiết bị sử dụng năng lượng hiệu suất thấp phải loại bỏ và các tổ máy phát điều hiệu suất thấp không được xây dựng mới?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bếp hồng ngoại TCVN 13373:2021"
+                },
+                {
+                    "id": "B",
+                    "content": "Bếp từ TCVN 13372:2021"
+                },
+                {
+                    "id": "C",
+                    "content": "Tủ mát TCVN 7828:2016"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 đáp án trên đều đúng"
+        },
+        {
+            "id": 35,
+            "question": "Trong một giờ tắt đèn hưởng ứng Chiến dịch Giờ Trái đất năm 2023, sản lượng điện tiết kiệm của cả nước là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "298.000 kWh điện"
+                },
+                {
+                    "id": "B",
+                    "content": "982.000 kWh điện"
+                },
+                {
+                    "id": "C",
+                    "content": "829.000 kWh điện"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên đều sai"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. 298.000 kWh điện"
+        },
+        {
+            "id": 36,
+            "question": "Đâu là giải pháp tiết kiệm năng lượng cho ngành sản xuất xi măng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xử lý hệ thống nhiệt dư"
+                },
+                {
+                    "id": "B",
+                    "content": "Tối ưu hóa vận hành thiết bị"
+                },
+                {
+                    "id": "C",
+                    "content": "Giảm sản lượng xi măng sản xuất hàng năm"
+                },
+                {
+                    "id": "D",
+                    "content": "Tăng nhiệt độ lò nung cao hơn mức quy định để rút ngắn thời gian nung"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Xử lý hệ thống nhiệt dư"
+        },
+        {
+            "id": 37,
+            "question": "Các mục tiêu tiết kiệm điện giai đoạn 2023 - 2025 của Tập đoàn Điện lực Việt Nam?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giảm tổn thất điện năng trên toàn hệ thống điện xuống dưới 6% giai đoạn đến năm 2025"
+                },
+                {
+                    "id": "B",
+                    "content": "Giảm công suất phụ tải đỉnh của hệ thống điện quốc gia thông qua thực hiện các chương trình quản lý nhu cầu điện (DSM) và điều chỉnh phụ tải điện (DR), ít nhất 1.500 MW vào năm 2025"
+                },
+                {
+                    "id": "C",
+                    "content": "Đến năm 2030 có 50% các tòa nhà công sở và 50% nhà dân sử dụng điện mặt trời mái nhà tự sản, tự tiêu"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các đáp án trên đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Tất cả các đáp án trên đều đúng"
+        },
+        {
+            "id": 38,
+            "question": "Trong các loại năng lượng dưới đây, loại nào không phải là năng lượng tái tạo?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Điện mặt trời"
+                },
+                {
+                    "id": "B",
+                    "content": "Nhiệt điện than"
+                },
+                {
+                    "id": "C",
+                    "content": "Thủy điện"
+                },
+                {
+                    "id": "D",
+                    "content": "Phong điện"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Nhiệt điện than"
+        },
+        {
+            "id": 39,
+            "question": "Đối với gia đình có 5–6 thành viên thì nên chọn lò vi sóng có công suất bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "600–750 W"
+                },
+                {
+                    "id": "B",
+                    "content": "700–900 W"
+                },
+                {
+                    "id": "C",
+                    "content": "800–1000 W"
+                },
+                {
+                    "id": "D",
+                    "content": "850–1100 W"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 850–1100 W"
+        },
+        {
+            "id": 40,
+            "question": "Từ ngày 01/7/2023, loại phương tiện nào không bắt buộc phải dán nhãn năng lượng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Xe con 9 chỗ"
+                },
+                {
+                    "id": "B",
+                    "content": "Xe mô tô ba bánh"
+                },
+                {
+                    "id": "C",
+                    "content": "Xe đạp"
+                },
+                {
+                    "id": "D",
+                    "content": "Xe buýt"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Xe đạp"
+        },
+        {
+            "id": 41,
+            "question": "Hiện nay, trên thị trường có nhiều loại quạt điện khác nhau, gồm: quạt hộp, quạt bàn, quạt đứng, quạt trần, quạt điều hòa, quạt phun sương. Trong các loại quạt trên, loại quạt nào phù hợp với không gian sử dụng có diện tích từ 10–12 mét vuông?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quạt treo tường"
+                },
+                {
+                    "id": "B",
+                    "content": "Quạt bàn, quạt treo tường"
+                },
+                {
+                    "id": "C",
+                    "content": "Quạt trần, quạt phun sương, quạt hơi nước"
+                },
+                {
+                    "id": "D",
+                    "content": "B hoặc C đều đúng"
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Quạt bàn, quạt treo tường"
+        },
+        {
+            "id": 42,
+            "question": "Hãy chỉ ra cách lựa chọn máy sưởi giúp tiết kiệm năng lượng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chọn sản phẩm có công nghệ tiết kiệm điện năng như chế độ ECO, chế độ tự ngắt, chế độ hẹn giờ"
+                },
+                {
+                    "id": "B",
+                    "content": "Chọn thiết bị có thiết kế lớn hơn diện tích phòng để tăng khả năng làm ấm"
+                },
+                {
+                    "id": "C",
+                    "content": "Chọn thiết bị có chức năng điều chỉnh nhiệt độ và tốc độ quạt gió riêng biệt"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên đều đúng"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Chọn sản phẩm có công nghệ tiết kiệm điện năng như chế độ ECO, chế độ tự ngắt, chế độ hẹn giờ"
+        },
+        {
+            "id": 43,
+            "question": "Luật Sử dụng năng lượng tiết kiệm và hiệu quả được ban hành năm nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2007"
+                },
+                {
+                    "id": "B",
+                    "content": "2008"
+                },
+                {
+                    "id": "C",
+                    "content": "2009"
+                },
+                {
+                    "id": "D",
+                    "content": "2010"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 2010"
+        },
+        {
+            "id": 44,
+            "question": "Đâu là cách sử dụng máy sấy tóc giúp tiết kiệm điện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lau tóc khô tối đa trước khi sử dụng máy sấy"
+                },
+                {
+                    "id": "B",
+                    "content": "Không để máy sấy tóc hoạt động quá lâu"
+                },
+                {
+                    "id": "C",
+                    "content": "Trong khi sấy tóc, cứ sau 10 giây nên chuyển đổi giữa chế độ sấy nóng sang chế độ chỉ thổi gió. Khi tóc gần khô nên chuyển hẳn sang chế độ chỉ quạt"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên đều đúng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 đáp án trên đều đúng"
+        },
+        {
+            "id": 45,
+            "question": "Hoạt động nào dưới đây sử dụng năng lượng hiệu quả?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Để máy tính ở chế độ chờ khi không sử dụng"
+                },
+                {
+                    "id": "B",
+                    "content": "Để thức ăn còn nóng vào tủ lạnh"
+                },
+                {
+                    "id": "C",
+                    "content": "Sử dụng bóng đèn dây tóc thay cho đèn LED"
+                },
+                {
+                    "id": "D",
+                    "content": "Sử dụng máy giặt khi đủ lượng quần áo để giặt"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Sử dụng máy giặt khi đủ lượng quần áo để giặt"
+        },
+        {
+            "id": 46,
+            "question": "Lựa chọn các biện pháp phù hợp để tiết kiệm năng lượng cho gia đình và xã hội:\nPhơi quần áo dưới ánh nắng tự nhiên\nThay các bóng đèn dây tóc bằng đèn tiết kiệm điện\nSử dụng các vật dụng (chai, lọ, giấy cũ,...) để tạo thành đồ tái chế phục vụ cho cuộc sống\nTưới cây khi trời vừa mưa xong\nSử dụng hệ thống cảm biến tự động để tắt/mở đèn khi có người\nSử dụng hết các thiết bị điện trong giờ cao điểm",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "(1), (2), (3)"
+                },
+                {
+                    "id": "B",
+                    "content": "(1), (2), (3),(4)"
+                },
+                {
+                    "id": "C",
+                    "content": "(1), (2), (3), (5)"
+                },
+                {
+                    "id": "D",
+                    "content": "(4), (6)"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. (1), (2), (3), (5)"
+        },
+        {
+            "id": 47,
+            "question": "Biện pháp nào dưới đây giúp tiết kiệm năng lượng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tận dụng ánh sáng tự nhiên thay vì thắp sáng đèn vào ban ngày"
+                },
+                {
+                    "id": "B",
+                    "content": "Tắt các thiết bị điện khi không sử dụng"
+                },
+                {
+                    "id": "C",
+                    "content": "Sử dụng máy điều hòa đúng cách"
+                },
+                {
+                    "id": "D",
+                    "content": "Tất cả các biện pháp trên"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Tất cả các biện pháp trên"
+        },
+        {
+            "id": 48,
+            "question": "Trong các cách sử dụng năng lượng dưới đây, đâu là cách tiết kiệm năng lượng phù hợp nhất?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sử dụng quạt điện suốt ngày kể cả khi không có người"
+                },
+                {
+                    "id": "B",
+                    "content": "Xả vòi nước chảy liên tục trong lúc đánh răng"
+                },
+                {
+                    "id": "C",
+                    "content": "Để máy tính hoạt động liên tục ngay cả trong lúc nghỉ trưa"
+                },
+                {
+                    "id": "D",
+                    "content": "Sử dụng các dụng cụ điện khi cần thiết, tắt chúng khi không sử dụng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Sử dụng các dụng cụ điện khi cần thiết, tắt chúng khi không sử dụng"
+        },
+        {
+            "id": 49,
+            "question": "Trong các hành động sau đây, hành động nào lãng phí năng lượng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tivi không dùng nhưng vẫn bật"
+                },
+                {
+                    "id": "B",
+                    "content": "Trời sáng nhưng vẫn bật đèn"
+                },
+                {
+                    "id": "C",
+                    "content": "Hai bếp đun đã sôi nhưng không tắt bếp"
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 phương án trên"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 phương án trên"
+        },
+        {
+            "id": 50,
+            "question": "Các hành động sau đây, hành động nào tiết kiệm năng lượng?\nTận dụng ánh sáng tự nhiên thay vì dùng đèn vào ban ngày\nRút phích cắm hoặc tắt thiết bị điện khi không sử dụng\nĐóng, mở tủ lạnh hoặc máy điều hòa đúng cách\nBật tivi xem cả ngày\nTắt vòi nước trong khi đánh răng",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "(1), (2)"
+                },
+                {
+                    "id": "B",
+                    "content": "(3)"
+                },
+                {
+                    "id": "C",
+                    "content": "(4)"
+                },
+                {
+                    "id": "D",
+                    "content": "(5)"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. (1), (2)"
+        }
+    ]
+}

@@ -31,6 +31,13 @@ let simResultEmoji, simResultScore, simResultCorrect, simResultIncorrect, simRes
 let simReviewBtn, simRetryBtn;
 
 async function initSimulation() {
+    teardownSimulation();
+    simQuestions = [];
+    simIndex = 0;
+    simAnswers = {};
+    simTimeRemaining = 0;
+    simStartTime = null;
+
     // Ensure subject config is loaded first
     await loadSubjectsList();
     await loadCurrentSubjectConfig();
@@ -51,19 +58,15 @@ function initSimulationElements() {
     simTotalPercent = document.getElementById('sim-total-percent');
     distWarning = document.getElementById('dist-warning');
     chapDistContainer = document.getElementById('chapter-distribution-container');
-
-    // New: Time display value
-    const timeDisplay = document.getElementById('time-display-val');
-
-    // Render dynamic config
-    renderSimulationConfig();
-
     simTimeLimit = document.getElementById('sim-time-limit');
     simShuffleQuestions = document.getElementById('sim-shuffle-questions');
     simShuffleAnswers = document.getElementById('sim-shuffle-answers');
     simShowAnswerImmediately = document.getElementById('sim-show-answer-immediately');
     simShowAIExplanation = document.getElementById('sim-show-ai-explanation');
     startSimulationBtn = document.getElementById('start-simulation-btn');
+
+    // Render dynamic config
+    renderSimulationConfig();
 
     simTimerEl = document.getElementById('sim-timer');
     simTimerValue = document.getElementById('sim-timer-value');
@@ -94,11 +97,14 @@ function renderSimulationConfig() {
     if (!chapDistContainer || !currentSubjectData || !currentSubjectData.simulationConfig) return;
 
     const config = currentSubjectData.simulationConfig;
+    const timeLimit = config.timeLimit ?? config.timeMinutes ?? 60;
     const isRegexMode = config.distributionType === 'regex';
 
     // Set default total questions
     if (simTotalQuestionsInput) simTotalQuestionsInput.value = config.totalQuestions;
-    if (simTimeLimit) simTimeLimit.value = config.timeLimit;
+    if (simTimeLimit) simTimeLimit.value = timeLimit;
+    const timeDisplay = document.getElementById('time-display-val');
+    if (timeDisplay) timeDisplay.textContent = timeLimit;
     if (simShuffleQuestions) simShuffleQuestions.checked = config.shuffleQuestions;
     if (simShuffleAnswers) simShuffleAnswers.checked = config.shuffleAnswers;
     if (simShowAnswerImmediately) simShowAnswerImmediately.checked = config.showAnswerImmediately;
@@ -235,6 +241,7 @@ function startSimulation() {
         shuffleAnswers: simShuffleAnswers?.checked ?? true,
         showAnswerImmediately: simShowAnswerImmediately?.checked ?? false,
         showAIExplanation: simShowAIExplanation?.checked ?? true,
+        distributionType: currentSubjectData.simulationConfig.distributionType,
         distribution: distribution
     };
 
@@ -434,7 +441,7 @@ function renderSimQuestion() {
 
     // Show explanation if feedback enabled
     if (simExplanation) {
-        if (showFeedback && userAnswer !== correctAnswer && q.explanation && simConfig.showAIExplanation) {
+        if (showFeedback && q.explanation && simConfig.showAIExplanation) {
             simExplanation.innerHTML = `
                 <div class="explanation-box">
                     <div class="explanation-header">
@@ -451,6 +458,10 @@ function renderSimQuestion() {
 
     if (simPrevBtn) simPrevBtn.disabled = simIndex === 0;
     if (simNextBtn) simNextBtn.disabled = simIndex === simQuestions.length - 1;
+
+    if (window.MathJax && window.MathJax.typesetPromise) {
+        window.MathJax.typesetPromise();
+    }
 }
 
 function selectSimAnswer(letter) {
@@ -594,3 +605,10 @@ function resetSimulation() {
 
 // Initialize on load
 document.addEventListener('DOMContentLoaded', initSimulation);
+
+function teardownSimulation() {
+    if (simTimer) {
+        clearInterval(simTimer);
+        simTimer = null;
+    }
+}

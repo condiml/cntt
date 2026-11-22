@@ -1,0 +1,1207 @@
+{
+    "title": "PHẦN 4: CÂU 151 - CÂU 200",
+    "chapter": 4,
+    "total_questions": 50,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Hệ số khối không khí (AM-air mass) là gì:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là tỉ số giữa khối lượng không khí trên t ng bình lưu khí quyển với khối lượng không khí trên bể mặt trái đất"
+                },
+                {
+                    "id": "B",
+                    "content": "Là tì số giữa khối lượng không khí trên bẩu khí quyển với khối lượng không khí trên bể mặt trái đất"
+                },
+                {
+                    "id": "C",
+                    "content": "Là hệ số cố định không phụ thuộc vị trí của mặt trời với trái đất"
+                },
+                {
+                    "id": "D",
+                    "content": "Là ti số giữa khối lượng khí quyển theo phương tia bức xạ truyển qua với khối lượng khí quyển theo phương thẳng đứng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Là ti số giữa khối lượng khí quyển theo phương tia bức xạ truyển qua với khối lượng khí quyển theo phương thẳng đứng"
+        },
+        {
+            "id": 2,
+            "question": "Khái niệm góc giờ mặt trời:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là góc chuyển động của vị trí mặt trời về phía đông hoặc phía tây của kinh tuyến địa phương do quá trình quay của trái đất quanh trục của nó và được lấy giá trị 10° cho 1h đồng hồ"
+                },
+                {
+                    "id": "B",
+                    "content": "Là góc chuyển động của vị trí mặt trời về phía đông hoặc phía tây của kinh tuyến địa phương do quá trình quay của trái đất quanh trục của nó và được lấy giá trị 5° cho 1h đồng hồ"
+                },
+                {
+                    "id": "C",
+                    "content": "Là góc chuyển động của vị trí mặt trời về phía đông hoặc phía tây của kinh tuyến địa phương do quá trình quay của trái đất quanh trục của nó và được lấy giá trị -5° cho 1h đồng hỗ"
+                },
+                {
+                    "id": "D",
+                    "content": "Là góc chuyển động của vị trí mặt trời về phía đông hoặc phía tây của kinh tuyến địa phương do quá trình quay của trái đất quanh trục của nó và được lấy giá trị 15° cho 1h đồng hồ"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Là góc chuyển động của vị trí mặt trời về phía đông hoặc phía tây của kinh tuyến địa phương do quá trình quay của trái đất quanh trục của nó và được lấy giá trị 15° cho 1h đồng hồ"
+        },
+        {
+            "id": 3,
+            "question": "Góc phương vị của bể mặt (azimuth angle) được hiểu là hình chiếu pháp tuyến bể mặt trên mặt phẳng nằm ngang so với đường kinh tuyến, có giá trị trong khoảng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "-90° đến 90°"
+                },
+                {
+                    "id": "B",
+                    "content": "-270° đến 270°"
+                },
+                {
+                    "id": "C",
+                    "content": "0° đến 180°"
+                },
+                {
+                    "id": "D",
+                    "content": "-180° đến 180°"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. -180° đến 180°"
+        },
+        {
+            "id": 4,
+            "question": "Các tấm pin mặt trời xoay hướng chính Nam sẽ nhận được bức xạ lớn nhất khi góc phương vị của bể mặt (azimuth angle) bằng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "90°"
+                },
+                {
+                    "id": "B",
+                    "content": "270°"
+                },
+                {
+                    "id": "C",
+                    "content": "0°"
+                },
+                {
+                    "id": "D",
+                    "content": "180°"
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. 90°"
+        },
+        {
+            "id": 5,
+            "question": "Tiểm năng phát điện kỹ thuật năng lượng mặt trời ở Việt Nam theo nghiên cứu mới nhất 2018 của Viện Năng lượng (IE):",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2677,5 GW"
+                },
+                {
+                    "id": "B",
+                    "content": "166 GW"
+                },
+                {
+                    "id": "C",
+                    "content": "385,8 GW"
+                },
+                {
+                    "id": "D",
+                    "content": "1677,5 GW"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 1677,5 GW"
+        },
+        {
+            "id": 6,
+            "question": "Bức xạ mặt trời lý thuyết ở Việt Nam theo nghiên cứu mới nhất 2018 của Viện Năng lượng (IE):",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Địa phương nhỏ nhất: 3,46 kWh/m2/ngày; địa phương lớn nhất: 6,77 kWh/m2/ngày"
+                },
+                {
+                    "id": "B",
+                    "content": "Địa phương nhỏ nhất: 1,46 kWh/m2/ngày; địa phương lớn nhất: 5,77 kWh/m2/ngày"
+                },
+                {
+                    "id": "C",
+                    "content": "Địa phương nhỏ nhất: 3,46 kWh/m2/ngày; địa phương lớn nhất: 4,77 kWh/m2/ngày"
+                },
+                {
+                    "id": "D",
+                    "content": "Địa phương nhỏ nhất: 2,46 kWh/m2/ngày; địa phương lớn nhất: 5,77 kWh/m2/ngày"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Địa phương nhỏ nhất: 2,46 kWh/m2/ngày; địa phương lớn nhất: 5,77 kWh/m2/ngày"
+        },
+        {
+            "id": 7,
+            "question": "Tiểm năng phát điện kinh tế (kịch bản thấp) năng lượng mặt trời ở Việt Nam theo nghiên cứu mới nhất 2018 của Viện Năng lượng (IE):",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2677,5 GW"
+                },
+                {
+                    "id": "B",
+                    "content": "1667 GW"
+                },
+                {
+                    "id": "C",
+                    "content": "385,8 GW"
+                },
+                {
+                    "id": "D",
+                    "content": "166 GW"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 166 GW"
+        },
+        {
+            "id": 8,
+            "question": "Tiềm năng phát điện kinh tế (kịch bản cao) năng lượng mặt trời ở Việt Nam theo nghiên cứu mới nhất 2018 của Viện Năng lượng (IE):",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "2677,5 GW"
+                },
+                {
+                    "id": "B",
+                    "content": "166 GW"
+                },
+                {
+                    "id": "C",
+                    "content": "1667,8 GW"
+                },
+                {
+                    "id": "D",
+                    "content": "385,8 GW"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 385,8 GW"
+        },
+        {
+            "id": 9,
+            "question": "Tiểm năng năng lượng mặt trời ở Việt Nam theo các địa phương có thứ tự từ cao đến thấp:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ninh Thuận, Quảng Ngãi, Thái Nguyên, Sơn La"
+                },
+                {
+                    "id": "B",
+                    "content": "Ninh Thuận, Đắc Lăk, Hà Nội, Quảng Trị"
+                },
+                {
+                    "id": "C",
+                    "content": "Ninh Thuận, Quảng Trị, Quảng Ngãi, Thái Nguyên"
+                },
+                {
+                    "id": "D",
+                    "content": "Ninh Thuận, Quảng Ngãi, Quảng Trị, Thái Nguyên"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Ninh Thuận, Quảng Ngãi, Quảng Trị, Thái Nguyên"
+        },
+        {
+            "id": 10,
+            "question": "Bếp năng lượng mặt trời hoạt động theo cơ chế:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Chuyển hoá Quang năng thành cơ năng"
+                },
+                {
+                    "id": "B",
+                    "content": "Chuyển hoá Quang năng thành điện năng"
+                },
+                {
+                    "id": "C",
+                    "content": "Chuyển hoá Nhiệt năng thành điện năng"
+                },
+                {
+                    "id": "D",
+                    "content": "Chuyển hoá Quang năng thành nhiệt năng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Chuyển hoá Quang năng thành nhiệt năng"
+        },
+        {
+            "id": 11,
+            "question": "Dự án điện mặt trời trên mái nhà hoặc áp mái (rooftop) được hiểu là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dự án điện mặt trời được lắp đặt trên mái hoặc gắn với công trình xây dựng không đấu nối vào lưới điện."
+                },
+                {
+                    "id": "B",
+                    "content": "Dự án điện mặt trời được lắp đặt trên mái hoặc gắn với công trình xây dựng đấu nối gián tiếp qua ắc quy vào lưới điện."
+                },
+                {
+                    "id": "C",
+                    "content": "Dự án điện mặt trời được lắp đặt chi trên mái nhà ở đấu nối trực tiếp vào lưới điện của Bên mua điện."
+                },
+                {
+                    "id": "D",
+                    "content": "Dự án điện mặt trời được lắp đặt trên mái hoặc gắn với công trình xây dựng đấu nối trực tiếp vào lưới điện của Bên mua điện."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Dự án điện mặt trời được lắp đặt trên mái hoặc gắn với công trình xây dựng đấu nối trực tiếp vào lưới điện của Bên mua điện."
+        },
+        {
+            "id": 12,
+            "question": "Dự án điện mặt trời được hiểu là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Dự án sản xuất điện từ các bộ thu nhiệt chuyển đổi điện theo nguyên lý biến nhiệt năng thành điện năng."
+                },
+                {
+                    "id": "B",
+                    "content": "Dự án sản xuất điện từ các bình nước nóng năng lượng mặt trời."
+                },
+                {
+                    "id": "C",
+                    "content": "Dự án sản xuất điện từ bức xạ trực xạ của mặt trời chiếu lên bể mặt tấm pin quang điện."
+                },
+                {
+                    "id": "D",
+                    "content": "Dự án sản xuất điện từ các tấm pin năng lượng mặt trời theo nguyên lý biến đổi từ quang năng thành điện năng."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Dự án sản xuất điện từ các tấm pin năng lượng mặt trời theo nguyên lý biến đổi từ quang năng thành điện năng."
+        },
+        {
+            "id": 13,
+            "question": "Đơn vị của công suất phát của tẩm pin mặt trời là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "kWp."
+                },
+                {
+                    "id": "B",
+                    "content": "W."
+                },
+                {
+                    "id": "C",
+                    "content": "Wh."
+                },
+                {
+                    "id": "D",
+                    "content": "Wp."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Wp."
+        },
+        {
+            "id": 14,
+            "question": "Đại lượng nào trong những đại lượng sau luôn có giá trị bằng 0:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Điện áp hở mạch (Voc)."
+                },
+                {
+                    "id": "B",
+                    "content": "Điện áp ngắn mạch (Isc)."
+                },
+                {
+                    "id": "C",
+                    "content": "Dòng điện ngắn mạch (Isc)."
+                },
+                {
+                    "id": "D",
+                    "content": "Dòng điện hở mạch (loc)."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Dòng điện hở mạch (loc)."
+        },
+        {
+            "id": 15,
+            "question": "Khái niệm Năng lượng sinh khối?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Năng lượng khí sinh học và năng lượng từ bã mía"
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lượng từ bã mía, trấu, mùn cưa, rác thải hữu cơ, gỗ năng lượng"
+                },
+                {
+                    "id": "C",
+                    "content": "Năng lượng hoá thạch tái tạo được"
+                },
+                {
+                    "id": "D",
+                    "content": "Năng lượng bao gồm thực vật, chất thải động vật, hoặc bất kỳ tổ chức hữu cơ nào được dùng làm năng lượng"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Năng lượng bao gồm thực vật, chất thải động vật, hoặc bất kỳ tổ chức hữu cơ nào được dùng làm năng lượng"
+        },
+        {
+            "id": 16,
+            "question": "Khí sinh học được tạo ra bằng cách:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lên men hữu cơ có không khí từ bã mía, rác thải sinh hoạt"
+                },
+                {
+                    "id": "B",
+                    "content": "Tổng hợp khí tự nhiên qua quá trình ủ yếm khí"
+                },
+                {
+                    "id": "C",
+                    "content": "Cả 3 đáp án còn lại đều đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Ủ yếm khí chất thải động vật, thực vật"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Ủ yếm khí chất thải động vật, thực vật"
+        },
+        {
+            "id": 17,
+            "question": "Các thành phần chính của khí sinh học:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khí Hydro (H2), Ôxy (O2), mê tan (CH4) và một số khí khác"
+                },
+                {
+                    "id": "B",
+                    "content": "Các khí Hydrocacbon no có số phân nguyên tử các bon (C) nhỏ hơn 4 trong phân tử và các khí khác"
+                },
+                {
+                    "id": "C",
+                    "content": "Cả 3 đáp án còn lại đều đúng"
+                },
+                {
+                    "id": "D",
+                    "content": "Khí mê tan (CH4), các bô nic (CO2) và một số khí khác"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Khí mê tan (CH4), các bô nic (CO2) và một số khí khác"
+        },
+        {
+            "id": 18,
+            "question": "Các con đường tạo ra khí sinh học đều tạo ra:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Axit béo và grycerin Axit amin và peptit"
+                },
+                {
+                    "id": "B",
+                    "content": "Tất cả các thành phần trong 3 ý kiến còn lại"
+                },
+                {
+                    "id": "C",
+                    "content": "Axit acetic,"
+                },
+                {
+                    "id": "D",
+                    "content": "Axit formic, H2 và CO2"
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Axit acetic,"
+        },
+        {
+            "id": 19,
+            "question": "Tiểm năng phát điện bã mía của Việt Nam theo mô tà của tổng sơ đồ 7:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Khoảng 1000 MW"
+                },
+                {
+                    "id": "B",
+                    "content": "Khoảng 2000 MW"
+                },
+                {
+                    "id": "C",
+                    "content": "Khoảng 1500 MW"
+                },
+                {
+                    "id": "D",
+                    "content": "Khoảng 500 MW"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Khoảng 500 MW"
+        },
+        {
+            "id": 20,
+            "question": "Khó khăn chính khi đầu tư nhà máy phát điện từ bã mía:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Công nghệ phức tạp, chi phí đầu tư lớn"
+                },
+                {
+                    "id": "B",
+                    "content": "Không đủ bã mía trong mùa trái vụ sản xuất đường"
+                },
+                {
+                    "id": "C",
+                    "content": "Bã mía có suất sinh nhiệt thấp trong khi có thể sử dụng làm nguyên liệu cho các ngành công nghiệp khác"
+                },
+                {
+                    "id": "D",
+                    "content": "Giá mua điện từ hệ thống điện quốc gia thấp"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Giá mua điện từ hệ thống điện quốc gia thấp"
+        },
+        {
+            "id": 21,
+            "question": "Thuận lợi lớn nhất cho chủ trương phát triển năng lượng từ trấu:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Giá thành nguyên liệu rẻ, thu gom dễ dàng và thị trường đang còn mới"
+                },
+                {
+                    "id": "B",
+                    "content": "Trấu có độ ẩm nhỏ nên rất thuận tiện để chuyển đổi thành năng lượng nhiệt"
+                },
+                {
+                    "id": "C",
+                    "content": "Phát triển năng lượng từ trấu đồng nghĩa với việc phát triển ngành nông nghiệp, phát huy thế mạnh của quốc gia thuần nông nhằm giữ vững vị thế hàng đầu trong kim ngạch xuất khẩu gạo"
+                },
+                {
+                    "id": "D",
+                    "content": "Nguồn nguyên liệu dổi dào và được sự trợ giúp lớn từ chính sách của chính phủ"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Nguồn nguyên liệu dổi dào và được sự trợ giúp lớn từ chính sách của chính phủ"
+        },
+        {
+            "id": 22,
+            "question": "Trong hệ thống hẩm ủ khí sinh học kiểu KT1, bể phân giải có chức năng:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "ChỈ chứa khí phân giải từ chất thải và giữ ổn định áp suất khí sản phẩm"
+                },
+                {
+                    "id": "B",
+                    "content": "Chỉ chứa chất thải và là nơi xảy ra quá trình phân giải tạo khí sinh học"
+                },
+                {
+                    "id": "C",
+                    "content": "Chỉ chứa nước thải sau phân giải đảm bảo ổn định nhiệt độ phân giải cho toàn bộ quá trình"
+                },
+                {
+                    "id": "D",
+                    "content": "Chứa chất thải và khí sinh học sinh ra trong quá trình phân giải yếm khí"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Chứa chất thải và khí sinh học sinh ra trong quá trình phân giải yếm khí"
+        },
+        {
+            "id": 23,
+            "question": "Bã mía được sử dụng để phát điện khi:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thừa sau khi bán cho các nhà máy giấy"
+                },
+                {
+                    "id": "B",
+                    "content": "Chất lượng bã mía thấp để dùng làm phân bón"
+                },
+                {
+                    "id": "C",
+                    "content": "Độ ẩm bã mía vừa đủ để sử dụng trong các lò đốt"
+                },
+                {
+                    "id": "D",
+                    "content": "Cơ chế mua điện phù hợp với chính sách đẩu tư của nhà máy"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cơ chế mua điện phù hợp với chính sách đẩu tư của nhà máy"
+        },
+        {
+            "id": 24,
+            "question": "Đây là mô hình sản xuất năng lượng sinh khối từ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hệ thống đốt/đồng đốt gián tiếp"
+                },
+                {
+                    "id": "B",
+                    "content": "Hệ thống đốt khí hoá"
+                },
+                {
+                    "id": "C",
+                    "content": "Hệ thống đốt khí hoá hữu cơ"
+                },
+                {
+                    "id": "D",
+                    "content": "Hệ thống đốt/đồng đốt trực tiếp"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Hệ thống đốt/đồng đốt trực tiếp"
+        },
+        {
+            "id": 25,
+            "question": "Giá mua bán điện đối với dự án phát điện sử dụng chất thải rắn nối lưới đối với các dự án phát điện đốt chất thải rắn trực tiếp:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "9,35 UScents/kWh"
+                },
+                {
+                    "id": "B",
+                    "content": "5,35 UScents/kWh"
+                },
+                {
+                    "id": "C",
+                    "content": "9,5 UScents/kWh"
+                },
+                {
+                    "id": "D",
+                    "content": "10,05 UScents/kWh"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 10,05 UScents/kWh"
+        },
+        {
+            "id": 26,
+            "question": "Tiểm năng năng lượng sinh khối thương mại là gì?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Tiểm năng năng lượng sinh khối có thể khai thác vì mục đích thương mại"
+                },
+                {
+                    "id": "B",
+                    "content": "Tiểm năng năng lượng sinh khối có thể được khai thác và sử dụng"
+                },
+                {
+                    "id": "C",
+                    "content": "Tiểm năng năng lượng sinh khối có thể được khai thác và sử dụng chung một cách bển vững theo các quy tắc vật lý của sinh khối và chưa tính đến các hạn chế trong cách tiếp cận và thu gom."
+                },
+                {
+                    "id": "D",
+                    "content": "Tiểm năng năng lượng sinh khối kỹ thuật có thể khai thác vì mục đích thương mại"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Tiểm năng năng lượng sinh khối kỹ thuật có thể khai thác vì mục đích thương mại"
+        },
+        {
+            "id": 27,
+            "question": "Đây là mô hình sản xuất năng lượng sinh khối từ:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hệ thống đốt/đồng đốt gián tiếp"
+                },
+                {
+                    "id": "B",
+                    "content": "Hệ thống đốt khí hoá vô cơ"
+                },
+                {
+                    "id": "C",
+                    "content": "Hệ thống đốt khí hoá hữu cơ"
+                },
+                {
+                    "id": "D",
+                    "content": "Hệ thống đốt khí hóa (BIGCC)"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Hệ thống đốt khí hóa (BIGCC)"
+        },
+        {
+            "id": 28,
+            "question": "Trong quá trình lên men sån sinh khí sinh học thì độ pH thích hợp cho quá trình sản xuất CH4 là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "5,6-6,5"
+                },
+                {
+                    "id": "B",
+                    "content": "6,0-7,0"
+                },
+                {
+                    "id": "C",
+                    "content": "7,6- 8,5"
+                },
+                {
+                    "id": "D",
+                    "content": "6,8-7,5"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 6,8-7,5"
+        },
+        {
+            "id": 29,
+            "question": "Sinh khối được sử dụng tạo ra năng lượng theo những cách nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sản xuất nhiệt và hơi quá trình hơi; Sản xuất điện; Sản xuất dầu sinh học (Biodiesels)"
+                },
+                {
+                    "id": "B",
+                    "content": "Sản xuất nhiệt và hơi quá trình hơi; Sản xuất điện; Sản xuất nhiên liệu sinh học (Biofuels)"
+                },
+                {
+                    "id": "C",
+                    "content": "Sản xuất điện; Sản xuất dầu sinh học (Biodiesels)"
+                },
+                {
+                    "id": "D",
+                    "content": "Sản xuất nhiệt và hơi quá trình;Sản xuất điện; Sản xuất nhiên liệu lỏng (Liquid Fuel)"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Sản xuất nhiệt và hơi quá trình;Sản xuất điện; Sản xuất nhiên liệu lỏng (Liquid Fuel)"
+        },
+        {
+            "id": 30,
+            "question": "Rác thải rắn đô thị (Municipal solid waste-MSW) có được coi là một loại sinh khối?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Không"
+                },
+                {
+                    "id": "B",
+                    "content": "Tuỳ thuộc sự phân loại rác"
+                },
+                {
+                    "id": "C",
+                    "content": "Tuỳ thuộc loại đô thị (địa phương, trung ương)"
+                },
+                {
+                    "id": "D",
+                    "content": "Có"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Có"
+        },
+        {
+            "id": 31,
+            "question": "Khái niệm khí hoá sinh khối?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Lọc khí sinh học từ việc nung sinh khối ở nhiệt độ thấp không có ôxy (O2)"
+                },
+                {
+                    "id": "B",
+                    "content": "Lọc khí sinh học từ việc nung sinh khối ở nhiệt độ cao có ôxy (O2)"
+                },
+                {
+                    "id": "C",
+                    "content": "Lọc khí sinh học từ việc nung sinh khối ở nhiệt độ thấp có ôxy (O2)"
+                },
+                {
+                    "id": "D",
+                    "content": "Lọc khí sinh học từ việc nung sinh khối ở nhiệt độ cao không có ôxy (O2)"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Lọc khí sinh học từ việc nung sinh khối ở nhiệt độ cao không có ôxy (O2)"
+        },
+        {
+            "id": 32,
+            "question": "Khí hoá sinh khối trong buồng khí hoá độc lập theo các bước thứ tự như sau:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sấy khô (drying), ôxy hoá (oxydation), nhiệt phân (pyrolysis), giải ôxy hoá (reduction)"
+                },
+                {
+                    "id": "B",
+                    "content": "Ôxy hoá (oxydation), sấy khô (drying), nhiệt phân (pyrolysis), giài ôxy hoá (reduction)"
+                },
+                {
+                    "id": "C",
+                    "content": "Sấy khô (drying), giải ôxy hoá (reduction), nhiệt phân (pyrolysis), ôxy hoá (oxydation)"
+                },
+                {
+                    "id": "D",
+                    "content": "Sấy khô (drying), nhiệt phân (pyrolysis), ôxy hoá (oxydation), giài ôxy hoá (reduction)"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Sấy khô (drying), nhiệt phân (pyrolysis), ôxy hoá (oxydation), giài ôxy hoá (reduction)"
+        },
+        {
+            "id": 33,
+            "question": "Nguồn sinh khối nào sau đây không thuộc loại sinh khối phế phẩm?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phế phẩm công nghiệp giấy (Paper Industry Residues)"
+                },
+                {
+                    "id": "B",
+                    "content": "Phế phẩm nông nghiệp (Agricultural Residues)"
+                },
+                {
+                    "id": "C",
+                    "content": "Phụ phẩm rừng (Forest Residues)"
+                },
+                {
+                    "id": "D",
+                    "content": "Phân thải động vật (Animal wastes)"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Phân thải động vật (Animal wastes)"
+        },
+        {
+            "id": 34,
+            "question": "Cây trổng năng lượng bao bổm các loại nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Cỏ năng lượng, gỗ năng lượng, cây công nghiệp, cây nông nghiệp"
+                },
+                {
+                    "id": "B",
+                    "content": "Cỏ gà, cỏ lác, cây đước, cây cà phê, cây tiêu"
+                },
+                {
+                    "id": "C",
+                    "content": "Cỏ năng lượng, gỗ năng lượng, cây công nghiệp, cây nông nghiệp, tào đen nước mặn"
+                },
+                {
+                    "id": "D",
+                    "content": "Cỏ năng lượng, gỗ năng lượng, cây công nghiệp, cây nông nghiệp, cây thuỷ sinh"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cỏ năng lượng, gỗ năng lượng, cây công nghiệp, cây nông nghiệp, cây thuỷ sinh"
+        },
+        {
+            "id": 35,
+            "question": "Nhà máy nhiệt điện đồng đốt sử dụng nhiên liệu:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sinh khối và than củi"
+                },
+                {
+                    "id": "B",
+                    "content": "Khí tự nhiên và than củi"
+                },
+                {
+                    "id": "C",
+                    "content": "Than đá và dầu diesel"
+                },
+                {
+                    "id": "D",
+                    "content": "Than đá và sinh khối"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Than đá và sinh khối"
+        },
+        {
+            "id": 36,
+            "question": "Nhiên liệu sinh học (Biofuels) có hai loại phổ biến:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Propanol và methanol"
+                },
+                {
+                    "id": "B",
+                    "content": "Dầu sinh học và Propanol"
+                },
+                {
+                    "id": "C",
+                    "content": "Methanol và Ethanol"
+                },
+                {
+                    "id": "D",
+                    "content": "Ethanol và dầu sinh học (biodiesel)"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Ethanol và dầu sinh học (biodiesel)"
+        },
+        {
+            "id": 37,
+            "question": "Khả năng sinh khí của cùng khối lượng phân thải các loại vật nuôi theo thứ tự từ nhiểu đến ít như sau:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bò sữa, bò thịt, lợn, gà"
+                },
+                {
+                    "id": "B",
+                    "content": "Lợn, bò sữa, bò thịt, gà"
+                },
+                {
+                    "id": "C",
+                    "content": "Lợn, bò thịt, bò sữa, gà"
+                },
+                {
+                    "id": "D",
+                    "content": "Bò thịt, bò sữa, lợn, gà"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Bò thịt, bò sữa, lợn, gà"
+        },
+        {
+            "id": 38,
+            "question": "Năng lượng địa nhiệt là gi?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Là năng lượng được tách ra từ nhiệt trong tâm Trái Đất."
+                },
+                {
+                    "id": "B",
+                    "content": "Năng lượng này có nguồn gốc từ sự hình thành ban đầu của hành tinh, từ hoạt động phân hủy phóng xạ của các khoáng vật, và từ năng lượng mặt trời được hấp thụ tại bể mặt Trái Đất."
+                },
+                {
+                    "id": "C",
+                    "content": "Là nhiệt từ trong lòng đất."
+                },
+                {
+                    "id": "D",
+                    "content": "Là nhiệt từ nước nóng. Là nhiệt từ đá nóng."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. Là nhiệt từ trong lòng đất."
+        },
+        {
+            "id": 39,
+            "question": "Dự án Xây dựng Nhà máy điện địa nhiệt đầu tiên tại Việt Nam được cấp phép tại tỉnh nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Quảng Trị."
+                },
+                {
+                    "id": "B",
+                    "content": "Hòa Bình."
+                },
+                {
+                    "id": "C",
+                    "content": "Quảng Bình."
+                },
+                {
+                    "id": "D",
+                    "content": "Lâm Đồng."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Quảng Trị."
+        },
+        {
+            "id": 40,
+            "question": "Nhà máy sản xuất điện địa nhiệt hiện nay sử dụng phương pháp chính nào để sản xuất ra điện?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sử dụng hơi khô, hơi giãn áp và chu kỳ nhị phân."
+                },
+                {
+                    "id": "B",
+                    "content": "Sử dụng hơi khô và nước nóng địa nhiệt."
+                },
+                {
+                    "id": "C",
+                    "content": "Sử dụng hiệu ứng đào nhiệt đô thị."
+                },
+                {
+                    "id": "D",
+                    "content": "Sử dụng nước bơm xuống giếng địa nhiệt, tạo ra đủ áp lực phá vỡ đá, giải phóng nhiệt để sản xuất nước nóng, hơi nước làm quay tuabin của máy phát điện."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Sử dụng nước bơm xuống giếng địa nhiệt, tạo ra đủ áp lực phá vỡ đá, giải phóng nhiệt để sản xuất nước nóng, hơi nước làm quay tuabin của máy phát điện."
+        },
+        {
+            "id": 41,
+            "question": "Các ứng dụng của Năng lượng địa nhiệt?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sản xuất điện năng."
+                },
+                {
+                    "id": "B",
+                    "content": "Sử dụng trực tiếp như nhiệt lượng."
+                },
+                {
+                    "id": "C",
+                    "content": "Bơm địa nhiệt."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 đáp án trên."
+        },
+        {
+            "id": 42,
+            "question": "Có những dạng nguồn địa nhiệt nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Bồn trũng thủy địa nhiệt, năng lượng Trái đất."
+                },
+                {
+                    "id": "B",
+                    "content": "Nước muối địa áp, đá khô nóng."
+                },
+                {
+                    "id": "C",
+                    "content": "Magma."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 đáp án trên."
+        },
+        {
+            "id": 43,
+            "question": "Các bước triễn khai dự án địa nhiệt điện hiện nay?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Thăm dò và tiển khảo sát - Khoan thăm dò và thử giếng- Lập dự án khả thi- Triển khai địa điểm tiến hành xây dựng nhà máy - Ủy thác bàn giao."
+                },
+                {
+                    "id": "B",
+                    "content": "Thăm dò và tiền khảo sát - Khoan thăm dò và thử giếng- Triển khai địa điểm xây dựng nhà máy - Ủy thác bàn giao."
+                },
+                {
+                    "id": "C",
+                    "content": "Khoan thăm dò và thử giếng- Triển khai địa điểm xây dựng nhà máy - Ủy thác bàn giao."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên đều sai."
+                }
+            ],
+            "answer": "A",
+            "explain": "Đáp án đúng là A. Thăm dò và tiển khảo sát - Khoan thăm dò và thử giếng- Lập dự án khả thi- Triển khai địa điểm tiến hành xây dựng nhà máy - Ủy thác bàn giao."
+        },
+        {
+            "id": 44,
+            "question": "Ở nước ta hiện nay nguồn năng lượng địa nhiệt chủ yếu dùng với mục đích nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Phát điện, chăn nuôi, chữa bệnh."
+                },
+                {
+                    "id": "B",
+                    "content": "Phát điện, sưởi, du lịch."
+                },
+                {
+                    "id": "C",
+                    "content": "Phát điện, điều hòa nhiệt độ, cung cấp nước nóng."
+                },
+                {
+                    "id": "D",
+                    "content": "Ngâm tắm, bể bơi, du lịch, làm muối iot, chăn nuôi, chữa bệnh và đóng chai nước khoáng."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Ngâm tắm, bể bơi, du lịch, làm muối iot, chăn nuôi, chữa bệnh và đóng chai nước khoáng."
+        },
+        {
+            "id": 45,
+            "question": "Sử dụng nguồn Năng lượng địa nhiệt như thế nào để sản xuất điện năng?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Sử dụng hơi nước ở nhiệt độ cao (>2350C) và một ít nước nóng từ bể địa nhiệt. Hơi nước sẽ được dẫn vào thẳng tuabin qua ống dẫn để quay máy phát điện."
+                },
+                {
+                    "id": "B",
+                    "content": "Sử dụng nước nóng ở áp suất cao (>1820C) từ bể địa nhiệt. Nước nóng ở nhiệt độ cao này tự phụt lên bể mặt thông qua giếng do chính áp suất của chúng. Trong quá trình nước nóng được bơm vào máy phát điện, áp suất của nước giàm rất nhanh khi phụt lên gần mặt đất. Chính sự giảm áp này khiến nước nóng bốc hơi hoàn toàn và hơi nước sinh ra sẽ làm quay tuabin phát điện. Lượng nước nóng không bốc thành hơi sẽ được bơm xuống trở lại bể địa nhiệt thông qua giếng bơm xuyên."
+                },
+                {
+                    "id": "C",
+                    "content": "Sử dụng nước nóng có nhiệt độ trung bình dao động từ 107-1820C từ bể địa nhiệt, chất lỏng địa nhiệt được dẫn qua một bên của hệ thống trao đổi nhiệt để nung nóng chất lỏng thứ cấp ở ống dẫn bên cạnh. Chất lỏng thứ cấp thường là hợp chất hữu cơ có nhiệt độ sôi thấp hơn nhiệt độ sôi của nước, ví dụ như Isobutane hoặc Iso-pentane. Chất lỏng thứ cấp sau khi được đun sôi ở hệ thống trao đổi nhiệt sẽ bốc hơi và được dẫn vào tuabin."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên."
+                }
+            ],
+            "answer": "B",
+            "explain": "Đáp án đúng là B. Sử dụng nước nóng ở áp suất cao (>1820C) từ bể địa nhiệt. Nước nóng ở nhiệt độ cao này tự phụt lên bể mặt thông qua giếng do chính áp suất của chúng. Trong quá trình nước nóng được bơm vào máy phát điện, áp suất của nước giàm rất nhanh khi phụt lên gần mặt đất. Chính sự giảm áp này khiến nước nóng bốc hơi hoàn toàn và hơi nước sinh ra sẽ làm quay tuabin phát điện. Lượng nước nóng không bốc thành hơi sẽ được bơm xuống trở lại bể địa nhiệt thông qua giếng bơm xuyên."
+        },
+        {
+            "id": 46,
+            "question": "Những ứng dụng điển hình về sử dụng trực tiếp nguồn địa nhiệt hiện nay.",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hệ thống sưởi nhà cửa, nhà kính."
+                },
+                {
+                    "id": "B",
+                    "content": "Sử dụng cho các phương tiện nuôi trồng thủy sản."
+                },
+                {
+                    "id": "C",
+                    "content": "Các ứng dụng công nghiệp như: Sấy khô thực phẩm, giặt là, khai thác vàng, tiệt trùng sữa, tắm hơi."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 đáp án trên."
+        },
+        {
+            "id": 47,
+            "question": "Hẩu hết ở mọi nơi trên bể mặt Trái đất, nhiệt độ của lòng đất ở 30cm trên cùng giữ một nhiệt độ tương đối ổn định là bao nhiêu?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "100-1600C."
+                },
+                {
+                    "id": "B",
+                    "content": "10000C."
+                },
+                {
+                    "id": "C",
+                    "content": "5000C."
+                },
+                {
+                    "id": "D",
+                    "content": "50-1000C."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. 50-1000C."
+        },
+        {
+            "id": 48,
+            "question": "Một hệ thống bơm địa nhiệt bao gồm những thành phẩn cơ bàn nào?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Hệ thống nối đất."
+                },
+                {
+                    "id": "B",
+                    "content": "Bơm nhiệt."
+                },
+                {
+                    "id": "C",
+                    "content": "Các ống dẫn nhiệt."
+                },
+                {
+                    "id": "D",
+                    "content": "Cả 3 đáp án trên"
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Cả 3 đáp án trên"
+        },
+        {
+            "id": 49,
+            "question": "Các nhà máy điện địa nhiệt ảnh hưởng thế nào đến môi trường?",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "Ảnh hưởng nghiêm trọng đến môi trường do thải ra rất nhiều khí CO2."
+                },
+                {
+                    "id": "B",
+                    "content": "Lượng khí thải từ các nhà máy điện địa nhiệt tương đương với nhà máy nhiệt điện có cùng công suất."
+                },
+                {
+                    "id": "C",
+                    "content": "Tác động không nhỏ đến môi trường do thải ra rất nhiều khí NO2 và H2S."
+                },
+                {
+                    "id": "D",
+                    "content": "Các nhà máy điện địa nhiệt thỏa mãn các yêu cầu khắt khe về tác động môi trường và thải ra rất ít các khí hiệu ứng nhà kính. Các nhà máy điện địa nhiệt chỉ thải ra một phần rất nhỏ các khí CO2, NO2 và H2S, chỉ bằng 1/50 luợng khí thải từ các nhà máy nhiệt điện có cùng công suất. Các cột khói thường thấy bốc lên từ các nhà máy điện địa nhiệt thật ra chỉ là hơi nước thải."
+                }
+            ],
+            "answer": "D",
+            "explain": "Đáp án đúng là D. Các nhà máy điện địa nhiệt thỏa mãn các yêu cầu khắt khe về tác động môi trường và thải ra rất ít các khí hiệu ứng nhà kính. Các nhà máy điện địa nhiệt chỉ thải ra một phần rất nhỏ các khí CO2, NO2 và H2S, chỉ bằng 1/50 luợng khí thải từ các nhà máy nhiệt điện có cùng công suất. Các cột khói thường thấy bốc lên từ các nhà máy điện địa nhiệt thật ra chỉ là hơi nước thải."
+        },
+        {
+            "id": 50,
+            "question": "Trong các phương án phụ tài cơ sở và phụ tải cao trong khuôn khổ Kế hoạch phát triển nguồn điện giai đoạn từ nay đến 2020, tổng công suất lắp đặt địa nhiệt điện ở Việt Nam được ước tính là:",
+            "options": [
+                {
+                    "id": "A",
+                    "content": "100 MW."
+                },
+                {
+                    "id": "B",
+                    "content": "1000 MW."
+                },
+                {
+                    "id": "C",
+                    "content": "200 MW."
+                },
+                {
+                    "id": "D",
+                    "content": "50 MW."
+                }
+            ],
+            "answer": "C",
+            "explain": "Đáp án đúng là C. 200 MW."
+        }
+    ]
+}
